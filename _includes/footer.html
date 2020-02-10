@@ -1,0 +1,36 @@
+<footer class="footer">
+  <div class="footer-left col-md-4 col-sm-6">
+    <p class="about">
+      <span> Disclaimer</span> The information and opinions within this website are for information purposes only. They are not intended to constitute legal or other professional advice, and should not be relied on or treated as a substitute for specific advice relevant to particular circumstances.
+    </p>
+    <div class="icons">
+      {% if site.twitter %}<a href="https://twitter.com/{{ site.twitter }}"><i class="fa fa-twitter"></i></a>{% endif %}
+      {% if site.linkedin %}<a href="https://www.linkedin.com/in/{{ site.linkedin }}"><i class="fa fa-linkedin"></i></a>{% endif %}
+      {% if site.github %}<a href="https://github.com/{{ site.github }}"><i class="fa fa-github"></i></a>{% endif %}
+      {% if site.reddit %}<a href="https://reddit.com/{{ site.reddit }}"><i class="fa fa-reddit"></i></a>{% endif %}
+      {% if site.facebook %}<a href="https://facebook.com/{{ site.facebook }}"><i class="fa fa-facebook"></i></a>{% endif %}
+      {% if site.telegram %}<a href="https://t.me/{{ site.telegram }}"><i class="fa fa-telegram"></i></a>{% endif %}
+    </div>
+  </div>
+  <div class="footer-center col-md-4 col-sm-6">
+    <div>
+      <i class="fa fa-map-marker"></i>
+      <p><span> Agora Hub</span> The Earth</p>
+    </div>
+    <div>
+      <i class="fa fa-phone"></i>
+      <p> (0x) 5200 DF38</p>
+    </div>
+    <div>
+      <i class="fa fa-envelope"></i>
+      <p><a href="#">theagora@github.com</a></p>
+    </div>
+  </div>
+  <div class="footer-right col-md-4 col-sm-6">
+    <h2> The Republic of Agora<span> by PEN</span></h2>
+    <p class="menu">
+      <a href="/"> Home</a> ✧ <a href="/about"> About</a>
+    </p>
+    <p class="name"> The Agora Community &copy; {{ site.time | date: '%Y' }}</p>
+  </div>
+</footer>

@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+
+	<head>
+		{% include head.html %}
+	</head>
+
+	<body>
+
+		{% include header.html %}
+
+		<div class="content">
+			{{ content }}
+		</div>
+
+	</body>
+
+	{% if page.layout == 'default' %}
+		<footer>
+		  {% include footer.html %}
+		</footer>
+	{% endif %}
+	<p class="love">Made with <i class="fa fa-heart"></i> by <a href="https://github.com/agorahub">Agora</a></p>
+
+</html>
