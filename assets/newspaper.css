@@ -94,7 +94,16 @@ q {
 }
 
 
-@media only screen and (max-width: 320px) {
+@media only screen and (max-width: 414px) {
+    .heroColumn {
+        flex: 1;
+        width: 99%;
+    }
+    .sideHeroColumn {
+        flex: 1;
+        width: 99%;
+    }
+
     .masonry {
         -moz-column-count: 1;
         -webkit-column-count: 1;
@@ -102,7 +111,7 @@ q {
     }
 }
 
-@media only screen and (min-width: 321px) and (max-width: 768px){
+@media only screen and (min-width: 415px) and (max-width: 768px){
     .masonry {
         -moz-column-count: 2;
         -webkit-column-count: 2;
