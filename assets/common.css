@@ -213,6 +213,12 @@ a:hover {
 }
 
 @media (max-width: 767px) {
+  #masthead h1 {
+    font-size: 36px;
+  }
+  #masthead h3 {
+    font-size: 20px;
+  }
   .footer {
     font-size: 14px;
   }
