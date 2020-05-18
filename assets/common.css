@@ -179,7 +179,8 @@ a:hover {
 
 .footer h2 {
   color: #ffffff;
-  font-size: 36px;
+  font-family: 'UnifrakturMaguntia', cursive;
+  font-size: 28px;
   font-weight: normal;
   margin: 0;
 }
@@ -206,7 +207,7 @@ a:hover {
 }
 
 .footer .name {
-  color: #0099ff;
+  color: #ffff;
   font-size: 14px;
   font-weight: normal;
   margin: 0;
@@ -214,7 +215,7 @@ a:hover {
 
 @media (max-width: 767px) {
   #masthead h1 {
-    font-size: 36px;
+    font-size: 32px;
   }
   #masthead h3 {
     font-size: 20px;
@@ -228,7 +229,7 @@ a:hover {
     display: block;
     width: 100%;
     margin-bottom: 40px;
-    text-align: center;
+    text-align: left;
   }
   .footer .footer-center i {
     margin-left: 0;
@@ -238,8 +239,8 @@ a:hover {
 
 .love{
   margin: 0;
-	font-size: 12px;
-	padding: 1em;
+  font-size: 12px;
+  padding: 1em;
   text-align: center;
   font-family: Mansalva;
 }
