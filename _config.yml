@@ -16,10 +16,10 @@
 title: The Republic of Agora
 email: theagora@github.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Monthly Originals & Insights © MMXX ✧ Issue 0x0 
+  Monthly Originals & Insights | Issue 0x0 © MMXX 
 baseurl: "/pen0" # the subpath of your site, e.g. /blog
 url: "https://agorahub.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-#google_analytics: 'UA-131540516-1' # Substitute this with your own GA key
+google_analytics: 'UA-166928354-2' # agorahub-pen0
 twitter_username: agoradao
 github_username:  agorahub
 excerpt_separator: <!--more-->

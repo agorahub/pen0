@@ -1,9 +1,10 @@
 <article>
-  <h3><a href="{{ include.item.url | prepend: site.baseurl | prepend: site.url }}">{{ include.item.title }}</a></h3>
+  <h3><a style="text-decoration:none;" href="{{ include.item.url | prepend: site.baseurl | prepend: site.url }}">{{ include.item.title }}</a></h3>
   <img class="bw" src="{{ include.item.image }}">
   {% if item.image_caption %}
     <blockquote>{{ include.item.image_caption }}</blockquote>
   {% endif %}
-  <h6 style="margin: 0px;">{{ include.item.date | date:"%d/%m/%y"}}</h6>
+  <h5 style="margin:.5em 0 1em 0; font-weight:200; font-style:italic; text-align:right">{{ include.item.author }} | {{ include.item.date | date:"%Y.%m.%d" }}</h5>
   {{ include.item.excerpt }}
+  <h5 style="margin:1em 0; font-weight:600; font-style:italic">< <a href="{{ include.item.url | prepend: site.baseurl | prepend: site.url }}">Full Article</a> ></h5>
 </article>
