@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 
 
-	<title>✧ About · The Republic of Agora</title>
+	<title>The Republic of Agora</title>
 
 
 <meta name="description" content="Monthly Originals & Insights | Issue 0x0 © MMXX ">
@@ -35,7 +35,7 @@
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
   m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
   ga('create', 'UA-166928354-2', 'auto');
   ga('send', 'pageview');
   </script>
@@ -48,9 +48,9 @@
 		<div class="head">
   
   <div id="masthead">
-    <h3><a href="https://agorahub.github.io/pen0">The Republic of Agora</a></h3>
+    <h1>The Republic of Agora</h1>
+    <h6 style="text-align:center">Monthly Originals & Insights | Issue 0x0 © MMXX </h6>
   </div>
-
   
 </div>
 
@@ -59,24 +59,76 @@
 			<article class="post">
 
   <header class="post-header">
-    <h1 class="post-title">✧ About</h1>
+    <h1 class="post-title"></h1>
   </header>
 
   <div class="post-content">
     <ul>
-  <li>
-    <p>The PEN Team manages this publication and grants copyleft to the Agora community.</p>
-  </li>
-  <li>
-    <p>You can join the Agora community at GitHub:
-<a href="https://github.com/agorahub">agorahub</a>/<a href="https://github.com/agorahub/_join">_join</a></p>
-  </li>
-  <li>
-    <p>And collaborate at GitHub:
-<a href="https://github.com/agorahub">agorahub</a>/<a href="https://github.com/agorahub/_meta">_meta</a></p>
-  </li>
+  <li>The PEN Team manages this publication.</li>
+  <li>You can join the Agora community at 【<a href="https://github.com/agorahub/_join">agorahub/_join</a>】</li>
+  <li>Agora members can collaborate at 【<a href="https://github.com/agorahub/_meta">agorahub/_meta</a>】</li>
+  <li>PEN members are co-working at 【<a href="https://github.com/agorahub/pen0">agorahub/pen0</a>】</li>
 </ul>
 
+<div style="padding:20px">
+  <script>
+const GH_API_URL = 'https://api.github.com/repos/agorahub/pen0/issues/2/comments';
+
+let request = new XMLHttpRequest();
+request.open( 'GET', GH_API_URL, true );
+request.onload = function() {
+  if ( this.status >= 200 && this.status < 400 ) {
+    let response = JSON.parse( this.response );
+    for ( var i = 0; i < response.length; i++ ) {
+      document.getElementById( 'gh-comments-list' ).appendChild( createCommentEl( response[ i ] ) );
+    }
+    if ( 0 === response.length ) {
+      document.getElementById( 'no-comments-found' ).style.display = 'block';
+    }
+  } else {
+    console.error( this );
+  }
+};
+
+function createCommentEl( response ) {
+  let user = document.createElement( 'a' );
+  user.setAttribute( 'href', response.user.url.replace( 'api.github.com/users', 'github.com' ) );
+  user.classList.add( 'user' );
+  let userAvatar = document.createElement( 'img' );
+  userAvatar.classList.add( 'avatar' );
+  userAvatar.setAttribute( 'src', response.user.avatar_url );
+  userAvatar.setAttribute( 'style', 'width:30px;border-radius:50%' );
+  user.appendChild( userAvatar );
+  let commentLink = document.createElement( 'a' );
+  commentLink.setAttribute( 'href', response.html_url );
+  commentLink.classList.add( 'comment-url' );
+  commentLink.innerHTML = ' #' + response.id + ' • ' + response.created_at.slice(0, 10);
+  let commentContents = document.createElement( 'div' );
+  commentContents.classList.add( 'comment-content' );
+  commentContents.innerHTML = response.body + '<p>';
+  let comment = document.createElement( 'li' );
+  comment.setAttribute( 'data-created', response.created_at );
+  comment.setAttribute( 'data-author-avatar', response.user.avatar_url );
+  comment.setAttribute( 'data-user-url', response.user.url );
+  comment.appendChild( user );
+  comment.appendChild( commentLink );
+  comment.appendChild( commentContents );
+  return comment;
+}
+request.send();
+</script>
+
+<hr />
+
+<div class="github-comments">
+  <h2>Comments</h2>
+  <ul id="gh-comments-list"></ul>
+  <!--  <p id="no-comments-found">No comments found for this article.</p> -->
+  <p id="leave-a-comment"><a href="https://github.com/agorahub/pen0/issues/2"><b>Leave a comment</b></a></p>
+</div>
+
+
+</div>
 
   </div>
 
