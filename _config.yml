@@ -14,15 +14,13 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: The Republic of Agora
-email: theagora@github.com
 description: >- # this means to ignore newlines until "baseurl:"
   Monthly Originals & Insights | Issue 0x0 © MMXX 
 baseurl: "/pen0" # the subpath of your site, e.g. /blog
 url: "https://agorahub.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 google_analytics: 'UA-166928354-2' # agorahub-pen0
-twitter_username: agoradao
-github_username:  agorahub
-excerpt_separator: <!--more-->
+gh_team: orgs/agorahub/teams/pen
+gh_repo: agorahub/pen0
 
 # Build settings
 markdown: kramdown
@@ -41,8 +39,8 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+excerpt_separator: <!--more-->
 collections_dir: _collections
-
 collections:
   columns:
     output: true
@@ -51,9 +49,9 @@ collections:
 
 
 # Social media
-github:  agorahub
-reddit:  agoradao
-twitter: agoradao
+github:   agorahub
+reddit: u/agoradao
+twitter:  agoradao
+telegram: agorahub
 #linkedin: linkedin
 #facebook: facebook
-telegram: agorahub
