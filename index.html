@@ -38,7 +38,7 @@ layout: default
 
 <!-- MASONRY SECTION -->
 <section class="masonry">
-  {% for item in site.columns %}
+  {% for item in site.columns reversed %}
     <div class="item">
       {% include article.html item=item %}
     </div>
