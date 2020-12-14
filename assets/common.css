@@ -166,8 +166,12 @@ a:hover {
 }
 
 .footer .footer-center p a {
-  color: #0099ff;
+  color: #ffffff;
   text-decoration: none;
+}
+
+.footer .footer-center p a:hover {
+  color: #0099ff;
 }
 
 
@@ -207,10 +211,17 @@ a:hover {
 }
 
 .footer .name {
-  color: #ffff;
+  color: #ffffff;
   font-size: 14px;
   font-weight: normal;
   margin: 0;
+}
+
+.footer .name a {
+  display: inline-block;
+  line-height: 1.8;
+  text-decoration: none;
+  color: inherit;
 }
 
 @media (max-width: 767px) {
