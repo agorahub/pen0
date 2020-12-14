@@ -15,23 +15,28 @@
   <div class="footer-center col-md-4 col-sm-6">
     <div>
       <i class="fa fa-map-marker"></i>
-      <p> Agora Hub<span> THE EARTH</span></p>
+      <p><a href="https://github.com/{{site.github}}">AgoraHub</a><span>THE EARTH</span></p>
     </div>
     <div>
-      <i class="fa fa-lock"></i>
-      <p><span> 0x 0000 0000</span></p>
+      <i class="fa fa-paragraph"></i>
+      <p><a href="https://github.com/{{site.gh_team}}">Newsroom</a></p>
     </div>
     <div>
-      <i class="fa fa-envelope"></i>
-      <p><span>theagora@github.com</span></p>
+      <i class="fa fa-puzzle-piece"></i>
+      <p><a href="https://github.com/{{site.github}}/_join">Join Agora</a></p>
     </div>
   </div>
   <div class="footer-right col-md-4 col-sm-6">
-    <h2> The Republic of Agora</h2>
-    <p class="menu">
-    <span><a href="{{site.url}}{{site.baseurl}}/"> Home</a> | <a href="{{site.url}}{{site.baseurl}}/about"> About</a></span><br>
-    <span><a href="https://github.com/orgs/agorahub/teams/pen"> Agora PEN</a></span>
+    <h2>The Republic of Agora</h2>
+    <p class="menu"><span>
+      <a href="{{site.url}}{{site.baseurl}}/">Home</a> |
+      <a href="{{site.url}}{{site.baseurl}}/about">About</a> |
+      <a href="https://github.com/{{site.gh_repo}}/discussions">Discussion</a>
+    </span></p>
+    <p class="name">© {{ site.time | date: '%Y' }} The Agora Community
+    {% for editor in site.data.editors %}
+      <br><a href="https://github.com/{{editor.github}}">{{editor.class}} {{editor.name}}</a>
+    {% endfor %}
     </p>
-    <p class="name"> The Agora Community<br> © {{ site.time | date: '%Y' }}</p>
   </div>
 </footer>

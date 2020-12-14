@@ -1,31 +1,25 @@
 # PEN Zero 
+![Agora Flag](./assets/favicon.png) ![RoA Pen](./assets/images/roa-pen0.png)
 
-Preliminary publishing platform of the [Agora PEN Project](https://github.com/agorahub/AIPs/issues/1).
+Preview publishing platform of the [Agora PEN Project](https://github.com/agorahub/AIPs/issues/1).
 
-## Install, Bundle and Deploy
+## Test and Deploy
 
-Please read [jekyll](https://jekyllrb.com) for reference.
- 
 ```
 $ gem install bundler jekyll
+$ vim _config.yml # Configure to test or deploy.
+
 $ bundle exec jekyll serve
 # => Now browse to http://localhost:4000
 
-# Edit _config.yml for production deployment
 $ JEKYLL_ENV=production bundle exec jekyll build
-# Deploy compiled contents in the _site to your html server
+# Copy the compiled codes from _site/ to html server.
 ```
 
-## Copyleft and Collaborate
+## Maintain and Collaborate
 
-- The [PEN Team][pen-team] manages this publication and grants copyleft to the Agora community.
+The [PEN Team](https://github.com/orgs/agorahub/teams/pen) manages this publication on behalf of the Agora community.
 
-- You can join the Agora community at GitHub:
-[agorahub][agora-hub]/[_join](https://github.com/agorahub/_join)
-
-- And collaborate at GitHub:
-[agorahub][agora-hub]/[_meta](https://github.com/agorahub/_meta)
-
-
-[agora-hub]: https://github.com/agorahub
-[pen-team]: https://github.com/orgs/agorahub/teams/pen
+- Join the Agora - [agorahub/_join](https://github.com/agorahub/_join)
+- Start exploring - [agorahub/_meta](https://github.com/agorahub/_meta)
+- Go collaborating - [agorahub/pen0](https://github.com/agorahub/pen0)
