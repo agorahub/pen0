@@ -16,10 +16,27 @@ $ JEKYLL_ENV=production bundle exec jekyll build
 # Copy the compiled codes from _site/ to html server.
 ```
 
-## Maintain and Collaborate
+## How To Contribute
 
-The [PEN Team](https://github.com/orgs/agorahub/teams/pen) manages this publication on behalf of the Agora community.
+### Write Columns
+
+Please read and use the [TEMPLATE](./_collections/_columns/0000-00-00-column-template.md), and put your posts in the same directory.
+
+1. Clone repo and test posts
+2. Commit posts (via upload)
+3. Pull request (for peer review)
+
+### Draft Heros
+
+The [PEN Board](https://github.com/orgs/agorahub/teams/pen) manages this publication on behalf of the Agora community.
 
 - Join the Agora - [agorahub/_join](https://github.com/agorahub/_join)
 - Start exploring - [agorahub/_meta](https://github.com/agorahub/_meta)
-- Go collaborating - [agorahub/pen0](https://github.com/agorahub/pen0)
+- Join the Board - [@agorahub/pen](https://github.com/orgs/agorahub/teams/pen)
+
+### Improve PEN
+
+- [AIP-PEN Proposal Issue](https://github.com/agorahub/AIPs/issues/1)
+- [AIP-PEN Project Board](https://github.com/agorahub/AIPs/projects/1)
+- [New Features Waitlist](https://github.com/agorahub/pen0/issues/3)
+

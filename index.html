@@ -6,7 +6,7 @@ layout: default
 <section class="hero">
   <!-- LEFT HERO -->
   <div class="sideHeroColumn">
-    {% for item in site.heros %}
+    {% for item in site.heros reversed %}
       {% if item.position == 'left' %}
         {% include article.html item=item %}
         {% break %}
@@ -16,7 +16,7 @@ layout: default
 
   <!-- HERO -->
   <div class="heroColumn">
-    {% for item in site.heros %}
+    {% for item in site.heros reversed %}
       {% if item.position == 'center' %}
         {% include article.html item=item %}
         {% break %}
@@ -26,7 +26,7 @@ layout: default
 
   <!-- RIGHT HERO -->
   <div class="sideHeroColumn">
-    {% for item in site.heros %}
+    {% for item in site.heros reversed %}
       {% if item.position == 'right' %}
         {% include article.html item=item %}
         {% break %}
