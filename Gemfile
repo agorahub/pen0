@@ -17,8 +17,8 @@ gem "minima", "~> 2.5"
 # uncomment the line below. To upgrade, run `bundle update github-pages`.
 #gem "github-pages", group: :jekyll_plugins
 
-# bugfix - https://github.com/advisories/GHSA-7553-jr98-vx47
-gem "nokogiri", ">= 1.10.8"
+# bugfix - https://github.com/advisories/GHSA-vr8q-g5c7-m54m
+gem "nokogiri", ">= 1.11.1"
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
