@@ -1,21 +1,19 @@
 ---
 layout: post
 title:  "荃湾开花事件"
-author: Pang
+author: "Pang"
 date:   2019-12-06 00:00:00 +0800
-image: https://github.com/agorahub/_meta/blob/agoran/theagora/pen0/assets/images/pang-a1-2019-12-06.jpg?raw=true
-image_caption: (防暴警于荃湾某楼上)麦当劳截查
+image:  https://images.weserv.nl/?url=github.com/agorahub/_meta/raw/agoran/theagora/pen0/assets/images/pang-a1-2019-12-06.jpg
+image_caption: "(防暴警于荃湾某楼上)麦当劳截查"
+description:   "2019年11月10号晚，荃湾内街发生了“开花”事件，我和Betty目击了19:30到22:50的事件片段，本文是目击记录。"
 position: right
 ---
-2019年11月10号晚，荃湾内街发生了“开花”事件，我和Betty目击了19:30到22:50的事件片段，本文是目击记录。
 
 **19:30 前奏**
 
 我和Betty决定去看看荃湾开花的现场。下了楼穿过荃湾公园，过了杨屋道，沿着禾笛街走到沙咀道。
 
-<!--more-->
-
-沙咀道和大河道交界处有很多记者，大河道以东聚集着示威者和街坊，而大河道以西有大量警车，天桥上也有警察走动，不时用电筒照射人群。有黑衣人在荃新天地前挖掘砖块，而周围街坊则不时地指骂警察，沙咀道地面上已经被铺上了不少砖块。
+沙咀道和大河道交界处有很多记者，大河道以东聚集着示威者和街坊，而大河道以西有大量警车，天桥上也有警察走动，不时用电筒照射人群。<!--more-->有黑衣人在荃新天地前挖掘砖块，而周围街坊则不时地指骂警察，沙咀道地面上已经被铺上了不少砖块。
 
 <!--示威者设置的路障-->
 

@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "A University Too Far"
-author: Pang
+author: "Pang"
 date:   2019-12-23 00:00:00 +0800
-image: https://github.com/agorahub/_meta/blob/agoran/theagora/pen0/assets/images/pang-a1-2019-12-23.jpg?raw=true
-image_caption: (九龙佑宁堂)礼堂内被困的人们
+image:  https://images.weserv.nl/?url=github.com/agorahub/_meta/raw/agoran/theagora/pen0/assets/images/pang-a1-2019-12-23.jpg
+image_caption: "(九龙佑宁堂)礼堂内被困的人们"
+description:   "到了十一月份，事情发展到了顶峰，他们发起了三罢行动，希望瘫痪城市以迫使政府回应诉求。理工大学（Polytechnic University）外的红磡隧道是城市的要道，被成功封锁，但他们同时也被警方包围在了理大校园里面。"
 position: center
 ---
-到了十一月份，事情发展到了顶峰，他们发起了三罢行动，希望瘫痪城市以迫使政府回应诉求。理工大学（Polytechnic University）外的红磡隧道是城市的要道，被成功封锁，但他们同时也被警方包围在了理大校园里面。
 
 11月17号，经过一天的战斗，包围圈渐渐缩小直至关闭，学校内有一千多人被困。夜晚，“救Poly”的呼声在网络上蔓延。
 
@@ -17,9 +17,9 @@ position: center
 
 弥敦道上已无车辆，马路上很多人，有些路口地下有砖块。另一些路口已有路障，还有被烧过的垃圾，消防员救熄之后正在离去。
 
-<!--more-->
-
 接近旺角时，路上的砖块越来越密，而街上的人也越来越多。
+
+<!--more-->
 
 <!--黑衣人和地上的砖头-->
 
