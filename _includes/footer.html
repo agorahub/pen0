@@ -32,6 +32,10 @@
       <a href="{{site.url}}{{site.baseurl}}/">Home</a> |
       <a href="{{site.url}}{{site.baseurl}}/about">About</a> |
       <a href="https://github.com/{{site.gh_repo}}/discussions">Discussion</a>
+      <br>
+    {% for archive in site.data.archives %}
+      <a href="{{archive.site}}">{{archive.name}}</a> |
+    {% endfor %}
     </span></p>
     <p class="name">© {{ site.time | date: '%Y' }} The Agora Community
     {% for editor in site.data.editors %}
