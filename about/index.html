@@ -7,10 +7,10 @@
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 
 
-	<title>The Republic of Agora</title>
+	<title>PEN⓪ · The Republic of Agora</title>
 
 
-<meta name="description" content="EMPOWER THE PUBLIC ♢ VOL.2 © MMXXI">
+<meta name="description" content="EMPOWER THE PUBLIC ♢ VOL.3 © MMXXI">
 
 <link rel="icon" href="https://agorahub.github.io/pen0/assets/favicon.png">
 <link rel="apple-touch-icon" href="https://agorahub.github.io/pen0/assets/touch-icon.png">
@@ -48,57 +48,53 @@
 		<div class="head">
   
   <div id="masthead">
-    <h1>The Republic of Agora</h1>
-    <h6 style="text-align:center">EMPOWER THE PUBLIC ♢ VOL.2 © MMXXI</h6>
+    <h3><a href="https://agorahub.github.io/pen0">The Republic of Agora</a></h3>
   </div>
+
   
 </div>
 
 
 		<div class="content">
-			<article class="post">
+			<div style="padding:15px">
+  <h2 id="pen-and-pen">PEN and PEN⓪</h2>
 
-  <header class="post-header">
-    <h1 class="post-title"></h1>
-  </header>
+<p>The PEN is an open source newsroom to issue the Agora zine PEN⓪ <em>The Republic of Agora</em>. The PEN⓪ starts at a monthly basis, and consists of two main sections: the Heros, and the Columns. The policies of drafting and publishing may vary in accordance with certain consensus by the <a href="https://github.com/orgs/agorahub/teams/pen"><strong>PEN Board</strong></a> on behalf of the <a href="https://github.com/agorahub"><strong>Agora Community</strong></a>.</p>
 
-  <div class="post-content">
-    <h3 id="what-is-pen">What Is PEN</h3>
-
-<p>PEN is the Agora’s open source publication with the masthead of The Republic of Agora. The issuance starts at a monthly basis, and consists of two main parts: the Heros, and the Columns. The policies of drafting and publishing may vary in accordance with certain consensus by the PEN Board on behalf of the Agora community.</p>
-
-<h3 id="how-to-contribute">How To Contribute</h3>
+<h2 id="how-to-contribute">How to Contribute</h2>
 
 <h4 id="write-columns">Write Columns</h4>
 
-<p>Please read and use the <a href="https://agorahub.github.io/pen0/columns/0000-00-00-column-template">TEMPLATE</a>, and put your posts in the same directory.</p>
+<p>Please follow the <a href="https://agorahub.github.io/pen0/columns/0000-00-00-column-template"><strong>TEMPLATE</strong></a>, and commit your articles in the <a href="https://github.com/agorahub/pen0/blob/master/_collections/_columns"><strong>_COLUMNS</strong></a>.</p>
 
-<ol>
-  <li>Clone repo and test posts</li>
-  <li>Commit posts (via upload)</li>
-  <li>Pull request (for peer review)</li>
-</ol>
+<ul>
+  <li>Commit via upload is recommended</li>
+  <li>Direct commit is enabled for editors</li>
+  <li>Pull request is required for members</li>
+  <li>Non-coders can post articles <a href="https://github.com/agorahub/pen0/issues/new"><strong>HERE</strong></a></li>
+</ul>
 
 <h4 id="draft-heros">Draft Heros</h4>
 
-<p>The <a href="https://github.com/orgs/agorahub/teams/pen">PEN Board</a> manages this publication on behalf of the Agora community.</p>
+<p>The PEN Board manages this publication on behalf of the Agora Community.</p>
 
 <ul>
-  <li>Join the Agora - <a href="https://github.com/agorahub/_join">agorahub/_join</a></li>
-  <li>Start exploring - <a href="https://github.com/agorahub/_meta">agorahub/_meta</a></li>
-  <li>Join the Board - <a href="https://github.com/orgs/agorahub/teams/pen">@agorahub/pen</a></li>
+  <li>Join the Agora - <a href="https://github.com/agorahub/_join"><strong>agorahub/_join</strong></a></li>
+  <li>Start exploring - <a href="https://github.com/agorahub/_meta"><strong>agorahub/_meta</strong></a></li>
+  <li>Join the Board - <a href="https://github.com/orgs/agorahub/teams/pen"><strong>@agorahub/pen</strong></a></li>
 </ul>
 
 <h4 id="improve-pen">Improve PEN</h4>
 
 <ul>
-  <li><a href="https://github.com/agorahub/AIPs/issues/1">AIP-PEN Proposal Issue</a></li>
-  <li><a href="https://github.com/agorahub/AIPs/projects/1">AIP-PEN Project Board</a></li>
-  <li><a href="https://github.com/agorahub/pen0/issues/3">New Features Waitlist</a></li>
+  <li><a href="https://github.com/agorahub/AIPs/issues/1"><strong>AIP-PEN Proposal Issue</strong></a></li>
+  <li><a href="https://github.com/agorahub/AIPs/projects/1"><strong>AIP-PEN Project Board</strong></a></li>
+  <li><a href="https://github.com/agorahub/pen0/issues/3"><strong>New Features Waitlist</strong></a></li>
 </ul>
 
-<div style="padding:20px">
-  <script>
+<script src="https://unpkg.com/showdown/dist/showdown.min.js"></script>
+
+<script>
 const GH_API_URL = 'https://api.github.com/repos/agorahub/pen0/issues/2/comments';
 
 let request = new XMLHttpRequest();
@@ -106,7 +102,7 @@ request.open( 'GET', GH_API_URL, true );
 request.onload = function() {
   if ( this.status >= 200 && this.status < 400 ) {
     let response = JSON.parse( this.response );
-    for ( var i = 0; i < response.length; i++ ) {
+    for ( var i = response.length-1; i > -1; i-- ) {
       document.getElementById( 'gh-comments-list' ).appendChild( createCommentEl( response[ i ] ) );
     }
     if ( 0 === response.length ) {
@@ -129,10 +125,14 @@ function createCommentEl( response ) {
   let commentLink = document.createElement( 'a' );
   commentLink.setAttribute( 'href', response.html_url );
   commentLink.classList.add( 'comment-url' );
-  commentLink.innerHTML = ' #' + response.id + ' • ' + response.created_at.slice(0, 10);
+  commentLink.innerHTML = ' 💬 #' + response.id + ' • ' + response.created_at.slice(0, 10) + '<p>';
   let commentContents = document.createElement( 'div' );
   commentContents.classList.add( 'comment-content' );
   commentContents.innerHTML = response.body + '<p>';
+  if ( window.showdown ) {
+    let converter = new showdown.Converter();
+    commentContents.innerHTML = converter.makeHtml( response.body );
+  }
   let comment = document.createElement( 'li' );
   comment.setAttribute( 'data-created', response.created_at );
   comment.setAttribute( 'data-author-avatar', response.user.avatar_url );
@@ -145,9 +145,8 @@ function createCommentEl( response ) {
 request.send();
 </script>
 
-<hr />
-
 <div class="github-comments">
+  <div id="add-new-comment" style="text-align:right"><a href="https://github.com/login?return_to=https://github.com/agorahub/pen0/issues/2%23issuecomment-new"><b>Add new comment</b></a></div>
   <h2>Comments</h2>
   <ul id="gh-comments-list"></ul>
   <!--  <p id="no-comments-found">No comments found for this article.</p> -->
@@ -156,10 +155,6 @@ request.send();
 
 
 </div>
-
-  </div>
-
-</article>
 
 		</div>
 
