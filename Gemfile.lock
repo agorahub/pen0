@@ -81,9 +81,9 @@ PLATFORMS
 
 DEPENDENCIES
   jekyll (~> 4.0.0)
-  jekyll-feed (~> 0.12)
+  jekyll-feed (~> 0.13)
   minima (~> 2.5)
-  nokogiri (>= 1.11.1)
+  nokogiri (>= 1.11.5)
   tzinfo (~> 1.2)
   tzinfo-data
   wdm (~> 0.1.1)
