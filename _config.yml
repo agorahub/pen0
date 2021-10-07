@@ -1,7 +1,7 @@
 title: The Republic of Agora
 description: EMPOWER THE PUBLIC ♢ VOL.9 © MMXXI
 baseurl: "/pen0" # the subpath of your site, e.g. /blog
-url: "https://agorahub.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://agorahub.github.io" # the hostname & protocol, e.g. http://example.com
 google_analytics: 'UA-166928354-2' # agorahub-pen0
 gh_team: orgs/agorahub/teams/pen
 gh_repo: agorahub/pen0
@@ -9,6 +9,13 @@ gh_repo: agorahub/pen0
 # Build settings
 markdown: kramdown
 theme: minima
+feed:
+  posts_limit: 50
+  collections:
+    heros:
+      path: "/heros.xml"
+    columns:
+      path: "/columns.xml"
 plugins:
   - jekyll-feed
 
