@@ -2,8 +2,8 @@
 layout: post
 title:  "尚德事件目击报告"
 author: "Pang"
-date:   2019-12-13 00:00:00 +0800
-image:  https://images.weserv.nl/?url=github.com/agorahub/_meta/raw/agoran/theagora/pen0/assets/images/pang-a1-2019-12-13.jpg
+date:   2019-12-13 12:00:00 +0800
+image:  https://github.com/agorahub/_meta/raw/agoran/theagora/pen0/assets/images/a1/0x01_a1_l-20191213.jpg
 image_caption: "(将军澳尚德邨)停车场被烛光包围"
 description:   "11月8号在将军澳尚德发生了一系列事件，我目击了其中一小部分，以下是目击报告。（上一篇“荃湾开花事件”发生在这件事之后两天，下一篇我将记录11月17号的佐敦事件）"
 position: left

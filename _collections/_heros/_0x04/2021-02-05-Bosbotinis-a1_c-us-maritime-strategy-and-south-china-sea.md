@@ -3,7 +3,7 @@ layout: post
 title:  "美国海洋战略与南中国海"
 author: "詹姆斯·博思博蒂尼斯"
 date:   2021-02-05 12:00:00 +0800
-image:  https://images.weserv.nl/?url=i.redd.it/3gxlgccrjim61.jpg
+image:  https://github.com/agorahub/_meta/raw/agoran/theagora/pen0/assets/images/a1/0x04_a1_c-20210205.jpg
 image_caption: "GODZILLA VS. KONG, 2021. A Battle on the Hollow Earth Surface."
 description:   "2020年12月美国最新发布的海上战略——《海上优势》突出了对俄罗斯、特别是对中国的关注，该战略取代了先前的《21世纪海上力量合作战略》。"
 position: center

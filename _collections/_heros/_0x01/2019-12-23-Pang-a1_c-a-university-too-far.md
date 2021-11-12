@@ -2,8 +2,8 @@
 layout: post
 title:  "A University Too Far"
 author: "Pang"
-date:   2019-12-23 00:00:00 +0800
-image:  https://images.weserv.nl/?url=github.com/agorahub/_meta/raw/agoran/theagora/pen0/assets/images/pang-a1-2019-12-23.jpg
+date:   2019-12-23 12:00:00 +0800
+image:  https://github.com/agorahub/_meta/raw/agoran/theagora/pen0/assets/images/a1/0x01_a1_c-20191223.jpg
 image_caption: "(九龙佑宁堂)礼堂内被困的人们"
 description:   "到了十一月份，事情发展到了顶峰，他们发起了三罢行动，希望瘫痪城市以迫使政府回应诉求。理工大学（Polytechnic University）外的红磡隧道是城市的要道，被成功封锁，但他们同时也被警方包围在了理大校园里面。"
 position: center

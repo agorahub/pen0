@@ -3,7 +3,7 @@ layout: post
 title:  "《逃避自由》：极权主义的起源与终结"
 author: "Atlas"
 date:   2017-04-30 12:00:00 +0800
-image:  https://images.weserv.nl/?url=www.michelangelo.org/images/artworks/the-creation-of-adam.jpg
+image:  https://github.com/agorahub/_meta/raw/agoran/theagora/pen0/assets/images/a1/0x02_a1_c-20170430.jpg
 image_caption: "Biblical creation narrative from the Book of Genesis in which God gives life to Adam, the first man."
 description:   "在《逃避自由》一书第二章“个人的出现及自由的模棱两可”中，弗洛姆指出了人类自我意识觉醒与个体生命历程的相似性：婴儿在降生前与母亲处于一体化的状态，而在降生后则通过切断脐带的方式与母亲断绝这一状态；与之类似，人们从缺乏个体自由的中世纪社会走出后实际上就断绝了其与传统社会相互联结的“始发纽带”。"
 position: center

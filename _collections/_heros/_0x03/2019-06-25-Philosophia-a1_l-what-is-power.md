@@ -3,7 +3,7 @@ layout: post
 title:  "什么是权力"
 author: "朱学贤 / Philosophia"
 date:   2019-06-25 12:00:00 +0800
-image:  https://images.weserv.nl/?url=images.saymedia-content.com/.image/t_share/MTc0NDU4NTMyNjA1NzMyNDg2/foucault-power-knowledge.jpg
+image:  https://github.com/agorahub/_meta/raw/agoran/theagora/pen0/assets/images/a1/0x03_a1_l-20190625.jpg
 image_caption: "KNOWLEDGE IS POWER."
 description:   "知情即是权力。"
 position: left
@@ -69,7 +69,7 @@ position: left
 
 规训权力的对象是肉体，它对肉体进行锻炼、训练，以生产驯顺的且有用的肉体为主要目标。当然肉体在任何一个社会里都是权力严厉控制的对象，只不过是权力在不同时期对待肉体的策略不一样而已，在君王时期，统治者们只知道摧残、折磨，毁伤被统治者的肉体，他们并没有意识到肉体的有用性.随着西方资本主义社会的到来，残酷的刑罚仪式逐渐被「文明」，「理性」的规训方式所代替，惩罚变成了关于肉体的「政治经济学」，禁闭和教养这些仁厚的方法，最终关涉的总是肉体，即「肉体及其力量、它们的可利用性和可驯服性、对它们的安排与征服」。
 
-![panopticon.jpg](https://images.weserv.nl/?url=lock2750.files.wordpress.com/2012/11/cropped-panop.jpg)
+![panopticon](https://github.com/agorahub/_meta/raw/agoran/theagora/pen0/assets/images/a1/0x03_a1_l-20190625-01.jpg)
 ▲ _福柯权力理论的经典案例：全景敞视监狱_
 
 要想达到对肉体及其力量的有效控制，获取更多的经济效益并且使其更驯顺就需要一门关于肉体的「知识学」，「但不完全是关于肉体功能运作的科学；可能有对肉体力量的驾驭，但又不仅仅是征服它们的能力」，这种对于肉体的认识和控制可以称为肉体的政治技术学、政治解剖学。这种技术学关注的都是细枝末节，肉体被要求去适应非常细微的运作机制，如对人体的姿势、行为所做的精心编排，身体的某部位应该以某一高度、某一姿势保持多长时间，空间应如何合理切割，使得每一个体能够被持续的处于监视之下从而保证肉体按照既定的程序去运行，或者通过空间的划分，可以使肉体所具有的力最大化等等这些看似琐屑轻微的细节，却提供了权力运作的支点，同时这些细微之处也清晰的暴露了权力运作的真正机制。

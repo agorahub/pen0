@@ -3,7 +3,7 @@ layout: post
 title:  "欧盟与美协调对华政策"
 author: "赵怀普"
 date:   2021-05-01 12:00:00 +0800
-image:  https://images.weserv.nl/?url=i.imgur.com/0JvEA8O.jpg
+image:  https://github.com/agorahub/_meta/raw/agoran/theagora/pen0/assets/images/a1/0x0a_a1_r-20210501.jpg
 image_caption: "欧洲是影响中美博弈和中美欧特殊三边关系走向的关键变量。"
 description:   "欧盟视中美竞争为难以回避的重大挑战，并基于战略自主采取“不选边”策略，谋求在中美间发挥调节作用，以期降低风险并最大限度维护自身利益。但欧盟对待中美并非不偏不倚，其调节作用更多体现在与美国共同加强对华政策协调，这正是三边关系的特殊性。经过数年磨合，美欧对华政策协调与合作的基本框架已初步形成，大致概括为经贸与科技竞争、投资与出口管制及设限、军事威慑与防范、人权施压与对抗、围绕“一带一路”进行地缘战略协调。"
 position: right

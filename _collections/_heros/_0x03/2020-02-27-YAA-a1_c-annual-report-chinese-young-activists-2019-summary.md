@@ -3,7 +3,7 @@ layout: post
 title:  "《中国青年行动者年度报告（2019）》摘要"
 author: "Young Activists Alliance"
 date:   2020-02-27 12:00:00 +0800
-image:  https://images.weserv.nl/?url=i.dlpng.com/static/png/6444631_preview.png
+image:  https://github.com/agorahub/_meta/raw/agoran/theagora/pen0/assets/images/a1/0x03_a1_c-20200227.jpg
 image_caption: "青年劳工行动者、青年性少数行动者、青年残障行动者、青年女权行动者"
 description:   "本报告的编写初衷在于帮助外界全面了解中国各领域青年行动者的行动和组织状况，以及当下面临的挑战和困难。欢迎致信 youngactivists20192019@gmail.com"
 position: center

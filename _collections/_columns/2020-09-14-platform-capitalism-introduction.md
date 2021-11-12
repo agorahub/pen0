@@ -3,7 +3,7 @@ layout: post
 title : "平台资本主义的前世今生"
 author: "移风"
 date  : 2020-09-14 12:00:00 +0800
-image : https://images.weserv.nl/?url=cdni0.trtworld.com/w960/h540/q75/95326_20201203T110707Z_1_LYNXMPEGB20RX_RTROPTP_4_USBRAZILTRAFFICKINGAPPS_1609149318710.JPG
+image : https://github.com/agorahub/_meta/raw/agoran/theagora/pen0/assets/images/c1/c1-20200914-01.jpg
 image_caption: "Platforms, Gig Economy, and the COVID-19 Pandemic"
 description: "抛开表象，平台资本主义得以开展，有两个基本条件：资本愿花大量资金投入一个新兴的行业与技术；大量市民愿付出劳动成为全职或兼职的平台劳工。"
 ---
@@ -16,10 +16,10 @@ description: "抛开表象，平台资本主义得以开展，有两个基本条
 
 华文世界整体性的论著不多。笔者以两本近年出版的英文著作为出发点: 第一本是Nick Srnieck的《平台资本主义》，多从经济史，平台的本质及运作特色出发；另一本，Jamie Woodcock和Mark Graham的《零工经济：批判导论》则是整体地考察不同平台对其劳工的影响。我会从两本书中抽取一些平台资本主义和零工经济的历史源起及其特征，对比当下中国的情况。
 
-![platform-capitalism.jpg](https://images.weserv.nl/?url=media.wiley.com/product_data/coverImage300/69/15095048/1509504869.jpg)
+![platform-capitalism](https://github.com/agorahub/_meta/raw/agoran/theagora/pen0/assets/images/c1/c1-20200914-011.jpg)
 ▲ _《平台资本主义》_
 
-![gig-economy.jpg](https://images.weserv.nl/?url=static1.squarespace.com/static/580fd4b5197aeace22cd5e1f/t/5dcd13e9c05f010766bc351f/1573721082903)
+![gig-economy](https://github.com/agorahub/_meta/raw/agoran/theagora/pen0/assets/images/c1/c1-20200914-012.jpg)
 ▲ _《零工经济：批判导论》_
 
 ### 平台资本主义的起源：剩余资本，劳工与技术
@@ -60,7 +60,7 @@ Nick Srnicek在《平台资本主义》一书中先从最抽象的定义开始�
 
 有关寡头垄断，对数据的渴求等问题上，严格来说中国这方面比西方国家（尤其在平台付费这个重要领域上）更为严重，只剩下少数大系统横跨很多行业。所谓阿里系、腾讯系（一定程度还有百度系、头条系）的说法大家都清楚。它们均各自组成庞大的生态圈。2019年已有相关的法律研究报告，探讨应该如何处理这个问题。
 
-![monnopoly.jpg](https://cdn.talkingpointsmemo.com/wp-content/uploads/2017/05/monopolyforiphone.jpg)
+![monnopoly](https://github.com/agorahub/_meta/raw/agoran/theagora/pen0/assets/images/c1/c1-20200914-013.jpg)
 ▲ _『大富翁』游戏_
 
 平台本身有极强网络效应，这意味着百家争鸣式的市场竞争不适用于平台，甚至我们可以说它具有天然垄断的属性。我们不需要十个打车或外卖平台互相竞争，只需一个办得好的平台。由此可见，平台也许根本不应交给市场机制来运作，只要一天它依然靠市场，寡头垄断，对数据的把持必然难以避免。这是根本的问题，无法由规范解决。更合理的做法应是将其国有化、社会化，或是变成有平台劳工共同拥有与决定的合作社。类似的观点，也开始在西方民间社会涌现。
@@ -91,7 +91,7 @@ Nick Srnicek在《平台资本主义》一书中先从最抽象的定义开始�
 
 但我们也需要思考，这种本能式的集体反抗到底有多大程度可以令平台作出真正的让步﹖如Woodcock和Graham所述，在国外也有类似的反抗，也有胜利的时候。但整体来说，平台极不愿意作出让步。其原因就是，如前所述，类似的平台的利润模式，并不是建基于高效的科技，而是在于可以动用大量潜在的劳工并不用给予他们保障。
 
-![uber-driver-strike.jpg](https://cms.qz.com/wp-content/uploads/2019/05/uber-driver-strike-may-8-e1557429577367.jpg)
+![uber-driver-strike](https://github.com/agorahub/_meta/raw/agoran/theagora/pen0/assets/images/c1/c1-20200914-014.jpg)
 ▲ _美国加州UBER司机罢工 2019.5_
 
 近日，国外关于平台劳工最大的新闻，就是美国加州法院宣判为Uber与Lyft驾车的司机，法律上理应是雇员，所以应该获得保障。而两家企业竭力推翻这个判决，甚至半威胁地指出，如果这无法被推翻，他们很有机会会将业务撤走。这是因为这个判决会严重影响他们已经不高利润，以及他们的扩展。

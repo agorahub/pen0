@@ -3,7 +3,7 @@ layout: post
 title:  "AUKUS"
 author: "詹姆斯·博思博蒂尼斯"
 date:   2021-09-25 12:00:00 +0800
-image:  https://images.weserv.nl/?url=i.imgur.com/3R3xl4I.jpg
+image:  https://github.com/agorahub/_meta/raw/agoran/theagora/pen0/assets/images/a1/0x0a_a1_c-20210925.jpg
 image_caption: "A trilateral security pact between Australia, the UK and the US, 2021"
 description:   "澳英美联盟（AUKUS）軍事安全合作伙伴关系，首要目标是由英、美兩國协助澳大利亚建造一支核動力潛艇舰队。该联盟是构筑美国新印太战略联盟合作的一部分，也被視為是澳紐美安全條約（ANZUS）的接替安排。(來源:維基百科)"
 position: center

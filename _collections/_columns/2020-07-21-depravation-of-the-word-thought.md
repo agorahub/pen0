@@ -3,7 +3,7 @@ layout: post
 title : "“思想”一词的堕落"
 author: "伯罗奔尼撒"
 date  : 2020-07-21 12:00:00 +0800
-image : https://images.weserv.nl/?url=cdn.pixabay.com/photo/2014/01/12/10/33/bird-242715_1280.jpg
+image : https://github.com/agorahub/_meta/raw/agoran/theagora/pen0/assets/images/c1/c1-20200721-01.jpg
 image_caption: "鸵鸟的农场，尽是堕落的翅膀。"
 description: "在当下这样一个环境里，几乎所有资源都垄断在权力者手中，人们为了生存，不得不向权力靠拢。我们也许不能因此对人们做过多地苛责。可是，如果连传承思想的学者群体，也都一一跪拜在权力脚下，自己把“思想”践踏得一文不值，这难道不是一种堕落吗？"
 ---

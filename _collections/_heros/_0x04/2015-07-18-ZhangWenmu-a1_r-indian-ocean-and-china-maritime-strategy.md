@@ -3,7 +3,7 @@ layout: post
 title:  "印度洋与中国海洋战略"
 author: "张文木"
 date:   2015-07-18 12:00:00 +0800
-image:  https://images.weserv.nl/?url=cimg.fx361.com/images/2017/03/10/sdbg201504sdbg20150412-1-l.jpg
+image:  https://github.com/agorahub/_meta/raw/agoran/theagora/pen0/assets/images/a1/0x04_a1_r-20150718.jpg
 image_caption: "印度洋是世界海权中心"
 description:   "世界和平规划的基础必然是世界地理"
 position: right

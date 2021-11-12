@@ -3,7 +3,7 @@ layout: post
 title:  "臺灣地區與大陸地區人民關係條例"
 author: "大陸委員會"
 date:   2019-07-24 12:00:00 +0800
-image:  https://images.weserv.nl/?url=upload.wikimedia.org/wikipedia/commons/4/4c/Chinese_republic_forever.jpg
+image:  https://github.com/agorahub/_meta/raw/agoran/theagora/pen0/assets/images/a1/0x09_a1_c-20190724.jpg
 image_caption: "The Permanent President of the Republic of China Yuan Shikai and The Provisional President of the Republic Sun Yat-sen."
 description:   "簡稱《兩岸條例》，是中華民國在國家統一前為規範兩岸民間各種往來而訂定的律例，於1992年9月18日起施行。條例名稱的「大陸地區」定位為「自由地區以外之中華民國領土」，「大陸地區人民」則明定為「指在大陸地區設有戶籍之人民」；而港澳地區事務另由《香港澳門關係條例》規範，不適用該條例。(來源:維基百科)"
 position: center

@@ -3,7 +3,7 @@ layout: post
 title:  "南中国海和英国战略"
 author: "詹姆斯·博思博蒂尼斯"
 date:   2019-09-20 12:00:00 +0800
-image:  https://images.weserv.nl/?url=www.whitedoggallery.co.uk/wp-content/uploads/2017/08/HUT31-Queen-Elizabeth-Class-by-Tim-Hut-aircraft-carrier.jpg
+image:  https://github.com/agorahub/_meta/raw/agoran/theagora/pen0/assets/images/a1/0x04_a1_l-20190920.jpg
 image_caption: "HMS QUEEN ELIZABETH"
 description:   "只要英国还想寻求成为全球行动者，保持与该（印太）地区的可靠接触将成为英国的一个关键优先事项。"
 position: left

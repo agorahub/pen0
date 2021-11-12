@@ -3,7 +3,7 @@ layout: post
 title:  "《躺平主义者宣言》"
 author: "佚名"
 date:   2021-06-01 12:00:00 +0800
-image:  https://images.weserv.nl/?url=pic2.zhimg.com/v2-0c7ce8c210b73cd8dcf55955b76fe30b_1440w.jpg
+image:  https://github.com/agorahub/_meta/raw/agoran/theagora/pen0/assets/images/a1/0x06_a1_c-20210601.jpg
 image_caption: "　　这是一种魔法失效的时刻，也是另一种魔法复活的时刻。"
 description:   "全世界的躺平主义者，联合起来！"
 position: center

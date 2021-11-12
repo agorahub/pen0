@@ -3,7 +3,7 @@ layout: post
 title : "南中国海占领和填海造岛工程"
 author: "AMTI"
 date  : 2021-01-13 12:00:00 +0800
-image : https://images.weserv.nl/?url=vietnamtimes.org.vn/stores/news_dataimages/minhphuongvnt/042020/29/22/2830_1200px-Indochina1606India_Orientalis.jpg
+image : https://github.com/agorahub/_meta/raw/agoran/theagora/pen0/assets/images/c1/c1-20210113-01.jpg
 image_caption: "INDIA ORIENTALIS, by Jodocus Hondius in 1613."
 description: "AMTI收集了各前哨基地的卫星图像以及其他有关信息，记录它们的现状和近年来的任何变化。"
 ---

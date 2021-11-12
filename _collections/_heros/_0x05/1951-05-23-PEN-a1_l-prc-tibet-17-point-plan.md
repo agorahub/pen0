@@ -3,7 +3,7 @@ layout: post
 title:  "西藏《十七條協議》"
 author: "PEN"
 date:   1951-05-23 12:00:00 +0800
-image:  https://images.weserv.nl/?url=upload.wikimedia.org/wikipedia/commons/8/8e/Seventeen-Point_Plan_Tibetan_0.jpg
+image:  https://github.com/agorahub/_meta/raw/agoran/theagora/pen0/assets/images/a1/0x05_a1_l-19510523.jpg
 image_caption: "《中央人民政府和西藏地方政府關於和平解放西藏辦法的協議》簡稱《十七條協議》，於1951年5月23日在中華人民共和國首都北京中南海簽訂。"
 description:   "1951年4月，以阿沛·阿旺晋美为首的五人代表團前往北京。中方提出十點作為談判基礎，藏方提案則包括：1、西藏與中國繼續歷史上的供施(cho-yon)關係。2、中國承認西藏的獨立地位。3、西藏領土到達打箭爐。4、西藏邊境由藏軍守衛。5、中國可以在西藏設大使館，使館官員人數不得超過100人。中方拒絕討論藏方提案，談判以中方十點作為基礎。1951年5月23日，五人代表團在未向西藏政府匯報的情況下，代表西藏政府簽訂協議。達賴喇嘛於1951年10月24日致電中國共產黨中央委員會主席毛澤東，表示同意十七條協議；兩天後毛澤東覆電祝賀，同日解放軍進入拉薩，中共此後稱為和平解放。(來源:維基百科)"
 position: left
@@ -88,7 +88,7 @@ position: left
 
 一九五一年五月二十三日　於北京
 
-![signature-page-tibetan.jpg](https://images.weserv.nl/?url=upload.wikimedia.org/wikipedia/commons/a/ac/Seventeen-Point_Plan_Tibetan_7.jpg)
+![signature-page-tibetan](https://github.com/agorahub/_meta/raw/agoran/theagora/pen0/assets/images/a1/0x05_a1_l-19510523-01.jpg)
 ▲ 《十七條協議》藏文版簽章頁
 
 
@@ -119,7 +119,7 @@ position: left
 
 二、中央人民政府全權代表同意西藏地方政府全權代表之上項聲明。
 
-![after-signing.jpg](https://images.weserv.nl/?url=upload.wikimedia.org/wikipedia/commons/8/87/Mao_Zedong,_Ngapoi_Ngawang_Jigme_and_10th_Panchen_after_signing_the_Treaty.gif)
+![after-signing](https://github.com/agorahub/_meta/raw/agoran/theagora/pen0/assets/images/a1/0x05_a1_l-19510523-02.jpg)
 ▲ 1951年5月24日，毛泽东、十世班禅额尔德尼(右)与阿沛·阿旺晋美(左)在庆祝协议签订的宴会上
 
 
@@ -197,5 +197,5 @@ position: left
 #### 06月20日
 達賴再次宣布被迫簽定的十七條協議已被踐踏至蕩然無存，自始協議失效。
 
-![cover-page-chinese.jpg](https://images.weserv.nl/?url=upload.wikimedia.org/wikipedia/commons/5/56/Seventeen-Point_Plan_Chinese_1.jpg)
+![cover-page-chinese](https://github.com/agorahub/_meta/raw/agoran/theagora/pen0/assets/images/a1/0x05_a1_l-19510523-03.jpg)
 ▲ 《十七條協議》中文版封面頁
