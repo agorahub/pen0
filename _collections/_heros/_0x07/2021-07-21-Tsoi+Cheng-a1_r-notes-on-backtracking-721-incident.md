@@ -3,7 +3,7 @@ layout: post
 title:  "記《7.21尋源》"
 author: "蔡玉玲、鄭思思"
 date:   2021-07-21 12:00:00 +0800
-image:  https://images.weserv.nl/?url=assets.thestandnews.com/media/photos/20210720-15_JrmZHwG.png
+image:  https://github.com/agorahub/_meta/raw/agoran/theagora/pen0/assets/images/a1/0x07_a1_r-20210721.jpg
 image_caption: "大數據回溯可疑文宣　閉路電視定格蛛絲馬跡　大數據追溯的嘗試與局限"
 description:   "7.21襲擊事件兩周年前夕，有一個小小的新發展。當夜背脊被打得花斑斑的廚師蘇先生，和另一個步履蹣跚的7.21傷者林婆婆，一同走上律師樓簽字，撤回向警方的索償。原因是案件另一索償人林卓廷已還柙，代表律師何俊仁又入獄，他們只好無奈放棄。"
 position: right
@@ -25,7 +25,7 @@ position: right
 
 蘇先生於是在去年7.21前夕，在連登討論區出帖討論這線索，誰知很快有網民留言，在一條聽到李璧而用大聲公喊「元朗保衛軍、志願軍」的片段中，見畫面上有一名男子身上戴著「守護香港」糾察牌。這男子與當日瘋傳的一張在酒樓內、白衣人手持藤條的大合照中的人士非常相似。
 
-![](https://images.weserv.nl/?url=assets.thestandnews.com/media/photos/new.png)
+![image1](https://github.com/agorahub/_meta/raw/agoran/theagora/pen0/assets/images/a1/0x07_a1_r-20210721-01.jpg)
 ▲ 7.21白衣人襲擊前兩小時，元朗有一個小型遊行，一群白衣人舉牌要「保衛元朗」。
 
 
@@ -39,7 +39,7 @@ position: right
 
 記者之後聯絡到在7.21元朗小型遊行帶頭的李璧而。她接受訪問時說，自己也曾在「守護香港大聯盟」集會上做糾察，擁有同一張糾察牌。但7.21當晚的遊行是元朗居民自發組織，和她任召集人的「珍惜群組」或者「守護香港大聯盟」均無關係，不清楚為何有人會戴上糾察牌。
 
-![](https://images.weserv.nl/?url=assets.thestandnews.com/media/photos/Screenshot_2021-07-20_at_4.16.13_PM.png)
+![image2](https://github.com/agorahub/_meta/raw/agoran/theagora/pen0/assets/images/a1/0x07_a1_r-20210721-02.jpg)
 ▲ 「珍惜群組」召集人李璧而指，「他們守護自己的家園而被迫還手」。
 
 李璧而強調，7.21當晚的遊行是為了守護元朗，她也為被指摘是「黑社會」的人士呼冤：「他們守護自己的家園而被迫還手，這就是真相。事實就是這樣，講一百次這都是真相。」她口中的真相，還包括在7.21前夕網上流傳的「得元朗得天下」文宣；這張被她形容為「嚇死人」的圖片，令他們相信示威者要「光復元朗」，所以他們要上街聚集、守衛元朗。
@@ -87,7 +87,7 @@ position: right
 
 網上流傳的片段所見，立法會議員何君堯到場與白衣人握手，我們發現陪同他握手、曾任其競選義工的黃四川，與在7.16放映會衝突後，跟八鄉分區指揮官李漢民對話和拍膊頭的男士非常相似。而黃四川有份與李璧而一起帶領「保衛元朗」的遊行，而在白衣人進入西鐵車廂襲擊市民後，黃四川更在月台拍掌。
 
-![](https://images.weserv.nl/?url=assets.thestandnews.com/media/photos/Screenshot_2021-07-20_at_4.19.07_PM.png)
+![image3](https://github.com/agorahub/_meta/raw/agoran/theagora/pen0/assets/images/a1/0x07_a1_r-20210721-03.jpg)
 ▲ 仔細翻查7.21當晚閉路電視，見十八鄉鄉委會主席程振明及前主席梁福元曾現身鳳攸北街。
 
 7.21當晚的閉路電視也見到十八鄉鄉委會主席程振明、前主席梁福元、屏山鄉委會前主席曾樹和的身影，其中曾樹和曾與現場的白衣人搭膊頭，也曾與多名白衣人聚集在鳳攸北街，當日有人手持條狀物。
@@ -98,7 +98,7 @@ position: right
 
 而中聯辦在7.21襲擊五天後發聲明，強烈譴責有人惡意造謠將中聯辦與元朗暴力事件「聯繫到一起炒作」、惡意抹黑中央駐港機構形象。
 
-![](https://images.weserv.nl/?url=assets.thestandnews.com/media/photos/20210720-14.png)
+![image4](https://github.com/agorahub/_meta/raw/agoran/theagora/pen0/assets/images/a1/0x07_a1_r-20210721-04.jpg)
 ▲ 7.21襲擊事件至今兩年，有7名白衣人暴動罪成。
 
 

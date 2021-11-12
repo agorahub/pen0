@@ -3,7 +3,7 @@ layout: post
 title:  "加密与去中心"
 author: "Vitalik Buterin"
 date:   2021-09-12 12:00:00 +0800
-image:  https://images.weserv.nl/?url=images.fineartamerica.com/images-medium-large-5/reconstruction-of-the-agora-main-mary-evans-picture-library.jpg
+image:  https://github.com/agorahub/_meta/raw/agoran/theagora/pen0/assets/images/a1/0x09_a1_r-20210912.jpg
 image_caption: "技术领域有两股力量，一股让强者更强、资源向头部集中；一股让保有自由，匿名的自由，思想言论的自由。"
 description:   "将数据的所有权交还给个人、同时保障任务执行的效率是可能的吗？这样的结构有没有可能解决现在的互联网中的一些重大问题？下一代互联网是什么样？去中心化会带来什么？用加密货币和区块链可以构建一个什么样的世界？"
 position: right
@@ -24,7 +24,7 @@ Peter Thiel 说：“加密技术是自由主义；人工智能是共产主义�
 
 #### 去中心化金融 (DeFi)
 
-![](https://images.weserv.nl/?url=ethereum.org/static/9c53e2b9d16ad28a02d9292f0fb6b943/77458/defi.png)
+![image DeFi](https://github.com/agorahub/_meta/raw/agoran/theagora/pen0/assets/images/a1/0x09_a1_r-20210912-01.jpg)
 
 DeFi (Decentralized Finance) 是以太坊网络中，迄今最成功的应用。原因很多。首先，在 DeFi 领域里做事情，有实际经济利益，动力要大得多。其次，与互联网的其他应用相比，传统金融服务极为低效。例如，人在新加坡，如果发封电子邮件给一个在危地马拉的收件人，电子邮件会在几秒钟内到达。虽然，可能美国国家安全局也会将在几秒钟内收到一个复本，但至少收件人的邮件会秒达。如果是金融服务，特别是涉及到国际金融业务时，一笔钱从新加坡汇到危地马拉可能需要数天，甚至数周的时间。在这种情况下，加密货币自然而然会在金融业务中首先得到使用。
 
@@ -34,7 +34,7 @@ DeFi (Decentralized Finance) 是以太坊网络中，迄今最成功的应用。
 
 #### 去中心化社交媒体
 
-![](https://images.weserv.nl/?url=thereboot.com/wp-content/uploads/2020/11/Decentralization-opt.jpg)
+![image DeSM](https://github.com/agorahub/_meta/raw/agoran/theagora/pen0/assets/images/a1/0x09_a1_r-20210912-02.jpg)
 
 > 如果克隆一个布特林，在2021年进入以太坊，会选择什么 Dapp？
 
@@ -58,7 +58,7 @@ DeFi (Decentralized Finance) 是以太坊网络中，迄今最成功的应用。
 
 #### 非同质化代币 (NFT)
 
-![](https://images.weserv.nl/?url=upload.wikimedia.org/wikipedia/commons/c/c5/NFT_Non_Fungible_Token_-_Explained.jpg)
+![image NFT](https://github.com/agorahub/_meta/raw/agoran/theagora/pen0/assets/images/a1/0x09_a1_r-20210912-03.jpg)
 
 NFT (Non-Fungible Token) 的发展出乎意料。四年前有人问我对 NFT 的看法，我当时说 NFT 的前景并没有那么好。现在看来，我是错的。
 
@@ -72,7 +72,7 @@ NFT 会一直存在下去，但宣告标志着范式转移，可能也为时尚�
 
 #### 去中心化治理 (DAO)
 
-![](https://images.weserv.nl/?url=upload.wikimedia.org/wikipedia/commons/thumb/5/5a/AlgorithmicGovernance.svg/1280px-AlgorithmicGovernance.svg.png)
+![image DAO](https://github.com/agorahub/_meta/raw/agoran/theagora/pen0/assets/images/a1/0x09_a1_r-20210912-04.jpg)
 
 DAO (Decentralized Autonomous Organization) 的微妙之处在于，它不是纯粹的金融，也不是纯粹的非金融。DAO 赖以存在的基础是智能合约（Smart Contract）。几年前，它还仅是空洞理论，但今天，已有很多成功通过 DAO 组织的项目。
 

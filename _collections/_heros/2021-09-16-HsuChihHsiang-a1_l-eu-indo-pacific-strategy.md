@@ -3,7 +3,7 @@ layout: post
 title:  "歐盟宣布印太戰略公報"
 author: "許智翔"
 date:   2021-09-16 12:00:00 +0800
-image:  https://images.weserv.nl/?url=i.imgur.com/VMW3NYt.jpg
+image:  https://github.com/agorahub/_meta/raw/agoran/theagora/pen0/assets/images/a1/0x0a_a1_l-20210916.jpg
 image_caption: "The EU Strategy for Cooperation in the Indo-Pacific, 2021"
 description:   "共同通訊文件《歐盟印太合作戰略》（以下簡稱《共同通訊》），為繼2021年4月19日歐盟部長理事會通過《歐盟印太合作戰略決議》（以下簡稱《決議》）後，由歐盟執委會與歐盟對外事務部推出的另一份重量級文件。"
 position: left

@@ -3,7 +3,7 @@ layout: post
 title:  "什么是异化 什么是物化"
 author: "时代前进 / Philosophia"
 date:   2019-05-22 12:00:00 +0800
-image:  https://images.weserv.nl/?url=cdna.artstation.com/p/assets/images/images/013/555/862/large/haydn-hanna-moderntimescolor.jpg
+image:  https://github.com/agorahub/_meta/raw/agoran/theagora/pen0/assets/images/a1/0x03_a1_r-20190522.jpg
 image_caption: "MODERN TIMES, 1936. Chaplin's view on the efficiencies of modern industrialization."
 description:   "没有社会感的人，只有孤立化的原子。"
 position: right
@@ -17,7 +17,7 @@ position: right
 
 大家看异化 Alienation 这个词。它的前半部分 Alien 的意思大家可能会比较熟悉，即「外星人，外国的，不同的。」有一个著名的科幻电影叫「异形」，它的英文名也叫 Alien。所以呢我就想用这样一个不太恰当的办法让大家大致了解一下 Alien 这个词在英文里大概是怎么用的。
 
-![alien.jpeg](https://images.weserv.nl/?url=media.comicbook.com/2021/02/fortnite-alien-1258410-1280x0.jpeg)
+![alien](https://github.com/agorahub/_meta/raw/agoran/theagora/pen0/assets/images/a1/0x03_a1_r-20190522-01.jpg)
 ▲ _宿主/异形_
 
 这是一个异形中的女性角色。异形把卵产在人的身体内部，等它成长到一定程度，这个异形就会从 ta 的胸口蹦的一下钻出来，支配和伤害它的宿主。所以在这里，我们把异化定义为，主体（个人）在发展到一定程度之后，逻辑性地形成了自己的一个对立面、再被这个对立面支配的一个过程。也就是说，明明是被我们每主体创造的一些概念，反而凌驾于我们的本体之上了，这就叫做异化。
@@ -30,7 +30,7 @@ position: right
 
 异化这个词最早是在古希腊的《理想国》一书中出现的，叫 alloiosis (αλλοίωσης)。在《理想国》里，柏拉图把它用为一种宗教活动的状态。我们平常的状态可能是比较随意、随和的，但是在宗教活动中我要变的更加的严肃认真一些，要让自己变得更加的虔敬，进入一种心平气和的状态去拜神。这个虔敬的状态就被称柏拉图称为异化 alloiosis (αλλοίωσης)，是不同于正常状态的。
 
-![The Republic of Plato](https://images.weserv.nl/?url=msbouckbancroftenglish.files.wordpress.com/2016/09/cy1-1titlepage1.jpg)
+![The Republic of Plato](https://github.com/agorahub/_meta/raw/agoran/theagora/pen0/assets/images/a1/0x03_a1_r-20190522-02.jpg)
 ▲ _柏拉图理想国_
 
 因此我们可以看到，异化这个概念从一开始就和宗教存在着一些关系，进入了中世纪更是如此。奥古斯丁，一位著名的基督教神学家、哲学家，也使用了「异化」一词，而他的用法就更具有神学特点了。
@@ -95,7 +95,7 @@ position: right
 
 再看工资。如果工资真的是由市场决定的话，工人的灵活度应该是跟资本家对等的：但是事实可完全不是这样。工人对某个特定资本家的依赖是要比资本家对某个工人的依赖要多得多的，因为资本家可以退出市场，而工人如果不去劳动就会被饿死。这一点在当时尤甚。英国政府当时想尽办法把农民赶到城市里去当工人，而糟糕的社会福利让不去工作基本不可能生存。资本家换个地方投资，是比工人换个地方找工作可是要方便得多的。这一切都决定了，工资本质上是被资本家控制的。
 
-![salary-slip.jpg](http://www.downxia.com/uploadfiles/2019/1118/20191118035246259.jpg)
+![salary-slip](https://github.com/agorahub/_meta/raw/agoran/theagora/pen0/assets/images/a1/0x03_a1_r-20190522-03.jpg)
 ▲ _工资条_
 
 而资本家当时发放工资有一个准则，就是越低越好。在那个年代，给工人改善一点生活来提高工人的劳动效率还并不存在，这是 19 世纪中后期的产物了。当时的人发工资都是越低越好。低到什么程度呢？低到工人能够将将维持自己的生活并能够让自己的后代长大，除此之外绝不多给钱。而当产品价格上涨的时候，资本家只需要保障工人工资的上涨能让工人买得起涨价的东西来维持生活，不至于再次死绝了。在这样的情况下，工人工资的上涨是不可能赶得上整体价格的上涨的，因为对工人维持一家人生存并不必须的价格的上涨是不被考虑的，而工人生存必须的东西的价格的上涨也只会和工资的上涨等比例。在这样的情况下，工人从制造品价格上涨中的得利永远小于资本家。在制造品价格下降的时候更是如此。资本家肯定会先砍工人的工资来保证利润。所以，在不涉及实际变化的名义价格波动中，基本上都是资本家获利而工人遭受损失。
@@ -128,7 +128,7 @@ position: right
 
 理解了以上内容，我们就可以来看卢卡奇提出的「物化」理论了。
 
-![reification-theory.jpg](https://images.weserv.nl/?url=i1.wp.com/platypus1917.org/wp-content/uploads/2015/02/grandville-large1.jpg)
+![reification-theory](https://github.com/agorahub/_meta/raw/agoran/theagora/pen0/assets/images/a1/0x03_a1_r-20190522-04.jpg)
 ▲ _Theory of Reification_
 
 格奥尔格·卢卡奇 (Szegedi Lukács György Bernát) 是个匈牙利人，生活在二十世纪初，被认为是西方马克思主义的开创者，也是「物化」理论的提出者。他在马克思的基础上又做了更深层次的分析，我这里把他的分析分为四点：现实，历史，原则，结果。
@@ -162,7 +162,7 @@ position: right
 
 所谓空间，是一个可以直观感受到、可以直接测量的东西，一米就是一米。时间在资本主义取得大发展之前就不是这样的，那个时候还很少用到时间的测量，最多也就是杀人的时候说一句午时已到，那就是最精确的时间测量了，一般来说老百姓也就是了解到日出而作，日落而息，现代意义上的时间观念几乎是看不到的。那时候两个人约一件事，也就是大致凭个感觉，他肯定不会说就定在某时某刻见面，晚了就是迟到，这样做对于他来说也没有什么价值，稍微早一点晚一点几乎没有影响。
 
-![clock.jpg](https://images.weserv.nl/?url=qph.fs.quoracdn.net/main-qimg-29d08f18829c46470388f2989df03c91)
+![clock](https://github.com/agorahub/_meta/raw/agoran/theagora/pen0/assets/images/a1/0x03_a1_r-20190522-05.jpg)
 ▲ _只剩下量一个维度：时间_
 
 后来到了工业生产的资本主义时代，人们的计时单位才从年月、天具体到了分钟，秒甚至现在某些精密的生产甚至要规范到微秒毫秒，因为只有把人们生活在其中的时间具体化，让它可以测量，才能告诉工人在什么时候就应该做某某事情。这样就能形成一个可以被工人遵守的生产程序，否则工人都根据感觉来控制时间但是每个人感觉又不一样，整个工厂就乱套了。这就是时间的空间化。

@@ -3,7 +3,7 @@ layout: post
 title:  "在野蛮的原始森林中呼喊"
 author: "Atlas"
 date:   2020-03-05 12:00:00 +0800
-image:  https://images.weserv.nl/?url=i.pinimg.com/originals/f6/ff/16/f6ff1604b86f6c64d10c09056e0cd000.jpg
+image:  https://github.com/agorahub/_meta/raw/agoran/theagora/pen0/assets/images/a1/0x02_a1_l-20200305.jpg
 image_caption: "Isaac Newton sitting naked and crouched on a rocky outcropping, at the bottom of the sea."
 description:   "让他们接收到一个信号：除了自己之外，还有其他人，在森林的另一头前行着。"
 position: left

@@ -3,7 +3,7 @@ layout: post
 title:  "論中國與中亞"
 author: "劉仲敬"
 date:   2019-06-26 12:00:00 +0800
-image:  https://images.weserv.nl/?url=p1.itc.cn/q_70/images03/20210123/302cc2462c68463d9437116647bd43ea.jpeg
+image:  https://github.com/agorahub/_meta/raw/agoran/theagora/pen0/assets/images/a1/0x08_a1_r-20190626.jpg
 #image_caption: ""
 description:   "塔利班本身是一回事，塔利班所依託的那些部落組織又是一回事。阿富汗的各種部落可以說是自發秩序的體現，他們始終生活在史前時期那種生活狀態，是依靠血緣關係和復仇的原則組織起來的。比較高級的宗教和團體在他們之上來來去去，但是如果不吸收他們的習慣法的話，在這些地方是站不住腳的。"
 position: right

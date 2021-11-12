@@ -3,7 +3,7 @@ layout: post
 title:  "“只谈法治 不谈政治”"
 author: "邹幸彤"
 date:   2021-07-01 12:00:00 +0800
-image:  https://images.weserv.nl/?url=d32kak7w9u5ewj.cloudfront.net/media/image/2017/12/7eb221ac4c854571b036f5dd5c9ec74d.jpg
+image:  https://github.com/agorahub/_meta/raw/agoran/theagora/pen0/assets/images/a1/0x07_a1_c-20210701.jpg
 image_caption: "「假装看不见政治权力对司法体系的渗透，顺从地做法律系统的螺丝钉。」"
 description:   "“只谈法治，不谈政治”的抗争七步杀——香港法治迷思与司法抗争诤议。"
 position: center
@@ -60,7 +60,7 @@ position: center
 
 而内地的法律界亦无法筑起任何有效的抵抗。法律这样写了，政府这样说了，大家就“依法办事”吧，如此想的不在少数。负隅顽抗的少数人权律师，很容易地就“依法”被剔出法律人之列了。
 
-![](https://images.weserv.nl/?url=d32kak7w9u5ewj.cloudfront.net/media/image/2021/03/82cf6119313f4a0595748915467bdd6b.jpg)
+![image1](https://github.com/agorahub/_meta/raw/agoran/theagora/pen0/assets/images/a1/0x07_a1_c-20210701-01.jpg)
 ▲ 2021年3月1日，47人案提堂，大批市民于西九龙裁判法院外排队进庭听审。摄：陈焯煇/端传媒
 
 
@@ -112,7 +112,7 @@ position: center
 
 这种中间对法律专业、运动得失、政治利益的取舍，值得不值得，谁有资格衡量，谁有资格决定，从来就不是单凭法律专业可以回答的问题，甚至未必是法律专业可以很好地回答的问题。
 
-![](https://images.weserv.nl/?url=d32kak7w9u5ewj.cloudfront.net/media/image/2021/07/0a83a3a635ff453ab00318026f6bd4c4.jpg)
+![image2](https://github.com/agorahub/_meta/raw/agoran/theagora/pen0/assets/images/a1/0x07_a1_c-20210701-02.jpg)
 ▲ 2021年6月29日，西九龙裁判法院，一班支持者追著囚车，声援因2019反修例运动被捕的被告。摄：陈焯煇/端传媒
 
 #### （三）利用专注个体的法律程序瓦解运动的集体性
@@ -159,7 +159,7 @@ position: center
 
 同样规模的开支，大概可以养活数十个小型的NGO，做各种议题倡议，但现在，这些在民间积少成多的资源却全部耗费在司法程序上，还要大量人手协助。当局只要不断立案起诉，就可以牵制民间的资源分配，对于更广泛的公民社会倡议而言，无疑是牵一发动全身，让倡议组织、压力团体走上“积贫积弱”之路。
 
-![](https://images.weserv.nl/?url=d32kak7w9u5ewj.cloudfront.net/media/image/2021/03/4b161fb4495d4eb4a87ca3c7c4f306fa.jpg)
+![image3](https://github.com/agorahub/_meta/raw/agoran/theagora/pen0/assets/images/a1/0x07_a1_c-20210701-03.jpg)
 ▲ 2021年3月2日凌晨，一众摄影记者在山坡上等候拍摄被押解到荔枝角收押所的被告。摄：林振东/端传媒
 
 #### （七）利用法律的制度性使异见者无法在公共空间中生存
@@ -193,5 +193,5 @@ position: center
 
 因为唯有如此，我们才有可能打破政权以法为名而设下的死局。
 
-![](https://images.weserv.nl/?url=d32kak7w9u5ewj.cloudfront.net/media/image/2021/06/96a244bbd98140f196bb7e353b968695.jpg)
+![image4](https://github.com/agorahub/_meta/raw/agoran/theagora/pen0/assets/images/a1/0x07_a1_c-20210701-04.jpg)
 ▲ 2021年6月11日﹐24名民主派及支联会常委涉去年维园六四未经批准集结案，其中20人在西九龙裁判法院再提讯，包括支联会副主席邹幸彤出庭应讯。摄：林振东/端传媒 

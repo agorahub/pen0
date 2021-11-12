@@ -3,7 +3,7 @@ layout: post
 title:  "香港《中英聯合聲明》"
 author: "PEN"
 date:   1984-12-19 12:00:00 +0800
-image:  https://images.weserv.nl/?url=s.rfi.fr/media/display/69e4f3d2-2255-11ea-a8d7-005056a98db9/w:1280/p:16x9/wylhsb.webp
+image:  https://github.com/agorahub/_meta/raw/agoran/theagora/pen0/assets/images/a1/0x05_a1_c-19841219.jpg
 image_caption: "《中華人民共和國政府和大不列顛及北愛爾蘭聯合王國政府關於香港問題的聯合聲明》（英語：Joint Declaration of the Government of the United Kingdom of Great Britain and Northern Ireland and the Government of the People's Republic of China on the Question of Hong Kong），簡稱《中英聯合聲明》（Sino-British Joint Declaration），是中華人民共和國政府與大不列顛及北愛爾蘭聯合王國政府就香港問題共同發表的一份聲明，於1984年12月19日由中國國務院總理趙紫陽與英國首相戴卓爾夫人作為兩國政府首腦在中华人民共和国首都北京簽訂。"
 description:   "在戴卓爾夫人去信美國列根總統，遊說其支持英國在《聲明》上的立場時，強調過這份文件是「具國際約束力的協議」(internationally binding agreement)。倫敦在游說華府時亦引用字眼，指出這份文件是經過英國國會辯論審議、簽署、再由英女皇拍板，強調「具有國際法中的完整法律效力」(will make the Agreement carry the full legal force of International Law)。英国法律專家Martin Dinham认为，就中方如果威脅撕毀聲明的情況，該文件有四點已確立的法律原則：1、條約是具約束力的，「約是立來遵守的」(Treaties are made to be kept)，雙方必須誠實履行；2、而《聯合聲明》是沒有終止規定的，沒辦法單方面終止；3、若違約者出現重大違約(material breach)，才可觸發另一方終止履行及懸置條約；4、不合法推翻條約(unlawful repudiation)，會導致對方不須再履行條文的責任，亦會讓受損一方有權要求賠償(reparations)。(來源:維基百科)"
 position: center

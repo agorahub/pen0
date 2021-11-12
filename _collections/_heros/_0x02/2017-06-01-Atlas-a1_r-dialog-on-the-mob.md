@@ -3,7 +3,7 @@ layout: post
 title:  "对话录：论暴民"
 author: "Atlas"
 date:   2017-06-01 12:00:00 +0800
-image:  https://images.weserv.nl/?url=www.btkittycat.com/wp-content/uploads/2020/03/vzcsd2020.jpg
+image:  https://github.com/agorahub/_meta/raw/agoran/theagora/pen0/assets/images/a1/0x02_a1_r-20170601.jpg
 image_caption: "Ta自称“V”。"
 description:   "1、人民和暴民各自的内涵基于不同的立场会有不同的定义和理解，它们之间不完全等同也不完全对立；2、暴民的现实性要远远强于人民，因为暴民具有实践的维度，即行动；而人民的内涵则过于空泛，往往会流于形式。3、暴民的现实性从道德层面来讲有纯粹破坏和制度重建两个方面的意义，人民的现实性则体现在其遵守现存法的行为，其所蕴含的道德意味（好坏两个层面）相对暴民来说要弱得多。"
 position: right

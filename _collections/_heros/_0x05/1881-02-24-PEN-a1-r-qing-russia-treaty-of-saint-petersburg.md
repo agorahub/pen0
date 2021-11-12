@@ -3,7 +3,7 @@ layout: post
 title:  "伊犁《聖彼得堡條約》"
 author: "PEN"
 date:   1881-02-24 12:00:00 +0800
-image:  https://images.weserv.nl/?url=p1.nanmuxuan.com/images/b3/25bdd559537ae12b.jpg
+image:  https://github.com/agorahub/_meta/raw/agoran/theagora/pen0/assets/images/a1/0x05_a1_r-18810224.jpg
 image_caption: "《聖彼得堡條約》又稱《伊犁條約》或《中俄改訂條約》，是大清帝國与俄羅斯帝國簽訂有關新疆伊犁地區的條約，於1881年2月24日在聖彼得堡簽訂。"
 description:   "1871年(同治十年)，沙俄趁浩罕汗國首領阿古柏在天山南麓宣布東突厥斯坦獨立之際，出兵新疆伊犁地區。1877年，清政府平定新疆；次年派崇厚赴俄談判伊犁問題。1879年10月2日，崇厚在沙俄脅迫下“擅自”簽訂《里瓦幾亞條約》(崇約)，朝野反對，清廷未許。1880年，改派曾紀澤赴俄修訂條約；次年2月24日簽訂《中俄改訂條約》(曾約)，即《伊犁條約》，又稱《聖彼得堡條約》。(來源:維基百科)"
 position: right

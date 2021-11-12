@@ -3,7 +3,7 @@ layout: post
 title:  "港安法第一案手記"
 author: "楊子琪"
 date:   2021-07-20 12:00:00 +0800
-image:  https://images.weserv.nl/?url=assets.thestandnews.com/media/photos/Layer202_PYQnN.png
+image:  https://github.com/agorahub/_meta/raw/agoran/theagora/pen0/assets/images/a1/0x07_a1_l-20210720.jpg
 image_caption: "被告：唐英傑。控罪：煽動他人分裂國家罪、恐怖活動罪等三罪。指定法官：杜麗冰、彭寶琴、陳嘉信。"
 description:   "2021年4月及5月，唐英傑入稟高等法院司法覆核及上訴，要求推翻審訊不設陪審團的決定。案件編號：HCAL473/2021。6月20日，國安法指定法官李運騰裁定唐英傑敗訴。案件維持由三名指定法官於6月23日開審。案件編號：HCCC280/2020。"
 position: left
@@ -17,7 +17,7 @@ position: left
 
 #### 2021.07.09
 
-![](https://images.weserv.nl/?url=assets.thestandnews.com/media/photos/20210710-06_copy.png)
+![image01](https://github.com/agorahub/_meta/raw/agoran/theagora/pen0/assets/images/a1/0x07_a1_l-20210720-01.jpg)
 
 李詠怡教授今日（7月9日）首戰唐英傑法庭，她與稍後也會出場的李立峯教授共同撰寫了報告，對陣控方專家劉智鵬的證供。
 
@@ -29,7 +29,7 @@ position: left
 
 李詠怡雖然一開始略顯緊張，但很快適應法庭節奏，配合劉偉聰大律師的提問，從多個層次逐項反駁劉智鵬，最後甚至指出控辯雙方都沒留意、控方所犯的一個錯處。
 
-![Eliza Lee](https://images.weserv.nl/?url=assets.thestandnews.com/media/photos/207274423_10165173763690265_7435068933173010711_n.jpeg)
+![image02](https://github.com/agorahub/_meta/raw/agoran/theagora/pen0/assets/images/a1/0x07_a1_l-20210720-02.jpg)
 ▲ 辯方邀請的專家證人李詠怡，港大政治與公共行政學系教授，畢業於美國雪城大學，政治科學是該校有口皆碑的強項學科。
 
 她首先解釋她與李立峯的分工。
@@ -42,7 +42,7 @@ position: left
 
 在劉大狀的引導下，作供開始入肉：報告引用《元史：陳祖仁傳》，裏面一句：「自古人君，不幸遇艱虞多難之時，孰不欲奮發有為，成不世之功，以光復祖宗之業。」
 
-![](https://images.weserv.nl/?url=assets.thestandnews.com/media/photos/215782600_4325328640886056_6175442933839331289_n.png)
+![image03](https://github.com/agorahub/_meta/raw/agoran/theagora/pen0/assets/images/a1/0x07_a1_l-20210720-03.jpg)
 ▲ 2021年7月8日，民主派初選案在西九龍裁判法院再提訊，早前獲准保釋的劉偉聰抵達法院。
 
 劉大狀讀得抑揚頓挫，他的聲音在法庭總像一股清泉，從不含糊微弱。他的黑袍也總是最一絲不苟，站起來的動態也是最講求台型，必須向後輕輕一撥袍子。他的雙手拇指上都塗了橙色的指甲油，是非常愛美之人。
@@ -69,7 +69,7 @@ position: left
 
 行走至此，剩下要應對的，是梁天琦2016年在選舉活動裏的發言與「光時」的關係。梁天琦是「光時」口號創始者，如今身陷囹圄。
 
-![](https://images.weserv.nl/?url=assets.thestandnews.com/media/photos/leung-camera_fldyR_yCBLM.png)
+![image04](https://github.com/agorahub/_meta/raw/agoran/theagora/pen0/assets/images/a1/0x07_a1_l-20210720-04.jpg)
 ▲ 本土民主前線發言人梁天琦（中）昨日獲准以五千元保釋，但被禁止踏足涉案地點。
 
 李詠怡論述，梁天琦當年是本民前成員，有理由相信他從2012到2016年的光復行動裏，獲得一些關於「光復」的想法。至於「時代革命」，李詠怡十分嚴謹，說梁天琦從未直接解釋過，唯一可以參考的內容，是他在競選活動的發言：
@@ -82,7 +82,7 @@ position: left
 
 劉智鵬曾引用警方一份報告，說從2019年6月9日到2020年7月1日，統計超過2000條影片裡，不同示威活動出現「光時」和「香港獨立」「香港人建國」等口號的次數，統計每當「光時」出現時，其他與港獨有關口號出現的次數，以此說明「光時」被叫喊，同香港獨立有直接關係。
 
-![](https://images.weserv.nl/?url=assets.thestandnews.com/media/photos/212696642_10161533177209782_2875130463466487594_n.jpeg)
+![image05](https://github.com/agorahub/_meta/raw/agoran/theagora/pen0/assets/images/a1/0x07_a1_l-20210720-05.jpg)
 ▲ 嶺南大學協理副校長、歷史系教授劉智鵬，是控方邀請的專家證人。他在庭上供稱，理解「光時」口號需放入歷史語境，指「光復」一詞千年來意思不變，有從敵人手中奪回政權之意；而「光復香港」則指香港被敵人或外族佔據，該敵人即為中華人民共和國政權。
 
 李詠怡和李立峯想以彼邏輯、證彼之謬，他們用和警方報告同樣的數據分析方法，從連登收集貼文，做Content anaylsis，然後用計算相關系數（Correlation coefficient）（係，快啲拎統計學出來睇⋯⋯）的方法，計算「光復香港」或者「時代革命」與「香港獨立」出現次數的相關性，結論是在統計學上並非重要相關。
@@ -112,7 +112,7 @@ Malcolm X原是美國著名非裔民權運動家，被香港的律政司當成�
 
 #### 2021.07.12
 
-![](https://images.weserv.nl/?url=assets.thestandnews.com/media/photos/wgaewg.png)
+![image06](https://github.com/agorahub/_meta/raw/agoran/theagora/pen0/assets/images/a1/0x07_a1_l-20210720-06.jpg)
 
 港大政治與公共行政學系教授李詠怡為唐英傑一方出庭作供，上週五首戰法庭、由辯方主問之後，今日（7月12日）開始進入被控方盤問的環節，李詠怡與控方主問周天行一度在多個問題上僵持不下，問答持續一天仍未結束。
 
@@ -239,7 +239,7 @@ Malcolm X原是美國著名非裔民權運動家，被香港的律政司當成�
 
 #### 2021.07.13
 
-![](https://images.weserv.nl/?url=assets.thestandnews.com/media/photos/23-21_copy.png)
+![image07](https://github.com/agorahub/_meta/raw/agoran/theagora/pen0/assets/images/a1/0x07_a1_l-20210720-07.jpg)
 
 「如果可以，請讓我用兩到三分鐘時間，解釋什麼是文本分析（Content analysis）。」傳播學者李立峯這句說話，大概最捕捉到他今日在唐英傑案法庭作供的精神。
 
@@ -251,7 +251,7 @@ Malcolm X原是美國著名非裔民權運動家，被香港的律政司當成�
 
 這並非他首次作為專家證人上庭。兩年多前，2018年12月佔中九子案，李立峯曾被法庭接納為專家證人，他的研究報告被接納為呈堂證供，是香港首例。
 
-![](https://images.weserv.nl/?url=assets.thestandnews.com/media/photos/fung-10_cfKja.png)
+![image08](https://github.com/agorahub/_meta/raw/agoran/theagora/pen0/assets/images/a1/0x07_a1_l-20210720-08.jpg)
 
 當年李立峯花了不少時間向時任刑事檢控專員梁卓然解釋問卷調查、李斯特量表等社會科學入門內容，今天，他再次把法庭變為社科課堂，在短短一小時內，焦點小組（Focus group）、文本分析量化和質性研究等社會科學術語充斥法庭的討論，李立峯就研究報告的相關概念，一一向三位國安法法官作簡明解釋，並帶出一個關鍵信息：一個詞彙的意思並非只有單一、真實的答案，而是人們在交談時創造出來的；他同時再次確認李詠怡作供時提及的結論：一個有效的口號，是開放的，會讓人們為它帶來不同意思。
 
@@ -275,7 +275,7 @@ Malcolm X原是美國著名非裔民權運動家，被香港的律政司當成�
 
 劉偉聰繼續問，有40個受訪者的焦點小組訪談（Focus group study），是如何做的。李立峯回答：「在我解釋之前，我想稍微說說焦點小組訪談的目的，在社科研究裏它究竟是什麼。」社科堂繼續展開。
 
-![Francis Lee](https://images.weserv.nl/?url=assets.thestandnews.com/media/photos/65627109_1369911079814500_9006808764904374272_o_M6SJc.jpg)
+![image09](https://github.com/agorahub/_meta/raw/agoran/theagora/pen0/assets/images/a1/0x07_a1_l-20210720-09.jpg)
 ▲ 李立峯（朝雲 攝）
 
 李立峯說，在社會科學，有兩種基本的研究方法：質性研究和量化研究。在2019年的夏天，當社運爆發，他和同事們覺得應該要做一些研究，一開始他們先做了一些現場調查（On-site survey），使用量化研究的方法，不過，局限在於，數字無法說出意義，關於人們參與運動的想法。
@@ -300,7 +300,7 @@ Malcolm X原是美國著名非裔民權運動家，被香港的律政司當成�
 
 問題接踵而來，李立峯一一拆解。
 
-![](https://images.weserv.nl/?url=assets.thestandnews.com/media/photos/tam1_uqFtk.png)
+![image10](https://github.com/agorahub/_meta/raw/agoran/theagora/pen0/assets/images/a1/0x07_a1_l-20210720-10.jpg)
 ▲ 哲學有偈傾節目截圖；圖左起郭柏年、劉保禧、譚蕙芸、李立峯。
 
 他先解釋，在社科研究確實也有傳統，例如做焦點小組訪談大概7個組別就可以，另外，這種訪談方法確實不是要給出數字上的發現，不過不同方法適合不同問題，視乎想要研究的問題是什麼。
@@ -356,7 +356,7 @@ Malcolm X原是美國著名非裔民權運動家，被香港的律政司當成�
 
 #### 2021.07.14
 
-![](https://images.weserv.nl/?url=assets.thestandnews.com/media/photos/tong-20.png)
+![image11](https://github.com/agorahub/_meta/raw/agoran/theagora/pen0/assets/images/a1/0x07_a1_l-20210720-11.jpg)
 
 「Mr. Chau，你想問的應該叫做“Coding”（編碼），我昨天已說過。Coding好簡單，例如你幫我哋收集了一些（連登）材料，看這個『四葉妹妹』的貼文，有冇包含『光復香港』？有的話，編碼為『1』。」
 
@@ -515,7 +515,7 @@ Malcolm X原是美國著名非裔民權運動家，被香港的律政司當成�
 
 #### 2021.07.15
 
-![](https://images.weserv.nl/?url=assets.thestandnews.com/media/photos/35-39_copy.png)
+![image12](https://github.com/agorahub/_meta/raw/agoran/theagora/pen0/assets/images/a1/0x07_a1_l-20210720-12.jpg)
 
 「只有變量（Variable）先可以計算相關系數。在警方的報告裏，『光時口號出現』是一個常量（Constant），是做不到相關性分析的。」李立峯向法官解釋道。
 
@@ -668,7 +668,7 @@ Malcolm X原是美國著名非裔民權運動家，被香港的律政司當成�
 
 #### 2021.07.20
 
-![](https://images.weserv.nl/?url=assets.thestandnews.com/media/photos/34-39_copy.png)
+![image13](https://github.com/agorahub/_meta/raw/agoran/theagora/pen0/assets/images/a1/0x07_a1_l-20210720-13.jpg)
 
 7月20日，清晨暴雨，唐英傑案來到控辯雙方結案陳詞的最後階段。15天以來，這第一場的國安法審訊，在香港法庭裏，顯得既陌生，又熟悉：陌生的是罪名和法律條文，熟悉的是一個又一個普通法的程序：
 

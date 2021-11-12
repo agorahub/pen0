@@ -2,8 +2,8 @@
 layout: post
 title:  "荃湾开花事件"
 author: "Pang"
-date:   2019-12-06 00:00:00 +0800
-image:  https://images.weserv.nl/?url=github.com/agorahub/_meta/raw/agoran/theagora/pen0/assets/images/pang-a1-2019-12-06.jpg
+date:   2019-12-06 12:00:00 +0800
+image:  https://github.com/agorahub/_meta/raw/agoran/theagora/pen0/assets/images/a1/0x01_a1_r-20191206.jpg
 image_caption: "(防暴警于荃湾某楼上)麦当劳截查"
 description:   "2019年11月10号晚，荃湾内街发生了“开花”事件，我和Betty目击了19:30到22:50的事件片段，本文是目击记录。"
 position: right

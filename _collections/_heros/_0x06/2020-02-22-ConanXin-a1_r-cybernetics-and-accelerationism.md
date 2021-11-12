@@ -3,7 +3,7 @@ layout: post
 title:  "控制论与加速主义"
 author: "ConanXin"
 date:   2020-02-22 12:00:00 +0800
-image:  https://images.weserv.nl/?url=1.bp.blogspot.com/-0CFe_RpDnto/Tj_yeR3Wg3I/AAAAAAAAAPE/BSmydrkTntM/s1600/brain_chip_illustration-large.jpg
+image:  https://github.com/agorahub/_meta/raw/agoran/theagora/pen0/assets/images/a1/0x06_a1_r-20200222.jpg
 image_caption: "赫鲁晓夫向计算机提出一个难以想象的复杂问题：“共产主义何时实现？”"
 description:   "盒子嘎嘎作响，回答：“在17公里。”赫鲁晓夫笑了，把他的问题重复了一遍。机器没有任何延迟，回答：“在17公里。”现在，这位同志非常生气，抱怨这台昂贵机器的愚蠢。技术人员很惊讶，因为以前每次测试都很成功，所以他们让计算机解释一下。这台机器无畏地说：“17公里的结果是根据赫鲁晓夫同志上次讲话的数据得出的。他在讲话中说，每制定一个五年计划，我们就向共产主义迈进一步。”"
 position: right
@@ -60,7 +60,7 @@ position: right
 
 反对这种提议的人很快就增加了。这些计划受到了来自三个方面的批评。首先，官僚们和工厂经理们不喜欢对他们的日常工作和总体效率进行更多的观察和标准化控制。其次，更自由的经济学家看到了中央集权和自上而下的广泛规划的新兴起。最后，为了维持行政现状，建立一个通用的计算机化数据网络遭到了最高政治级别的抵制。
 
-![soviet-union-ogas-logo.jpg](https://images.weserv.nl/?url=alchetron.com/cdn/ogas-60e8eeca-1c54-4e6f-b0d3-3d819b85d5c-resize-750.jpg)
+![soviet-union-ogas-logo](https://github.com/agorahub/_meta/raw/agoran/theagora/pen0/assets/images/a1/0x06_a1_r-20200222-01.jpg)
 ▲ 苏联“OGAS”标志
 
 着眼于1960年代后期的美国ARPANET，维克多·格鲁什科夫开发并推广了OGAS（“全国范围的信息收集和处理的自动化管理系统”的俄文缩写），这是一种控制苏联所有民用生产和零售的控制论设计。OGAS包括了数千个计算机中心、自动化网络的连接和一个强大的监督机构。出于维护权力和权威的平衡，而不是严格划分职权的愿望，OGAS的一般控制论思想被分割成不同的技术工具。1971年第24届党代会以后，几个部委、机关、党和军队根据自己的特殊需要，加强了各自对网络和信息技术的实施。他们都注重技术方面，而忽略了全面的控制论管理模式。不同的程序在硬件和软件层面上互不兼容。除了军事部门的秘密和不透明系统，还有为航空、银行、天气预报以及许多国家和政党机构建立的单一和不兼容的网络。
@@ -80,7 +80,7 @@ position: right
 
 从生产现场向中心传输数据的最佳解决方案似乎是电传网络。“工程”的第二个组成部分是一个名为Cyberstride的统计软件。这些数据由管理人员在各个工厂收集，然后送到圣地亚哥，在那里被加工成大型机的穿孔卡片，然后进行计算。基于这些统计计算，信息被发送回外围生产站点。Cyberstride应该像资源问题的警报系统一样工作。它不是一个严格的控制或自动化工具，因为它只应该向工厂指出潜在的问题，然后工厂可以相对自由地进行调整。第三个组成部分是CHECO，用于动态经济模拟和预测的软件。CORFO的系统工程师劳尔·埃斯佩约(Raúl Espejo)最近在一篇个人反思文章中写道，Cyberstride是“地面上的耳朵”，而CHECO被概念化为“未来的眼睛”。最后一个部分是圣地亚哥的中央操作室。Cyberstride和CHECO的所有信息都可以在专为工人、工程师和政治家设计的操作室中显示。这个操作室是“工程”最著名的部分，克劳斯·皮亚斯(Claus Pias)称之为系统的“用户界面”，今天它是一个技术政治(Techno-political)的象征。
 
-![cybersyn-central-operation-room.jpg](https://images.weserv.nl/?url=i.imgur.com/UzYWVGy.jpg)
+![cybersyn-central-operation-room](https://github.com/agorahub/_meta/raw/agoran/theagora/pen0/assets/images/a1/0x06_a1_r-20200222-02.jpg)
 ▲ “赛博协同控制工程”中央操作室
 
 从1972年8月开始，该团队在圣地亚哥市中心建造了一个六边形的房间。里面有七把旋转的椅子，扶手上有控制按钮。几何形状被用来控制幻灯片，因为未来的参与者是不能正确使用键盘的政府成员或工厂工人。在那个时候，使用普通键盘是女秘书的专长，设计师们的目标是直接控制操作室的男性，而不是任何中介人。不同的显示器代表着输入的数据，不是在电视或数字屏幕上，而是在由一群年轻的女性设计学生手工绘制的幻灯片上。幻灯片的切换不是自动的，而是必须在操作室的背后由人工完成。控制论、Cyberstride、CHECO和操作室只是斯塔福德·比尔计划的基础，他计划让智利成为一个基于控制论思想的“活系统”(Viable system)。例如，有一种从未实现的Cyberfolk，由收音机或电视机旁边的数千个“Algedonic meters”组成。使用这些设备，公民应该能够实时表达他们对政治的看法，政府将会收到关于他们政治计划的直接反馈。
