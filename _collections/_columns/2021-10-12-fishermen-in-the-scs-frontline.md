@@ -84,7 +84,7 @@ description: "南中国海上的争端，常用一张地图展现，各种颜色
 
 #### 他们被派到陌生海域捕鱼，以抵御外来非法捕鱼活动为目的
 
-![of-Indonedia](https://github.com/agorahub/_meta/raw/agoran/theagora/pen0/assets/images/c1/c1-20211012-012.jpg)
+![of-Indonesia](https://github.com/agorahub/_meta/raw/agoran/theagora/pen0/assets/images/c1/c1-20211012-012.jpg)
 ▲ 印尼纳土纳区，一位渔民与他的渔船。摄：Denny Sugiharto
 
 > 仅仅一个月后，所有船只都返回了，每艘船平均损失3亿印尼盾（20,700美元），船东仍然需要向船员支付工资，“大家的任务是保卫国家，但25名渔民还是他们家庭的经济支柱。”
