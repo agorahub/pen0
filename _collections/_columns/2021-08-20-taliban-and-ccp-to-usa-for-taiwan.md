@@ -3,7 +3,7 @@ layout: post
 title : "塔利班與中共，美國，台灣"
 author: "William"
 date  : 2021-08-20 12:00:00 +0800
-image : https://images.weserv.nl/?url=i.imgur.com/3iB5byB.jpg
+image : https://github.com/agorahub/_meta/raw/agoran/theagora/pen0/assets/images/c1/c1-20210820-01.jpg
 image_caption: "塔利班2.0的時代來臨。"
 description: "相比20年前，在阿富汗戰爭中勢如破竹，僅僅數日就重新拿下全國絕大部分地區的塔利班組織看起來似乎成熟了很多，理性了很多。很多人說，塔利班進化了，塔利班有機會擺脫極端伊斯蘭原教旨主義，讓阿富汗成為一個正常國家。"
 ---

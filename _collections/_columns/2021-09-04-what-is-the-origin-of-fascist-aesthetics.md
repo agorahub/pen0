@@ -3,7 +3,7 @@ layout: post
 title : "什么才是法西斯美学的源头？"
 author: "郝建"
 date  : 2021-09-04 12:00:00 +0800
-image : https://images.weserv.nl/?url=i.imgur.com/o9YLpJw.jpg
+image : https://github.com/agorahub/_meta/raw/agoran/theagora/pen0/assets/images/c1/c1-20210904-01.jpg
 image_caption: "电影《意志的胜利》场景，1935年。"
 description: "法西斯美学本质上是一种美学上的暴力，根植于人性中对美的趣味和力量的崇拜。"
 ---
@@ -12,12 +12,12 @@ description: "法西斯美学本质上是一种美学上的暴力，根植于人
 
 <!--more-->
 
-![](https://images.weserv.nl/?url=i.imgur.com/QKPM1tf.jpg)
+![Leni Riefenstahl and Hitler](https://github.com/agorahub/_meta/raw/agoran/theagora/pen0/assets/images/c1/c1-20210904-011.jpg)
 ▲ 1934年德国纽伦堡，希特勒在集会的讲台上。莱尼·瑞芬斯坦为电影《意志的胜利》拍摄。
 
 苏珊·桑塔格将迷人的法西斯美学深刻解密，但是她没有追溯过其电影中的形式美学以及电影功能观念上的渊源关系。电影中的法西斯美学将强大的电影形式美感与功利实用的国家主义宣传灌输完美融为一体。仔细考察我们才发现，其始作俑者并不是那位纳粹女导演。滥觞之处在另一个国度，在瑞芬斯坦之前的另一位电影导演那里。此人也是一位天才的电影形式开创者，他在电影形式方面的天才比瑞芬斯坦更强大，他的作品是意识形态征用电影美感的先驱，他在电影史上的地位是瑞芬斯坦不可望其项背的，他的作品是全世界的电影学生必须完成的拉片作业；最重要的，他电影创作比瑞芬斯坦要整整早10年。不像莱尼·瑞芬斯坦声称自己“对一切美好的东西”敏感而并无理论著述，他还是一位形式理论的探索者和宣传、灌输美学的奠基人。
 
-![](https://images.weserv.nl/?url=upload.wikimedia.org/wikipedia/commons/2/26/Sergei_Eisenstein_03.jpg)
+![Sergei M. Eisenstein](https://github.com/agorahub/_meta/raw/agoran/theagora/pen0/assets/images/c1/c1-20210904-012.jpg)
 ▲ 谢尔盖·爱森斯坦（1893－1948）
 
 他就是前苏联导演谢尔盖·爱森斯坦 (Sergei M. Eisenstein)，他不仅与后来者纳粹御用女导演莱尼·瑞芬斯坦一样具有形式天才，他更坚定而明确地地主张，电影必须为某个阶级的意识形态服务。与许多中国艺术家所声称的理念一样，他完全从实用功利的角度来认识艺术：“艺术家和人民在一起工作，为人民献出自己的力量，并把自己看作是人民的喉舌。”

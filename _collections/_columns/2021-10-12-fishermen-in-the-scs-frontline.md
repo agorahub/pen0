@@ -3,7 +3,7 @@ layout: post
 title : "南中国海前线的渔民们"
 author: "Vo Kieu Bao Uyen, Aliza Shah, Keith Fabro, Fuk Loi, Jamal A. Nashr, Yogi Eka Sahputra, et al."
 date  : 2021-10-12 12:00:00 +0800
-image : https://images.weserv.nl/?url=i.imgur.com/bfH7jk1.jpg
+image : https://github.com/agorahub/_meta/raw/agoran/theagora/pen0/assets/images/c1/c1-20211012-01.jpg
 image_caption: "越南、印度尼西亚、马来西亚、菲律宾和中国的渔民眼里的这片海⋯⋯鱼在哪里？边界在哪里？相遇时，会剑拔弩张，视而不见，还是像以前那样聊一聊天、换一换渔获？"
 description: "南中国海上的争端，常用一张地图展现，各种颜色的线条，便是周边国家对领海的主张。地图代表著主权，而生活在此、靠海而生的普通人或者要为“维护主权”出力、或者就是“侵犯主权”的敌人。"
 ---
@@ -16,7 +16,7 @@ description: "南中国海上的争端，常用一张地图展现，各种颜色
 
 #### 越南被其他国家称为“偷鱼者”，但实际情况要复杂得多
 
-![](https://images.weserv.nl/?url=i.imgur.com/VN2Eecd.jpg)
+![of-Vietnam](https://github.com/agorahub/_meta/raw/agoran/theagora/pen0/assets/images/c1/c1-20211012-011.jpg)
 ▲ 杜伊用手机地图展示他曾经捕鱼的海域。摄：Vo Kieu Bao Uyen
 
 > 被释放后，他说会再找一个新船东，“没有别的办法。我们没有土地，没有财产，只有在（每次）被捕后累积的债务。”
@@ -84,7 +84,7 @@ description: "南中国海上的争端，常用一张地图展现，各种颜色
 
 #### 他们被派到陌生海域捕鱼，以抵御外来非法捕鱼活动为目的
 
-![](https://images.weserv.nl/?url=i.imgur.com/1Trfgig.jpg)
+![of-Indonedia](https://github.com/agorahub/_meta/raw/agoran/theagora/pen0/assets/images/c1/c1-20211012-012.jpg)
 ▲ 印尼纳土纳区，一位渔民与他的渔船。摄：Denny Sugiharto
 
 > 仅仅一个月后，所有船只都返回了，每艘船平均损失3亿印尼盾（20,700美元），船东仍然需要向船员支付工资，“大家的任务是保卫国家，但25名渔民还是他们家庭的经济支柱。”
@@ -124,7 +124,7 @@ description: "南中国海上的争端，常用一张地图展现，各种颜色
 
 #### 寻找成为“海上民兵”的他们
 
-![](https://images.weserv.nl/?url=i.imgur.com/ZsSrAk9.jpg)
+![of-China](https://github.com/agorahub/_meta/raw/agoran/theagora/pen0/assets/images/c1/c1-20211012-013.jpg)
 ▲ 2013年，习近平视察海南省潭门镇，留下“造大船、闯深海、捕大鱼”的口号。摄：Fuk Loi
 
 > “禁海的时候，国家就有任务下来。国家干部安排你，几个人一条大船，慢慢开的也有，到西沙、南沙抛锚的也有。一次性发工资。”
@@ -208,7 +208,7 @@ description: "南中国海上的争端，常用一张地图展现，各种颜色
 
 #### 在无休止的领土争端和越来越少的渔获中，渔民希望难寻
 
-![](https://images.weserv.nl/?url=i.imgur.com/qk1RWGL.jpg)
+![of-Philippines](https://github.com/agorahub/_meta/raw/agoran/theagora/pen0/assets/images/c1/c1-20211012-014.jpg)
 ▲ 菲律宾渔夫雨果（Larry Hugo）
 
 > 这些居民在支持菲律宾宣示“西菲律宾海”主权方面发挥著至关重要的作用。
@@ -274,7 +274,7 @@ description: "南中国海上的争端，常用一张地图展现，各种颜色
 
 #### 越来越贫乏的资源，迫使小渔民去到更深的海域
 
-![](https://images.weserv.nl/?url=i.imgur.com/xRpilqA.jpg)
+![of-Malaysia](https://github.com/agorahub/_meta/raw/agoran/theagora/pen0/assets/images/c1/c1-20211012-015.jpg)
 ▲ 罗西拉瓦蒂与一众渔民把渔船拉到岸边。摄：Aliza Shah
 
 > “过去，无法回本的情况是非常罕见的。现在，这种情况每个月发生10次以上。”

@@ -3,7 +3,7 @@ layout: post
 title : COLUMN TEMPLATE
 author: AUTHOR NAME
 date  : 0000-00-00 00:00:00 +0800
-image : https://images.weserv.nl/?url=avatars0.githubusercontent.com/u/59945575
+image : https://github.com/agorahub.png
 image_caption: FLAG OF THE REPUBLIC OF AGORA
 description: WELCOME TO THE AGORA ZINE.
 ---

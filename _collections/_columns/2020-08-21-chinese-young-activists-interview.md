@@ -3,7 +3,7 @@ layout: post
 title : "青年行动者访谈：我们能做什么"
 author: "多数派Masses"
 date  : 2020-08-21 12:00:00 +0800
-image : https://images.weserv.nl/?url=img3.cache.netease.com/photo/0001/2012-09-26/8CAKGLBS00AN0001.jpg
+image : https://github.com/agorahub/_meta/raw/agoran/theagora/pen0/assets/images/c1/c1-20200821-01.jpg
 image_caption: "2012年9月24日，广东中山，小榄车站，公交司机与售票员共近百人罢工、打出横幅维护其劳动权益，希望公司能给其合理劳动待遇。"
 description: "政权打死你是轻而易举的，但它就是让你这样活着，因为它还想继续认识你，并通过你去理解民间领域。所以你也就变成了霸权生产和强化中的一环。"
 ---

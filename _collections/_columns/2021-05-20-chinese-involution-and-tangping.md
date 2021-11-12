@@ -3,7 +3,7 @@ layout: post
 title : "“屌丝”的“内卷”与“躺平”"
 author: "长平"
 date  : 2021-05-20 12:00:00 +0800
-image : https://images.weserv.nl/?url=i.imgur.com/XRM6zWf.jpg
+image : https://github.com/agorahub/_meta/raw/agoran/theagora/pen0/assets/images/c1/c1-20210520-01.jpg
 image_caption: "躺平主義主張年輕人不買房、不買車、不結婚、不生娃、不消費，維持生存的最低標準，拒絕成為他人賺錢的機器和被剝削的奴隸。"
 description: "“躺平”需要社会福利、司法独立和思想自由，中共不会容忍真正的社会反抗。"
 ---
@@ -22,7 +22,7 @@ description: "“躺平”需要社会福利、司法独立和思想自由，中
 
 #### “屌丝”的怨愤去了哪里？
 
-![inner-involution.jpg](https://images.weserv.nl/?url=cdn.jiemodui.com/img/Public/Uploads/item/20201109/1604920473776231.jpg)
+![inner-involution](https://github.com/agorahub/_meta/raw/agoran/theagora/pen0/assets/images/c1/c1-20210520-011.jpg)
 ▲ 内卷？内卷化。
 
 “内卷化”准确描述了中国社会各方面过度竞争的结果，却容易让人认为这是一种文化现象，而忽略了其中的制度因素。“躺平”与否，首先也不主要是人生态度或育儿观念，而是社会现实早已写就的脚本。
@@ -37,7 +37,7 @@ description: "“躺平”需要社会福利、司法独立和思想自由，中
 
 #### 不是谁想“躺平”就能“躺平”
 
-![tangpingnism.png](https://images.weserv.nl/?url=images-news.now.com/newsimage/NewsImage/NP-TANGPINGNISM-210603.png)
+![tangpingnism](https://github.com/agorahub/_meta/raw/agoran/theagora/pen0/assets/images/c1/c1-20210520-012.jpg)
 ▲ 躺平？未遂。
 
 据说“躺平主义”并不是中国人的发明，人家日本青年早就“躺平”了。泛泛地说，日本的不婚主义，台湾的“小确幸”，柏林的流浪艺术家，都算是某种程度的“躺平”。但是， “躺平”需要制度环境。从硬件上说，它需要有一定的社会福利，让躺下的人不那么容易饿死；它还需要真正的法治，让城市官员不能动辄驱赶“低端人口”。从软件上说，它需要更少歧视、更多尊重的社会文化，以及自我赋权、独立自主的观念意识。一会儿被忽悠着去恨日本人，一会儿被教唆着要去打台湾，一会儿要在海外“犯我中华虽远必诛”抓汉奸，这样的青年是不大可能真的“躺平”的。
