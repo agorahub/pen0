@@ -3,7 +3,7 @@ layout: post
 title : "《梅艳芳》没拍出来的梅艳芳"
 author: "朗天"
 date  : 2021-11-08 12:00:00 +0800
-image : https://d32kak7w9u5ewj.cloudfront.net/media/image/2021/11/670e1bcaae20439b92f5bbdf9dcf4412.jpg
+image : https://github.com/agorahub/_meta/raw/agoran/theagora/pen0/assets/images/c1/c1-20211108-01.jpg
 image_caption: "「梅艳芳应该是没有拍出来的那个梅艳芳，这里要求观众入场观赏时，要自行留意那缺席了的⋯⋯」"
 description: "为什么要拍梅艳芳？怎样拍？找谁演？什么时候进行？这些问题从她2003年逝世以来一直存在，因为即使用最简单的方式说，也不得不确认她是一个传奇，有太多和她有关的事情值得一再检视、珍惜，而其中最关键的，当然就是可以藉著呈现她的生平，同时呈现她所经历过的香港。"
 ---
