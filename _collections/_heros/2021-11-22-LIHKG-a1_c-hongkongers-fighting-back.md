@@ -3,7 +3,7 @@ layout: post
 title:  "「香港人」必須「反守為攻」"
 author: "誰念西風獨自涼"
 date:   2021-11-22 12:00:00 +0800
-image:  https://d32kak7w9u5ewj.cloudfront.net/media/image/2021/07/0648d15bd734452bb8cbe5b99853aefb.jpg
+image:  https://github.com/agorahub/_meta/raw/agoran/theagora/pen0/assets/images/a1/0x0b_a1_c-20211122.jpg
 image_caption: "《時代革命》以2019年香港「反送中」運動為主題，涵蓋佔領立法會、721元朗襲擊以及香港理工大學衝突等事件，以2020年《香港國安法》作結。"
 description:   "一、當下香港處身既時代背景<br>
 二、「等待」帶來「被毀滅」<br>
@@ -64,12 +64,12 @@ position: center
 
 對中共而言，習近平係毛澤東思想既擁戴者，而毛澤東既最終目標並唔係單純統治中國，而係令佢理想下既共產主義征服全世界。佢為左打敗資本主義，甚至曾經向蘇聯提議響中國既土地上面同美國打一場核戰爭，豪言「死三億人也沒關系」。
 
-![image1](https://na.cx/i/qC0Atw2.png)
+![image1](https://github.com/agorahub/_meta/raw/agoran/theagora/pen0/assets/images/a1/0x0b_a1_c-20211122-01.jpg)
 ▲ 《香港67暴動始末—解讀吳荻舟》曾經記載吳荻舟響接見港澳工人代表團既一番說話
 
 亦因此定立左「長期打算，充分利用」既政策，建立左對外既「白蟻滲透策略」。
 
-![image2](https://na.cx/i/hbr4mYU.jpg)
+![image2](https://github.com/agorahub/_meta/raw/agoran/theagora/pen0/assets/images/a1/0x0b_a1_c-20211122-02.jpg)
 ▲ 「白蟻滲透策略」
 
 由上面兩段可見，當時既毛澤東政府其實就已經有利用香港取得外匯，與及利用香港輸出革命到全世界既諗法。鄧小平既改革開放解決左當時需要經過香港取得外匯既問題，同時門戶開放政策令對外既白蟻滲透策略可以直接由中國內部進行，而無需再經香港呢個第三方。因此當時鄧小平亦唔再延續「長期打算，充分利用」策略，直接收回香港，因此香港對中共黎講只有工具上既意義(吸收外匯)，而冇政治上既意義。

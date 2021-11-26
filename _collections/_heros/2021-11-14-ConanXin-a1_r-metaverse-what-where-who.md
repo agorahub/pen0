@@ -3,7 +3,7 @@ layout: post
 title:  "元宇宙"
 author: "ConanXin"
 date:   2021-11-14 12:00:00 +0800
-image:  https://coinyuppie.com/wp-content/uploads/2021/10/5666278_image3.jpg
+image:  https://github.com/agorahub/_meta/raw/agoran/theagora/pen0/assets/images/a1/0x0b_a1_r-20211114.jpg
 image_caption: "技术经常制造出没人能预测的惊喜。然而，技术的发展往往会提前几十年就能预料到。"
 description:   "1970年代末以来，技术界已经设想了互联网的未来状态，如果不是准继承者，那就是“元宇宙”。"
 position: right
