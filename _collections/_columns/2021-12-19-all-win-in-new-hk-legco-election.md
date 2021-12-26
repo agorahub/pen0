@@ -3,7 +3,7 @@ layout: post
 title : "香港人終於全部贏了"
 author: "鄭立"
 date  : 2021-12-19 12:00:00 +0800
-image : https://i.imgur.com/2z31pUb.jpg
+image : https://github.com/agorahub/_meta/raw/agoran/theagora/pen0/assets/images/c1/c1-20211219-01.jpg
 image_caption: "功成不必在我 | 我在必不成功"
 description: "多年熱中投票和選舉的各位，終於修成正果，大家都贏，開不開心，意不意外？"
 ---

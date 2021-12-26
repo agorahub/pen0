@@ -3,7 +3,7 @@ layout: post
 title : "當集體行動受責　個人憐憫只是鬧劇"
 author: "鄒幸彤"
 date  : 2021-12-13 12:00:00 +0800
-image : https://i.imgur.com/ZqZb531.jpg
+image : https://github.com/agorahub/_meta/raw/agoran/theagora/pen0/assets/images/c1/c1-20211213-01.jpg
 image_caption: "“When mass action is condemned, individual leniency is but a farce.” — Chow Hang Tung’s Mitigation Statement"
 description: "去年六四和平集會，24名民主派人士，被控「煽惑他人參與未經批准集結」及「明知而參與一個未經批准集結」等罪。其中鄒幸彤今早解聘律師團隊自行陳情。她在庭上讀出英文陳情信，指今次審訊並非針對她本人，而是針對支聯會過去31年來，悼念六四的傳統。她強調，受良知驅使的人不會被牢獄嚇怕。無論法律及禁令如何嚴苛，燭光必定可以延續下去。她最後提到，自己只不過是這些有良知之人的其中一員，這也是她希望法庭判刑時考慮的唯一基礎，並指「當集體行動受到譴責，對個人憐憫只是一場鬧劇。」"
 ---
