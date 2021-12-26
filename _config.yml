@@ -16,15 +16,19 @@ feed:
       path: "/heros.xml"
     columns:
       path: "/columns.xml"
+    hkers:
+      path: "/hkers.xml"
 plugins:
   - jekyll-feed
 
 excerpt_separator: <!--more-->
 collections_dir: _collections
 collections:
+  heros:
+    output: true
   columns:
     output: true
-  heros:
+  hkers:
     output: true
 
 # Social media
