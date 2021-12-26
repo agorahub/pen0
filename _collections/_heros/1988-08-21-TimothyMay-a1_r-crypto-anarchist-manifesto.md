@@ -3,7 +3,7 @@ layout: post
 title:  "加密安那其宣言"
 author: "蒂姆·梅"
 date:   1988-08-21 12:00:00 +0800
-image:  https://i.imgur.com/Gws0FT2.jpg
+image:  https://github.com/agorahub/_meta/raw/agoran/theagora/pen0/assets/images/a1/0x0c_a1_r-19880821.jpg
 #image_caption: "https://activism.net/cypherpunk/crypto-anarchy.html"
 description:   "“一个自由交换和交易信息的市场，不受第三方的监听和审查。”"
 position: right

@@ -3,7 +3,7 @@ layout: post
 title:  "赛博格宣言"
 author: "唐娜·哈洛威"
 date:   1985-04-01 12:00:00 +0800
-image:  https://i.imgur.com/Y90JIxB.jpg
+image:  https://github.com/agorahub/_meta/raw/agoran/theagora/pen0/assets/images/a1/0x0c_a1_l-19850401.jpg
 #image_caption: "https://libcom.org/library/cyborg-manifesto-science-technology-socialist-feminism-late-20th-century-donna-haraway"
 description:   "《宣言》批判传统女性主义观念，特别是女性主义者强调的身份认同政治，主张以亲近性 (Affinity) 取代结盟 (Coalition)。"
 position: left

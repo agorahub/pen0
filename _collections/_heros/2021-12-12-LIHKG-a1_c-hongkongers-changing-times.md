@@ -3,7 +3,7 @@ layout: post
 title:  "拒絕命運、改變時代"
 author: "誰念西風獨自涼"
 date:   2021-12-12 12:00:00 +0800
-image: https://i.imgur.com/Kgc3VIx.jpg
+image: https://github.com/agorahub/_meta/raw/agoran/theagora/pen0/assets/images/a1/0x0c_a1_c-20211212.jpg
 image_caption: "《光復香港 時代革命》壁畫 | L.A., USA, Apr., 2021"
 description:   "一、當下世界處身既時代背景<br>
 二、普世價值既改變與退讓<br>
