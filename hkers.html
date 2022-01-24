@@ -1,0 +1,20 @@
+---
+head: C2
+title: HKers
+layout: default
+collection: hkers
+permalink: /hkers/
+---
+<div id="masthead">
+  <h1>{{page.title}}</h1>
+  <h6 style="text-align:center">{{site.description}} ♢ {{page.head}}</h6>
+</div>
+
+<!-- MASONRY SECTION -->
+<section class="masonry">
+  {% for item in site[page.collection] reversed %}
+    <div class="item">
+      {% include article.html item=item %}
+    </div>
+  {% endfor %}
+</section>

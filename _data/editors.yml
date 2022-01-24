@@ -1,3 +1,6 @@
 - name: theagora
   class: '&#9776;'
   github: theagora
+- name: hokoi
+  class: '&#9777;'
+  github: hokoi

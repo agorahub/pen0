@@ -1,5 +1,5 @@
 title: The Republic of Agora
-description: EMPOWER THE PUBLIC ♢ VOL.11 © MMXXI
+description: EMPOWER THE PUBLIC ♢ VOL.12 © MMXXI
 baseurl: "/pen0" # the subpath of your site, e.g. /blog
 url: "https://agorahub.github.io" # the hostname & protocol, e.g. http://example.com
 google_analytics: 'UA-166928354-2' # agorahub-pen0
@@ -16,15 +16,19 @@ feed:
       path: "/heros.xml"
     columns:
       path: "/columns.xml"
+    hkers:
+      path: "/hkers.xml"
 plugins:
   - jekyll-feed
 
 excerpt_separator: <!--more-->
 collections_dir: _collections
 collections:
+  heros:
+    output: true
   columns:
     output: true
-  heros:
+  hkers:
     output: true
 
 # Social media
