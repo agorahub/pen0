@@ -20,6 +20,7 @@ feed:
       path: "/hkers.xml"
 plugins:
   - jekyll-feed
+  - octopress-paginate
 
 excerpt_separator: <!--more-->
 collections_dir: _collections

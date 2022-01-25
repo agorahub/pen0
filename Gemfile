@@ -11,6 +11,7 @@ gem "minima", "~> 2.5"
 # If you have any plugins, put them here!
 group :jekyll_plugins do
   gem "jekyll-feed"
+  gem "octopress-paginate"
 end
 
 # Windows and JRuby does not include zoneinfo files, 
