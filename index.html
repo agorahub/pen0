@@ -39,16 +39,11 @@ layout: default
 <!-- MASONRY SECTION -->
 <section class="masonry">
   {% for item in site.columns reversed %}
-    {% if forloop.index <= 10 %}
+    {% if forloop.index <= 10 or forloop.index == forloop.length %}
     <div class="item">
       {% include article.html item=item %}
     </div>
     {% endif %}
-  {% endfor %}
-  {% for tmpl in site.columns limit:1 %}
-    <div class="item">
-      {% include article.html item=tmpl %}
-    </div>
   {% endfor %}
   <div id="masthead">
     <h3><a style="text-decoration:none" href="{{ '/c1/' | prepend: site.baseurl | prepend: site.url }}">More Columns...</a></h3>
