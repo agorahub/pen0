@@ -13,8 +13,13 @@ permalink: /hkers/
 <!-- MASONRY SECTION -->
 <section class="masonry">
   {% for item in site[page.collection] reversed %}
+    {% if forloop.index <= 10 or forloop.index == forloop.length %}
     <div class="item">
       {% include article.html item=item %}
     </div>
+    {% endif %}
   {% endfor %}
+  <div id="masthead">
+    <h3><a style="text-decoration:none" href="{{ '/c2/' | prepend: site.baseurl | prepend: site.url }}">More HKers...</a></h3>
+  </div>
 </section>

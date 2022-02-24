@@ -1,0 +1,37 @@
+---
+head: C1
+title: Columns
+layout: default
+paginate:
+  collection: columns
+  per_page: 25
+  reversed: true
+  permalink: /page:num/
+permalink: /c1/
+---
+<div id="masthead">
+  <h1>{{page.title}}</h1>
+  <h6 style="text-align:center">{{site.description}} ♢ {{page.head}}</h6>
+</div>
+
+<!-- MASONRY SECTION -->
+<section class="masonry">
+  {% for item in paginator.columns %}
+    <div class="item">
+      {% include article-lite.html item=item %}
+    </div>
+  {% endfor %}
+</section>
+
+<!-- Pagination links -->
+{% if paginator.total_pages > 1 %}
+<div class="pagination" style="text-align:center; font-weight:bold">
+  {% if paginator.previous_page %}
+    <a href="{{ site.url }}{{ site.baseurl }}{{ paginator.previous_page_path }}" class="previous">Previous</a> ♢
+  {% endif %}
+    <span class="page_number" style="color:gray">Page {{ paginator.page }} of {{ paginator.total_pages }}</span>
+  {% if paginator.next_page %}
+    ♢ <a href="{{ site.url }}{{ site.baseurl }}{{ paginator.next_page_path }}" class="next">Next</a>
+  {% endif %}
+</div>
+{% endif %}
