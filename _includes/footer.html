@@ -33,6 +33,10 @@
       <a href="{{site.url}}{{site.baseurl}}/hkers">HKers</a> |
       <a href="{{site.url}}{{site.baseurl}}/about">About</a> |
       <a href="https://github.com/{{site.gh_repo}}/discussions">Discussion</a>
+      <br>
+    {% for archive in site.data.archives %}
+      <a href="{{archive.site}}">{{archive.name}}</a> |
+    {% endfor %}
     </span></p>
     <p class="name">© 2022 The Agora Community<br>
     {% for editor in site.data.editors %}
