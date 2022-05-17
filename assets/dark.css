@@ -2,39 +2,61 @@
 
   /* defaults to dark theme */
   body {
-    --text-color: #e0e0e0;
-    --text-color-2: #adadad;
-    --bkg-color: #161616;
+    --post-tc1: #e6e8ea; /* h1, h2, h3 */
+    --post-tc2: #a0a7ae; /* h4 */
+    --post-tc3: #e1dfdc; /* p */
+
+    --news-tc1: #e6e8ea; /* h1, h2, h3 | h4 h5 h6 */
+    --news-tc2: #e1dfdc; /* p, blockquote, ul, ol, li */
+    --news-bd: #c8cccf; /* item border */
+
+    --bkg-color: #1e2023; /* universal */
+    --page-num: #adb3b9;
+    --page-next: #e1dfdc;
   }
+
+/*
+  --bkg-color is universal.
+
+  Default color settings: 
+    post.css:
+      - post-tc1(h1, h2, h3): #222222
+      - post-tc2(h4): #888888
+      - post-tc3(p): #444444
+    newspaper.css: 
+      **Colors are not specified originally.**
+      - news-tc1(h1, h2, h3): #222222
+      - news-tc2(p, blockquote): #222222
+      - news-bd(item border): #222222
+*/
 
   body.light-theme {
-    --text-color: #222222;
-    --text-color-2: #626262;
-    --bkg-color: #fff;
+    --post-tc1: #222222;
+    --post-tc2: #888888;
+    --post-tc3: #444444;
+
+    --news-tc1: #222222;
+    --news-tc2: #222222;
+    --news-bd: #222222;
+
+    --bkg-color: #ffffff;
+    --page-num: #222222;
+    --page-next: #444444;
   }
 }
 
-
-body {
-  background: var(--bkg-color);
-}
-
-h1, p, h2, h3, h4, h5, h6, a, blockquote, ul, ol, li {
+/*h1, p, h2, h3, h4, h5, h6, a, blockquote, ul, ol, li {
   color: var(--text-color);
-}
+}*/
 
 a.next, div.pagination{
-  color: var(--text-color);
+  color: var(--page-next);
 }
 
 span.page_number{
-  color: var(--text-color-2);
+  color: var(--page-num);
 }
 
-
-.wrapper{
-  background: #414141;
-}
 
 .btn-toggle{
   cursor: pointer;

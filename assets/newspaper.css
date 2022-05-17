@@ -10,7 +10,7 @@
 }
 .heroColumn img {
   max-width: 100%;
-//  height: 50%;
+/*  height: 50%;*/
   margin-bottom: .75em;
   display: block;
   margin: auto;
@@ -26,28 +26,41 @@
   box-sizing: border-box;
 }
 body {
+  background: var(--bkg-color);
   font-family: 'Georgia', serif;
   margin: 0;
 }
+ul,ol,li {
+  color: var(--news-tc2);
+}
 p {
+  color: var(--news-tc2);
   text-align: justify;
   margin:.25em 0 .5em 0;
   line-height:1.35em;
 }
+
+h1, h2, h4, h5, h6 {
+  color: var(--news-tc1);
+}
+
 h3 {
+  color: var(--news-tc1);
   margin: 0;
   padding: 0 0 .25em;
   font-size:1.5em;
   text-align: center;
 }
 article {
+  color: var(--news-tc1);
   margin-bottom: 1.5em;
 }
 blockquote {
+  color: var(--news-tc2);
   padding: 1em 0;
   margin: 0 0;
-//  border-top: 1px solid #ccc;
-  border-bottom: 1px dotted #ccc;
+  /*border-top: 1px solid #ccc;*/
+  border-bottom: 1px dotted var(--news-bd);
   font-family: sans-serif;
 }
 q {
@@ -77,11 +90,11 @@ q {
   /*background: #fff;*/
   padding: 0 1em;
   width: 104%;
-  -webkit-transition:1s ease all;
+  --webkit-transition:1s ease all;
   box-sizing: border-box;
   -moz-box-sizing: border-box;
   -webkit-box-sizing: border-box;
-  border-left: 1px solid black;
+  border-left: 1px solid var(--news-bd);
 /*   if using inline-block, doesn't requre min-height or height but columns don't stretch as well vertically */
   min-height: 100%;
   height:100%;
