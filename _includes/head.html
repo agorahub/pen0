@@ -10,6 +10,7 @@
 
 <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
 
+<link rel="stylesheet" href="{{ "/assets/dark.css" | prepend: site.baseurl | prepend: site.url }}">
 <link rel="icon" href="{{ "/assets/favicon.png" | prepend: site.baseurl | prepend: site.url }}">
 <link rel="apple-touch-icon" href="{{ "/assets/touch-icon.png" | prepend: site.baseurl | prepend: site.url }}">
 <link rel="stylesheet" href="{{ "/assets/common.css" | prepend: site.baseurl | prepend: site.url }}">

@@ -74,7 +74,7 @@ q {
 }
 .item {
   display: block;
-  background: #fff;
+  /*background: #fff;*/
   padding: 0 1em;
   width: 104%;
   -webkit-transition:1s ease all;

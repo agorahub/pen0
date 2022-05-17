@@ -1,0 +1,48 @@
+@media (prefers-color-scheme: dark) {
+
+  /* defaults to dark theme */
+  body {
+    --text-color: #e0e0e0;
+    --text-color-2: #adadad;
+    --bkg-color: #161616;
+  }
+
+  body.light-theme {
+    --text-color: #222222;
+    --text-color-2: #626262;
+    --bkg-color: #fff;
+  }
+}
+
+* {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+  background: var(--bkg-color);
+}
+
+h1, p, h2, h3, h4, h5, h6, a, blockquote, ul, ol, li {
+  color: var(--text-color);
+}
+
+a.next, div.pagination{
+  color: var(--text-color);
+}
+
+span.page_number{
+  color: var(--text-color-2);
+}
+
+
+.wrapper{
+  background: #414141;
+}
+
+.btn-toggle{
+  cursor: pointer;
+  -webkit-user-select:none;
+  -moz-user-select:none;
+  -ms-user-select:none;
+  user-select:none;
+}
