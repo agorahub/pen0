@@ -100,8 +100,7 @@ q {
   height:100%;
 }
 
-/* Corrects for the color of the footer */
-.love {
+.love{
   background-color: #414141;
   color: #ffffff;
 }

@@ -247,11 +247,13 @@ a:hover {
   }
 }
 
+/* Corrects for the color of the footer */
 
 .love{
   margin: 0;
   font-size: 12px;
-  padding: 1em;
+  padding-top: 1em;
+  padding-bottom: 1em;
   text-align: center;
   font-family: Mansalva;
 }

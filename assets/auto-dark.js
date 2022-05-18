@@ -1,24 +1,58 @@
-const btn = document.querySelector(".btn-toggle");
-const prefersDarkScheme = window.matchMedia("(prefers-color-scheme: dark)");
+document.addEventListener('DOMContentLoaded', () => {
+  'use strict';
 
-const currentTheme = localStorage.getItem("theme");
-if (currentTheme == "dark") {
-  document.body.classList.toggle("dark-theme");
-} else if (currentTheme == "light") {
-  document.body.classList.toggle("light-theme");
-}
+  const root = document.querySelector(':root');
+  const schemeMedia = window.matchMedia('(prefers-color-scheme: dark)');
+  const themeBtn = document.querySelector('button.scheme');
+  const themeIcon = themeBtn.querySelector('i');
 
-btn.addEventListener("click", function () {
-  if (prefersDarkScheme.matches) {
-    document.body.classList.toggle("light-theme");
-    var theme = document.body.classList.contains("light-theme")
-      ? "light"
-      : "dark";
-  } else {
-    document.body.classList.toggle("dark-theme");
-    var theme = document.body.classList.contains("dark-theme")
-      ? "dark"
-      : "light";
+  themeBtn.classList.remove('hidden');
+
+  function setThemeUIState() {
+    const themeState = localStorage.getItem('theme') || 'auto';
+    const icon = {
+      light: 'sun',
+      dark: 'moon',
+    }[themeState] || 'adjust';
+
+    themeIcon.className = `toggle d-${icon}`;
+
+    if (themeState === 'auto') {
+      delete root.dataset.scheme;
+    } else {
+      root.dataset.scheme = themeState;
+    }
   }
-  localStorage.setItem("theme", theme);
+
+  function setThemeExplicitly() {
+    const themeOrder = schemeMedia.matches
+      ? ['auto', 'light', 'dark']
+      : ['auto', 'dark', 'light'];
+
+    const storedTheme = localStorage.getItem('theme');
+    const themeState = themeOrder.includes(storedTheme) ? storedTheme : 'auto';
+    const nextState = (() => {
+      let current;
+      do {
+        current = themeOrder.shift();
+        themeOrder.push(current);
+      } while (current !== themeState);
+      return themeOrder.shift();
+    })();
+
+    localStorage.setItem('theme', nextState);
+    setThemeUIState();
+  }
+
+  schemeMedia.addEventListener('change', () => {
+    document.body.className = 'transitions';
+    setThemeUIState();
+  });
+  setThemeUIState();
+
+  themeBtn.addEventListener('click', () => {
+    document.body.className = 'transitions';
+    setThemeExplicitly();
+  });
 });
+
