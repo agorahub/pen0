@@ -1,0 +1,160 @@
+/* light color set
+  --post-tc1: #222222;
+  --post-tc2: #888888;
+  --post-tc3: #444444;
+
+  --news-tc1: #222222;
+  --news-tc2: #222222;
+  --news-bd: #222222;
+
+  --bkg-color: #ffffff;
+  --page-num: #222222;
+  --page-next: #444444;
+*/
+
+
+/* dark color set
+  --post-tc1: #e6e8ea; 
+  --post-tc2: #a0a7ae; 
+  --post-tc3: #e1dfdc; 
+
+  --news-tc1: #e6e8ea; 
+  --news-tc2: #e1dfdc; 
+  --news-bd: #c8cccf; 
+
+  --bkg-color: #1e2023; 
+  --page-num: #adb3b9;
+  --page-next: #e1dfdc;
+*/
+
+:root {
+  --post-tc1: #222222;
+  --post-tc2: #888888;
+  --post-tc3: #444444;
+
+  --news-tc1: #222222;
+  --news-tc2: #222222;
+  --news-bd: #222222;
+
+  --bkg-color: #ffffff;
+  --page-num: #222222;
+  --page-next: #444444;
+}
+
+:root[data-scheme="dark"] {
+  --post-tc1: #e6e8ea; /* h1, h2, h3 */
+  --post-tc2: #a0a7ae; /* h4 */
+  --post-tc3: #e1dfdc; /* p */
+
+  --news-tc1: #e6e8ea; /* h1, h2, h3 | h4 h5 h6 */
+  --news-tc2: #e1dfdc; /* p, blockquote, ul, ol, li */
+  --news-bd: #c8cccf; /* item border */
+
+  --bkg-color: #1e2023; /* universal */
+  --page-num: #adb3b9;
+  --page-next: #e1dfdc;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root:not([data-scheme="light"]) {
+    --post-tc1: #e6e8ea; /* h1, h2, h3 */
+    --post-tc2: #a0a7ae; /* h4 */
+    --post-tc3: #e1dfdc; /* p */
+  
+    --news-tc1: #e6e8ea; /* h1, h2, h3 | h4 h5 h6 */
+    --news-tc2: #e1dfdc; /* p, blockquote, ul, ol, li */
+    --news-bd: #c8cccf; /* item border */
+  
+    --bkg-color: #1e2023; /* universal */
+    --page-num: #adb3b9;
+    --page-next: #e1dfdc;
+  }
+}
+
+
+/* */
+
+.hidden {
+  display:none
+}
+
+button.scheme {
+  background: none;
+  border: none;
+  margin: 0;
+  outline: none;
+  padding:none
+}
+
+button.scheme:hover {
+  cursor:pointer
+}
+
+.toggle{
+  font-size: 1em;
+  font-style: normal;
+}
+
+.d-sun:after{
+  content: "🌕";
+}
+
+.d-moon:after{
+  content: "🌑";
+}
+
+.d-adjust:after{
+  content: "🌓";
+}
+
+/*
+  body.light-theme {
+    --post-tc1: #222222;
+    --post-tc2: #888888;
+    --post-tc3: #444444;
+
+    --news-tc1: #222222;
+    --news-tc2: #222222;
+    --news-bd: #222222;
+
+    --bkg-color: #ffffff;
+    --page-num: #222222;
+    --page-next: #444444;
+  }*/
+
+
+/*
+  --bkg-color is universal.
+
+  Default color settings: 
+    post.css:
+      - post-tc1(h1, h2, h3): #222222
+      - post-tc2(h4): #888888
+      - post-tc3(p): #444444
+    newspaper.css: 
+      **Colors are not specified originally.**
+      - news-tc1(h1, h2, h3): #222222
+      - news-tc2(p, blockquote): #222222
+      - news-bd(item border): #222222
+*/
+
+/*h1, p, h2, h3, h4, h5, h6, a, blockquote, ul, ol, li {
+  color: var(--text-color);
+}*/
+
+a.next, div.pagination{
+  color: var(--page-next);
+}
+
+span.page_number{
+  color: var(--page-num);
+}
+
+
+.btn-toggle{
+  cursor: pointer;
+  -webkit-user-select:none;
+  -moz-user-select:none;
+  -ms-user-select:none;
+  user-select:none;
+}
