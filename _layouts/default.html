@@ -3,6 +3,7 @@
 
 	<head>
 		{% include head.html %}
+		
 	</head>
 
 	<body>
@@ -20,6 +21,12 @@
 		  {% include footer.html %}
 		</footer>
 	{% endif %}
-	<p class="love">Made with <i class="fa fa-heart"></i> by <a href="https://github.com/agorahub">Agora</a></p>
+	
+	<p class="love">
+		Made with <i class="fa fa-heart"></i> by <a href="https://github.com/agorahub">Agora</a>
+		<button class="hidden scheme"><i class="toggle d-adjust"></i></button>
+	</p>
+	
+	<script src="{{ "/assets/auto-dark.js" | prepend: site.baseurl | prepend: site.url }}"></script>
 
 </html>
