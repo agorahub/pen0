@@ -3,7 +3,7 @@ layout: post
 title:  "俄烏不會全面開戰"
 author: "魯斯濱"
 date:   2021-12-12 12:00:00 +0800
-image:  https://i.imgur.com/wkUO48G.jpg
+image:  https://github.com/agorahub/_meta/raw/agoran/theagora/pen0/assets/images/a1/0x0d_a1_l-20211212.jpg
 image_caption: "2021年末，俄烏邊境重兵集結。"
 description:   "2021年12月初，美國國防部、中情局發布「開戰警報」：俄國總統蒲亭（Putin）已下令要集結「17萬5千俄軍」，準備在2022年2月初侵略烏克蘭。"
 position: left

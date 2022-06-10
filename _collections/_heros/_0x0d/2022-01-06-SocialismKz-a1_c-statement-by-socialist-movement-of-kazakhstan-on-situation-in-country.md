@@ -3,7 +3,7 @@ layout: post
 title:  "「哈薩克社會主義運動」聲明"
 author: "SocialismKz"
 date:   2022-01-06 12:00:00 +0800
-image: https://i.imgur.com/NFYkKkb.jpg
+image:  https://github.com/agorahub/_meta/raw/agoran/theagora/pen0/assets/images/a1/0x0d_a1_c-20220106.jpg
 image_caption: "前總統納扎爾巴耶夫銅像被拉倒在地。塔爾迪庫爾干，2022年1月5日。"
 description:   "所有示威和罷工有被暴力鎮壓的危險，有必要以總罷工來癱瘓國家。因此，急需要按地區和行業組成統一行動委員會，對軍警威嚇提供有組織的抵抗。"
 position: center

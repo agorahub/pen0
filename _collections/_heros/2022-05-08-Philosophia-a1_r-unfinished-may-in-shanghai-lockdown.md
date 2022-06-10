@@ -3,7 +3,7 @@ layout: post
 title:  "五月未央"
 author: "火花 / Philosophia"
 date:   2022-05-08 12:00:00 +0800
-image:  https://i.imgur.com/bgqiSEj.jpg
+image:  https://github.com/agorahub/_meta/raw/agoran/theagora/pen0/assets/images/a1/0x11_a1_r-20220508.jpg
 image_caption: "上海市民在醫院外核酸檢測站排隊。"
 description:   ""
 position: right

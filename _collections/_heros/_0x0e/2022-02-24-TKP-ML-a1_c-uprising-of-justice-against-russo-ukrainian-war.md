@@ -3,7 +3,7 @@ layout: post
 title:  "反对乌俄战争！起来正义之战！"
 author: "土耳其共产党-马列"
 date:   2022-02-24 12:00:00 +0800
-image:  https://i.imgur.com/Pfl5YaG.png
+image:  https://github.com/agorahub/_meta/raw/agoran/theagora/pen0/assets/images/a1/0x0e_a1_c-20220224.jpg
 #image_caption: ""
 description:    ""
 position: center

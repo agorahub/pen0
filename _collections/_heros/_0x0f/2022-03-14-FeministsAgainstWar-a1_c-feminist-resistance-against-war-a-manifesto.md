@@ -3,7 +3,7 @@ layout: post
 title:  "女權主義者反戰宣言"
 author: "女權主義者抵制戰爭集體"
 date:   2022-03-14 12:00:00 +0800
-image:  https://i.imgur.com/1XA1Jsq.jpg
+image:  https://github.com/agorahub/_meta/raw/agoran/theagora/pen0/assets/images/a1/0x0f_a1_c-20220314.jpg
 #image_caption: ""
 description:   ""
 position: center

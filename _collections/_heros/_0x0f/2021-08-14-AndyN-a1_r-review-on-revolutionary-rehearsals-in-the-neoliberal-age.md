@@ -3,7 +3,7 @@ layout: post
 title:  "《新自时代革命预演》"
 author: "Andy N"
 date:   2021-08-14 12:00:00 +0800
-image:  https://i.imgur.com/sn6p1yv.jpg
+image:  https://github.com/agorahub/_meta/raw/agoran/theagora/pen0/assets/images/a1/0x0f_a1_r-20210814.jpg
 #image_caption: ""
 description:   "本书广泛讨论了1989年以来的政治动荡，深化了对现代左派理论和实践的认知。"
 position: right

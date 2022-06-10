@@ -3,7 +3,7 @@ layout: post
 title:  "The Molotov-Ribbentrop Pact"
 author: "PEN"
 date:   1939-08-23 12:00:00 +0800
-image:  https://i.imgur.com/TQMcbW4.jpg
+image:  https://github.com/agorahub/_meta/raw/agoran/theagora/pen0/assets/images/a1/0x10_a1_c-19390823.jpg
 image_caption: "NAZIS AND THE SOVIETS SIGNED A NON-AGGRESSION PACT IN 1939"
 description:   ""
 position: center
@@ -68,4 +68,4 @@ This protocol shall be treated by both parties as strictly secret.
 
 `Plenipotentiary of the Government of the U.S.S.R. V. Molotov`
 
-![image1](https://i.imgur.com/SGGJLQZ.jpg)
+![image01](https://github.com/agorahub/_meta/raw/agoran/theagora/pen0/assets/images/a1/0x10_a1_c-19390823-01.jpg)

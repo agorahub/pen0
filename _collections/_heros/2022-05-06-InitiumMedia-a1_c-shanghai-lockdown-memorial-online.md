@@ -3,7 +3,7 @@ layout: post
 title:  "上海封城網上紀念館"
 author: "端傳媒"
 date:   2022-05-06 12:00:00 +0800
-image:  https://i.imgur.com/PWvFZ54.png
+image:  https://github.com/agorahub/_meta/raw/agoran/theagora/pen0/assets/images/a1/0x11_a1_c-20220506.jpg
 image_caption: "人們因什麼而逝去？「還我自由！」「發物資！發物資！」"
 description:   "過去的四月，從上海市政府在發佈會道歉，到核酸陰性居民被強制隔離、高齡老人被撬開家門，政策變動突如其來。封城日常裏，不時荒唐出現「防疫機器狗」、「大白稻草人」；社交媒體上，到處是叫不到救護車、進不去醫院，以及搶不到物資。"
 position: center
@@ -13,7 +13,7 @@ position: center
 
 <!--more-->
 
-![image01](https://i.imgur.com/8i881MM.png)
+![image01](https://github.com/agorahub/_meta/raw/agoran/theagora/pen0/assets/images/a1/0x11_a1_c-20220506-01.jpg)
 ▲ 發佈：2022-05-06。製圖
 
 #### 02/28
@@ -53,7 +53,7 @@ position: center
 
 - 张似苓，74歲，在誤診、醫生人手緊缺、等待疫區證明等層層關卡後，從門診經外科病房又轉入重症監護室，後離世。
 
-![image02](https://i.imgur.com/Ifjdu2X.jpg)
+![image02](https://github.com/agorahub/_meta/raw/agoran/theagora/pen0/assets/images/a1/0x11_a1_c-20220506-02.jpg)
 ▲ 上海市東方醫院護士因延誤治療去世。網圖
 
 #### 03/28
@@ -67,7 +67,7 @@ position: center
 
 ｜[親屬實名陳述 →](https://mbd.baidu.com/newspage/data/dtlandingwise?sourceFrom=dtlandimmersive&nid=dt_4761671624455046132)
 
-![image03](https://i.imgur.com/drFoh69.jpg)
+![image03](https://github.com/agorahub/_meta/raw/agoran/theagora/pen0/assets/images/a1/0x11_a1_c-20220506-03.jpg)
 ▲ 上海一名身穿防護服警察在黃浦江對岸通往浦東地區隧道入口處駐守。攝：Aly Song/Reuters/達志影像
 
 #### 03/29
@@ -83,7 +83,7 @@ position: center
 
 - 26歲女孩，細菌感染，多家醫院因其發燒拒診，搶救時已情況危急，搶救無效死亡。（親屬匿名陳述）
 
-![image04](https://i.imgur.com/kVAzgNT.jpg)
+![image04](https://github.com/agorahub/_meta/raw/agoran/theagora/pen0/assets/images/a1/0x11_a1_c-20220506-04.jpg)
 ▲ 「防疫機器狗」。網圖
 
 ｜[機器狗巡邏視頻 →](https://www.youtube.com/watch?v=scSdbCztNnk)
@@ -131,7 +131,7 @@ position: center
 
 - 網友 @茶香禪靜 的哥哥，44歲，因未能定期血透和轉運出現心臟衰竭，等待救護車中去世。
 
-![image05](https://i.imgur.com/b0NEJi4.jpg)
+![image05](https://github.com/agorahub/_meta/raw/agoran/theagora/pen0/assets/images/a1/0x11_a1_c-20220506-05.jpg)
 ▲ 39歲逝者生前獎牌。網圖
 
 ｜[婦聯回應 →](https://news.sina.com.cn/s/2022-04-02/doc-imcwipii2002142.shtml)
@@ -179,7 +179,7 @@ position: center
 
 - 白血病患者，因嚴重缺血呼吸困難，然而醫院血液科因疫情管控封閉，家屬多方聯繫求助無果，在等待救助中去世。（親屬匿名陳述）
 
-![image06](https://i.imgur.com/bgqiSEj.jpg)
+![image06](https://github.com/agorahub/_meta/raw/agoran/theagora/pen0/assets/images/a1/0x11_a1_c-20220506-06.jpg)
 ▲ 上海市民在醫院外的核酸檢測站附近排隊等待檢測。攝：Aly Song/Reuters/達志影像
 
 #### 04/05
@@ -191,7 +191,7 @@ position: center
 
 輿論｜微博詞條#上海買菜#被撤，由於解封遙遙無期，上海市民開始自發組織團購。
 
-![image07](https://i.imgur.com/nKe8cnk.jpg)
+![image07](https://github.com/agorahub/_meta/raw/agoran/theagora/pen0/assets/images/a1/0x11_a1_c-20220506-07.jpg)
 ▲ 防控無人機。網圖
 
 #### 04/06
@@ -217,7 +217,7 @@ position: center
 
 - 上海盛大花園小區居民，突發不適，因防控無發熱門診接受，120急救電話排隊，在失去呼吸後急救車才趕到。（親屬匿名陳述）
 
-![image08](https://i.imgur.com/eAWN53M.jpg)
+![image08](https://github.com/agorahub/_meta/raw/agoran/theagora/pen0/assets/images/a1/0x11_a1_c-20220506-08.jpg)
 ▲ 「五天輕斷食」節目。網圖
 
 #### 04/07
@@ -263,7 +263,7 @@ position: center
 
 - 96歲老人，因所在醫院爆疫被遣送回家，多次聯繫轉院無果,家中病逝。（親屬匿名陳述）
 
-![image09](https://i.imgur.com/O60UMYG.jpg)
+![image09](https://github.com/agorahub/_meta/raw/agoran/theagora/pen0/assets/images/a1/0x11_a1_c-20220506-09.jpg)
 ▲ 居民在封城期間排隊做核酸檢測。攝：Aly Song/Reuters/達志影像
 
 ｜[被強制帶去方艙的報導 →](https://www.rfi.fr/tw/中國/20220410-持陰性報告夫婦被強行帶至方艙-警員-說你陽性你就是)
@@ -314,7 +314,7 @@ position: center
 
 - 商業一村22號獨居老人，此前多次在微博求助，求助無門後過世，目前微博已被刪除。
 
-![image10](https://i.imgur.com/I8JB48g.jpg)
+![image10](https://github.com/agorahub/_meta/raw/agoran/theagora/pen0/assets/images/a1/0x11_a1_c-20220506-10.jpg)
 ▲ 錢文雄生前照片。網圖
 
 #### 04/13
@@ -349,7 +349,7 @@ position: center
 
 - 網友 @時光彎曲 的叔叔，70歲，核酸檢測陽性，在方艙中發高燒無人救治，急救中心不予收治，凌晨離世。
 
-![image11](https://i.imgur.com/23x2DeK.jpg)
+![image11](https://github.com/agorahub/_meta/raw/agoran/theagora/pen0/assets/images/a1/0x11_a1_c-20220506-11.jpg)
 ▲ 上海身著防護衣的醫護人員在展覧館改建而成的方艙醫院。攝：China Daily/Reuters/達志影像
 
 #### 04/15
@@ -397,7 +397,7 @@ position: center
 
 - 錢師傅，黃浦新苑小區保安，因過勞突發腦溢血，小區居民籌款為其醫治，仍因強求無效逝世。（小區居民匿名陳述）
 
-![image12](https://i.imgur.com/hPysFTE.jpg)
+![image12](https://github.com/agorahub/_meta/raw/agoran/theagora/pen0/assets/images/a1/0x11_a1_c-20220506-12.jpg)
 ▲ 抗議防控政策的標語。網圖
 
 #### 04/18
@@ -436,7 +436,7 @@ position: center
 
 逝者｜一位外賣員當晚發生車禍頭部受傷流血，在等待救護車的過程中去世。
 
-![image13](https://i.imgur.com/sUG1IKh.jpg)
+![image13](https://github.com/agorahub/_meta/raw/agoran/theagora/pen0/assets/images/a1/0x11_a1_c-20220506-13.jpg)
 ▲ 《四月之聲》視頻。截圖
 
 #### 04/23
@@ -485,7 +485,7 @@ position: center
 
 輿論｜因此前民眾多用敲擊廚具器皿的方式，要求發放物資。4月28日晚，上海多個小區居民自發組織「砸鍋求物資」陽台音樂會，抗議因疫情長達一個月的封城禁足，官方稱有「境外勢力指使」。
 
-![image14](https://i.imgur.com/5W8rI7A.jpg)
+![image14](https://github.com/agorahub/_meta/raw/agoran/theagora/pen0/assets/images/a1/0x11_a1_c-20220506-14.jpg)
 ▲ 「砸鍋求物資」。網圖
 
 ｜[「砸鍋求物資」視頻 →](https://www.youtube.com/watch?v=lBsxFsabsSg)

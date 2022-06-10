@@ -3,7 +3,7 @@ layout: post
 title:  "未竟国家"
 author: "冯嘉诚"
 date:   2022-05-01 12:00:00 +0800
-image:  https://i.imgur.com/wD2b8AD.jpg
+image:  https://github.com/agorahub/_meta/raw/agoran/theagora/pen0/assets/images/a1/0x11_a1_l-20220501.jpg
 #image_caption: "中泰边区博弈下 缅甸的国家命运"
 description:   "中央集权、松散管治，到底什么才是缅甸的常态？"
 position: left
@@ -13,12 +13,12 @@ position: left
 
 <!--more-->
 
-![image01](https://i.imgur.com/38f24nW.jpg)
+![image01](https://github.com/agorahub/_meta/raw/agoran/theagora/pen0/assets/images/a1/0x11_a1_l-20220501-01.jpg)
 ▲ 2021年3月16日，示威者在缅甸仰光一次冲突中投掷气油弹。 摄：Stringer/Getty Images
 
 的而且确，缅甸国防军软禁“全国民主联盟”领袖昂山素姬，并罗织“非法进口对讲机”、“煽动”、“贪污”等罪名，直接刺激国内最大族群——缅族人——反抗，并与其他少数民族合作，形成缅族內部大分裂。
 
-![image02](https://i.imgur.com/rNQNVHk.jpg)
+![image02](https://github.com/agorahub/_meta/raw/agoran/theagora/pen0/assets/images/a1/0x11_a1_l-20220501-02.jpg)
 ▲ 2021年11月，人民防卫军在缅甸克伦邦用模拟武器进行训练。 摄：Getty Images
 
 不过，假如把目光从缅族人移到缅甸毗邻中国、泰国的边区地带，重新检视当地人历史，我们或许不会再把缅甸视为“失败国家”（Failing State）。缅甸从1948年宣布独立开始，一直没有完成国家与国族建构工程。少数民族武装抵抗缅军的活动，在过去74年亦不曾真正平息，非缅族占多数的地区仍致力于争取文化及行政上的自治（p.2）。借用缅甸历史学家吴丹敏《缅甸的未竟之路》中一个章节标题，缅甸至今不过是“未竟的国家”（Unfinished Nation），“缅甸人”也仅是“未竟的国族”。
