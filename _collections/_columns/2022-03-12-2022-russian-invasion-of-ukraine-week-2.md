@@ -3,7 +3,7 @@ layout: post
 title : "俄乌战争第二周"
 author: "当代张敬轩"
 date  : 2022-03-12 12:00:00 +0800
-image : https://i.imgur.com/t1gH8Ff.jpg
+image : https://github.com/agorahub/_meta/raw/agoran/theagora/pen0/assets/images/c1/c1-20220312-01.jpg
 image_caption: "（2022年3月4日—3月10日）"
 description: "俄罗斯对乌克兰的侵略战争，目的是把作为德、法等帝国主义国家附属国的乌克兰的全部或局部重新纳入俄罗斯帝国主义的控制下，乃至于进一步变成殖民地。"
 ---
@@ -157,7 +157,7 @@ description: "俄罗斯对乌克兰的侵略战争，目的是把作为德、法
 
 目前，美帝在能源领域开始制裁俄帝，进而引发了巨大的政治、经济冲击。欧盟则不敢跟进。俄帝也采取以卢布偿还外债、强制接管退出俄罗斯市场的外企以及停付“敌对国家”专利费等方式还击，对世界经济同样带来了巨大冲击。帝国主义之间在经济领域的争夺，同样值得关注。
 
-[![image1](https://i.imgur.com/KPoI880.png)](https://zhuanlan.zhihu.com/p/478646320)
+[![image1](https://github.com/agorahub/_meta/raw/agoran/theagora/pen0/assets/images/c1/c1-20220312-011.jpg)](https://zhuanlan.zhihu.com/p/478646320)
 ▲ 原载《知乎》链接。
 
 <!--END-->

@@ -3,7 +3,7 @@ layout: post
 title : "“大白”遇见《宪法》"
 author: "时清也"
 date  : 2022-05-16 12:00:00 +0800
-image : https://i.imgur.com/ocuH6I8.jpg
+image : https://github.com/agorahub/_meta/raw/agoran/theagora/pen0/assets/images/c1/c1-20220516-01.jpg
 image_caption: "执法暴力在“紧急状态”下统一标识，隐匿个性。"
 description: "有过这次被民众引用法律反驳的经验，当局肯定会通过修改法律或颁布“解释”扩大警察权力。"
 ---

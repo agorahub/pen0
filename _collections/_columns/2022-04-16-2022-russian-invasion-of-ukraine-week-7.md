@@ -3,7 +3,7 @@ layout: post
 title : "俄乌战争第七周"
 author: "当代张敬轩"
 date  : 2022-04-16 12:00:00 +0800
-image : https://i.imgur.com/0WsP8Pc.jpg
+image : https://github.com/agorahub/_meta/raw/agoran/theagora/pen0/assets/images/c1/c1-20220416-01.jpg
 image_caption: "（2022年4月8日—4月14日）"
 description: "俄罗斯对乌克兰的侵略战争，目的是把作为德、法等帝国主义国家附属国的乌克兰的全部或局部重新纳入俄罗斯帝国主义的控制下，乃至于进一步变成殖民地。"
 ---
@@ -84,7 +84,7 @@ description: "俄罗斯对乌克兰的侵略战争，目的是把作为德、法
 
 目前，双方仍在为未来可能发生的决战进行着积极的准备，估计在翻浆期结束前不会爆发决战，因此最近几周可能只有马里乌波尔会发生值得一提的战事了。这些准备包括政治、经济、军事和外交等各方面，同时伴随着双方在宣传舆论上的彼此攻防。在此过程中，和谈也会继续进行。伴随这些准备的，则是世界秩序在原有基础上的分化与改组。
 
-[![image1](https://i.imgur.com/WvIqt2c.png)](https://zhuanlan.zhihu.com/p/497984577)
+[![image1](https://github.com/agorahub/_meta/raw/agoran/theagora/pen0/assets/images/c1/c1-20220416-011.jpg)](https://zhuanlan.zhihu.com/p/497984577)
 ▲ 原载《知乎》链接。
 
 <!--END-->

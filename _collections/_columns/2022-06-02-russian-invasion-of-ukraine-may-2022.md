@@ -3,7 +3,7 @@ layout: post
 title : "俄乌战争・五月战局"
 author: "当代张敬轩"
 date  : 2022-06-02 12:00:00 +0800
-image : https://i.imgur.com/gmV9KQB.jpg
+image : https://github.com/agorahub/_meta/raw/agoran/theagora/pen0/assets/images/c1/c1-20220602-01.jpg
 image_caption: "（2022年5月1日—31日）"
 description: "俄罗斯对乌克兰的侵略战争，目的是把作为德、法等帝国主义国家附属国的乌克兰的全部或局部重新纳入俄罗斯帝国主义的控制下，乃至于进一步变成殖民地。"
 ---
@@ -111,7 +111,7 @@ description: "俄罗斯对乌克兰的侵略战争，目的是把作为德、法
 2. ^乌军战前常备军和第一预备役有约35个旅，国民警卫队约10个旅，领土防卫军（第二预备役）25个旅，第三预备役至少20个旅，合计约90个旅。不过有几个旅已被歼灭或无法编成，实际数量应少于90个旅。
 
 
-[![image1](https://i.imgur.com/iZQIU3S.png)](https://zhuanlan.zhihu.com/p/523276273)
+[![image1](https://github.com/agorahub/_meta/raw/agoran/theagora/pen0/assets/images/c1/c1-20220602-011.jpg)](https://zhuanlan.zhihu.com/p/523276273)
 ▲ 原载《知乎》链接。
 
 <!--END-->

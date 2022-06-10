@@ -3,7 +3,7 @@ layout: post
 title : "一个粉红的“六四”记忆"
 author: "鹿馬"
 date  : 2022-06-04 12:00:00 +0800
-image : https://i.imgur.com/418rY6O.jpg
+image : https://github.com/agorahub/_meta/raw/agoran/theagora/pen0/assets/images/c1/c1-20220604-01.jpg
 #image_caption: ""
 description: "2022年5月35日，东京，晴。今天不讲文邹邹大道理，只写一个普通粉红关于六四的记忆。"
 ---

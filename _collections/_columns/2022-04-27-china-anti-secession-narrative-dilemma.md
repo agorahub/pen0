@@ -3,7 +3,7 @@ layout: post
 title : "中国“反分裂”叙事困境"
 author: "时清也"
 date  : 2022-04-27 12:00:00 +0800
-image : https://i.imgur.com/rQBVl1I.jpg
+image : https://github.com/agorahub/_meta/raw/agoran/theagora/pen0/assets/images/c1/c1-20220427-01.jpg
 #image_caption: ""
 description: "理解中国国家统一叙事的来龙去脉，是从任何方面立场回应台海问题的一个基本前提。"
 ---
