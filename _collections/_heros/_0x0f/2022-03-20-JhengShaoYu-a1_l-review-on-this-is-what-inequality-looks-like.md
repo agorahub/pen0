@@ -3,7 +3,7 @@ layout: post
 title:  "《不平等的样貌》"
 author: "郑绍钰"
 date:   2022-03-20 12:00:00 +0800
-image:  https://i.imgur.com/G5MEnA4.jpg
+image:  https://github.com/agorahub/_meta/raw/agoran/theagora/pen0/assets/images/a1/0x0f_a1_l-20220320.jpg
 #image_caption: ""
 description:   "一本探讨新加坡贫穷的民族志，戳破国族论述的假象：「新加坡的福利制度并不以“普及”为最终目标，反而是“筛选”。」"
 position: left

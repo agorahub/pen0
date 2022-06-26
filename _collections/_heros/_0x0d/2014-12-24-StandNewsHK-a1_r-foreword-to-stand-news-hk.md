@@ -3,7 +3,7 @@ layout: post
 title:  "《立場新聞》創刊辭"
 author: "《立場新聞》"
 date:   2014-12-24 12:00:00 +0800
-image:  https://agorahub.github.io/blog0/img/portfolio/stand.jpg
+image:  https://github.com/agorahub/_meta/raw/agoran/theagora/pen0/assets/images/a1/0x0d_a1_r-20141224.jpg
 image_caption: "（2014年12月－2021年12月）"
 description:   "以「立場」為名，是敢於「宣示立場，不掩飾、不迴避，堅持報道真相」。"
 position: right

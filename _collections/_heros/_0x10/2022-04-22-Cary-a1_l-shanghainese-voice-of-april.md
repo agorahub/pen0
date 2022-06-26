@@ -3,7 +3,7 @@ layout: post
 title:  "上海人的四月之声"
 author: "Cary"
 date:   2022-04-22 12:00:00 +0800
-image:  https://i.imgur.com/DynHfae.png
+image:  https://github.com/agorahub/_meta/raw/agoran/theagora/pen0/assets/images/a1/0x10_a1_l-20220422.jpg
 #image_caption: ""
 description:   ""
 position: left

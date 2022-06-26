@@ -3,7 +3,7 @@ layout: post
 title:  "美国《印太战略》"
 author: "亓乐义"
 date:   2022-02-18 12:00:00 +0800
-image:  https://i.imgur.com/MWmVy4I.jpg
+image:  https://github.com/agorahub/_meta/raw/agoran/theagora/pen0/assets/images/a1/0x0e_a1_r-20220218.jpg
 image_caption: "『自由开放的印太地区』"
 description:   "美国《印太战略》有19页篇幅，开宗明义引用拜登总统2021年9月24日在“四方安全对话”（Quad）首脑会议说的一句话：“我们每个国家的未来—甚至是世界的未来—都取决于一个自由开放的印太地区在未来几十年的持久和繁荣。”"
 position: right
@@ -63,4 +63,4 @@ position: right
 
 可以说，这是美国《印太战略》最敏感的一次战略调整，接着要看具体作为。今后台湾能在多大程度上融入美国《印太战略》的整体安全框架，也正是对此一战略的考验。
 
-![image1](https://i.imgur.com/zu3yX2B.jpg)
+![image01](https://github.com/agorahub/_meta/raw/agoran/theagora/pen0/assets/images/a1/0x0e_a1_r-20220218-01.jpg)

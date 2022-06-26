@@ -3,7 +3,7 @@ layout: post
 title : "俄乌战争第一周"
 author: "当代张敬轩"
 date  : 2022-03-06 12:00:00 +0800
-image : https://i.imgur.com/uTJ9KsM.jpg
+image : https://github.com/agorahub/_meta/raw/agoran/theagora/pen0/assets/images/c1/c1-20220306-01.jpg
 image_caption: "俄罗斯在同德、法、英、美等势力争夺乌克兰的帝国主义争霸中，陷入常规手法难以扭转的下风，为了挽回败局，发动了孤注一掷的军事冒险。"
 description: "俄罗斯对乌克兰的侵略战争，目的是把作为德、法等帝国主义国家附属国的乌克兰的全部或局部重新纳入俄罗斯帝国主义的控制下，乃至于进一步变成殖民地。"
 ---
@@ -156,7 +156,7 @@ description: "俄罗斯对乌克兰的侵略战争，目的是把作为德、法
 
 至于乌军，虽然目前乌克兰民心士气支持彻底抗战、自发参与抗击者者众，但是由于乌克兰当局的本质，乌军是不可能推行真正的人民战争的。在乌克兰当局领导下，乌军及受其领导的其他武装，只能是走“苦撑待变”的片面抗战道路，寄希望于在西方帝国主义的援助下坚持到俄帝精疲力竭后内部出现变化、给出一个有利于乌克兰买办资产阶级的下台阶（类似于第一次车臣战争），乃至于西方帝国主义下场“拯救”。因此，乌军必然只能采取之前以死守大城市为主、小部队反击和游击战破袭为辅的路线，在西方帝国主义的财力、武器援助下，竭力坚持下去。至于乌克兰当局的如意算盘能否打通，接下去的一两周也是关键时刻。
 
-[![image1](https://i.imgur.com/WxAf9X9.png)](https://zhuanlan.zhihu.com/p/475099436)
+[![image1](https://github.com/agorahub/_meta/raw/agoran/theagora/pen0/assets/images/c1/c1-20220306-011.jpg)](https://zhuanlan.zhihu.com/p/475099436)
 ▲ 原载《知乎》链接。
 
 <!--END-->

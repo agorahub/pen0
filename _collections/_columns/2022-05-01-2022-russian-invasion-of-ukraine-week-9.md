@@ -3,7 +3,7 @@ layout: post
 title : "俄乌战争第九周"
 author: "当代张敬轩"
 date  : 2022-05-01 12:00:00 +0800
-image : https://i.imgur.com/ynKt6d8.jpg
+image : https://github.com/agorahub/_meta/raw/agoran/theagora/pen0/assets/images/c1/c1-20220501-01.jpg
 image_caption: "（2022年4月22日—4月30日）"
 description: "俄罗斯对乌克兰的侵略战争，目的是把作为德、法等帝国主义国家附属国的乌克兰的全部或局部重新纳入俄罗斯帝国主义的控制下，乃至于进一步变成殖民地。"
 ---
@@ -73,7 +73,7 @@ description: "俄罗斯对乌克兰的侵略战争，目的是把作为德、法
 当前，双方都不愿意快速推进和谈。所以，虽有联合国秘书长古特雷斯等人的努力，但谈判终究不能有所进展。
 
 
-[![image1](https://i.imgur.com/5uWFYQu.png)](https://zhuanlan.zhihu.com/p/507562291)
+[![image1](https://github.com/agorahub/_meta/raw/agoran/theagora/pen0/assets/images/c1/c1-20220501-011.jpg)](https://zhuanlan.zhihu.com/p/507562291)
 ▲ 原载《知乎》链接。
 
 <!--END-->

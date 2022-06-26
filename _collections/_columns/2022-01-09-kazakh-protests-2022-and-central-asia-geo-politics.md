@@ -3,7 +3,7 @@ layout: post
 title : "哈薩克局勢與中亞地緣政治"
 author: "魯斯濱"
 date  : 2022-01-09 12:00:00 +0800
-image : https://i.imgur.com/kxwp0g0.jpg
+image : https://github.com/agorahub/_meta/raw/agoran/theagora/pen0/assets/images/c1/c1-20220109-01.jpg
 image_caption: "2022年1月2日始，哈薩克大規模抗議勢如破竹。1月6日起，俄羅斯爲首CSTO應約出兵鎮壓。"
 description: "喬索夫斯基：俄羅斯過去出兵喬治亞和烏克蘭，是為侵略親西方政府；現在出兵哈薩克，則為保護親俄政府。阿布利亞佐夫：中國將在這一波亂局中作壁上觀。"
 ---
@@ -14,7 +14,7 @@ description: "喬索夫斯基：俄羅斯過去出兵喬治亞和烏克蘭，是
 
 現任總統托卡葉夫（Kassym-Jomart Tokayev）迅速把責任一律丟給所謂的「境外勢力」及「受到資助的恐怖分子」。1月8日晚上，托卡葉夫在他的英文推特上寫道：「阿拉木圖至少有六波恐怖主義浪潮」、「訓練有素的土匪和恐怖分子都在說外語」，強調「不與恐怖分子談判，必須殺死他們」。
 
-![image1](https://storage.googleapis.com/stateless-34-84-11-249/2022/01/92ddcd6d-image-1024x813.png)
+![image1](https://github.com/agorahub/_meta/raw/agoran/theagora/pen0/assets/images/c1/c1-20220109-011.jpg)
 ▲ 哈薩克官方所公布的示威地點，及是否發生暴亂以及規模。
 
 但俄羅斯國內輿論對此感到困惑，俄國官方也「不太懂」托卡葉夫所說的「境外勢力」到底是哪一國？所以哈國這次局勢動盪被認爲是該國政治鬥爭及民生經濟問題，而這些棘手問題讓俄國沒有興趣介入。
@@ -88,7 +88,7 @@ description: "喬索夫斯基：俄羅斯過去出兵喬治亞和烏克蘭，是
 > 第414獨立海軍陸戰隊營：<br>
 • 阿克套港
 
-![image2](https://storage.googleapis.com/stateless-34-84-11-249/2022/01/b32aee0b-60366671_403.jpg)
+![image2](https://github.com/agorahub/_meta/raw/agoran/theagora/pen0/assets/images/c1/c1-20220109-012.jpg)
 ▲ 哈薩克總統托卡葉夫向俄羅斯主導的CSTO請求維和部隊進駐哈國。圖／俄羅斯國防部
 
 截至目前，上述這些力量沒有介入哈薩克示威鎮壓。即使要介入，這樣的兵力對於要鎮壓哈國這次全國範圍的示威來說，幾乎是杯水車薪，也沒有任何意義。其他派出維和部隊的吉爾吉斯等CSTO成員國的兵力也是非常稀少。

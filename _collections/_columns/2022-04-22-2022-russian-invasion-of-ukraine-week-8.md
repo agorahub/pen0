@@ -3,7 +3,7 @@ layout: post
 title : "俄乌战争第八周"
 author: "当代张敬轩"
 date  : 2022-04-22 12:00:00 +0800
-image : https://i.imgur.com/zjNHkCl.jpg
+image : https://github.com/agorahub/_meta/raw/agoran/theagora/pen0/assets/images/c1/c1-20220422-01.jpg
 image_caption: "（2022年4月15日—4月21日）"
 description: "俄罗斯对乌克兰的侵略战争，目的是把作为德、法等帝国主义国家附属国的乌克兰的全部或局部重新纳入俄罗斯帝国主义的控制下，乃至于进一步变成殖民地。"
 ---
@@ -80,7 +80,7 @@ description: "俄罗斯对乌克兰的侵略战争，目的是把作为德、法
 俄帝没有在各方面转入动员，甚至不待撤回国内的各部充分整补，就在天时相当不利的情况下急匆匆发动了对顿巴斯的重点进攻。然而，俄军在战役开始初期依然表现出了相当大的军事优势，掌握了战役的主动权。乌军部署在顿巴斯两翼的两个战役军团，虽对俄军穿插部队侧后方展开了反击，但也只是牵制了部分俄军，未能完全阻止俄军的战役进攻，更谈不上反包围俄军穿插部队。然而，乌军在顿巴斯各设防城镇已经营八年之久，俄军能否取得战役突破，也同样存在很大的疑问，还须耐心观察后续战事的发展。
 
 
-[![image1](https://i.imgur.com/RoGSyvb.png)](https://zhuanlan.zhihu.com/p/502819749)
+[![image1](https://github.com/agorahub/_meta/raw/agoran/theagora/pen0/assets/images/c1/c1-20220422-011.jpg)](https://zhuanlan.zhihu.com/p/502819749)
 ▲ 原载《知乎》链接。
 
 <!--END-->

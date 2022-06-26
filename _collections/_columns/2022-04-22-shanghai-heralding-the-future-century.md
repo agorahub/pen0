@@ -3,7 +3,7 @@ layout: post
 title : "上海是预示未来一百年的大河"
 author: "李承鹏"
 date  : 2022-04-22 12:00:00 +0800
-image : https://i.imgur.com/CYIy6Gt.jpg
+image : https://github.com/agorahub/_meta/raw/agoran/theagora/pen0/assets/images/c1/c1-20220422-02.jpg
 #image_caption: ""
 description: "“折腾到何时为止”"
 ---
@@ -36,7 +36,7 @@ description: "“折腾到何时为止”"
 
 花十五天研发出来的连花清瘟确实是圣药，不看广告看疗效，昨天我在家里打扫卫生不小心洒了点连花清瘟在扫帚上，今天早晨起来一看，扫帚已经长成这样 ▼
 
-![image1](https://i.imgur.com/w6vAx3m.jpg)
+![image1](https://github.com/agorahub/_meta/raw/agoran/theagora/pen0/assets/images/c1/c1-20220422-021.jpg)
 
 这世上有一种病毒叫傻逼，且傻逼和病毒一样不可清零。看过《病毒简史》就知道：人类唯一清零的病毒叫天花，从拉美西斯五世感染天花死去到1979年科学家攻克天花，整整花了3100年。病毒对人类是有巨大贡献的，没有病毒就没有光合作用，没有病毒杀死海水中的细菌，大海就是一汪细菌水。病毒中一个基因能合成一种叫“合胞素”的蛋白质，能形成一种东西，那东西就叫“胎盘”。没有病毒，就没有人类。
 
@@ -98,7 +98,7 @@ description: "“折腾到何时为止”"
 
 上海是什么？上海就是她面前奔腾而过的那条大河，漂过太平天国军队的战船，漂过洋枪队，漂过英勇抗战的淞沪战役将士遗体，漂过张爱玲，她只想了一秒钟，就知道自己还是喜欢穿着漂亮旗袍而不是蓝灰军装，迅速收拾好行李，从此地而香港，而遥远的彼岸，连信都不想再写一封，永世不见。
 
-![image2](https://i.imgur.com/NPg5nbV.jpg)
+![image2](https://github.com/agorahub/_meta/raw/agoran/theagora/pen0/assets/images/c1/c1-20220422-022.jpg)
 ▲ 张爱玲知道，上海是可以预示未来一百年的大河。
 
 这两年发生的事情，不止这两年发生的事情，让人觉得总有什么笼罩下来，曾拥有的珍贵的东西迅速远去。我的一个做外贸的朋友遣散了员工，开始跑滴滴了。我的另一个电视台朋友，开始借钱了，开始是三千，现在连五百元也借。一个哥们因为生意失败，女朋友远走他乡，他卖掉所有家当，下落不明。

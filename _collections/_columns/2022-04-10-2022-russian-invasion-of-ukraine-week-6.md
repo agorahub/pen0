@@ -3,7 +3,7 @@ layout: post
 title : "俄乌战争第六周"
 author: "当代张敬轩"
 date  : 2022-04-10 12:00:00 +0800
-image : https://i.imgur.com/9RIG9hg.jpg
+image : https://github.com/agorahub/_meta/raw/agoran/theagora/pen0/assets/images/c1/c1-20220410-01.jpg
 image_caption: "（2022年4月1日—4月7日）"
 description: "俄罗斯对乌克兰的侵略战争，目的是把作为德、法等帝国主义国家附属国的乌克兰的全部或局部重新纳入俄罗斯帝国主义的控制下，乃至于进一步变成殖民地。"
 ---
@@ -82,7 +82,7 @@ description: "俄罗斯对乌克兰的侵略战争，目的是把作为德、法
 
 俄军从基辅接近地上的撤退，提升了乌克兰当局的威信，导致后者的态度趋于强硬，谈判也变得困难起来。现在，双方都把注意力集中到了顿巴斯。未来，在顿巴斯可能会发生战略决战，决定这场战争的最终结局。但是，目前双方都还在为此积极准备之中。
 
-[![image1](https://i.imgur.com/INBBVEL.png)](https://zhuanlan.zhihu.com/p/495024463)
+[![image1](https://github.com/agorahub/_meta/raw/agoran/theagora/pen0/assets/images/c1/c1-20220410-011.jpg)](https://zhuanlan.zhihu.com/p/495024463)
 ▲ 原载《知乎》链接。
 
 <!--END-->
