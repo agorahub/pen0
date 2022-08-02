@@ -3,7 +3,7 @@ layout: post
 title : "世俗化与新兴宗教"
 author: "胡清心"
 date  : 2022-07-11 12:00:00 +0800
-image : https://i.imgur.com/YrX0pKw.jpg
+image : https://github.com/agorahub/_meta/raw/agoran/theagora/pen0/assets/images/c1/c1-20220711-01.jpg
 #image_caption: ""
 description: ""
 ---
@@ -18,13 +18,13 @@ description: ""
 
 短时间内发生数起与另类宗教团体有关新闻事件，不禁让人对它们的来路不断揣测，“邪教”、“敛财”、“洗脑”等画面立刻在脑中浮现。
 
-![image1](https://i.imgur.com/fmKV9wF.jpg)
+![image1](https://github.com/agorahub/_meta/raw/agoran/theagora/pen0/assets/images/c1/c1-20220711-011.jpg)
 ▲ 2015年3月3日，韩国加平郡，数千对夫妇参加统一教会集体婚礼。
 
-![image2](https://i.imgur.com/jQnHvHY.jpg)
+![image2](https://github.com/agorahub/_meta/raw/agoran/theagora/pen0/assets/images/c1/c1-20220711-012.jpg)
 ▲ 2022年7月4日，香港特首李家超接受央视访问时称经常“练气功”。
 
-![image3](https://i.imgur.com/HQXEN0P.jpg)
+![image3](https://github.com/agorahub/_meta/raw/agoran/theagora/pen0/assets/images/c1/c1-20220711-013.jpg)
 ▲ 2019年10月26日，中国西安市，林二汶参加某财神庙前合影。
 
 对于李家超、林二汶等的批评，有很多除却个人因素之外的、与公众利益密切相关的公共基础。但一提起这些另类宗教团体，就会联想产生这些负面印象，也存在一些不精确的部分。原因恐怕离不开二十世纪下半叶，数起骇人听闻的大规模群体杀人或自杀事件背后，都有它们的身影。比如分别在七十和九十年代发生集体自杀事件的人民圣殿教（The Peoples Temple of the Disciples of Christ）和天堂之门（Heaven’s Gate），以及策划实施1995年东京地铁沙林毒气事件的奥姆真理教。然而事实上，这只是新兴宗教团体中极少数的个案，大多情况下，并不至于“邪”到反人类反社会的地步。

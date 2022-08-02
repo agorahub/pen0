@@ -3,7 +3,7 @@ layout: post
 title : "失控的生活"
 author: "维舟"
 date  : 2022-07-12 12:00:00 +0800
-image : https://i.imgur.com/Zgp3UH6.jpg
+image : https://github.com/agorahub/_meta/raw/agoran/theagora/pen0/assets/images/c1/c1-20220712-03.jpg
 image_caption: "网传《核酸检测上河图》反应两极化"
 description: ""
 ---

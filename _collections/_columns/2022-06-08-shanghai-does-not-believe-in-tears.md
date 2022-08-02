@@ -3,7 +3,7 @@ layout: post
 title : "上海不相信眼泪"
 author: "维舟"
 date  : 2022-06-08 12:00:00 +0800
-image : https://i.imgur.com/826mIzM.png
+image : https://github.com/agorahub/_meta/raw/agoran/theagora/pen0/assets/images/c1/c1-20220608-01.jpg
 image_caption: "现在全上海的人，都是幸存者，也带有幸存者特殊的心态"
 description: ""
 ---
@@ -40,7 +40,7 @@ description: ""
 
 我们永远不应遗忘，在那些天的暗夜里的嘶吼、歌哭与沉默。不要忘记他们，那些已死去的人们，再也回不来。那些看似零碎的片段，可能将决定我们往后如何在瓦砾上重建生活。记忆并不必然只是伤感或虚假的抚慰，它也可能是治愈的力量源泉。
 
-![image1](https://i.imgur.com/nlWhXvi.jpg)
+![image1](https://github.com/agorahub/_meta/raw/agoran/theagora/pen0/assets/images/c1/c1-20220608-011.jpg)
 ▲ 上海五原路 6月3日凌晨 做核酸
 
 可能要不了多少年，我们的后人就将无法理解我们为什么会经历这些，而我们也很难向他们解释，那仿佛是一场暴雨，人们虽然被淋了一身，但并不清楚它是怎么发生的。在这个时代的迷宫里，我们都只看到一个幽暗的角落。

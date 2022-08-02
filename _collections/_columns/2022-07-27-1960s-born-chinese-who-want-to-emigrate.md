@@ -3,7 +3,7 @@ layout: post
 title : "想“润”的60后"
 author: "白莉莉"
 date  : 2022-07-27 12:00:00 +0800
-image : https://i.imgur.com/MxUVbSk.jpg
+image : https://github.com/agorahub/_meta/raw/agoran/theagora/pen0/assets/images/c1/c1-20220727-01.jpg
 #image_caption: ""
 description: "从文革到计划生育，压倒他们的最后一根稻草是上海封城"
 ---

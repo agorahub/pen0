@@ -3,7 +3,7 @@ layout: post
 title : "冻卵和她的身体"
 author: "阿菠"
 date  : 2022-07-12 12:00:00 +0800
-image : https://i.imgur.com/Kn9o19F.jpg
+image : https://github.com/agorahub/_meta/raw/agoran/theagora/pen0/assets/images/c1/c1-20220712-01.jpg
 #image_caption: "「这里的女权在成功触及父权之前，就被规训成熟的母权温柔地按下去了。」"
 description: "一切似乎从那个关于冻卵的决定开始，抑或早就上演了许多年⋯⋯"
 ---
@@ -33,7 +33,7 @@ description: "一切似乎从那个关于冻卵的决定开始，抑或早就上
 
 ### 联盟
 
-![image1](https://i.imgur.com/0eBs36g.jpg)
+![image1]([https://i.imgur.com/0eBs36g.jpg](https://github.com/agorahub/_meta/raw/agoran/theagora/pen0/assets/images/c1/c1-20220712-011.jpg))
 
 今年是迦牟的本命年，鱼仔也已三十三。若近期无生育打算，未来又想要小孩，在鱼仔三十五岁卵子质量下降前，冻卵是一个保险方案。
 
@@ -68,7 +68,7 @@ description: "一切似乎从那个关于冻卵的决定开始，抑或早就上
 
 ### 白马
 
-![image2](https://i.imgur.com/Z90Mgh1.jpg)
+![image2](https://github.com/agorahub/_meta/raw/agoran/theagora/pen0/assets/images/c1/c1-20220712-012.jpg)
 
 迦牟当丁克的愿望越来越强，他的步步坚守让冷冻胚胎一事也很难推进。在意基因的其实是迦牟。他的郁结不在身体，而是在心。
 
@@ -87,7 +87,7 @@ description: "一切似乎从那个关于冻卵的决定开始，抑或早就上
 
 ### 梦想
 
-![image3](https://i.imgur.com/Ybde2ou.jpg)
+![image3](https://github.com/agorahub/_meta/raw/agoran/theagora/pen0/assets/images/c1/c1-20220712-013.jpg)
 
 鱼仔现在的压力叠着三个家。长辈不知道，强灵魂追求的低欲望生活是她和迦牟共处的基底。吸引两人的，恰是要剪断精神脐带的共同希望。
 
@@ -156,7 +156,7 @@ description: "一切似乎从那个关于冻卵的决定开始，抑或早就上
 
 ### 基因
 
-![image4](https://i.imgur.com/sdJ8PnH.jpg)
+![image4](https://github.com/agorahub/_meta/raw/agoran/theagora/pen0/assets/images/c1/c1-20220712-014.jpg)
 
 “我很想和你聊一聊，你有时间吗？”
 
@@ -227,7 +227,7 @@ description: "一切似乎从那个关于冻卵的决定开始，抑或早就上
 
 ### 容器
 
-![image5](https://i.imgur.com/SyW4hPt.jpg)
+![image5](https://github.com/agorahub/_meta/raw/agoran/theagora/pen0/assets/images/c1/c1-20220712-015.jpg)
 
 以琛看到鱼仔狼狈地被哈德逊河刮来的寒风推进商厦。他张开双臂，朝鱼仔小跑，在周日早上无人的商场里给了她一个大大的拥抱。
 

@@ -3,7 +3,7 @@ layout: post
 title : "上海解封餐饮业"
 author: "王丹阳"
 date  : 2022-07-12 12:00:00 +0800
-image : https://i.imgur.com/nm8mvpx.jpg
+image : https://github.com/agorahub/_meta/raw/agoran/theagora/pen0/assets/images/c1/c1-20220712-02.jpg
 image_caption: "2022年6月初，上海解封后仍禁止堂食，有餐厅老板关门熄灯招待熟客「静默」用餐。"
 description: ""
 ---
@@ -46,12 +46,12 @@ description: ""
 
 6月1日，上海宣布“全面恢复正常生产生活秩序”，2500万常住人口走出住宅。外卖和扫码点单率先启动，街上人头攒集，店家清一色在门口竖起二维码招牌，食客足不入店，一时间造成了人人坐在马路牙子上吃流水席般的盛景。
 
-![image1](https://i.imgur.com/zGx13KV.jpg)
+![image1](https://github.com/agorahub/_meta/raw/agoran/theagora/pen0/assets/images/c1/c1-20220712-021.jpg)
 ▲ 六月初，上海，食客露天进餐。
 
 复工不堂食，微信成了魔幻场面的中枢，胆大商家偷开包房，引食客入堂，“暗黑料理”，“堂食谍战”，“游击战”的照片疯传，绝大多数只是“焦头烂额的小餐厅”和“食客无处安放的屁股”。
 
-![image2](https://i.imgur.com/cJRaGhU.jpg)
+![image2](https://github.com/agorahub/_meta/raw/agoran/theagora/pen0/assets/images/c1/c1-20220712-022.jpg)
 ▲ 六月初，上海，食客围坐熄灯，手机打光，仿如秘密聚会。
 
 沪上餐饮人吴天旗在6月第三周和餐饮老板们来到徐汇滨江夜跑，黄梅天的燠热化作夜雾和汗水，每年此时会在体感上提醒他们。但今年不同的是，滨江从早到晚汇聚着“获赦”的市民，他们把塑料餐盒带到这片空旷地带，拾阶而坐，如同节庆般地重新打量黄浦江上来往的驳船。

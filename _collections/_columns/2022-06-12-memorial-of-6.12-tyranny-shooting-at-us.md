@@ -3,7 +3,7 @@ layout: post
 title : "「6.12」，暴政向我們開槍"
 author: "蘇查哈爾燦"
 date  : 2022-06-12 12:00:00 +0800
-image : https://upload.wikimedia.org/wikipedia/commons/f/f5/Harcourt_Road_tear_gas_view_20190612.jpg
+image : https://github.com/agorahub/_meta/raw/agoran/theagora/pen0/assets/images/c1/c1-20220612-01.jpg
 image_caption: "Harcourt Road tear gas view, 12 June, 2019."
 description: "反對逃犯條例修訂草案佔領行動，又稱「6.12示威」，是2019年6月11日深夜起，香港市民自發的集會及佔領街道運動，目的在於要求香港特區政府撤回修訂逃犯條例。——維基百科"
 ---

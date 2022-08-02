@@ -3,7 +3,7 @@ layout: post
 title : "俄乌战争・六月战局"
 author: "当代张敬轩"
 date  : 2022-07-02 12:00:00 +0800
-image : https://i.imgur.com/36ItXQS.jpg
+image : https://github.com/agorahub/_meta/raw/agoran/theagora/pen0/assets/images/c1/c1-20220702-01.jpg
 image_caption: "（2022年6月1日—30日）"
 description: "俄罗斯对乌克兰的侵略战争，目的是把作为德、法等帝国主义国家附属国的乌克兰的全部或局部重新纳入俄罗斯帝国主义的控制下，乃至于进一步变成殖民地。"
 ---
@@ -58,7 +58,7 @@ description: "俄罗斯对乌克兰的侵略战争，目的是把作为德、法
 
 在战略消耗中，北约的筹码多于俄罗斯，俄罗斯又多于乌克兰。因此，战局的走向，仍然取决于双方谁的短板更短一筹。
 
-[![image1](https://i.imgur.com/KXfORFH.png)](https://zhuanlan.zhihu.com/p/536579201)
+[![image1](https://github.com/agorahub/_meta/raw/agoran/theagora/pen0/assets/images/c1/c1-20220702-011.jpg)](https://zhuanlan.zhihu.com/p/536579201)
 ▲ 原载《知乎》链接。
 
 <!--END-->

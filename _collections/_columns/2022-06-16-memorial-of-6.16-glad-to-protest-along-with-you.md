@@ -3,7 +3,7 @@ layout: post
 title : "「6.16」，和你抗爭我很愉快"
 author: "書生"
 date  : 2022-06-16 12:00:00 +0800
-image : https://upload.wikimedia.org/wikipedia/commons/3/30/June16protestTreefong17.jpg
+image : https://github.com/agorahub/_meta/raw/agoran/theagora/pen0/assets/images/c1/c1-20220616-01.jpg
 image_caption: "Johnston Road demonstration view, 16 June, 2019."
 description: "「譴責鎮壓，撤回惡法」大遊行，通稱「6.16大遊行」，由民間人權陣線（「民陣」）於2019年6月16日舉辦，是「6.9大遊行」後再一次同類遊行。本次遊行提出「五大訴求」，追究警察在6月12日街道佔領時濫權的呼聲令運動遲遲不能收場。——維基百科"
 ---
