@@ -3,7 +3,7 @@ layout: post
 title:  "人祸资本主义和灾时共产主义"
 author: "Out of the Woods"
 date:   2018-10-22 12:00:00 +0800
-image:  https://i.imgur.com/OPkfuOk.jpg
+image:  https://github.com/agorahub/_meta/raw/agoran/theagora/pen0/assets/images/a1/0x12_a1_c-20181022.jpg
 image_caption: "“气候变化正在发生。在暴风雨中，一个打破资本主义及其恶性不平等的机会出现了。让我们趁早抓住这个机会。别无他路。”——丽贝卡·索尼特"
 description:   "索尼特（Rebecca Solnit）声称原先认为灾难揭示人性最丑恶一面的市侩哲学具有误导性。相反，她展示了我们如何在许多诸如此类事件中发现“一种比幸福更重要，却更加深刻而积极的情感”，一种促成她谓“灾时共同体”的目标清晰的希望。"
 position: center

@@ -3,7 +3,7 @@ layout: post
 title:  "哭泣的東方之珠"
 author: "晓波助澜会"
 date:   2022-07-01 12:00:00 +0800
-image:  https://i.imgur.com/6izsY8C.jpg
+image:  https://github.com/agorahub/_meta/raw/agoran/theagora/pen0/assets/images/a1/0x13_a1_r-20220701.jpg
 #image_caption: ""
 description:   "後《國安法》時代香港自由報告"
 position: right

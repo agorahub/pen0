@@ -3,7 +3,7 @@ layout: post
 title:  "革命将至"
 author: "Comité Invisible"
 date:   2007-03-29 12:00:00 +0800
-image:  https://i.imgur.com/VeJm0NQ.jpg
+image:  https://github.com/agorahub/_meta/raw/agoran/theagora/pen0/assets/images/a1/0x13_a1_c-20070329.jpg
 #image_caption: ""
 description:   "资本主义崩坏宣言及推翻手册"
 position: center

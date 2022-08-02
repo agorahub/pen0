@@ -3,7 +3,7 @@ layout: post
 title:  "女子宣布书"
 author: "何震"
 date:   1907-06-10 12:00:00 +0800
-image:  https://i.imgur.com/8SzMuRb.jpg
+image:  https://github.com/agorahub/_meta/raw/agoran/theagora/pen0/assets/images/a1/0x13_a1_l-19070610.jpg
 #image_caption: ""
 description:   "原载《天义》第一号“社说”栏，1907年6月10日，第1-7页。"
 position: left
@@ -13,7 +13,7 @@ position: left
 
 <!--more-->
 
-![image1](https://i.imgur.com/3OXOPzG.jpg)
+![image01](https://github.com/agorahub/_meta/raw/agoran/theagora/pen0/assets/images/a1/0x13_a1_l-19070610-01.jpg)
 ▲ 《天义》第一号（创刊号）目录
 
 　　一曰嫁娶上之不平等。古代之时，位愈尊者妻愈众。如殷代之制，天子娶十二女，诸侯娶九女，大夫三女，士二女。至于周代，则为天子者有一后、三夫人、九嫔、二十七世妇、八十一御妻，岂非以百余之女，匹一男子邪？而后世之嫔妃，则更无限制。贵显之家，蓄妾尤众。其不平者，一也。
@@ -52,7 +52,7 @@ position: left
 
 ---
 
-![image2](https://i.imgur.com/Evhh8i1.jpg)
+![image02](https://github.com/agorahub/_meta/raw/agoran/theagora/pen0/assets/images/a1/0x13_a1_l-19070610-02.jpg)
 ▲ 前排左至右：何震（字志剑）、刘申叔、柳亚子。
 
 __何震__（何殷震，1886-1920?），原名何班，字志剑，江苏仪征人，晚清著名才女，中国女性主义早期理论家。
