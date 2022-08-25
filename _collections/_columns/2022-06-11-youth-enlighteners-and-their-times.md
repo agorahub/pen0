@@ -3,7 +3,7 @@ layout: post
 title : "青年启蒙者与他们的时代"
 author: "陈纯"
 date  : 2022-06-11 12:00:00 +0800
-image : https://i.imgur.com/YOMBh9S.jpg
+image : https://github.com/agorahub/_meta/raw/agoran/theagora/pen0/assets/images/c1/c1-20220611-02.jpg
 #image_caption: ""
 description: ""
 ---

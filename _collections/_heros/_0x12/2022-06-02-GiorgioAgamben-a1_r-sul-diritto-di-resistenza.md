@@ -3,7 +3,7 @@ layout: post
 title:  "抵抗的权利"
 author: "Giorgio Agamben"
 date:   2022-06-02 12:00:00 +0800
-image:  https://i.imgur.com/iefq1MN.jpg
+image:  https://github.com/agorahub/_meta/raw/agoran/theagora/pen0/assets/images/a1/0x12_a1_r-20220602.jpg
 image_caption: "利维坦，即是暴政挡箭牌。"
 description:   ""
 position: right

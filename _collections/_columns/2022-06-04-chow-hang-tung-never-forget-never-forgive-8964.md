@@ -3,7 +3,7 @@ layout: post
 title : "邹幸彤：毋忘六四、抗争到底"
 author: "雨里"
 date  : 2022-06-04 12:00:00 +0800
-image : https://i.imgur.com/O4qMgu9.jpg
+image : https://github.com/agorahub/_meta/raw/agoran/theagora/pen0/assets/images/c1/c1-20220604-02.jpg
 image_caption: "前香港支联会副主席邹幸彤"
 description: "「“无蜡烛之地”吧，即是说你连点支蜡烛都不可以，其实这个不是等如令到人们是不记得、会忘记（六四）的，你（当局）愈是压制，大家的心里面愈记得吧，因为会不断提醒我们会记着嘛，只不过我们不能够聚在一个地方，但是都会分散不同的地方，都会去记着这个伤痛，以及记着这些事件，令我们更加会加深，相信（六四）那一日大家都会心目中一定有那支蜡烛在那里，只不过在不同的地方出现。」"
 ---

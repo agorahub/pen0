@@ -3,7 +3,7 @@ layout: post
 title : "「6.9」，記憶是為了什麼？"
 author: "書生"
 date  : 2022-06-09 12:00:00 +0800
-image : https://upload.wikimedia.org/wikipedia/commons/8/83/June9protestTreefong02.jpg
+image : https://github.com/agorahub/_meta/raw/agoran/theagora/pen0/assets/images/c1/c1-20220609-01.jpg
 image_caption: "Hennessy Road demonstration view, 9 June, 2019."
 description: "「守護香港反送中」大遊行，通稱「6.9大遊行」，由民間人權陣線（「民陣」）於2019年6月9日舉辦，旨在反對逃犯條例修訂草案（「反送中」）。——維基百科"
 ---

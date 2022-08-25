@@ -3,7 +3,7 @@ layout: post
 title : "沉船以葬"
 author: "西辭"
 date  : 2022-06-29 12:00:00 +0800
-image : https://i.imgur.com/bAv9Ttm.jpg
+image : https://github.com/agorahub/_meta/raw/agoran/theagora/pen0/assets/images/c1/c1-20220629-01.jpg
 image_caption: "珍寶海鮮舫內籠，如今連同船隻一道葬身海底。"
 description: ""
 ---

@@ -3,7 +3,7 @@ layout: post
 title : "勿忘六四？光复香港？"
 author: "鹿馬"
 date  : 2022-06-11 12:00:00 +0800
-image : https://i.imgur.com/a1sfN4q.jpg
+image : https://github.com/agorahub/_meta/raw/agoran/theagora/pen0/assets/images/c1/c1-20220611-01.jpg
 image_caption: "东京新宿街头六四纪念集会，2022年6月4日。"
 description: "六四当天，东京新宿街头有纪念六四的集会，难得有机会近距离接触，我也去凑了个热闹。"
 ---
@@ -18,7 +18,7 @@ description: "六四当天，东京新宿街头有纪念六四的集会，难得
 
 当然，在战术层面，从提升港人内部的凝聚力这一目的出发，“光复香港，时代革命”也远比以六四为主题的口号有力的多，同时也更能吸引日本当地人的注意力。毕竟，一个集会能聚集人气才是王道，理不理解内容倒还是其次。
 
-![image1](https://i.imgur.com/yMObuGw.jpg)
+![image1](https://github.com/agorahub/_meta/raw/agoran/theagora/pen0/assets/images/c1/c1-20220611-011.jpg)
 ▲ 这两则投稿我都非常认同，左边那则是出于感性的共感，而右边那则出于理性的理解。
 
 #### 作为一个参与者的感受

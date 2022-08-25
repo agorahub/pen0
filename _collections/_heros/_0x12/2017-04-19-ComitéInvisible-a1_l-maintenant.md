@@ -3,7 +3,7 @@ layout: post
 title:  "现在"
 author: "Comité Invisible"
 date:   2017-04-19 12:00:00 +0800
-image:  https://i.imgur.com/QtPndmD.jpg
+image:  https://github.com/agorahub/_meta/raw/agoran/theagora/pen0/assets/images/a1/0x12_a1_l-20170419.jpg
 #image_caption: ""
 #description:   ""
 position: left

@@ -3,7 +3,7 @@ layout: post
 title : "李佳琦悖论"
 author: "昌西"
 date  : 2022-06-09 12:00:00 +0800
-image : https://i.imgur.com/3HXYLDK.jpg
+image : https://github.com/agorahub/_meta/raw/agoran/theagora/pen0/assets/images/c1/c1-20220609-02.jpg
 image_caption: "“如果不想触碰政治禁区，那么必须了解所有政治禁区。”"
 description: "「当知道一件事比装作不知道一件事的难度更大时，犯错几乎就变得不可避免。」"
 ---
@@ -18,7 +18,7 @@ description: "「当知道一件事比装作不知道一件事的难度更大时
 
 由于[“坦克人”影像画面](https://www.abc.net.au/chinese/2019-06-04/tiananmen-30th-anniversary-young-people-dont-know-tank-man/11178938)的存在，坦克一词同样成为了中国政府针对六四事件的“敏感词汇”。坦克蛋糕在这样的时段出现，无疑为负责审核李佳琦直播的平台带来了巨大负担。在微博上，李佳琦当晚对外宣称“内部设备故障无法继续直播”，并且之后再没有发任何一条新的微博。
 
-![image1](https://i.imgur.com/XXahlb6.jpg)
+![image1](https://github.com/agorahub/_meta/raw/agoran/theagora/pen0/assets/images/c1/c1-20220609-021.jpg)
 ▲ 1989年6月5日，王维林在北京长安街上阻挡中国人民解放军坦克车队前进。图：Bettmann/Getty Images
 
 #### 无知的代价
@@ -37,7 +37,7 @@ description: "「当知道一件事比装作不知道一件事的难度更大时
 
 不过和李佳琦团队经历最像的，其实是当年在共享单车领域曾经与ofo、摩拜三足鼎立的小蓝单车（BlueGoGo）。在2017年6月3日到6月4日，小蓝单车与掌游天下联合推出名为“王牌大作战”的推广活动。该活动鼓励用户寻找带有坦克标示的单车骑行。而在小蓝单车的手机应用上，随即出现了在长安街上排列的“一排排坦克”。这一推广活动在上线数小时后便全面下架，根据中国科技媒体品玩的[存档报导](https://web.archive.org/web/20171116092303/http://www.pingwest.com/bluegogo-die/)称，6月事发之后确有警察进入小蓝单车内部调查，而小蓝单车自此进入静默反省期。更直接的结果是2017年11月，在缺乏后续融资的背景下，小蓝单车CEO跑路，公司也随后倒闭，交给滴滴托管收购，至此，距离坦克车推广事件爆发仅隔五个月。
 
-![image2](https://i.imgur.com/Km4Bnts.jpg)
+![image2](https://github.com/agorahub/_meta/raw/agoran/theagora/pen0/assets/images/c1/c1-20220609-022.jpg)
 ▲ 2018年1月3日，上海，美容博主李佳琦在淘宝上直播时涂口红。图：VCG via Getty Images
 
 #### 无孔不入的政治
@@ -54,7 +54,7 @@ description: "「当知道一件事比装作不知道一件事的难度更大时
 
 对于李佳琦和更多需要依靠中国客户群体的本土商人来说，他们与“明处”政治的交集可谓已经无法避免，同时，接触这些明面上的政治行动，其本质是为了规避陷入任何“禁区政治”可能带来的负面影响。但对于阴暗面的避而不谈，以及不知所谓，却在诸如现在的关键时刻害苦了自己。
 
-![image3](https://i.imgur.com/kqtwVGS.jpg)
+![image3](https://github.com/agorahub/_meta/raw/agoran/theagora/pen0/assets/images/c1/c1-20220609-023.jpg)
 ▲ 2021年1月5日，上海 ，人们走过直播主持人李佳琦的广告。摄：VCG via Getty Images
 
 #### 过于成功的审查
