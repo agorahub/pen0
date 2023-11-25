@@ -1,0 +1,66 @@
+---
+layout: post
+title : Israel’s Gaza Problem
+author: Daniel R DePetris
+date  : 2023-11-01 12:00:00 +0800
+image : https://i.imgur.com/Q6Hd9WC.jpg
+#image_caption: ""
+description: ""
+excerpt_separator: <excerpt/>
+---
+
+_Following the 7 October attack by Hamas, Israel has determined to destroy the terrorist group controlling Gaza once and for all. The question is not just whether or not it will succeed, but what its plan is for the day after._
+
+<excerpt/>
+
+The 7 October attack by Hamas, the worst act of terrorism against Israel since the state’s founding in 1948, was unprecedented in its scale and scope. With more than 1,400 people killed, most of them civilians, the attack has forced the Israeli political establishment to embrace options – like a ground invasion of Gaza – that were previously viewed as extreme. The Israeli intelligence community will no doubt conduct an after-action review to determine how Hamas could have planned and executed such an operation without being noticed. But at this stage, current operational planning is the priority. The Israel Defense Forces (IDF) have spent the past three weeks engaging in a ferocious air campaign against targets in the Hamas-ruled Gaza Strip, with 6,000 bombs dropped by the Israeli Air Force in the first six days of the counterattack. Israel’s borders with Gaza are sealed, fuel imports have been cut off and Israeli ground forces are making initial forays toward Gaza City to destroy Hamas’s network of tunnels. Around 360,000 reservists have been sent to the front, Israel’s largest mobilisation since the 1973 Yom Kippur War.
+
+As Israeli Prime Minister Benjamin Netanyahu declared on 27 October, the IDF aims to “completely defeat the murderous enemy and guarantee our existence”. Lofty objectives indeed – but two obvious questions need to be asked and answered. First, is it possible to destroy Hamas? And second, who governs Gaza after Hamas is routed?
+
+
+### Before 7 October: A Strange Paradigm Between Israel and Hamas
+
+Before the 7 October attack, Israel and Hamas had a violent – albeit predictable – arrangement with one another. While Israel’s past wars with Hamas (2008–2009, 2012, 2014 and 2021) were sparked by unique local and regional circumstances, Israel’s objective was always the same: degrade Hamas’s military capacity and restore a sense of deterrence to the Israel–Gaza border region. While Operation Cast Lead (2008–2009) and Operation Protective Edge (2014) included a ground component, Israel largely relied on air power to destroy as much of Hamas’s rocket factories, tunnel network and leadership as it could. Ground engagements inside Gaza lasted for a short period of time; the longest Israeli ground campaign, during Operation Protective Edge, lasted about three weeks.
+
+In the end, all of these wars concluded with Israel and Hamas negotiating a ceasefire through intermediaries. The terms were straightforward: quiet in exchange for quiet. Over time, Israel and Hamas settled into a mutually acceptable informal arrangement, whereby the Israelis would permit certain economic concessions to induce Hamas to maintain calm. Three months after the 2021 Israel–Hamas war ended with yet another ceasefire, Israel agreed to allow Qatar to channel $10 million a month into Gaza through the UN for the benefit of 100,000 Gazan families. Commercial incentives, such as the re-opening of the Abu Karam crossing, the approval of thousands of permits for Gazans to work in Israel and the periodic expansion of the Gaza fishing zone, were used to keep Hamas wedded to the agreement. This carrot came with a stick in the form of airstrikes and economic pressure whenever Palestinian militant groups broke the terms.
+
+Israel and Hamas are sworn enemies, yet in a strange way they have also depended on one another. Although the Israelis have refused to deal with Hamas directly, Israeli Prime Ministers Benjamin Netanyahu, Naftali Bennett and Yair Lapid have all counted on Hamas to restrain the even more extremist Palestinian groups located in the enclave. Until now, Hamas controlling Gaza and serving as the territory’s de-facto government has been deemed more pliable than disorder. Hamas, in turn, has relied on Israel to ensure that the much-needed cash from Qatar flowed into Gaza and that Palestinians could access the necessary permits to work in Israel.
+
+
+### Israel Ditches the Old Playbook, but Can It Succeed?
+
+The previous arrangements between Israel and Hamas worked well enough – until they didn’t. Whatever mutual understanding the two had is now gone after Hamas’s 7 October attack, which was of such barbarity that resurrecting the old paradigm is no longer possible. Whereas successive Israeli governments were content with degrading Hamas’s military structure to buy a few more years of relative stability, it appears the current government will not accept anything less than Hamas’s eradication. Senior Israeli officials have stressed that the ongoing campaign will be longer, tougher and more comprehensive than those in the past. “Our responsibility now is to enter Gaza, go to the places where Hamas organises, operates, plans and launches”, Israel Defense Forces Chief of the General Staff Herzi Halevi told Haaretz on 15 October. “To hit them severely everywhere, every commander, every operative, and to destroy infrastructure. In one word – to win”.
+
+___`Hamas is as much an idea as it is a coherent military entity. Even if Israel manages to destroy the military entity – no sure thing – the idea will survive`___
+
+The billion-dollar question is whether this can be accomplished. Destroying a terrorist organisation isn’t impossible, but it’s a difficult endeavour nonetheless. It’s even more difficult if military force is one’s preferred tool. Data analysis by the Rand Corporation finds that only 7% of terrorist groups since 1968 have been terminated through the use of military force. In contrast, 43% of terrorist groups ended when their members joined the political process (think of the Revolutionary Armed Forces of Colombia, the Irish Republican Army and the African National Congress). While it’s true that Hamas did participate in the Palestinian political process in 2006, winning legislative elections that year, it’s also true that Hamas’s already limited interest in democratic participation likely evaporated when the West and Israel refused to accept the results. Given the current situation, it is hard to imagine that Israel would allow Hamas to become a legitimate political actor, even if the group wanted to transition into electoral politics. Palestinian Authority President Mahmoud Abbas, in the 17th year of a four-year term, would also likely balk at the prospect; the last thing he needs when his approval ratings are in the toilet is more competition.
+
+So far, Israel has relied on force. At the time of writing, at least 13 Hamas officials, financiers and security officials have been killed, including Asem Abu Rakaba, a top commander of the 7 October operation. More will inevitably be wiped out in the weeks ahead. But as terrorism researchers have shown, terrorist groups – particularly those with a hierarchal structure – have an ability to replace commanders and leaders quickly. Israel has killed countless Hamas commanders over the last quarter-century, yet the organisation was still able to generate revenue, build an arsenal and perpetrate the worst terrorist attack since 9/11.
+
+It should also be noted that Hamas is not just a terrorist group; it’s a social movement embedded in the Palestinian arena. The organisation is as much an idea as it is a coherent military entity. Even if Israel manages to destroy the military entity – no sure thing – the idea will survive. The Israeli military operation, and the thousands of Palestinian civilian casualties that will likely result from fighting in a highly populated area, is likely to generate the next round of recruits for Hamas and other like-minded groups like the Palestinian Islamic Jihad.
+
+
+### Does Israel Have a “Day After” Plan?
+
+Israel’s military objective is clear: destroy Hamas. What it plans to do after this objective is achieved is open for debate. The options for any post-Hamas governing arrangement in Gaza range from bad to worse. Gaza was in a precarious position before the war began, and is undergoing an even deeper socioeconomic catastrophe today. Roughly one-third of residential buildings have been damaged or destroyed over the last two weeks. More than 80% of Gazans are living in poverty and approximately 62% of Gaza’s youth were unemployed last year, according to UN statistics. Mass power outages are a fact of life, and the healthcare system is plagued by supply shortages.
+
+Who is going to fix this mess? Israeli opposition leader Yair Lapid has suggested bringing in the Palestinian Authority (PA) after hostilities cease. Yet in the 30th year of its existence, the PA has lost the trust of the very people it was meant to govern. The old men running it, Abbas included, are increasingly out of touch with the people they are supposed to represent. They’re viewed at best as a bunch of incompetents, and at worst as enablers of Israel’s occupation. Repeated Israeli raids in the West Bank over the last year, which the PA has been powerless to stop, are clear evidence of Abbas’s ineptitude in the minds of many Palestinians. Some parts of the West Bank – such as the Jenin refugee camp – are no-go areas for the Palestinian security forces and have essentially been handed over to smaller armed groups who hold no allegiance to the traditional Palestinian factions. In March, the Palestinian Center for Policy and Survey Research found that 52% of Palestinians believed the interests of the Palestinian people would be best served by the PA’s dissolution. For those between the ages of 18 and 22, the figure goes up to 59%. If the PA can’t function properly in the limited areas of the West Bank it nominally controls, the probability it would do any better in Gaza – which has been devoid of PA influence since 2007 – is slim to none.
+
+___`Israel’s military objective is clear: destroy Hamas. What it plans to do after this objective is achieved is open for debate`___
+
+Some have suggested an interim Gaza administration run by the UN and Arab states. On the surface, this sounds plausible. UN agencies are well entrenched in Gaza, having run schools and delivered social services to Gazans since well before Hamas’s takeover in 2007. The Gulf states could help finance the UN’s efforts.
+
+Even so, Arab states might not be willing to serve as Gaza’s white knight for a number of reasons. First, Arab leaders don’t want to be portrayed as cleaning up Israel’s mess or making Israel’s job easier in any way, shape or form. Palestinian statehood aspirations may have gone down a few notches on the list of priorities, but Arab governments can’t afford to ignore the issue’s strong salience among their publics. According to the 2022 Arab Opinion Index, organised by the Arab Center Washington DC, 76% of respondents thought the Palestinian cause was a concern for all Arabs, not just Palestinians.
+
+Israel could adopt a strategy of detachment once major combat operations are over by withdrawing its forces; strengthening land, sea and air restrictions over Gaza; and treating the enclave as a security issue. Defense Minister Yoav Gallant’s vague concept of establishing a “new security reality” for Gaza seems to hint in this direction. Israel, however, has been implementing such a strategy for the last 16 years, while neglecting the substantive political disagreements underlying the Israeli-Palestinian dispute.
+
+By far the worst option on the table for Israel is a full re-occupation of the enclave, a feat that even Ariel Sharon – one of Israel’s most hardline prime ministers – wasn’t interested in. US President Joe Biden has said an Israeli reoccupation of Gaza would be “a big mistake”. The Israeli government would likely agree; policing 2.3 million Palestinians – the same people forced to flee their homes in part due to Israeli airstrikes – and administering their affairs would be the definition of a thankless task.
+
+
+### Unanswered Questions Linger as Israel Prepares for a Long War
+
+Much like the US before the war in Afghanistan, Israel is committed to vanquishing its opponents through the force of arms. The US experience in Afghanistan, however, is instructive for Israel. US objectives were clear and measurable early on – destroy Al-Qa’ida and overthrow the Taliban regime – only for the US to slip into the herculean task of building an Afghan state from the ground up. US casualties mounted, about $2 trillion of US taxpayer money was spent, and US troops were put into a position of defending a corruption-plagued Afghan administration that was incapable of governing. With Israel on the verge of mounting its largest ground offensive since the 1982 invasion of Beirut, Israeli policymakers have a responsibility to ask the very same questions US policymakers failed to ask more than two decades ago.
+
+---
+
+__Daniel R DePetris__ is a fellow at Defense Priorities and a syndicated foreign affairs columnist for the Chicago Tribune.
