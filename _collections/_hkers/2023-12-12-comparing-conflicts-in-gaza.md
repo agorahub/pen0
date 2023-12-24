@@ -1,0 +1,75 @@
+---
+layout: post
+title : Comparing Conflicts In Gaza
+author: Ehud Eilam
+date  : 2023-12-12 12:00:00 +0800
+image : https://i.imgur.com/VJmOb8v.jpg
+#image_caption: ""
+description: "Conflict in Gaza, Past and Present"
+excerpt_separator: <excerpt/>
+---
+
+_With the outcome of the present confrontation between Israel and its opponents in Gaza remaining uncertain, a comparison with previous rounds of fighting may provide some insight into how events could develop._
+
+<excerpt/>
+
+Following the traumatic attack it experienced on 7 October 2023, Israel completely changed its strategy for dealing with Hamas from containing and deterring the group to trying to destroy it. There are several scenarios for what might happen next. To determine how the present war is most likely to develop, it is essential to examine previous confrontations in the Gaza Strip.
+
+Since it took over in Gaza in 2007, Hamas and other groups – mostly the Palestinian Islamic Jihad (PIJ) – have engaged in a series of confrontations with the Israel Defense Forces (IDF), the two most significant of which were in 2008–2009 and in the summer of 2014. Other rounds of fighting were much smaller, such as those that occurred in November 2012, May 2021 and August 2022. Understanding the complexity and risks of the ongoing fighting in the Gaza Strip requires looking into the similarities and differences between previous confrontations and the current war.
+
+
+### Victory in Sight?
+
+Israel fought several high-intensity wars with Arab states between 1948 and 1982. Since 1982, the IDF has confronted only Arab non-state actors (NSAs). In Lebanon, it fought Hizbullah in the 1980s and 1990s, and again in a major war in 2006. Since then, the IDF has confronted Hamas and other smaller Palestinian groups like the PIJ in the West Bank and the Gaza Strip. The main confrontations have taken place in Gaza, all of them ending in a tie – much to Israel’s frustration. Although Hamas and the PIJ are elusive, flexible and capable of putting up a tough fight, the IDF is still much stronger.
+
+During all of the previous confrontations, Israel hesitated on whether to try to destroy its foes due to various constraints and the negative implications of an all-out war in the Gaza Strip. Since destroying NSAs like Hamas is a tall order, Israel’s preferred method for containment and deterrence until now has been based on a strategy called ‘mowing the grass’. This meant that from time-to-time Israel had to degrade the military capabilities of its foes in the Gaza Strip by conducting a short and limited campaign.
+
+The last confrontation before the current one, that of August 2022, was in a way different from other clashes in the Gaza Strip because Israel considered its outcome to be a victory. Yet in reality, it was a minimal success. On that occasion Israel confronted only the PIJ, which paid a price but still survived. Nevertheless, it seems that the results of that campaign boosted Israel’s confidence and, together with other steps it took to upgrade its defences around the Gaza Strip, convinced Israel that it was ready to deal with any hostilities that might break out on the border. Israel also assumed that Hamas would not seek war. On 7 October 2023, Israel paid dearly for its blunders.
+
+Following the attack of 7 October, Israel concluded that it must revise its national security strategy. Such a highly important process should be carried out in a careful manner by methodically examining all the options. Yet Israel decided to go immediately on the attack, launching massive aerial bombardments followed by a large-scale land offensive. This made sense politically given that Israel received sympathy and, more importantly, support for its actions from the US, the UK and other Western powers. Yet it might lose some or even most of this support as the war progresses due to heavy casualties among the Palestinian population and the vast scale of destruction in the Gaza Strip.
+
+In each of the former rounds of fighting, Israel stuck to its policy of pursuing a limited campaign due to the constraints and negative ramifications of a war in the Gaza Strip. Now, Israel has drastically changed its policy, even though the constraints remain and some of them have even become more acute. Israel does not want to govern the Gaza Strip, but it cannot ignore the poor conditions there. In previous confrontations, it avoided toppling Hamas’s rule, leaving it to continue running the Gaza Strip. Hamas has, of course, done an awful job; instead of investing in improving Gazans’ standard of living, it has focused on preparing to confront Israel. This has meant that infrastructure and services for the Palestinian population have sharply deteriorated in recent years, up to a point where the Gaza Strip is on the verge of collapse.
+
+As long as Hamas has been in charge there, this has mostly remained its problem, but now that the IDF has seized a large part of the Gaza Strip, it has also become Israel’s concern. The war, with all its destruction, will of course make the dire situation in Gaza much worse. Israel wants to take ‘overall security responsibility’ in the Gaza Strip, while hoping that others will handle civilian affairs there. It would ideally like another government to do this, but no state – not even any of Israel’s Arab neighbours – is willing to deal with the giant mess in the Gaza Strip. The most reasonable choice seems to be the Palestinian Authority (PA); yet in previous confrontations, Israel assumed that the PA would not be up to the task if it were to bring down Hamas’s regime. There is now even less chance of this because in recent years the PA has become weaker, making it less likely that it could go back to controlling the Gaza Strip.
+
+___`Thousands of young men in the Gaza Strip who will struggle to find a job in the present circumstances may agree to fight for Hamas for lack of a better choice`___
+
+Another factor that has worsened in the last year is Israel’s internal stability, following a wave of protests against the government. While these have subsided since the war broke out, they could well erupt again later on. The current war in the Gaza Strip may also contribute to domestic instability, depending on its outcome – and a crisis inside Israel could make it harder to solve the huge problems in the Gaza Strip.
+
+Since Hamas seized control of Gaza in 2007, the group has had several confrontations with Israel. The two main ones were in the winter of 2008–2009, lasting 22 days, and in the summer of 2014, lasting for 50 days. Other campaigns included the one in May 2021, which went on for 12 days, and the one in August 2022, which lasted only three days. The current war might go on for several months. Israel has to be ready for this, on several levels.
+
+Hamas’s leaders are ‘high on Israel’s target list’. On previous occasions, such as in 2004 and 2012, Israel has assassinated some of Hamas’s top leaders – yet the group not only survived those blows, but got stronger. Therefore, decapitating Hamas’s leadership now is unlikely to annihilate the group. It could even be counterproductive, because the new leaders might be more capable of fighting Israel.
+
+The IDF is also killing Hamas’s combatants, including senior figures like brigade and battalion commanders, in an effort to disrupt the group’s command and control. In the last major confrontation in the Gaza Strip in 2014, Hamas lost up to 1,000 combatants. During the present war it is absorbing many more casualties, but it could yet obtain new recruits. Iran will give Hamas money for this purpose, and thousands of young men in the Gaza Strip who will struggle to find a job in the present circumstances may agree to fight for Hamas for lack of a better choice. Others will doubtless join Hamas to avenge family members or friends lost during the war.
+
+
+### Military Factors
+
+Several factors made past confrontations easier for Israel, some of which are also relevant in the present conflict. The IDF has clear superiority over its foes in the Gaza Strip, enjoying major advantages in terms of firepower, manpower and technology. Yet it still has a tough task if it wishes to defeat Hamas, let alone destroy the group. This will be difficult because in previous confrontations in the Gaza Strip, the IDF was often able to exploit an element of surprise. The best-known example was at the start of the confrontation in December 2008, when the IDF launched an air raid that inflicted heavy casualties on Hamas. By contrast, on 7 October 2023, the IDF was taken completely by surprise, putting it in a state of shock and hindering its response. Although it subsequently recovered, its counterattack was obviously expected by Hamas, which was able to prepare accordingly. In this sense, the IDF will need to wait for a better opportunity if it wants to catch Hamas off-guard.
+
+In previous confrontations, the IDF was able to concentrate its efforts, such as deploying its best units on one front – that is, in the Gaza Strip. Now, however, the IDF has to secure its northern border with Lebanon and deal with clashes in the West Bank, even if the level of friction on those fronts is quite low. As long as there is no escalation in Lebanon, the IDF can focus its attention on the Gaza Strip.
+
+Hamas and the PIJ have fired more than 9,000 rockets and missiles since the start of the current war. In previous confrontations they have fired fewer, but on this occasion the rockets and missiles are not the main threat to Israel. While they can still cause harm, almost all the Israeli losses from the present conflict resulted from the ground invasion into Israel on 7 October. The firing of missiles and rockets is mostly an act of defiance and terror, forcing Israeli civilians to run for cover. Many in Israel do not have proper shelters, although they do receive an alert – a process that has improved over the years. Israel’s famous air defence system, the Iron Dome, has once again proved to be very effective. The Israeli Air Force (IAF) is trying to suppress the firing of rockets as it has done in previous rounds of fighting, with ground forces now also participating in this task.
+
+___`Trying to defeat Hamas by assassinating its leadership and killing as many of its combatants as possible might not work`___
+
+During the confrontation in 2008–2009, the IDF cut the Gaza Strip in half. It has done the same in the current war, but the present Israeli operation has reached deeper inside the Strip, exposing the IDF’s lines of communication to ambushes. Still, it has taken this risk as part of a strategy to encircle and isolate Hamas’s positions. This large-scale manoeuvre has had an impact on Hamas and its performance. The group might lose control of the Gaza Strip, although it may yet avoid collapse.
+
+The IDF avoided a major land offensive in previous rounds of fighting because of the fear of losses. Israel as a country is very sensitive to casualties, yet following the horrible events of 7 October, it is more willing to pay the price. The IDF is also striving to avoid harming the Arab population for moral and political reasons. In the current war, the fighting is more large-scale and intense, so unfortunately there is more collateral damage.
+
+The IDF recently called up over 350,000 reserves, mostly from the ground forces. This is Much more than in former confrontations, and serves to indicate how this war is different. Many of Israel’s reserves have not trained much if at all in recent years. The IDF is trying to fix this now by conducting exercises, but returning soldiers to top form takes time. There are also difficulties in providing enough equipment, such as body armour, for so many troops. This is hardly a surprise because before the war the IDF had based its level of build-up on recent confrontations in the Gaza Strip, assuming there would be more of the same. The strategy was to depend on the IAF and intelligence rather than on massed ground units. According to this concept, budgets were allocated to other areas at the expense of providing training, equipment and so on to a large part of the ground forces.
+
+Another problem for the IDF is that the last time it fought an urban conflict in the Gaza Strip was in 2014. Since then, the IDF has conducted several operations in Gaza but without using ground forces, let alone penetrating the Strip by land. This lack of combat experience might have affected current operations, including their cost to the IDF. Nevertheless, the motivation of Israeli troops is high because they are convinced this war was forced on Israel and they want to make sure Hamas will not be able to conduct an attack like that of 7 October ever again.
+
+
+### Conclusion
+
+Since 2008, Israel has engaged in several rounds of fighting in the Gaza Strip with Hamas and the PIJ. Analysing these previous confrontations is crucial to understanding the current war. Almost all of the clashes that occurred from 2008 to 2022 ended in a tie, and some in Israel even saw them as a failure. Israel considered the last confrontation it had there, in August 2022, to be a success, which may have boosted its confidence too much. Now, following the terrible events of 7 October, Israel has drastically changed its strategy from containment to annihilating Hamas, but this is a tall order. The current war is costlier and longer than any previous confrontations. Trying to defeat Hamas by assassinating its leadership and killing as many of its combatants as possible might not work. Israel has to have realistic goals to begin with. It can inflict on Hamas the biggest blow it has ever suffered and topple its rule of the Gaza Strip. Yet, as in previous confrontations, Hamas as a movement might manage to hold on.
+
+The IDF failed on 7 October 2023 in terms of its intelligence and readiness. Yet it has managed to recover and enjoys similar advantages to previous rounds of fighting, such as superiority in both firepower and technology. There is also high motivation among its troops, and the Iron Dome is proving itself once again. For the time being, the IDF can concentrate on one front, as in previous confrontations, although this might change. Unlike in the confrontation of 2008, however, the IDF does not enjoy the element of surprise. Other aspects unique to this confrontation include the mass mobilisation of reserves, with some troops not being well trained or equipped. A lack of combat experience in urban warfare is another challenge for the IDF, having relied on the IAF in former confrontations.
+
+Overall, there is some similarity between the current war and previous confrontations, but there are also major differences. Israel must be aware of these in order to avoid crucial mistakes as it becomes more and more committed to this showdown.
+
+---
+
+__Ehud Eilam__ has been dealing with and studying Israel’s national security for the last 35 years. He served in the Israeli military and later worked as a researcher for the Israeli Ministry of Defense.
