@@ -18,7 +18,7 @@ _The contours of global economic and tech competition are rapidly evolving. In t
 > #### James A. Lewis
 > #### Senior Vice President, Pritzker Chair, and Director, Strategic Technologies Program
 
-___`Ultimately, nuclear-armed countries will be cautious in their use of force in any competition, which means that power does not come from the barrel of a gun, no matter how technologically advanced that gun may be, but from the persuasiveness of a nation’s ideas.`__
+___`Ultimately, nuclear-armed countries will be cautious in their use of force in any competition, which means that power does not come from the barrel of a gun, no matter how technologically advanced that gun may be, but from the persuasiveness of a nation’s ideas.`___
 
 Competition with the West shapes modern China. The story of this competition begins with China’s last great emperor, the Qianlong emperor (who abdicated in 1796), after rejecting commercial ties with an emerging Great Britain, saying Britain had nothing China needed. It was 153 years before China had another leader strong enough to engage confidently with foreign nations. Mao Zedong reforged China into a single, powerful state, but his ideology ultimately impoverished it. When his successor Deng Xiaoping took power, he found a China that was weak and backward. Deng was determined to remedy this.
 
@@ -131,7 +131,7 @@ The convergence of these three dynamics — Moore’s law and beyond, ongoing ad
 
 ### Charting a Path between Competition and Cooperation on Climate and Energy
 
-> #### oseph Majkut
+> #### Joseph Majkut
 > #### Director, Energy Security and Climate Change Program
 
 > #### Ben Cahill
