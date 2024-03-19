@@ -2,7 +2,7 @@
 layout: post
 title : Weathering The Storm
 author: Jahara Matisek, et al.
-date  : 2024-02-22 12:00:00 +0800
+date  : 2024-02-23 12:00:00 +0800
 image : https://i.imgur.com/y6ZxNsl.jpeg
 #image_caption: ""
 description: "Western Security Assistance on the Defensive in Ukraine"
