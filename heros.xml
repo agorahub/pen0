@@ -1,1351 +1,668 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://agorahub.github.io/pen0/heros.xml" rel="self" type="application/atom+xml" /><link href="https://agorahub.github.io/pen0/" rel="alternate" type="text/html" /><updated>2024-07-24T18:58:20+08:00</updated><id>https://agorahub.github.io/pen0/heros.xml</id><title type="html">The Republic of Agora | Heros</title><subtitle>UNITE THE PUBLIC ♢ VOL.42 © MMXXIV</subtitle><entry><title type="html">Superconducting Supercomputer</title><link href="https://agorahub.github.io/pen0/heros/2024-05-15-AnnaHerr_QuentinHerr-a1_c-superconducting-supercomputer.html" rel="alternate" type="text/html" title="Superconducting Supercomputer" /><published>2024-05-15T12:00:00+08:00</published><updated>2024-05-15T12:00:00+08:00</updated><id>https://agorahub.github.io/pen0/heros/AnnaHerr_QuentinHerr-a1_c-superconducting-supercomputer</id><content type="html" xml:base="https://agorahub.github.io/pen0/heros/2024-05-15-AnnaHerr_QuentinHerr-a1_c-superconducting-supercomputer.html">&lt;p&gt;Before the explosion of generative AI, scientists had predicted that by 2040, almost 50 percent of the world’s electric power will be used in computing. The amount of computing resources used to train the AI models has been doubling every 6 months for the past decade. &lt;!--more--&gt; At this rate, by 2030 training a single artificial-intelligence model would take one hundred times as much computing resources as the combined annual resources of the current top ten supercomputers. Simply put, computing will require colossal amounts of power, soon exceeding what our planet can provide.&lt;/p&gt;
-
-&lt;p&gt;One way to manage the unsustainable energy requirements of the computing sector is to fundamentally change the way we compute. Superconductors could let us do just that.&lt;/p&gt;
-
-&lt;p&gt;Superconductors offer the possibility of drastically lowering energy consumption because they do not dissipate energy when passing current. True, superconductors work only at cryogenic temperatures, requiring some cooling overhead. But in exchange, they offer virtually zero-resistance interconnects, digital logic built on ultrashort pulses that require minimal energy, and the capacity for incredible computing density due to easy 3D chip stacking.&lt;/p&gt;
-
-&lt;p&gt;Are the advantages enough to overcome the cost of cryogenic cooling? Our work suggests they most certainly are. As the scale of computing resources gets larger, the marginal cost of the cooling overhead gets smaller. Our research shows that starting at around 10^16 floating-point operations per second (tens of petaflops) the superconducting computer handily becomes more power efficient than its classical cousin. This is exactly the scale of typical high-performance computers today, so the time for a superconducting supercomputer is now.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/OpTFko1.png&quot; alt=&quot;image01&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;At Imec, we have spent the past two years developing superconducting processing units that can be manufactured using standard CMOS tools. A processor based on this work would be one hundred times as energy efficient as the most efficient chips today, and it would lead to a computer that fits a data-center’s worth of computing resources into a system the size of a shoebox.&lt;/p&gt;
-
-&lt;h3 id=&quot;the-physics-of-energy-efficient-computation&quot;&gt;The Physics of Energy-Efficient Computation&lt;/h3&gt;
-
-&lt;p&gt;Superconductivity — that superpower that allows certain materials to transmit electricity without resistance at low enough temperatures — was discovered back in 1911, and the idea of using it for computing has been around since the mid-1950s. But despite the promise of lower power usage and higher compute density, the technology couldn’t compete with the astounding advance of CMOS scaling under Moore’s Law. Research has continued through the decades, with a superconducting CPU demonstrated by a group at Yokohama National University as recently as 2020. However, as an aid to computing, superconductivity has stayed largely confined to the laboratory.&lt;/p&gt;
-
-&lt;p&gt;To bring this technology out of the lab and toward a scalable design that stands a chance of being competitive in the real world, we had to change our approach here at Imec. Instead of inventing a system from the bottom up — that is, starting with what works in a physics lab and hoping it is useful — we designed it from the top down — starting with the necessary functionality, and working directly with CMOS engineers and a full-stack development team to ensure manufacturability. The team worked not only on a fabrication process, but also software architectures, logic gates, and standard-cell libraries of logic and memory elements to build a complete technology.&lt;/p&gt;
-
-&lt;p&gt;The foundational ideas behind energy-efficient computation, however, have been developed as far back as 1991. In conventional processors, much of the power consumed and heat dissipated comes from moving information among logic units, or between logic and memory elements rather than from actual operations. Interconnects made of superconducting material, however, do not dissipate any energy. The wires have zero electrical resistance, and therefore, little energy is required to move bits within the processor. This property of having extremely low energy losses holds true even at very high communication frequencies, where losses would skyrocket ordinary interconnects.&lt;/p&gt;
-
-&lt;p&gt;Further energy savings come from the way logic is done inside the superconducting computer. Instead of the transistor, the basic element in superconducting logic is the Josephson-junction.&lt;/p&gt;
-
-&lt;p&gt;A Josephson junction is a sandwich — a thin slice of insulating material squeezed between two superconductors. Connect the two superconductors, and you have yourself a Josephson-junction loop.&lt;/p&gt;
-
-&lt;p&gt;Under normal conditions, the insulating “meat” in the sandwich is so thin that it does not deter a supercurrent — the whole sandwich just acts as a superconductor. However, if you ramp up the current past a threshold known as a critical current, the superconducting “bread slices” around the insulator get briefly knocked out of their superconducting state. In this transition period, the junction emits a tiny voltage pulse, lasting just a picosecond and dissipating just 2 x 10^(-20) joules, a hundred-billionth of what it takes to write a single bit of information into conventional flash memory.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/j6BHdWN.png&quot; alt=&quot;image02&quot; /&gt;
-&lt;em&gt;▲ A single flux quantum develops in a Josephson-junction loop via a three-step process. First, a current just above the critical value is passed through the junction. The junction then emits a single-flux-quantum voltage pulse. The voltage pulse passes through the inductor, creating a persistent current in the loop. A Josephson junction is indicated by an x on circuit diagrams. Chris Philpot&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;The key is that, due to a phenomenon called magnetic flux quantization in the superconducting loop, this pulse is always exactly the same. It is known as a “single flux quantum” (SFQ) of magnetic flux, and it is fixed to have a value of 2.07 millivolt-picoseconds. Put an inductor inside the Josephson-junction loop, and the voltage pulse drives a current. Since the loop is superconducting, this current will continue going around the loop indefinitely, without using any further energy.&lt;/p&gt;
-
-&lt;p&gt;Logical operations inside the superconducting computer are made by manipulating these tiny, quantized voltage pulses. A Josephson-junction loop with an SFQ’s worth of persistent current acts as a logical 1, while a current-free loop is a logical 0.&lt;/p&gt;
-
-&lt;p&gt;To store information, the Josephson-junction-based version of SRAM in CPU cache, also uses single flux quanta. To store one bit, two Josephson-junction loops need to be placed next to each other. An SFQ with a persistent current in the left-hand loop is a memory element storing a logical 0, whereas no current in the left but a current in the right loop is a logical 1.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/cLKjqaS.png&quot; alt=&quot;image03&quot; /&gt;
-&lt;em&gt;▲ Designing a superconductor-based data center required full-stack innovation. Imec’s board design contains three main elements: the input and output, leading data to the room temperature world, the conventional DRAM, stacked high and cooled to 77 kelvins, and the superconducting processing units, also stacked, and cooled to 4 K. Inside the superconducting processing unit, basic logic and memory elements are laid out to perform computations. A magnification of the chip shows the basic building blocks: For logic, a Josephson-junction loop without a persistent current indicates a logical 0, while a loop with one single flux quantum’s worth of current represents a logical 1. For memory, two Josephson junction loops are connected together. An SFQ’s worth of persistent current in the left loop is a memory 0, and a current in the right loop is a memory 1. Chris Philpot&lt;/em&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;progress-through-full-stack-development&quot;&gt;Progress Through Full-Stack Development&lt;/h3&gt;
-
-&lt;p&gt;To go from a lab curiosity to a chip prototype ready for fabrication, we had to innovate the full stack of hardware. This came in three main layers: engineering the basic materials used, circuit development, and architectural design. The three layers had to go together — a new set of materials requires new circuit designs, and new circuit designs require novel architectures to incorporate them. Codevelopment across all three stages, with a strict adherence to CMOS manufacturing capabilities, was the key to success.&lt;/p&gt;
-
-&lt;p&gt;At the materials level, we had to step away from the previous lab-favorite superconducting material: niobium. While niobium is easy to model and behaves very well under predictable lab conditions, it is very difficult to scale down. Niobium is sensitive to both process temperature and its surrounding materials, so it is not compatible with standard CMOS processing. Therefore, we switched to the related compound niobium titanium nitride for our basic superconducting material. Niobium titanium nitride can withstand temperatures used in CMOS fabrication without losing its superconducting capabilities, and it reacts much less with its surrounding layers, making it a much more practical choice.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/euK03GD.png&quot; alt=&quot;image04&quot; /&gt;
-&lt;em&gt;▲ The basic building block of superconducting logic and memory is the Josephson junction. At Imec, these junctions have been manufactured using a new set of materials, allowing the team to scale down the technology without losing functionality. Here, a tunneling electron microscope image shows a Josephson junction made with alpha-silicon insulator sandwiched between niobium titanium nitride superconductors, achieving a critical dimension of 210 nanometers. Imec&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;Additionally, we employed a new material for the meat layer of the Josephson-junction sandwich — amorphous, or alpha, silicon. Conventional Josephson-junction materials, most notably aluminum oxide, didn’t scale down well. Aluminum was used because it “wets” the niobium, smoothing the surface, and the oxide was grown in a well-controlled manner. However, to get to the ultrahigh densities that we are targeting, we would have to make the oxide too thin to be practically manufacturable. Alpha silicon, in contrast, allowed us to use a much thicker barrier for the same critical current.&lt;/p&gt;
-
-&lt;p&gt;We also had to devise a new way to power the Josephson junctions that would scale down to the size of a chip. Previously, lab-based superconducting computers used transformers to deliver current to their circuit elements. However, having a bulky transformer near each circuit element is unworkable. Instead, we designed a way to deliver power to all the elements on the chip at once by creating a resonant circuit, with specialized capacitors interspersed throughout the chip.&lt;/p&gt;
-
-&lt;p&gt;At the circuit level, we had to redesign the entire logic and memory structure to take advantage of the new materials’ capabilities. We designed a novel logic architecture that we call pulse-conserving logic. The key requirement for pulse-conserving logic is that the elements have as many inputs as outputs and that the total number of single flux quanta is conserved. The logic is performed by routing the SFQs through a combination of Josephson-junction loops and inductors to the appropriate outputs, resulting in logical ORs and ANDs. To complement the logic architecture, we also redesigned a compatible Josephson-junction-based SRAM.&lt;/p&gt;
-
-&lt;p&gt;Lastly, we had to make architectural innovations to take full advantage of the novel materials and circuit designs. Among these was cooling conventional silicon DRAM down to 77 kelvins and designing a glass bridge between the 77-K section and the main superconducting section. The bridge houses thin wires that allow communication without thermal mixing. We also came up with a way of stacking chips on top of each other and are developing vertical superconducting interconnects to link between circuit boards.&lt;/p&gt;
-
-&lt;h3 id=&quot;a-data-center-the-size-of-a-shoebox&quot;&gt;A Data Center the Size of a Shoebox&lt;/h3&gt;
-
-&lt;p&gt;The result is a superconductor-based chip design that’s optimized for AI processing. A zoom in on one of its boards reveals many similarities with a typical 3D CMOS system-on-chip. The board is populated by computational chips: We call it a superconductor processing unit (SPU), with embedded superconducting SRAM, DRAM memory stacks, and switches, all interconnected on silicon interposer or on glass-bridge advanced packaging technologies.&lt;/p&gt;
-
-&lt;p&gt;But there are also some striking differences. First, most of the chip is to be submerged in liquid helium for cooling to a mere 4 K. This includes the SPUs and SRAM, which depend on superconducting logic rather than CMOS, and are housed on an interposer board. Next, there is a glass bridge to a warmer area, a balmy 77 K that hosts the DRAM. The DRAM technology is not superconducting, but conventional silicon cooled down from room temperature, making it more efficient. From there, bespoke connectors lead data to and from the room-temperature world.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/R0b7Fjk.png&quot; alt=&quot;image05&quot; /&gt;
-&lt;em&gt;▲ Davide Comai&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;Moore’s law relies on fitting progressively more computing resources into the same space. As scaling down transistors gets more and more difficult, the semiconductor industry is turning toward 3D stacking of chips to keep up the density gains. In classical CMOS-based technology, it is very challenging to stack computational chips on top of each other because of the large amount of power, and therefore heat, that is dissipated within the chips. In superconducting technology, the little power that is dissipated is easily removed by the liquid helium. Logic chips can be directly stacked using advanced 3D integration technologies resulting in shorter and faster connections between the chips, and a smaller footprint.&lt;/p&gt;
-
-&lt;p&gt;It is also straightforward to stack multiple boards of 3D superconducting chips on top of each other, leaving only a small space between them. We modeled a stack of 100 such boards, all operating within the same cooling environment and contained in a 20- by 20- by 12-centimeter volume, roughly the size of a shoebox. We calculated that this stack can perform 20 exaflops (in BF16 number format), 20 times the capacity of the largest supercomputer today. What’s more, the system promises to consume only 500 kilowatts of total power. This translates to energy efficiency one hundred times as high as the most efficient supercomputer today.&lt;/p&gt;
-
-&lt;p&gt;So far, we’ve scaled down Josephson junctions and interconnect dimensions over three succeeding generations. Going forward, Imec’s road map includes tackling 3D superconducting chip-integration and cooling technologies. For the first generation, the road map envisions the stacking of about 100 boards to obtain the target performance of 20 exaflops. Gradually, more and more logic chips will be stacked, and the number of boards will be reduced. This will further increase performance while reducing complexity and cost.&lt;/p&gt;
-
-&lt;h3 id=&quot;the-superconducting-vision&quot;&gt;The Superconducting Vision&lt;/h3&gt;
-
-&lt;p&gt;We don’t envision that superconducting digital technology will replace conventional CMOS computing, but we do expect it to complement CMOS for specific applications and fuel innovations in new ones. For one, this technology would integrate seamlessly with quantum computers that are also built upon superconducting technology. Perhaps more significantly, we believe it will support the growth in AI and machine learning processing and help provide cloud-based training of big AI models in a much more sustainable way than is currently possible.&lt;/p&gt;
-
-&lt;p&gt;In addition, with this technology we can engineer data centers with much smaller footprints. Drastically smaller data centers can be placed close to their target applications, rather than being in some far-off football-stadium-size facility.&lt;/p&gt;
-
-&lt;p&gt;Such transformative server technology is a dream for scientists. It opens doors to online training of AI models on real data that are part of an actively changing environment. Take potential robotic farms as an example. Today, training these would be a challenging task, where the required processing capabilities are available only in far-away, power-hungry data centers. With compact, nearby data centers, the data could be processed at once, allowing an AI to learn from current conditions on the farm.&lt;/p&gt;
-
-&lt;p&gt;Similarly, these miniature data centers can be interspersed in energy grids, learning right away at each node and distributing electricity more efficiently throughout the world. Imagine smart cities, mobile health care systems, manufacturing, farming, and more, all benefiting from instant feedback from adjacent AI learners, optimizing and improving decision making in real time.&lt;/p&gt;</content><author><name>Anna Herr and Quentin Herr</name></author><summary type="html">Before the explosion of generative AI, scientists had predicted that by 2040, almost 50 percent of the world’s electric power will be used in computing. The amount of computing resources used to train the AI models has been doubling every 6 months for the past decade.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://i.imgur.com/nTmt0Vp.png" /><media:content medium="image" url="https://i.imgur.com/nTmt0Vp.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">《湖南省憲法》</title><link href="https://agorahub.github.io/pen0/heros/1922-01-01-DraftingCommittee-a1_l-the-constitution-of-hunan-province.html" rel="alternate" type="text/html" title="《湖南省憲法》" /><published>1922-01-01T11:00:00+07:00</published><updated>1922-01-01T11:00:00+07:00</updated><id>https://agorahub.github.io/pen0/heros/DraftingCommittee-a1_l-the-constitution-of-hunan-province</id><content type="html" xml:base="https://agorahub.github.io/pen0/heros/1922-01-01-DraftingCommittee-a1_l-the-constitution-of-hunan-province.html">&lt;h3 id=&quot;序言&quot;&gt;序言&lt;/h3&gt;
-
-&lt;p&gt;湖南全省人民，爲增進幸福，鞏固國基，制定憲法如左：&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://agorahub.github.io/pen0/heros.xml" rel="self" type="application/atom+xml" /><link href="https://agorahub.github.io/pen0/" rel="alternate" type="text/html" /><updated>2024-07-26T14:12:49+08:00</updated><id>https://agorahub.github.io/pen0/heros.xml</id><title type="html">The Republic of Agora | Heros</title><subtitle>UNITE THE PUBLIC ♢ VOL.43 © MMXXIV</subtitle><entry><title type="html">中国自由主义的困境及其可能性</title><link href="https://agorahub.github.io/pen0/heros/2024-04-29-Byron-a1_c-the-dilemma-and-possibility-of-chinese-liberalist.html" rel="alternate" type="text/html" title="中国自由主义的困境及其可能性" /><published>2024-04-29T12:00:00+08:00</published><updated>2024-04-29T12:00:00+08:00</updated><id>https://agorahub.github.io/pen0/heros/Byron-a1_c-the-dilemma-and-possibility-of-chinese-liberalist</id><content type="html" xml:base="https://agorahub.github.io/pen0/heros/2024-04-29-Byron-a1_c-the-dilemma-and-possibility-of-chinese-liberalist.html">&lt;p&gt;中国自由主义正陷入困境。实际上，它鲜有不陷入困境的时候，只是在世纪之交前后各十年，有一些新左派人士误以为中国已经融入全球化“新自由主义”秩序，并大加批判。然而这个表象，在2012年后轻而易举就被权力的手指戳破。&lt;/p&gt;
 
 &lt;!--more--&gt;
 
-&lt;h3 id=&quot;第一章總綱&quot;&gt;第一章　總綱&lt;/h3&gt;
+&lt;p&gt;本文将首先回顾两种对自由主义的困境的解释，在指出其各自的缺陷之后，也对其共同的问题进行概括，那就是“本质主义”和“唯心主义”。前者限制了自由主义对自身可能性的想象，而后者过分夸大理论内部结构对政治现实的影响力。本文认为，中国自由主义出现困境，主要还是由于能促成其发展的外部环境在逐渐消失，这包括政治权力的有意打压和小粉红的崛起，但自由主义者自身的意志消沉，也使得自由主义在困境之中难以自拔。然而，自由主义依然具有其他政治学说难以比拟的优势，那就是它与现代社会的匹配程度最高，最有可能成为理性公民的最大公约数，中国社会四十多年的发展，也积淀了一些适合自由主义生长的土壤，酝酿了让自由主义“破局”的机会，当代中国的自由主义者，更是在自由主义之中挖掘出道义力量，不再将自由主义建立在工具主义和怀疑论之上。&lt;/p&gt;
 
-&lt;p&gt;第一條　湖南，爲中華民國之自治省。&lt;/p&gt;
+&lt;h3 id=&quot;对困境的两种解释及其缺陷&quot;&gt;对困境的两种解释及其缺陷&lt;/h3&gt;
 
-&lt;p&gt;第二條　湖南省，以現有之土地爲區域。&lt;/p&gt;
+&lt;p&gt;对于这种困境的产生，有一些学者倾向从自由主义内部寻找原因。应该说，自由主义确实需要自我反省，但某些学者批评的方向，在我看来是有误导性的。这里主要分为两种，第一种，是将一些自由主义者的倾向当作是自由主义的特征，或者将有些自由主义者经常具有的特质，当作自由主义的一部分。比如王彬彬在《读书札记：关于自由主义》一文中，引用过格里德在《胡适与中国的文艺复兴》里的一句话：“自由主义在中国的失败似乎是由这个信条本身造成的……”。王彬彬认为，自由主义者往往会“拥护专制，称颂独裁，甚至自身便成为专制和独裁者的工具和帮凶”，甚至认同法兰克福学派所说的“自由主义与极权主义，与法西斯主义之间，有着连续性”。马克思主义学者认定自由主义与极权主义、法西斯主义有连续性，这个不足为奇，毕竟在他们看来，前者和后者都是资本主义的意识形态，都是为资产阶级的利益服务。对于这种理解，本文限于篇幅，不作进一步的评论分析。&lt;/p&gt;
 
-&lt;p&gt;第三條　凡有中華民國國籍，繼續住居本省滿二年以上者，皆爲本省人民。&lt;/p&gt;
+&lt;p&gt;王彬彬的文章提到丁文江和蒋廷黻主张“开明”的“专制”，又讲到胡适与国民党政府一系列暧昧的互动，王彬彬对此的解释是：“自由主义者强调一点一滴的改良，他们永远要借助现有秩序，依赖现有秩序，因此，现有秩序无论如何糟糕，不管怎样腐败，都要先维持住它，都不能从根基上动摇它。”其实对于胡适对国民党的态度，完全可以有另外的解释，比如国民党统治早期，胡适认为国民党还有改良的希望，而到了国共内战时期，胡适认定共产党上台，只会比国民党更坏。王彬彬所引的胡适在1932年《独立评论》上对“中国民权保障同盟”的批评，以及1933年给汪精卫的信，并不能推出胡适对于什么样的秩序都愿意拥护。胡适固然既是自由主义者，也是改良主义者，但这不意味着“改良主义”是“自由主义”的必然构成，事实上，自由主义者对“糟糕的现有秩序”的忍耐是有限度的，当现有秩序无法维护个人的自由权利，也没有任何往自由秩序演进的迹象，自由主义者为何不可支持革命？&lt;/p&gt;
 
-&lt;p&gt;第四條　省自治權，屬於省民全體。&lt;/p&gt;
+&lt;p&gt;对于丁文江和蒋廷黻，也应作如是观。他们本人对开明专制的倡导，应该首先放在历史的语境下理解，即便认为他们的想法是错误的，那也很难直接将其归咎于他们原本的自由主义立场。&lt;/p&gt;
 
-&lt;h3 id=&quot;第二章人民之權利義務&quot;&gt;第二章　人民之權利義務&lt;/h3&gt;
+&lt;p&gt;就近代历史而言，自由主义者确实常常反对来自底层的革命，为此不惜支持专制或威权政府。但这有可能是因为这些自由主义者同时也是资产阶级，他们那样的态度，跟他们的阶级利益是一致的，这最多只能证明自由主义对这些人的道德约束力不是很大，没必要因为一个人是自由主义者，就从自由主义里找他一切政治言行的根据。就当代中国的自由主义而言，在相当长一段时期，同样被“渐进改良主义”所笼罩，但这同样是有特殊的历史原因，如天安门事件让一部分自由主义知识分子怀疑学生在广场上的不妥协态度是延续了近代以来的激进主义，92南巡此后，中国市场化改革迅速推进，这也让自由主义者产生“先经济改革后政治改革”的希望。而且，中外的自由主义里，激进主义者不乏其人，如果自由主义和改良主义有概念上的必然联系，那激进自由主义者算什么呢？&lt;/p&gt;
 
-&lt;p&gt;第五條　人民在法律上，一律平等，無男女、種族、宗教、階級之區別。&lt;/p&gt;
+&lt;p&gt;另一种有误导性的内部批评方向，是认定自由主义有某一种“正统”，并将自由主义的困境或失败归因于对这种“正统”的偏离。这种倾向在当代中国自由主义者里广泛流行。比如任剑涛在《自由主义理论的内在困境》里认为，“汉语语境中的自由主义言述历来对自由之真实基础的论述不周”。他采纳了哈耶克的理论，即将自由主义的知识论基础分为两种，一是“建构理性主义”，二是“进化理性主义”，这种区分本身有其道理，但任剑涛接着认为。“依据前者，就只能导出积极自由论，发展为妨碍自由的伪自由论说。立于后者，则导出消极自由论，发展为扩展自由的真自由论。”这里的意思是，只有以进化理性主义为知识论基础的消极自由论才是正统，以建构理性主义为知识论基础的积极自由论，则是异端。&lt;/p&gt;
 
-&lt;p&gt;無論何人，不得以人身爲買賣之目的物。&lt;/p&gt;
+&lt;p&gt;除了“哈耶克主义”，自认“正统”的还有“保守主义”。刘军宁在《保守主义》一书中，将保守主义认定为自由主义的正统，并将中国自由主义的失败归因于“没有过柏克（Edmund Burke）意义上的、真正的保守主义者”。他认为，保守主义的“实质”就是“自由主义”，而且“真正的自由派不仅要保守公民的政治自由，而且要保守其经济自由”，然而，“在哲学上信奉理性主义，在政治行动上追随激进主义”的那种“自由主义”，破坏了这一种传统，使得自由主义误入歧途。至于为什么保守主义的缺席导致了自由主义的失败，那是因为：“保守派（与刘军宁说的“保守主义”有所区分）由于过于顽固而抵制自由，激进派由于过于好高骛远而‘超越’自由，在社会上无法形成保守自由的力量，自由及其传统在中国无法生根。”&lt;/p&gt;
 
-&lt;p&gt;第六條　人民有保護其身體、生命之權。&lt;/p&gt;
+&lt;p&gt;上述的哈耶克主义和保守主义都属于右翼的自由主义，一般而言，右翼的自由主义更容易认为自己是自由主义的“正统”，这大概是因为它们和17-19世纪的古典自由主义的内容更为接近。在思想史上，一种学说经过漫长时间的洗礼，会产生不少流变，到了某些时候，尤其是这种学说出现危机的时候，总有一些变种会宣布自己是正统，将其他斥为异端，这也不是什么新鲜的现象。然而，当它们宣称学说的危机来源于对正统的偏离，而走出危机的办法就掌握在它们手上，我们就得仔细想想，这究竟是一个真实有效的归因，还是它的新教义的一部分。&lt;/p&gt;
 
-&lt;p&gt;身體之自由權，非依法律，不受何種限制或被剝奪。&lt;/p&gt;
+&lt;p&gt;“正统论者”的其中一些认为，1920年代以来的中国自由主义者，不少都有社会民主主义的倾向，如罗隆基、储安平等，所以他们算不得真正的自由主义者，这种倾向还影响到其中一部分人的政治抉择，使得他们在国民党和共产党之间选择了共产党。这种说法有许多值得商榷之处，但即便它能成立，那也不意味着，他们的社会民主主义倾向是绝然不合理的，也不意味着，中国自由主义在1940年代的失败，要归咎于他们的自由主义里有社会民主主义的倾向。&lt;/p&gt;
 
-&lt;p&gt;依法而受限制或被剝奪時，不得虐待或刑訊。&lt;/p&gt;
+&lt;p&gt;这涉及到一个问题：如果中国的自由主义不是以古典自由主义为理型，那它应该如何自我定义？在我看来，自由主义就是对自由、平等、民主、法治、正义等内在价值的承诺，所以它既包括古代人的自由和现代人的自由，也包括消极自由和积极自由，它包括阶级、性别、族群、地域等维度的平等，包括代议民主和审议民主（deliberative democracy），还包括程序正义、补偿正义和分配正义等。这并不是说，自由主义是无所不包的，而是说，它对内在价值的承诺有可能会因为时代的发展而表现出不同的形态，当然不同人对哪一种形态才是适应时代的，也可以有不同的理解。上述1920年代以来的自由主义者，普遍认为应该把资本主义的个人自由和政治民主，与社会主义的经济平等和消灭剥削结合起来，有些人对计划经济持有不切实际的期望，被哈耶克《通往奴役之路》所言中，但他们在那个年代，持有那样的立场，并不是多么不可理解的事，这种含有社会民主主义的自由主义，在欧美的实践也并没有像哈耶克所说，铺就了普遍的奴役之路。&lt;/p&gt;
 
-&lt;p&gt;除現役軍人外，凡人身自由被剝奪時，施行剝奪令之機關至遲須於二十四小時以內，以剝奪之理由通知本人，令其得有卽時提出申辯之機會；被剝奪人或他人皆得向法庭請求出庭狀，法庭不得拒絕之。&lt;/p&gt;
+&lt;p&gt;这两种从自由主义内部进行批评的立场，有两个共同点：它们都将某些时常与自由主义伴随出现的理论、要素、特质、倾向等，视为自由主义的本质的一部分，这点可以概括为“本质主义”；它们都将“思想”在历史中的作用抬得太高，甚至认定思想内部的构成具有决定其自身在历史中的成败的作用，这点可以概括为“唯心主义”，尽管我们并不是从马克思主义的立场去批评它们。&lt;/p&gt;
 
-&lt;p&gt;人民有要求受適當法庭迅速審判之權；除依戒嚴法規定外，不受軍法機關之審判。&lt;/p&gt;
+&lt;h3 id=&quot;2012以来的历史进程&quot;&gt;2012以来的历史进程&lt;/h3&gt;
 
-&lt;p&gt;凡行爲，必於其實行以前，已經法律規定爲犯罪行爲，審判時方得以犯罪目之。&lt;/p&gt;
+&lt;p&gt;在《中国自由主义认同及其困境》一文中，王中江颇有见地地指出：“我们之能够采取自由的立场去要求和争取自由，恰恰又要以现实‘某种’自由度的存在为前提。在极权主义统治之下，要形成一个自由主义运动是非常困难的，甚至完全是不可能的。”因此，“从这种意义上说，自由主义运动既是整体上的不自由又是局部上的小小自由这两种似乎是相反的力量双重驱动的结果。”所以中国自由主义陷入困境的首要原因，不是别的，是当下不存在一个允许自由主义发展的大环境。&lt;/p&gt;
 
-&lt;p&gt;人民受法庭審判時，非正式宣吿判決有罪確定後，不受何種刑罰之執行。&lt;/p&gt;
+&lt;p&gt;新左派和文化保守主义者大概不会接受这样的概括，他们会举出各种例子，证明中国的社会经济政策多么具有“新自由主义”的特征，或者证明在中国民众之中流行的某些观念或现象，明显是受了“西方自由主义”的影响，或者证明在中国当代的知识分子里，有多少自我标榜为“自由主义者”。他们会说，中国的“自由主义”，不是太少，而是太多了。&lt;/p&gt;
 
-&lt;p&gt;人民不受身體上之刑罰。&lt;/p&gt;
+&lt;p&gt;然而，这些和中国的自由主义是否拥有最低限度的能够“发展”的环境，并没有任何关系。不仅没有关系，而且上面这些还有可能让一些自由主义者产生自由主义尚未陷入困境的幻觉和没有根据的乐观。&lt;/p&gt;
 
-&lt;p&gt;第七條　人民有保護其私有財產之權。&lt;/p&gt;
+&lt;p&gt;自2012年，即现今领导人上任以来，中国自由主义的境况就江河日下。首先是针对高校里有自由主义倾向的学者，出台了“七不讲”，对于那些敢于挑战禁令的，开除、停课、取消退休金都是稀松平常的操作。针对2010年前后在舆论场上风头正健的“公知”，国家勒令各个平台严加整治，封禁了大量大V的账号。高潮是在2015年，“女权五姐妹”被关押，“709律师”遭到大规模逮捕，《慈善法》的出台也使得大量接受境外资助的NGO处境艰难。2017年，有了《宗教事务管理条例》，地下基督教会的活动变得日益危险。2018年，取消国家主席任期制的宪法修正案得到通过，铁幕全幅落下。&lt;/p&gt;
 
-&lt;p&gt;人民之私有財產，依法律認爲必要時，非給以相當之價値，不得收爲公用。&lt;/p&gt;
+&lt;p&gt;我们可以做一个反事实的设想：假如在1990-2018这三十多年间，中国的自由主义不再相信改良主义（如王彬彬所说），或坚守某种正统理念（如任剑涛或刘军宁所说），自由主义可以逃过一劫吗？大概率，结果不会有什么不同。自由主义的自我反思是必要的，但自由主义之陷入困境，和它自身的缺陷，尤其是理论上的缺陷，关系并不是太大。那自由主义究竟要自我反思什么呢？通过什么样的反思，中国的自由主义仍有希望影响到中国的未来？&lt;/p&gt;
 
-&lt;p&gt;人民之私有財產，非依法律，不得查封，沒收，及其他處分。&lt;/p&gt;
+&lt;p&gt;如今自由主义者想要通过具体的行动或组织取得成功，固然是希望渺茫，但即便是一部分温和的自由主义者所津津乐道的“启蒙”，同样是困难重重。在舆论和传播环境方面，中国自由主义现在面临的困境，比起上世纪40年代，有过之而无不及：上世纪40年代，在恶劣的舆论环境下，依然有储安平主编的《观察》和张纯明主编的《世纪评论》，作为自由主义的媒体阵地。其中在《观察》上，曾发表过不少对于自由主义的理论发展来说有着深远意义的文章，比如吴世昌的《政治民主与经济民主》、萧公权的《说民主》、韩德培的《我们所需要的“法治”》、杨人楩的《自由主义者往何处去？》和《张东荪的《政治上的自由主义与文化上的自由主义》等。&lt;/p&gt;
 
-&lt;p&gt;人民之私有財產，不受非法之科罰，捐輸，或借貸。&lt;/p&gt;
+&lt;p&gt;说到这里，有的人可能会不以为然，认为如今网络发达，自媒体平台又俯拾即是，做自由主义启蒙的平台帐号不可谓凋零，自由主义的受众如何会比1940年代更为稀少？平心而论，说自由主义一点声音也发不出来，那确实也是矫情，但既然是舆论传播，讨论的自然并非声音的存在与否，而是不同的思想观念是否具备公平的传播机会。&lt;/p&gt;
 
-&lt;p&gt;第八條　人民有保護其居宅之權。&lt;/p&gt;
+&lt;p&gt;前面已略述自由主义在言论上遭受的限制，如对学者在大学内传播带有自由主义的理念进行规训与惩罚，对最有影响的那一代自由主义大V进行封号和禁言等。中国当局所要创造的“反自由主义”舆论环境，是全方位的，媒体的党报化和大学的党校化是一个方面，出版社和媒体平台的多种审查是另一个方面，前者针对的是体制内的（自由主义）知识分子，后者针对的是体制外的知识分子。对于有志于自由主义启蒙的知识分子来说，谋生手段大多有局限性，若非栖身于大学、媒体，就是依靠出书和自媒体变现，上述两种对媒体的控制，实质都是以“饭碗”相威胁，让知识分子闭嘴。这一办法卓有成效，与2010年左右相比，如今在简体中文网络上能看到的“自由主义启蒙”，可谓和风细雨、隔靴挠痒，但即便如此，大部份有自由主义倾向的帐号依然难逃封号的命运。&lt;/p&gt;
 
-&lt;p&gt;人民居宅不得駐屯軍隊。但戰時依合法之程序，得駐屯之。&lt;/p&gt;
+&lt;p&gt;民间的、线下的公共文化活动，就算不涉及具体的行动，但只要牵扯到自由主义的理念，都难免产生“被举报”和“被喝茶”的恐惧，严重的可能要被扣上“寻衅滋事”和“煽动颠覆”的罪名。当局是否真的认为这些活动危及政权根基和社会稳定，这个无从得知，但基层部门为了应付上级和完成维稳的KPI，依然对其进行不懈打击。有时为了杀鸡儆猴，甚至不惜“连坐”，让组织活动者产生忌惮，为了不连累他人，干脆不再组织。如此莫说自由主义的理念得不到传播，自由主义者也将在无所不在的恐惧之中丧失一切现实的联结，逐渐走向原子化。不得不说，这正是针对自由主义的社会控制的目的。&lt;/p&gt;
 
-&lt;p&gt;第九條　人民之身體、住宅、郵電、文書及各種財物，除經本人允許或依合法之程序外，不受搜索、檢查。&lt;/p&gt;
+&lt;h3 id=&quot;小粉红的崛起&quot;&gt;小粉红的崛起&lt;/h3&gt;
 
-&lt;p&gt;第十條　人民限於不妨害社會秩序、善良風俗，有信仰宗教之自由。政府不得對於何種宗教，與以不平之限制或特享之利益。&lt;/p&gt;
+&lt;p&gt;有人可能会有疑惑：女权主义同样遭到当局的污名和打压，甚至被当局定性为“境外势力”，为何女权主义不仅没有式微，反而势头愈来愈猛，在微博、b站、知乎等国内平台都已成为一股不可小觑的力量？&lt;/p&gt;
 
-&lt;p&gt;第十一條　人民在不抵觸刑事法典之範圍內，有用語言、文字、圖書、印刷及其他方法自由發表意思之權，不受何種特別法令之限制或檢查機關之侵害。&lt;/p&gt;
+&lt;p&gt;中国女权主义有许多值得中国自由主义学习的地方，然而，自由主义与女权主义在当下遭受打压，有着不同的原因。首先，自由主义要改变的是中国的政治制度，而女权主义要改变的更多的是中国的社会结构和生活方式，如果说现今的执政党对于后者感到难以接受，那对于前者，则是完全无法容忍，因为这等于直接挑战其执政地位。其次，中国女权主义的其中一部份，被称为“粉红女权”，对于中国共产党有着相当高的认同感，这一方面是因为毛时代有着“解放妇女”和“妇女能顶半边天”的传统，性别平等程度甚至比当下的中国要更高，另一方面，这些女权主义者对于在自由民主制度仍然难以实现全面的性别平等感到恼怒，并认为这样的制度更具欺骗性，反倒是一党专政更有希望一劳永逸地解决性别平等问题。粉红女权不仅不会在网上攻击当局，甚至当她们发现“行走的五十万”，还有可能主动举报，女权与执政党的紧张关系，经常可以被她们自己内部消化。相比之下，“新时代”以来，改良主义者在自由主义里的比例应该是大大下降了。最后，那些被认定为“境外势力”的女权主义者，被打压的原因与自由主义者较为接近，这些女权主义者恰恰意识到，不改变当下的政治制度，女权的理念就没有任何实现的希望，自由民主制下的性别平等状况固然不如人意，但总比保守专制之下要强。有这种意识的女权主义者，遭到当局的打压和污名，也就不足为怪了。&lt;/p&gt;
 
-&lt;p&gt;第十二條　人民在不抵觸刑事法典之範圍內，有自由結社及不攜武器平和集會之權，不受何種特別法令之限制。&lt;/p&gt;
+&lt;p&gt;这几年间出现了一种新的状况，在当局和平台以外，有一种民间力量充当“审查”的主体，那就是所谓的“小粉红”。上面所说的“粉红女权”，可以算是小粉红的一种。以往在自由主义者里面有一种观念，那就是民间不管怎么吵来吵去，民间对自由主义的意见，与当局对自由主义的看法，有着本质的不同。小粉红的出现打破了这种幻觉。小粉红并不算体制的一部分（尽管有人坚定地认为他们受到某些部门的授意和操纵），他们的本质是民粹派的国家主义者，有人曾将他们类比为日本1930年代的“皇道派”。小粉红认为国家、体制和人民，三者的利益是一体的，而自由主义则是这个国家的毒瘤。相比之下，倒是建制派国家主义者（比如胡锡进）有时更能意识到这三者的利益不一定完全一致，因而对自由主义有着某种策略意义和姿态意义上的宽容。这说明，作为民粹派国家主义者，小粉红的“道德化的反多元主义”更为彻底。&lt;/p&gt;
 
-&lt;p&gt;第十三條　人民或人民之自治團體有購置槍枝、子彈以謀自衞之權；但須經官廳之許可登記。&lt;/p&gt;
+&lt;p&gt;小粉红对于自由主义言论的审查，比起当局和平台要更无孔不入，因为他们就在自由主义者的周围。在2012年前，中国的自由主义者和他们周围的朋友也会有政治观念上的冲突，但基本可以做到和而不同。小粉红认为持有自由主义信念就是要搞“颜色革命”，将其视为对国家人民的背叛，所以他们会毫不犹豫地举报，对于他们来说，举报“恨国党”和举报刑事罪犯并没有太大的不同，都是为了捍卫国家、社会和人民的利益。在权力不愿下场的时候，他们会动员起自己的力量，以网暴的形式，对被他们盯上的人进行制裁。有时网暴达到一定规模，就会引起权力的注意，当事人最后往往要同时遭受社会性死亡和来自权力的惩罚。&lt;/p&gt;
 
-&lt;p&gt;前項之槍枝子彈，無論何種機關，不得強制借用，或提取。&lt;/p&gt;
+&lt;p&gt;这对于有志于自由主义启蒙的人来说是个双重灾难：一方面，有的人不那么害怕丢掉饭碗或者被有司“喝茶”，但却害怕被小粉红盯上，因为前者一般以恫吓为主，不置人于死地，但后者却是非理性的，下手没轻没重，事后也不会有人担责；另一方面，小粉红的批量出现，说明自由主义的启蒙在国家主义的宣传面前，犹如蚍蜉撼树，要将一个人变成自由主义者，需要持之以恒的说理和辩论，但与之对立的声音，可以没日没夜地在电视、报纸、教科书、宣传栏、抖音、b站、微博重复千遍成为真理，一想到这里，自由主义者不免心灰意冷。&lt;/p&gt;
 
-&lt;p&gt;第十四條　人民有營業之自由權；但爲保障重大之公共利益時，須受法律上之限制。&lt;/p&gt;
+&lt;h3 id=&quot;躺平的自由主义者&quot;&gt;“躺平”的自由主义者&lt;/h3&gt;
 
-&lt;p&gt;第十五條　人民有居住遷徙之自由。&lt;/p&gt;
+&lt;p&gt;外部的环境固然万般艰难，但雪上加霜的是，在自由主义者内部也出现了“躺平”的倾向。&lt;/p&gt;
 
-&lt;p&gt;除省法律別有規定外，在本省內無論移住何縣、何市、何鄕，有與該地人民同等之權利義務。&lt;/p&gt;
+&lt;p&gt;自由主义者的“躺平”，一部份体现在“润学”的大行其道。“润”就是“跑路”（run），指的是移居国外。由于大环境日趋恶劣，有一部份持有异见者对于国内形势的好转失去信心，转而将目标放在“肉身翻墙”。应该说，作为一种个人的选择，“润”本身无可指摘。对于一些面临来自政权的打压和小粉红的人身威胁的人来说，“润”可以说既现实又迫切。然而当越来越多的自由主义者，将“润”作为一种整体方案来解决自由主义的困境，并以此沾沾自喜时，那不得不说，这也是一种掩耳盗铃。“润”本身并不解决任何一种系统性的政治问题，毋宁说，“润”的流行正是系统性的政治问题得不到解决的表征。更不用说，对于大部分人，“润”甚至不是一个可行的选择。&lt;/p&gt;
 
-&lt;p&gt;第十六條　人民有請願於議會之權。&lt;/p&gt;
+&lt;p&gt;自由主义者“躺平”的另一种体现，是有些自由主义者将“明哲保身”粉饰为“消极自由”。以赛亚·伯林（Isiah Berlin）大概是除了哈耶克以外，对当代中国的自由主义影响最大的思想家，他的“消极自由”概念，几乎是重塑了中国自由主义者对于自由主义的理解。然而，当有些以往慷慨激昂的启蒙者为了避免惹祸上身而三缄其口，却又将“消极自由”作为自己回避政治锋芒的理由时，这不仅是扭曲了“消极自由”的理论内涵，而且也将自由主义的政治性一并压制了。&lt;/p&gt;
 
-&lt;p&gt;第十七條　人民有陳訴於行政官署之權。&lt;/p&gt;
+&lt;p&gt;自由主义尊重个人对自身生活方式的选择，并对选择的条件进行了制度化的保障。不过这是在自由政体建立起来以后，在这样一种政体建立起来之前，没有真正意义上的“消极自由”，只有作为一种道德话语存在的“天赋人权”。从另一个角度来说，反而是意识到“消极自由”之可贵的人，应该为建立这样的制度付出自己的努力，倘若自己有别的义务要承担，不能以身犯险，或者单纯不愿以卵击石，那都无妨于自己做一个自由主义者，但将“消极自由”大声喊出来，为自己的沉默无为做掩护，这就有点让人惋惜了。&lt;/p&gt;
 
-&lt;p&gt;第十八條　人民有訴訟於法院之權。&lt;/p&gt;
+&lt;p&gt;这就是自由主义的“搭便车”难题：绝大部分自由主义者都认为自己没有义务去为建立自由民主付出代价，但他们都觉得自己有权利生活在这样的一种政体之下，于是他们要么“润”，去享受一种现成的自由民主，要么等，等着别人去付出代价，要么忍受，一边忍受现状一边抱怨。&lt;/p&gt;
 
-&lt;p&gt;法院如違背訴訟法規、延不審判，人民得提起懲戒之訴。&lt;/p&gt;
+&lt;p&gt;于是自由主义陷入两难：由于现实的困窘，去责备任何一个个体的自由主义者为何不去行动不去启蒙，都显得有点苛刻，但如果每一个自由主义者都持有这样的心态，自由主义就更加没有希望，因为即便在不远的将来出现了建立自由政体的机会，习惯上述心态的自由主义者也已经丧失意志力，机会到来也把握不住了。&lt;/p&gt;
 
-&lt;p&gt;第十九條　人民有請求救恤災難之權。&lt;/p&gt;
+&lt;p&gt;自由主义陷入困境的首要原因确实是政权的打压。政权将自由主义者里付出实际行动的人投入监牢，又将自由主义启蒙的舆论传播条件剥夺殆尽，它不断挤压自由主义者的生存和谋生空间，还培植出大批量可以监视他们的人，让他们无时无刻不活在恐怖之中。最重要的是，这种打压范围之广阔，强度之剧烈，时间之持久，让人难以否认自由主义要继续发展之无比艰难。正因为此，自由主义者有了堂而皇之的理由，不再积极有为，不再锐意进取，其内部弥漫着一股听天由命的气息。自由主义对于年轻人不再有吸引力，这不仅是因为政权将中国自由主义者筚路蓝缕的历史完全抹煞，斩断其传承性，而且还因为，如今的年轻人对于这样一种老生常谈、暮气沉沉的学说，没有半点同情和兴趣。&lt;/p&gt;
 
-&lt;p&gt;第二十條　人民依法律有選舉、被選舉、提案、總投票及任受公職之權。&lt;/p&gt;
+&lt;h3 id=&quot;自由主义的势&quot;&gt;自由主义的“势”&lt;/h3&gt;
 
-&lt;p&gt;公職員之任免、保護及懲戒，以省法律定之。&lt;/p&gt;
+&lt;p&gt;这样说的话，自由主义究竟还有没有希望去影响中国的未来？还是说，自由主义就此一蹶不振，过气了，不合时宜了？&lt;/p&gt;
 
-&lt;p&gt;第二十一條　人民有受教育之義務。&lt;/p&gt;
+&lt;p&gt;自由主义的优势一直是在的，这种优势在被打压以后，也不曾遽然消失。自由主义的优势，最重要的，就是“现代生活方式”。这里说的“现代生活方式”，跟查尔斯·泰勒（Charles Taylor）说的“现代社会想象”有点类似，但比后者要“薄”一点。简单来说，中国已经进入了“现代性”，回不去了，现代性的政治需要满足一些最基本的条件，即便像汪晖等人一直鼓吹“另类的现代性”，为中国的政治体制辩护，但后者与现代生活方式，依然是有很大张力的。现代生活方式，在当下包括但不限于：祛魅、市场经济、互联网和个体化。这些意味着：中国已经不可能建立依靠像共产主义这样的强意识形态，而政权的统治，也需要考虑市场经济可以运作的最低限度要求，“防火墙”（GFW）固然可以让大部分人屏蔽掉海外的信息，但长期来说，一些重大的信息依然会在墙内流传，最重要的是，中国人的集体主义，已经被个体化的生活方式所暗中破坏。&lt;/p&gt;
 
-&lt;p&gt;義務教育以上之各級教育，無分男女，皆有享受其同等利益之權。&lt;/p&gt;
+&lt;p&gt;这既是现代生活方式带来的优势条件，也是改革开放的社会遗产。改革开放还带来一定的“精神遗产”。这种遗产主要体现在两个方面，一是体现在尚未完全成型的公共文化，二是体现在精英阶层的价值共识。关于这两者的具体分析，本文不多赘述，只需要提到一点，即这些精神遗产虽然不包括对民主（尤其是西方的代议制民主）的信念，但却包含相当多自由主义的元素，比如对于市场、法治、权利话语和全球化的认同。尽管这些只是精神遗产，比起作为社会遗产的现代生活方式，要更加脆弱，但目前它们尚未被摧毁，大部分中国人，并不想回到“独立自主、自力更生”的年代。&lt;/p&gt;
 
-&lt;p&gt;第二十二條　人民依法律有左列各種義務：&lt;/p&gt;
+&lt;p&gt;一种“主义”的发展，当然可以只在纸上进行，但却不能不考虑“势”的作用。这一年来，中国的自由主义，在“势”的方面，有了重大的突破。首先是彭载舟的出现和白纸运动的发生。自刘晓波以来，锒铛入狱的自由主义者无数，但鲜有因为直接挑战政权合法性而入狱的。彭载舟没有提出什么高深的理论，他有的只是几句朗朗上口的口号，还有飞蛾扑火的勇气，但这种勇气正是当下的自由主义所急需的，他凭一己之力撒下了星星之火，在白纸运动成为燎原之势。&lt;/p&gt;
 
-&lt;p&gt;（1）納租稅之義務。&lt;/p&gt;
+&lt;p&gt;白纸运动已经过去近一年，但依然不容易评价其历史意义。对于自由主义者来说，运动的出现是极其振奋人心的。运动对于“防疫”政治的结束有着直接的推动作用，运动的规模和一些细节让领导人丢失脸面，但这些都不是最重要的，它最重要的意义是象征性的，昭示性的。自激进的左翼青年和青年女权行动派被镇压以来，许多持有异见者对于中国的年轻人印象不佳，因为这几年充满着小粉红将简中互联网闹得天翻地覆的记忆，小粉红以外的那些年轻人，好像大多也是政治冷感。然而白纸运动的出现，打破了这一刻板印象：中国并不缺乏有热血、有头脑、有行动力的年轻人，只是他们陷于与自由主义者一样的困境，没能与同温层建立起联结，他们看不见彼此，以为自己只是特例，长期处于政治抑郁，是乌鲁木齐的大火让其中一些人首先站了出来。&lt;/p&gt;
 
-&lt;p&gt;（2）服兵役之義務。&lt;/p&gt;
+&lt;p&gt;白纸运动以一种巧妙的方式被化解了，但运动创造的“势”并没有消失，它让执政者和自由主义者同时保持敏感的神经，因为被分散的年轻人有可能在下一次危机到来的时候迅速集结。&lt;/p&gt;
 
-&lt;p&gt;（3）擔任名譽公職之義務。&lt;/p&gt;
+&lt;p&gt;下一次危机之所以可能出现，是因为如今的中国共产党也陷入了困境。首先，由于美欧的有意脱钩、外部需求的疲软和全球供应链的重新整合，中国的出口订单在急剧减少，而出口是拉动中国经济的真正引擎，出口的熄火将导致中国的经济的全面减速。其次，由于中国的房地产行业濒临崩溃，地方政府的卖地收入迅速缩水，而土地财政占地方财政收入的比例甚高，在没有新的财政收入来源的情况下，地方不得不克扣体制内人员的工资，减少基础设施的建设和维护。最后，由于经济的整体萧条，失业率高居不下，消费疲软，互为因果，恶性循环，而每年的大学毕业生已经超过千万，青年失业率已经高到统计局不敢公布的地步。&lt;/p&gt;
 
-&lt;p&gt;第二十三條　人民之一切公私權利及義務，不得以宗教信仰之故而生變動。&lt;/p&gt;
+&lt;p&gt;自改开以来，中国的合法性基础已经逐渐从“意识形态合法性”转变为“绩效合法性”，这说明中国的经济和民生，对于中国共产党的统治有着至关重要的作用，经济发展好，人民生活有盼头，老百姓就拥护执政党，经济发展停滞，人民陷入绝望，就有可能人心思变。尽管当局有可能放弃对合法性的追求，改用全民高压统治的方式，但这样的统治方式本身成本极高，而且需要政权内部各个部分的高度配合，这本身就会让政权变得极其脆弱。况且，最近高层的一系列变动，说明政权内部各个部分的配合程度并不令最高领袖满意。&lt;/p&gt;
 
-&lt;p&gt;第二十四條　外省人之居住營業於本省者，與本省人受同等之保護。&lt;/p&gt;
+&lt;p&gt;中国经济的骤然失速，不仅有可能导致整体性危机，而且也给自由主义创造了一些机会。过去四十年，大部分中国人都相信中国经济的高速发展是因为中国体制的优越性和中国共产党的卓越领导，而不是因为中国进行了市场化改革且恰逢其时地分享到全球化的红利。此次失速，高层出尽浑身解数，依然无法拉动经济分毫，这对于中国人来说将是宝贵的一课，有益于建立良好的现实感知，打破对全能政府的迷信。&lt;/p&gt;
 
-&lt;h3 id=&quot;第三章省之事權&quot;&gt;第三章　省之事權&lt;/h3&gt;
+&lt;p&gt;然而这样的危机不一定会导致政权的土崩瓦解，只要政府不折腾，维持现状依然是可能的，大部分中国人并不希望中国乱。而且即便政权出现意外，受益的也不一定是自由主义者，而更有可能是前面提到的民粹派国家主义者，或者更进一步，某种类型的法西斯主义者。这不是杞人忧天。一方面，民粹派国家主义有着比自由主义更大的受众基础，尽管白纸运动让我们看到了那些沉默的、对国家主义有着强烈不满的年轻人，但难以相信他们的数量会比小粉红更加庞大。另一方面，民粹派国家主义者在对“恨国党”的网暴和对外网的出征中饱经磨练，积累了丰富的斗争经验，论组织，论动员，论手段，自由主义者恐怕都不是对手。民粹派国家主义者有可能会宣称，这一次中国出现的大乱，原因一在境外势力，二在国内的叛徒，也就是自由主义者，这样的伎俩在历史上出现过不止一次，一战后在德国广为流传的“刀刺在背”说，就是这样的极右翼宣传。&lt;/p&gt;
 
-&lt;p&gt;第二十五條　關於左列各事項，省有議決執行權：&lt;/p&gt;
+&lt;p&gt;在这样的形势下，自由主义者的希望，在于其左右两翼各自的联结基础。自由主义右翼里的基督教自由主义者，与基督教群体有着广泛的联结，而后者在中国有数千万之巨。自由主义左翼的情况则稍微复杂一些，依靠作为其群众基础的那一小撮小资产阶级，那是万万不够的，左翼自由主义的出路只有在于与反国家主义的女权主义和马克思主义的联合。&lt;/p&gt;
 
-&lt;p&gt;（1）省以下之地方制度及各級地方自治之監督。&lt;/p&gt;
+&lt;p&gt;有人会问，为何后两者会将自身的群众基础“借”给左翼自由主义？这大概还是因为，人类目前可行的政体还是有限的。女权主义本身并不对应一种政体，而马克思主义与自由民主政体并不必然互斥（毕竟不太可能重新回到无产阶级专政）。如果不希望某种右翼威权政体得势，自由民主政体依然是女权主义和马克思主义最好的选择。&lt;/p&gt;
 
-&lt;p&gt;（2）省官制、官規、官俸及官吏之考試。&lt;/p&gt;
+&lt;h3 id=&quot;自由主义的道义力量&quot;&gt;自由主义的道义力量&lt;/h3&gt;
 
-&lt;p&gt;（3）省法院之編制、監獄及感化院之設立及司法行政之監督。&lt;/p&gt;
+&lt;p&gt;从以上描绘的图景来看，当下中国的自由主义，是困境多于希望，局限性多于可能性，但中国的自由主义依然具有一种不可磨灭的品质，这种品质正是来自自由主义本身的道义力量。当代的中国自由主义者，与严复、梁启超这些初代的中国自由主义者的出发点不尽相同：后者的问题意识，是从“中国”出发的，而前者的问题意识，是从“中国自由主义”出发的。或者说得更直白一点，对于后者来说，自由主义的工具价值凌驾于其内在价值，而对于前者来说，自由主义内在价值凌驾于其工具价值。前者之所以持信自由主义，并不是因为自由主义可以让中国实现富国强兵，而是因为他们相信自由主义具有在道德上的正当性，在最低限度，它可以让这个国家的人免于来自政治的恐惧和来自政治权力的残酷对待。正因为这种对自由主义的道德正当性的确信，当代中国的自由主义者对自由主义有一种发自内心的“担当”（commitment），愿意为了它不计代价，放弃肤浅的利己主义。&lt;/p&gt;
 
-&lt;p&gt;（4）各種職業團體之組織及關於勞動之法規。&lt;/p&gt;
+&lt;p&gt;胡适那一代的自由主义者对于“确信”，是有抗拒的，胡适在《容忍与自由》中写道：“一切对异端的迫害，一切对‘异己’的摧残，一切宗教自由的禁止，一切思想言论的被压迫，都由于这一点深信自己是不会错的心理。因为深信自己是不会错的，所以不能容忍任何和自己不同的思想信仰。”针对这种将自由主义奠基在怀疑论的做法，左翼自由主义的周保松曾经在《自由与容忍》中提出过反驳。正如里面所提到的，怀疑论与容忍，反怀疑论与压迫，其实没有必然关系。不惟如此，怀疑论并不会让其持有者对自由主义产生任何担当，它还可以轻而易举地推出反自由主义的结论：既然一切都是不确定的，那“自由”未必是好的，“专制”当然也未必就不好。事实上，对于自由主义的“确信”，不一定要来自教条的狂热，完全可以是基于合理的道德证成（moral justification）。就其后果而言，对于自由主义的确信，甚少会产生对于其他学说的实质打压（总不能说论辩和批判也算打压）。倒是可以说，在艰难时期，只有基于“确信”，才有可能产生行动，基于怀疑论，更有可能产生漫无目的的破坏。&lt;/p&gt;
 
-&lt;p&gt;（5）制定本省稅則、募集省公債及訂結省政府有負擔之契約。&lt;/p&gt;
+&lt;p&gt;对自由主义的道德正当性的确信，可以让我们对自由主义有道义的担当，也可以让我们保持一种存在主义式的乐观（existentialist optimism），这种存在主义式的乐观，也可称为“西绪福斯精神”，知其不可为而为之，明明知道自由主义失败的概率很大，仍要坚守自由主义的立场。中国的自由主义者，在1949年前已经失败了一次，历史给了它第二次机会，但它有可能再次失败。照这么说，中国的自由主义应该是失败透顶，要被扫尽历史的垃圾堆里，但这样的失败并没有什么好畏惧的，德国的自由主义不也在1848和1933失败了两次吗？如今德国已经成为欧洲民主的楷模。&lt;/p&gt;
 
-&lt;p&gt;（6）制定戶籍法及登記法。&lt;/p&gt;
+&lt;p&gt;然而，中国的自由主义者要有“置之死地而后生”的觉悟，也要有梁启超当年写《少年中国说》的气象：“红日初升，其道大光。河出伏流，一泻汪洋。潜龙腾渊，鳞爪飞扬。乳虎啸谷，百兽震惶。鹰隼试翼，风尘吸张。奇花初胎，矞矞皇皇。干将发硎，有作其芒。天戴其苍，地履其黄。纵有千古，横有八荒。前途似海，来日方长。”尽管我们与严复、梁启超在忠诚之归属上不太一样，但有一点上是相似的：我们和他们，都想将活力、斗志和决断注入自己所认同的、因为受尽严酷打击而意气消沉的共同体之中。这当然是一种“唯意志论”（voluntarism），但自由主义现在需要这样的唯意志论。这与前述之“唯心主义”的不同在于：我们并不认为，为自由主义注入这样一种精神力量，一定会使自由主义在现实政治获得成功；毋宁说，这么做，只是为了让自由主义留得青山在，不在严冬之中衰败，以待来者。&lt;/p&gt;
 
-&lt;p&gt;（7）省公產及營造物之處分。&lt;/p&gt;
+&lt;h3 id=&quot;结语&quot;&gt;结语&lt;/h3&gt;
 
-&lt;p&gt;（8）各級學校學制及與教育相聯屬之事項。&lt;/p&gt;
+&lt;p&gt;行文至此，我必须解答一个问题，那就是为何不讨论中国自由主义的理论困境，而专注于中国自由主义在实践层面所遇到的困难，这是否有避重就轻的嫌疑？&lt;/p&gt;
 
-&lt;p&gt;（9）鑛業、農林之保護及發展。&lt;/p&gt;
+&lt;p&gt;有的人认为，中国的自由主义者，在推动普适的自由主义理论发展方面，似乎乏善可陈。中国的自由主义学者，目前仍停留在对外国的自由主义理论的引介和解读上，缺乏创新性的推进。然而我并不认为这算得上什么理论困境，毕竟自由主义理论已经出现了几百年，自由主义作为一种政治制度也是首先在西方得以实践，不管是抽象的理论问题，还是由实践所引发的理论问题，当然是西方人先遭遇到，也先由他们来解决。况且如前文所说，即便中国的自由主义真有什么理论缺陷，那也不是它陷入困境的主要原因。&lt;/p&gt;
 
-&lt;p&gt;（10）各種公共實業及關於實業之法規。&lt;/p&gt;
-
-&lt;p&gt;（11）省以內之河川道路、土地整理及其他土木工程事項。&lt;/p&gt;
-
-&lt;p&gt;（12）省以內之鐵道、電話、電報支線之建設；但爲謀交通行政之統一、聯絡省際商業之發達及應國防上之急需，國政府之命令，得容受之。&lt;/p&gt;
-
-&lt;p&gt;（13）省內之軍政、軍令事項。&lt;/p&gt;
-
-&lt;p&gt;（14）省警察行政事項。&lt;/p&gt;
-
-&lt;p&gt;（15）衞生及各種公益慈善事項。&lt;/p&gt;
-
-&lt;p&gt;第二十六條　其他關於省以內之事項，在與國憲不相抵觸之範圍內，省得制定法規並執行之。&lt;/p&gt;
-
-&lt;p&gt;第二十七條　省政府受國政府之委託，得執行國家行政事務。但因執行國家行政所生之費用，須由國政府負擔。&lt;/p&gt;
-
-&lt;h3 id=&quot;第四章省議會&quot;&gt;第四章　省議會&lt;/h3&gt;
-
-&lt;p&gt;第二十八條　省議會，以全省公民直接選出之議員組織之。&lt;/p&gt;
-
-&lt;p&gt;凡有選舉權之人民，稱公民。&lt;/p&gt;
-
-&lt;p&gt;第二十九條　省議員之名額，以人口爲比例。每人口二十萬，選出議員一名。但不滿二十萬之縣，亦得選出議員一名。&lt;/p&gt;
-
-&lt;p&gt;第三十條　有中華民國國籍之男女，年滿二十一歲以上，於調查選舉人資格以前，在湖南繼續住居滿二年以上，有法定住址，無左列情事之一者，皆有選舉省議員之權：&lt;/p&gt;
-
-&lt;p&gt;（1）患精神病者。&lt;/p&gt;
-
-&lt;p&gt;（2）被剝奪或停止公權，尙未復權者。&lt;/p&gt;
-
-&lt;p&gt;（3）受破產宣吿，尙未撤消者。&lt;/p&gt;
-
-&lt;p&gt;（4）吸食鴉片者。&lt;/p&gt;
-
-&lt;p&gt;（5）營不正當業者。&lt;/p&gt;
-
-&lt;p&gt;（6）未受義務教育者。但義務教育未普及以前，以不識文字者爲限。&lt;/p&gt;
-
-&lt;p&gt;第三十一條　公民年滿二十五歲以上，無左列情事之一者，皆有被選爲省議員之權：&lt;/p&gt;
-
-&lt;p&gt;（1）現役軍人。&lt;/p&gt;
-
-&lt;p&gt;（2）現任官吏。&lt;/p&gt;
-
-&lt;p&gt;（3）現任宗教師。&lt;/p&gt;
-
-&lt;p&gt;（4）在校未畢業之學生。&lt;/p&gt;
-
-&lt;p&gt;第三十二條　省議員之選舉及省議會之組織，以省法律定之。&lt;/p&gt;
-
-&lt;p&gt;第三十三條　省議員任期三年。從當選之日起算，至滿三年之日爲止。&lt;/p&gt;
-
-&lt;p&gt;第三十四條　省議會設議長一人、副議長二人，由議員互選之。&lt;/p&gt;
-
-&lt;p&gt;第三十五條　省議會自行集會，開會，閉會。&lt;/p&gt;
-
-&lt;p&gt;第三十六條　省議會每年開常會二次，於每年三月一日、九月一日開會。&lt;/p&gt;
-
-&lt;p&gt;常會會期爲兩個月；但遇有必要時，得延長一個月。&lt;/p&gt;
-
-&lt;p&gt;第三十七條　省議會閉會時，設常駐委員會。&lt;/p&gt;
-
-&lt;p&gt;第三十八條　省議會遇有省議員三分之一以上動議或省長認爲必要時，得召集臨時會；但會期不得過一個月。&lt;/p&gt;
-
-&lt;p&gt;第三十九條　省議會之職權如左：&lt;/p&gt;
-
-&lt;p&gt;（1）議決第二十五條及第二十六條之事項。&lt;/p&gt;
-
-&lt;p&gt;（2）議決預算及決算案。&lt;/p&gt;
-
-&lt;p&gt;（3）依本法所規定選舉官吏。&lt;/p&gt;
-
-&lt;p&gt;（4）受理人民之請願。&lt;/p&gt;
-
-&lt;p&gt;（5）提出質問書於省務院或請求省務員出席質問之。&lt;/p&gt;
-
-&lt;p&gt;（6）對於省務員之全體或一員，得爲不信任之投票。&lt;/p&gt;
-
-&lt;p&gt;（7）省長有謀叛、賄賂或其他重大犯罪行爲時，得以議員總額四分三以上之出席，出席員三分二以上之可決彈劾之；省長被彈劾時，須卽退職；退職後，由檢察廳提起公訴。&lt;/p&gt;
-
-&lt;p&gt;（8）高等審判廳長及高等檢察廳長，有賄賂、或其他違法行爲時，得以議員三分二以上之出席，出席員三分二以上之可決彈劾之；被彈劾之廳長，須卽退職；退職後，由檢察廳提起公訴。&lt;/p&gt;
-
-&lt;p&gt;（9）省務員及審計院長，有賄賂或其他違法行爲時，得以議員總額三分二以上之出席，出席員三分二以上之可決彈劾之；被彈劾之省務員或審計院長，須卽退職；退職後，由檢察廳提起公訴。&lt;/p&gt;
-
-&lt;p&gt;（10）對於其他各種官吏，有賄賂或其他違法行爲時，得組織查辦委員會，查明咨請該主管官廳懲辦之。&lt;/p&gt;
-
-&lt;p&gt;第四十條　省議員在會內所發之言論，對於會外不負責任。&lt;/p&gt;
-
-&lt;p&gt;第四十一條　省議員在開會期內，除現行犯外，非經省議會之許可，不受逮捕、審問及監禁。&lt;/p&gt;
-
-&lt;p&gt;省議員在開會期內，被逮捕監禁時，逮捕監禁之機關，須於二十四小時以內，將逮捕監禁之理由通吿省議會。&lt;/p&gt;
-
-&lt;p&gt;第四十二條　省議員在任期內，不得爲官吏及兼任有給之公職。&lt;/p&gt;
-
-&lt;p&gt;第四十三條　各選舉區對於該區所選出之議員不信任時，得以左列方法撤回之：&lt;/p&gt;
-
-&lt;p&gt;（1）由原選舉區公民百分之一以上連署提議，經該區公民總投票過半數可決者。&lt;/p&gt;
-
-&lt;p&gt;（2）由原選舉區內之縣議會、市議會、鄕議會議員總額過半數連署提議，經該區公民總投票過半數可決者。&lt;/p&gt;
-
-&lt;p&gt;第四十四條　省議會，得以左列方法解散之：&lt;/p&gt;
-
-&lt;p&gt;（1）由全省公民百分之一以上連署提議，經全省公民總投票過半數可決者。&lt;/p&gt;
-
-&lt;p&gt;（2）全省縣議會過半數連署提議，呈由省長交全省公民總投票之過半數可決者。&lt;/p&gt;
-
-&lt;p&gt;（3）省長以省務院全體之副署，提出理由書，付全省公民總投票過半數可決者。&lt;/p&gt;
-
-&lt;p&gt;第四十五條　依前條及第五十二條第二項解散省議會後，須於三個月內召集新省議會；但一年內不得解散議會兩次。&lt;/p&gt;
-
-&lt;h3 id=&quot;第五章省長及省務院&quot;&gt;第五章　省長及省務院&lt;/h3&gt;
-
-&lt;h4 id=&quot;一省長&quot;&gt;一　省長&lt;/h4&gt;
-
-&lt;p&gt;第四十六條　省行政權，由省長及省務院行使之。&lt;/p&gt;
-
-&lt;p&gt;第四十七條　省長由省議會選出四人，交由全省公民總投票決選，以得票最多數者爲當選。&lt;/p&gt;
-
-&lt;p&gt;第四十八條　依本法規定之本省公民年滿三十五歲以上，在湖南繼續住居滿五年以上者，得被選爲省長。&lt;/p&gt;
-
-&lt;p&gt;第四十九條　省長就任時，須於省議會爲左列之宣誓：&lt;/p&gt;
-
-&lt;p&gt;某某誓以至誠遵守憲法，執行省長之職權，謹誓。&lt;/p&gt;
-
-&lt;p&gt;第五十條　現職軍人被選爲省長時，須解除本職，方得就任。&lt;/p&gt;
-
-&lt;p&gt;第五十一條　省長任期四年，不得連任。但解職四年後，得再被選。省長滿任前三個月，須舉行次任省長之選舉。&lt;/p&gt;
-
-&lt;p&gt;第五十二條　省長未滿任以前，得由省議會提議，交公民總投票表決，令其退職；省議會提出此項議案時，須有議員總額三分二之出席，出席員三分二之可決，方得成立。&lt;/p&gt;
-
-&lt;p&gt;前項議案成立後，省長卽須停止其職權之行使，公民總投票對於前項議案多數可決時，省長卽須退職；多數否決時，則省長回復其職權，省議會卽須解散。&lt;/p&gt;
-
-&lt;p&gt;第五十三條　省長缺位或因事故不能執行其職務時，由省務院長代行其職權，至新省長就職之日或省長再行視事時爲止。&lt;/p&gt;
-
-&lt;p&gt;省長缺位時，卽依本法第四十七條所定之方法選舉新省長。&lt;/p&gt;
-
-&lt;p&gt;第五十四條　省長應於滿任日解職；如屆期新省長尙未選出或選出後尙未就職時，省務院長代行職務。&lt;/p&gt;
-
-&lt;p&gt;第五十五條　省長之職權如左：&lt;/p&gt;
-
-&lt;p&gt;（1）公布法律及發布執行法律之命令。&lt;/p&gt;
-
-&lt;p&gt;（2）統率全省軍隊、管理全省軍政。&lt;/p&gt;
-
-&lt;p&gt;（3）任免全省文武官吏；但本法及法律有特別規定者，依其規定。&lt;/p&gt;
-
-&lt;p&gt;（4）遇內亂外患時，經省議會之同意，得宣吿戒嚴；如在省議會閉會期內，須得常駐委員同意，由省議會於下屆開會時追認之。&lt;/p&gt;
-
-&lt;p&gt;戒嚴期內，本法第九條、第十一條、第十二條之效力得暫受限制；但經省議會認爲無戒嚴之必要時，應卽宣吿解嚴。&lt;/p&gt;
-
-&lt;p&gt;（5）遇必要時，得召集省議會臨時會。&lt;/p&gt;
-
-&lt;p&gt;第五十六條　省長執行前條各款之職權，皆須由省務院長及主管之省務員副署負責。&lt;/p&gt;
-
-&lt;h4 id=&quot;二省務院&quot;&gt;二　省務院&lt;/h4&gt;
-
-&lt;p&gt;第五十七條　省設省務院，及左列各司：&lt;/p&gt;
-
-&lt;p&gt;（1）內務司。&lt;/p&gt;
-
-&lt;p&gt;（2）財政司。&lt;/p&gt;
-
-&lt;p&gt;（3）教育司。&lt;/p&gt;
-
-&lt;p&gt;（4）實業司。&lt;/p&gt;
-
-&lt;p&gt;（5）司法司。&lt;/p&gt;
-
-&lt;p&gt;（6）交涉司。&lt;/p&gt;
-
-&lt;p&gt;（7）軍務司。&lt;/p&gt;
-
-&lt;p&gt;省務院，以各司之司長組織之；各司司長皆爲省務員。&lt;/p&gt;
-
-&lt;p&gt;第五十八條　各司之組織及司長之選舉與任期，以省法律定之。&lt;/p&gt;
-
-&lt;p&gt;第五十九條　各司司長，由省議會選舉二人，咨請省長擇一任命之。&lt;/p&gt;
-
-&lt;p&gt;省務院長，由省務員互選一人，呈請省長任命。&lt;/p&gt;
-
-&lt;p&gt;省務員去職時，省議會須於省務員去職之日起十日內選出；如&lt;/p&gt;
-
-&lt;p&gt;省議會在閉會期內，須於開會後十日內選出之。&lt;/p&gt;
-
-&lt;p&gt;省務員如有溺職及其他違法行爲時，省長得罷免之。&lt;/p&gt;
-
-&lt;p&gt;省務員於省議會閉會期內去職時，得由省長暫行任命代理。&lt;/p&gt;
-
-&lt;p&gt;第六十條　省務院設政務會議，以省務院長爲議長；各省務員皆列席，議決施政方針及關涉各司權限爭議之事件，對於省議會負連帶責任。&lt;/p&gt;
-
-&lt;p&gt;第六十一條　政務會議議決之結果，須由省務院長報吿省長。&lt;/p&gt;
-
-&lt;p&gt;遇有特別重大事件，得由省長主席於省務院開特別聯席會議；但此種聯席會議，省長不得以省務員不能負責之議案，強制其議決執行。&lt;/p&gt;
-
-&lt;p&gt;第六十二條　省長所發之命令及其他關於政務之文書，非經省務院長及各主管司長之副署，不生效力。&lt;/p&gt;
-
-&lt;p&gt;第六十三條　省務員全體或一員受省議會之不信任投票時，卽須辭職。&lt;/p&gt;
-
-&lt;h3 id=&quot;第六章立法&quot;&gt;第六章　立法&lt;/h3&gt;
-
-&lt;p&gt;第六十四條　法律案，由省議會議員或省務院以省長之名義提出之。&lt;/p&gt;
-
-&lt;p&gt;第六十五條　法定之省教育會、農會、工會、商會、律師公會及其他依法律組織之各職業團體，得提出關於各該團體範圍內之法律案，省議會必須以之付議。&lt;/p&gt;
-
-&lt;p&gt;前項議案開議時，提案者得派員出席省議會說明之；但不得參加表決。&lt;/p&gt;
-
-&lt;p&gt;第六十六條　全省公民百分之一以上連署動議，或全省縣議會及一等市議會三分之一以上連署動議，得提出法律案，呈請省長咨省議會議決。省議會對於此項議案，如擱置不議或議而否決時，省長應將該案及否決之理由，付全省公民總投票表決；可決時，卽成爲法律。&lt;/p&gt;
-
-&lt;p&gt;第六十七條　省議會議決之法律案，省長須於送達後二十日內公布之。&lt;/p&gt;
-
-&lt;p&gt;省議會議決之法律案，省長如否認時，須於送達後十日內，將否認之理由咨省議會覆議；如有出席議員三分之二以上，仍執前議時，應卽公布之。&lt;/p&gt;
-
-&lt;p&gt;未咨省議會覆議之法律案，逾公布期限，卽成爲法律。&lt;/p&gt;
-
-&lt;p&gt;法律案於將近閉會期咨送省長者，省長如否認時，得聲明理由，咨省議會，於下屆開會時覆議之。&lt;/p&gt;
-
-&lt;p&gt;法律案咨送省長後，於省長否認而省議會被解散時，得咨新省議會覆議之。&lt;/p&gt;
-
-&lt;p&gt;全省縣議會及一等市議會三分之一以上連署動議，或全省公民百分之一以上連署動議，皆得於公布期內，要求將已議決之法律案，展緩兩月公布，兩月內卽提交全省公民總投票表決。&lt;/p&gt;
-
-&lt;p&gt;第六十八條　凡本法所規定得由公民提案及須公民總投票表決之事項，其提案及投票之方法，以省法律定之。&lt;/p&gt;
-
-&lt;h3 id=&quot;第七章行政&quot;&gt;第七章　行政&lt;/h3&gt;
-
-&lt;h4 id=&quot;一財政&quot;&gt;一　財政&lt;/h4&gt;
-
-&lt;p&gt;第六十九條　省之租稅，依省法律之規定徵收之。&lt;/p&gt;
-
-&lt;p&gt;第七十條　省之收入支出，由省庫或代理省庫之銀行執掌之。&lt;/p&gt;
-
-&lt;p&gt;發款書據須有審計院長之簽印，省庫方得支付。&lt;/p&gt;
-
-&lt;p&gt;省庫之組織，以省法律定之。&lt;/p&gt;
-
-&lt;p&gt;第七十一條　省會計年度，以每年七月一日爲始，至次年六月三十日爲止。&lt;/p&gt;
-
-&lt;p&gt;第七十二條　省長須於省議會開會後之五日內，將次年度之預算案提交省議會議決。&lt;/p&gt;
-
-&lt;p&gt;省長得提出追加預算案，交省議會議決。&lt;/p&gt;
-
-&lt;p&gt;以省款經營之事項非一年所能完竣，或其費用非一年所能籌備，或因契約之關係其負擔不止於一年者；得經省議會之議決，預定年限設繼續費。&lt;/p&gt;
-
-&lt;p&gt;省議會對於預算案，得修正之；但不得增加歲出或增加新款項。預算案內之款項，經省議會議決後，不得濫用。&lt;/p&gt;
-
-&lt;p&gt;第七十三條　省長須於會計年度終了後，將前年度之決算案提交省議會議決。&lt;/p&gt;
-
-&lt;p&gt;第七十四條　省之財務行政狀況及省議會議決之預算、決算案，省長須詳細公布之。&lt;/p&gt;
-
-&lt;h4 id=&quot;二教育&quot;&gt;二　教育&lt;/h4&gt;
-
-&lt;p&gt;第七十五條　全省人民，自滿六歲起，皆有繼續受四年教育之義務。&lt;/p&gt;
-
-&lt;p&gt;爲達前項之目的，得強制各地方自治團體就地籌集義務教育經費，開辦應有之國民學校。&lt;/p&gt;
-
-&lt;p&gt;第七十六條　每年教育經費，至少須佔全省預算案歲出百分之三十；每年提出之教育基金，至少須佔全省預算案歲出百分之二；其保管方法及用途，以省法律定之。&lt;/p&gt;
-
-&lt;p&gt;第七十七條　成績優良之國民學校，得酌量獎勵之。&lt;/p&gt;
-
-&lt;p&gt;第七十八條　成績優良之職業學校，經省議會議決，得爲添置設備之補助。&lt;/p&gt;
-
-&lt;p&gt;第七十九條　省須設立大學一所。&lt;/p&gt;
-
-&lt;p&gt;第八十條　爲達本法第二十一條第二項之目的，省政府及各自治團體須設備特別基金，資助貧戶男女學童之適於受中等以上教育者，其資助之方法，須以省法律定之。&lt;/p&gt;
-
-&lt;p&gt;第八十一條　學校不得駐紮軍隊或據爲軍人住宅。&lt;/p&gt;
-
-&lt;h4 id=&quot;三實業&quot;&gt;三　實業&lt;/h4&gt;
-
-&lt;p&gt;第八十二條　省有產業，非經省議會議決，不得抵押或變賣之。&lt;/p&gt;
-
-&lt;p&gt;省內之天然富源，無論公有私有，不得變賣與無中華民國國籍者。&lt;/p&gt;
-
-&lt;p&gt;第八十三條　省政府經省議會議決，經營各種實業時，須依私人營業之組織。&lt;/p&gt;
-
-&lt;p&gt;第八十四條　省政府對於省內之私人營業，認爲於公益上有必要時，經省議會議決，得以相當之代價收歸省有。&lt;/p&gt;
-
-&lt;p&gt;第八十五條　省政府對於私有營業之勞工保護、勞工賠償、勞工衞生等，得依法律之規定監督之。&lt;/p&gt;
-
-&lt;p&gt;第八十六條　省政府對於私有營業之不正當競爭或不公允價率，得依法律之規定製裁之。&lt;/p&gt;
-
-&lt;h4 id=&quot;四軍事&quot;&gt;四　軍事&lt;/h4&gt;
-
-&lt;p&gt;第八十七條　全省軍務，爲省行政之一部。無論平時戰時，其管理統率，依本法第五十五條及第五十六條之規定，屬於省長。&lt;/p&gt;
-
-&lt;p&gt;第八十八條　全省之健全男子，自滿二十歲至滿四十歲，依義務民兵制，平時合計須有十二個月在軍中服務。&lt;/p&gt;
-
-&lt;p&gt;義務民兵之兵役法及編制，以省法律定之；但得設一萬人以內之常備部隊。&lt;/p&gt;
-
-&lt;p&gt;中華民國對外國宣戰時，本省軍隊之一部得受國政府之指揮。&lt;/p&gt;
-
-&lt;p&gt;第八十九條　省內治安，省民共保之；省外軍隊，非經省議會議決及省政府允許，永遠不得駐紮或通過本省境內。&lt;/p&gt;
-
-&lt;h3 id=&quot;第八章司法&quot;&gt;第八章　司法&lt;/h3&gt;
-
-&lt;p&gt;第九十條　省設高等審判廳，爲一省之最高審判機關，對於本省之民事、刑事、行政及其他一切訴訟之判決，爲最終之判決。&lt;/p&gt;
-
-&lt;p&gt;高等審判廳之下，設地方審判廳、初級審判廳。&lt;/p&gt;
-
-&lt;p&gt;第九十一條　省設高等檢察廳，爲一省最高之檢察機關。&lt;/p&gt;
-
-&lt;p&gt;高等檢察廳之下，設地方檢察廳、初級檢察廳。&lt;/p&gt;
-
-&lt;p&gt;第九十二條　高等審判廳長及高等檢察廳長，由省議會依法定資格選舉之。&lt;/p&gt;
-
-&lt;p&gt;選舉方法，以省法律定之。&lt;/p&gt;
-
-&lt;p&gt;高等審判廳長及高等檢察廳長以下之各法官，均由省務院呈請任命之。&lt;/p&gt;
-
-&lt;p&gt;第九十三條　法官獨立審判，不受何方之干涉。&lt;/p&gt;
-
-&lt;p&gt;第九十四條　高等審判廳長及高等檢察廳長任期八年；在任期內，非依本法第三十九條第八款之規定，不得免職。&lt;/p&gt;
-
-&lt;p&gt;高等審判廳長及高等檢察廳長以下各法官，非依法律，不得免職、降職、停職、減職或轉職；法官之懲戒處分，以省法律定之。&lt;/p&gt;
-
-&lt;p&gt;第九十五條　司法區域之劃分、法院之編制及法官之俸給，以省法律定之。&lt;/p&gt;
-
-&lt;h3 id=&quot;第九章審計院&quot;&gt;第九章　審計院&lt;/h3&gt;
-
-&lt;p&gt;第九十六條　省設審計院；審計院長，由省議會選舉之。&lt;/p&gt;
-
-&lt;p&gt;審計院之組織及審計院長之選舉，以省法律定之。&lt;/p&gt;
-
-&lt;p&gt;第九十七條　審計院長任期八年，在任期內，非依本法第三十九條第九款之規定，不得免職。&lt;/p&gt;
-
-&lt;p&gt;第九十八條　省經費之收入，各徵收機關須於繳納省庫時，報吿審計院。&lt;/p&gt;
-
-&lt;p&gt;省經費之支出，須經審計院長，按照預算案或臨時支出之法案，核準籤印支出；與原案不符時，得拒絕之。&lt;/p&gt;
-
-&lt;p&gt;第九十九條　審計院得隨時調查各機關之收支簿據。&lt;/p&gt;
-
-&lt;p&gt;第一百條　審計院對於全省各機關收支簿據之登記法及報吿程式，有釐訂劃一之權；此項釐訂劃一辦法，由審計院長咨請省長行之。&lt;/p&gt;
-
-&lt;h3 id=&quot;第十章縣制大綱&quot;&gt;第十章　縣制大綱&lt;/h3&gt;
-
-&lt;p&gt;第一百零一條　縣爲省之地方行政區域，幷爲自治團體。&lt;/p&gt;
-
-&lt;p&gt;第一百零二條　縣置縣長，受省長之指揮監督，執行省之地方行政及縣之自治行政，並同時監督縣以下之各自治機關。&lt;/p&gt;
-
-&lt;p&gt;第一百零三條　縣長由縣議會選舉六人，交由全縣公民決選二人，呈請省長擇一任命。&lt;/p&gt;
-
-&lt;p&gt;第一百零四條　縣長任期四年；但在任期內，如有溺職或違法行爲時，由省長免職，或縣議會彈劾，呈請省長免職；免職後，卽依前條舉行新選舉。&lt;/p&gt;
-
-&lt;p&gt;第一百零五條　縣長之資格、選舉及縣行政機關之組織，以省法律定之。&lt;/p&gt;
-
-&lt;p&gt;第一百零六條　縣置縣議會；議員人數，依縣之大小酌定之；但不得少於十六人，至多亦不得過五十人。&lt;/p&gt;
-
-&lt;p&gt;縣議會之議員，由全縣公民直接投票選出之。&lt;/p&gt;
-
-&lt;p&gt;縣議會之組織解散及縣議員之選舉撤回，以省法律定之。&lt;/p&gt;
-
-&lt;p&gt;第一百零七條　在不抵觸省法令之範圍內，縣有左列各事項之自治權：&lt;/p&gt;
-
-&lt;p&gt;（1）縣以內之教育及與教育相聯屬之事項。&lt;/p&gt;
-
-&lt;p&gt;（2）縣以內之道路、水利及其他土木工程事項。&lt;/p&gt;
-
-&lt;p&gt;（3）縣以內之實業及公共營業。&lt;/p&gt;
-
-&lt;p&gt;（4）縣以內之警察、衞生及各種公益慈善事項。&lt;/p&gt;
-
-&lt;p&gt;（5）縣公產及營造物之處分。&lt;/p&gt;
-
-&lt;p&gt;（6）其他依省法令賦與縣自治處理之事項。&lt;/p&gt;
-
-&lt;p&gt;前列各事有涉及兩縣以上者，得協議處理之。&lt;/p&gt;
-
-&lt;p&gt;第一百零八條　在不抵觸省法令之範圍內，縣得制定縣稅及附於省稅之附加稅，並他種公共收入，以充縣自治事項之經費；但須受省政府之監督。&lt;/p&gt;
-
-&lt;p&gt;第一百零九條　縣之收入支出，每年由縣長詳細公布之。&lt;/p&gt;
-
-&lt;h3 id=&quot;第十一章市鄕自治大綱&quot;&gt;第十一章　市鄕自治大綱&lt;/h3&gt;
-
-&lt;p&gt;第一百十條　市鄕皆爲自治團體。&lt;/p&gt;
-
-&lt;p&gt;第一百十一條　省以內之都會、商埠，人口滿二十萬以上者，爲一等市；人口滿五萬以上、不及二十萬者，爲二等市；人口滿五千以上、不及五萬人者，爲三等市；不及五千人者，屬於鄕。&lt;/p&gt;
-
-&lt;p&gt;第一百十二條　一等市，直接受省政府之監督。&lt;/p&gt;
-
-&lt;p&gt;第一百十三條　一等市設市長一人，由全市公民直接選出，任期二年。&lt;/p&gt;
-
-&lt;p&gt;第一百十四條　一等市設市議會，由全市公民直接選出之議員組織之；其選舉及組織，以省法律定之。&lt;/p&gt;
-
-&lt;p&gt;市議會之議員爲無給職。&lt;/p&gt;
-
-&lt;p&gt;第一百十五條　一等市設市委員會，以市長爲委員會長。凡市之行政方針，由委員會議決施行。&lt;/p&gt;
-
-&lt;p&gt;委員會之半數，由市議會選出。其他之半數，由市長從各職業團體中擇任之；委員會之委員爲無給職。&lt;/p&gt;
-
-&lt;p&gt;第一百十六條　一等市市政公所之專務職員，由市長經委員會之同意任用之。&lt;/p&gt;
-
-&lt;p&gt;第一百十七條　一等市之公民對於市之重要立法，有直接提案及總投票之覆決權；其方法以省法律定之。&lt;/p&gt;
-
-&lt;p&gt;第一百十八條　自治權：&lt;/p&gt;
-
-&lt;p&gt;（1）市以內之教育及與教育相聯屬之事項。&lt;/p&gt;
-
-&lt;p&gt;（2）市以內之街道、水溝及其他土木工程事項。&lt;/p&gt;
-
-&lt;p&gt;（3）市以內之電燈、電車、煤氣、自來水及其他關於公益之營業。&lt;/p&gt;
-
-&lt;p&gt;（4）市以內之警察、衞生及各種公益慈善事項。&lt;/p&gt;
-
-&lt;p&gt;（5）其他依省法令賦與或由省政府委託市執行處理之事項。&lt;/p&gt;
-
-&lt;p&gt;第一百十九條　一等市受省政府之監督，得制定左列各種市稅：&lt;/p&gt;
-
-&lt;p&gt;（1）房屋稅。&lt;/p&gt;
-
-&lt;p&gt;（2）車馬稅。&lt;/p&gt;
-
-&lt;p&gt;（3）戲院及其他各種游戲場稅。&lt;/p&gt;
-
-&lt;p&gt;（4）屠宰稅。&lt;/p&gt;
-
-&lt;p&gt;（5）酒館稅。&lt;/p&gt;
-
-&lt;p&gt;（6）附於省稅之附加稅。&lt;/p&gt;
-
-&lt;p&gt;（7）其他稅則得政府之許可者。&lt;/p&gt;
-
-&lt;p&gt;第一百二十條　一等市受省政府之監督，得募集市債。&lt;/p&gt;
-
-&lt;p&gt;第一百二十一條　二等市之組織，得適用本法自第一百十三條至第一百十七條之規定；但受縣政府監督。&lt;/p&gt;
-
-&lt;p&gt;第一百二十二條　二等市之自治權，得適用本法第一百十八條及第一百十九條之規定；但以不抵觸省及縣法令爲範圍。&lt;/p&gt;
-
-&lt;p&gt;第一百二十三條　一二等市之制度，以省法律定之；但在不背本法之範圍內，一二等市得自定其制度，經省議會認可施行。&lt;/p&gt;
-
-&lt;p&gt;第一百二十四條　三等市及鄕之組織，以省法律定之；但得斟酌各地方情形，自定其組織，經省議會認可施行。&lt;/p&gt;
-
-&lt;p&gt;第一百二十五條　凡市鄕之收入支出，每年須詳細公布之。&lt;/p&gt;
-
-&lt;h3 id=&quot;第十二章本法之修正及解釋&quot;&gt;第十二章　本法之修正及解釋&lt;/h3&gt;
-
-&lt;p&gt;第一百二十六條　本法公布後，每十年須召集憲法會議一次，議決應行修正案，交由公民總投票決定之。&lt;/p&gt;
-
-&lt;p&gt;經省議會議員四分之三及全省縣議會及一等市議會團體三分之二，提出修正案，得召集憲法會議議決，交公民總投票決定之。&lt;/p&gt;
-
-&lt;p&gt;憲法會議之組織，以省法律定之。&lt;/p&gt;
-
-&lt;p&gt;第一百二十七條　因本法所發生之爭議，由高等審判廳解釋之。&lt;/p&gt;
-
-&lt;h3 id=&quot;第十三章附則&quot;&gt;第十三章　附則&lt;/h3&gt;
-
-&lt;p&gt;第一百二十八條　省法律未公布以前，中華民國現行法律及基於法律之命令，與本法不相抵觸者，仍得適用於本省。&lt;/p&gt;
-
-&lt;p&gt;第一百二十九條　國憲未成立以前，應歸於國之事權，得由本省議決執行之。&lt;/p&gt;
-
-&lt;p&gt;第一百三十條　戶口調查未完竣以前，本法第二十九條之規定暫緩施行；省議員之名額，暫以各縣田賦爲標準。凡田賦未滿壹萬元者，選出一名；壹萬元以上六萬元未滿者，選出二名；六萬元以上十二萬元未滿者，選出三名；十二萬元以上十八萬元未滿者，選出四名；十八萬元以上者，選出五名。&lt;/p&gt;
-
-&lt;p&gt;其各縣應選出省議員之名額，列表於後：&lt;/p&gt;
-
-&lt;p&gt;長沙四名　 湘陰三名　 瀏陽四名　 醴陵三名　 湘潭四名&lt;/p&gt;
-
-&lt;p&gt;寧鄕三名　 益陽三名　 湘鄕四名　 攸縣三名　 安化二名&lt;/p&gt;
-
-&lt;p&gt;茶陵三名　 寶慶三名　 新化二名　 武岡三名　 新寧二名&lt;/p&gt;
-
-&lt;p&gt;城步一名　 衡陽五名　 衡山三名　 安仁二名　 耒陽三名&lt;/p&gt;
-
-&lt;p&gt;常寧二名　 酃縣二名　 零陵三名　 祁陽二名　 東安二名&lt;/p&gt;
-
-&lt;p&gt;道縣二名　 寧遠二名　 永明二名　 江華二名　 新田二名&lt;/p&gt;
-
-&lt;p&gt;郴縣二名　 永興二名　 資興二名　 宜章二名　 桂陽二名&lt;/p&gt;
-
-&lt;p&gt;桂東二名　 汝城二名　 臨武二名　 藍山二名　 嘉禾二名&lt;/p&gt;
-
-&lt;p&gt;岳陽三名　 平江三名　 臨湘二名　 華容二名　 常德三名&lt;/p&gt;
-
-&lt;p&gt;桃源三名　 漢壽二名　 沅江一名　 澧縣三名　 石門二名&lt;/p&gt;
-
-&lt;p&gt;慈利二名　 安鄕二名　 臨澧二名　 大庸一名　 南縣二名&lt;/p&gt;
-
-&lt;p&gt;沅陵二名　 瀘溪二名　 辰谿二名　 漵浦三名　 芷江二名&lt;/p&gt;
-
-&lt;p&gt;黔陽二名　 麻陽二名　 永順二名　 古丈一名　 保靖一名&lt;/p&gt;
-
-&lt;p&gt;龍山一名　 桑植一名　 靖縣二名　 綏寧二名　 會同二名&lt;/p&gt;
-
-&lt;p&gt;通道一名　 亁城一名　 鳳凰一名　 永綏一名　 晃縣一名&lt;/p&gt;
-
-&lt;p&gt;第一百三十一條　戶口調查未完竣以前，本法第四十七條之規定暫緩施行；省長之選舉，由省議會選出七人，交由前全省縣議員決選之。&lt;/p&gt;
-
-&lt;p&gt;第一百三十二條　戶口調查未完竣以前，本法第十一章所定一等市之組織暫緩施行；但非遇意外事變，至遲須於本法公布後之一年內，將省內各重要都會、商埠人口調查完竣；依本法制定一等市制度施行之。&lt;/p&gt;
-
-&lt;p&gt;第一百三十三條　全省戶口之調查，非遇意外事變，至遲須於本法公布後二年完竣。&lt;/p&gt;
-
-&lt;p&gt;第一百三十四條　在國憲未成立以前，省政府得徵收國稅；但徵收額數與其用途，仍須編入省預算案內，經省議會議決。&lt;/p&gt;
-
-&lt;p&gt;第一百三十五條　依本法所定之初級審判廳及檢察廳，至遲須於本法公布後一年內完全成立。&lt;/p&gt;
-
-&lt;p&gt;第一百三十六條　本法公布後，須卽由現省政府設立法制編纂會，擬定施行本法所必須之法案，於第一次省議會開會時提出議決。&lt;/p&gt;
-
-&lt;p&gt;第一百三十七條　依本法成立之第一屆省議會第一次開會期，不限於三十六條第一項之規定。&lt;/p&gt;
-
-&lt;p&gt;第一百三十八條　本法公布後，至遲須於三個月內，依本法辦理省議會及各縣議會，選舉省議會及各縣議會；選舉完竣後，至遲須於三個月內，依本法選舉省長；省長選出後，臨時省長應卽解職；由正式省長依法組織省行政機關，本法第八十七條之規定應卽施行。&lt;/p&gt;
-
-&lt;p&gt;第一百三十九條　現有軍隊未收束以前，本法第八十七條之規定暫緩施行；但至依本法所定正式政府成立之日止，須將軍費減至省預算案歲出二分之一；至鄰近各省自治政府成立後之半年止，軍費須減至省預算案歲出三分之一；至國憲成立後之半年止，軍費須減至省預算案歲出四分之一；並須於國憲成立後，卽爲實施本法第八十八條之預備進行。&lt;/p&gt;
-
-&lt;p&gt;第一百四十條　立法、司法、行政各機關依本法成立時，原設之機關應卽廢止。&lt;/p&gt;
-
-&lt;p&gt;第一百四十一條　本法由全省公民總投票可決後，公布之日施行。&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/hmtwAnt.jpeg&quot; alt=&quot;image01&quot; /&gt;&lt;/p&gt;</content><author><name>起草委員會</name></author><summary type="html">序言 湖南全省人民，爲增進幸福，鞏固國基，制定憲法如左：</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://i.imgur.com/sCmzE1J.jpeg" /><media:content medium="image" url="https://i.imgur.com/sCmzE1J.jpeg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">革命家忆・西欧亡命</title><link href="https://agorahub.github.io/pen0/heros/1899-09-30-PeterKropotkin-a1_r-memoirs-of-a-revolutionist-8-exile-in-western-europe.html" rel="alternate" type="text/html" title="革命家忆・西欧亡命" /><published>1899-09-30T10:56:15+06:55</published><updated>1899-09-30T10:56:15+06:55</updated><id>https://agorahub.github.io/pen0/heros/PeterKropotkin-a1_r-memoirs-of-a-revolutionist-8-exile-in-western-europe</id><content type="html" xml:base="https://agorahub.github.io/pen0/heros/1899-09-30-PeterKropotkin-a1_r-memoirs-of-a-revolutionist-8-exile-in-western-europe.html">&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;我在西欧活动之目的——在爱丁堡及伦敦小住——向《自然》杂志及《泰晤士报》投稿——离英赴瑞士——国际工人协会与德国社会民主党——国际工人协会在法国、西班牙、意大利的发展&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;值得一提的是，中国的自由主义学者，并非没有理论创新，只是这些学者缺乏正式的理论讨论的机会，他们的理论创新只在小范围被人所知。中国的自由主义学者，是在与国家主义和其他流派的短兵相接中发展自己的学说的，他们从自由主义的角度，去面对其他主义的在中国的语境下所带来的挑战，这些论述的价值应该得到肯定。另者，中国自由主义面临的任务，可以说是人类政治史上最艰难的任务之一：在这样一个准极权政体之下，要去建立一种自由主义的制度，这样的经验在人类历史上是匮乏的，以往自由主义者面临的对手，都比它如今面对的这个要文明得多。中国的自由主义者在这其中的摸索、观察、反思和总结，本身就是自由主义的精神财富，实践和理论之间，如何分得清楚？如何可以说中国的自由主义者对于自由主义没有创新的贡献？胡平说：“我们这一代的自由主义，是再发现，是重新发掘；也就是说，在很大程度上，是自发的、内生的，是基于我们自己的‘深刻而痛苦的生活经验’，‘从切身的忧患’的独立思考而获得的。”这何尝不是几代中国自由主义者的集体肖像？&lt;/p&gt;</content><author><name>陈纯</name></author><summary type="html">中国自由主义正陷入困境。实际上，它鲜有不陷入困境的时候，只是在世纪之交前后各十年，有一些新左派人士误以为中国已经融入全球化“新自由主义”秩序，并大加批判。然而这个表象，在2012年后轻而易举就被权力的手指戳破。</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://i.imgur.com/nTmt0Vp.png" /><media:content medium="image" url="https://i.imgur.com/nTmt0Vp.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">大语言模型时代</title><link href="https://agorahub.github.io/pen0/heros/2023-04-22-QiLu-a1_l-macro-thinking-in-the-era-of-llms.html" rel="alternate" type="text/html" title="大语言模型时代" /><published>2023-04-22T12:00:00+08:00</published><updated>2023-04-22T12:00:00+08:00</updated><id>https://agorahub.github.io/pen0/heros/QiLu-a1_l-macro-thinking-in-the-era-of-llms</id><content type="html" xml:base="https://agorahub.github.io/pen0/heros/2023-04-22-QiLu-a1_l-macro-thinking-in-the-era-of-llms.html">&lt;p&gt;这个时代跟淘金时代很像，如果你那个时候去加州淘金，一大堆人会死掉。但是卖勺子、卖铲子的人永远可以赚钱。&lt;/p&gt;
 
 &lt;!--more--&gt;
 
-&lt;p&gt;我们驶近英国海岸的时候，北海里起了大风暴。可是遇上这个风暴，我并不觉得苦，反而非常高兴。看着我们的轮船与汹涌起伏着的波涛互相冲击，我觉得是种享受。我坐在甲板上，浪花打着我的脸，有好几个钟头。在一个阴暗的暗炮台里住了两年以后，我身体内部的每根纤维，这时似乎全都在作生命的颤动，全都急于要去享受一种十分充实的生活。&lt;/p&gt;
+&lt;h3 id=&quot;社会性拐点的核心是一项大型成本从边际变成固定&quot;&gt;社会性拐点的核心，是一项大型成本从边际变成固定&lt;/h3&gt;
 
-&lt;p&gt;我本来只打算在国外停留不超过几个星期或几个月：只要等因我的越狱而引起的喧嚣惊扰平静下去，同时我的健康恢复一点，我就回俄国去。我上岸时，用的名字是拉瓦旭夫，这就是我离开俄国时用的假名；为了不去立刻会受俄国大使馆的密探跟踪的伦敦，我先到了爱丁堡。&lt;/p&gt;
+&lt;p&gt;我认识Sam Altman是2005年，他那时19岁不到，我已经40多岁了。&lt;/p&gt;
 
-&lt;p&gt;然而事与愿违，到西欧以后，我竟然永远没有再回俄国去。当时西欧安那其主义的运动，正是方兴未艾，我不久就加入进去了；我当时觉得，如果我留在西欧帮助大家去阐明发扬安那其主义，一定比回俄国去工作的好处大。在俄国，知道我的人太多了，我决不能去作公开的宣传，尤其是在工人农民中间；而且到了后来，俄国革命运动变成了秘密谋叛及反抗专制政体代表的武装斗争，自然一切企图组织民众运动的念头会被抛弃；我的性情则更倾向于劳动群众，使我愿意与他们共命运。在他们中间传播可以有助于指导他们去努力使劳动者全体获得最大的利益的思想，使那些作为将来社会革命的基础的理想及原则深化扩大；在劳动者面前，把这些理想和原则详解申说使之成为劳动者自身理性的结果，而不是领袖下的命令；还有，启发他们自己的首创精神，使他们知道他们现在正被要求作为一个社会组织的公道模式的建造者而出现在历史舞台上——这些事在我看来，对于人类的发展都是必要的，我如回到俄国，所能做的事，不会比这些更重要。因此我便参加了在西欧向这个方向努力的少数人的行列，接替那些因为多年艰苦斗争而趋于崩溃的人。&lt;/p&gt;
+&lt;p&gt;我们俩是忘年交。他是一个很善良也很奇怪的小孩，今天很高兴他能这样改变世界。前不久，我春节在美国3个月，也到OpenAI和Sam聊了一些。&lt;/p&gt;
 
-&lt;p&gt;我在赫尔上岸，到了爱丁堡，把我平安到英的消息只告诉几个俄国和汝拉同盟的朋友。一个社会主义者无论在什么时候都要靠自己的劳力去维持生活，所以我到苏格兰的首府以后，在市外租了一间小房，立刻就去找工作。&lt;/p&gt;
+&lt;p&gt;首先，怎么理解这个新范式？这张图能把ChatGPT和OpenAI所带来的一切讲清楚。之后，基于第一性原理，你自然会推演出所在赛道的机会和挑战。&lt;/p&gt;
 
-&lt;p&gt;在我们船上的旅客中，有一位挪威教授，我和他谈话，想把我以前学过的一点瑞典文温习一下。他会说德文，但是他向我说：“你既然会说一点挪威文，而且你还想学它，我们就用挪威语谈话好了。”&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/1AeQT5G.png&quot; alt=&quot;image01&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;我大胆问他：“你是指瑞典话吗？——我说的是瑞典话，对不？”&lt;/p&gt;
+&lt;p&gt;这张图是“三位一体结构演化模式”，本质是讲任何复杂体系，包括一个人、一家公司、一个社会，甚至数字化本身的数字化体系，都是复杂体系。“三位一体”包括：&lt;/p&gt;
 
-&lt;p&gt;“呵，我想这大概是挪威文，无论如何决不是瑞典文。”他这样回答我。&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;“信息”系统（subsystem of information），从环境当中获得信息；&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;“模型”系统（subsystem of model），对信息做一种表达，进行推理和规划；&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;“行动”系统（subsystem of action），我们最终和环境做交互，达到人类想达到的目的。&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
 
-&lt;p&gt;J.凡尔纳的小说里，有一位主人公本来想学西班牙话，但是弄错了，学了葡萄牙话，我正和这人一样。不管怎么说，我和这位教授谈得很多（就说是挪威文罢）。他给我一份在挪威京城克利斯蒂安尼遏出版的报纸，里面载着新近返国的挪威北大西洋深海探险队的报告。我到了爱丁堡，立刻用英文写了一篇关于这次探险的文章，寄给《自然》杂志，我在圣彼得堡时常与我的哥哥合看这杂志，从第一期起，就没有间断过。副编辑接到了我的文章，写信来表示感谢，并且用极其宽容的态度说我的英文“很好”，只是需要更“符合英语习惯一点”。以后，我在英国常常遇着人向我说这样的话。我在俄国时本已学过英文，而且还和我的哥哥合译过佩奇的《地质学之哲学》及斯宾塞的《生物学原理》。但是我的英文是从书本上学来的，而且发音很糟，所以我和我的苏格兰女房东说话时，要使她了解我的英语，困难极了。她的女儿和我时常把我们要说的话写在纸上；因为我不懂得普通习用的英语，当然要弄出许多非常可笑的错误来。我还记得有一次和她在纸上笔谈时，我向她抗议道：在喝茶时我所要的并不是“一杯茶”，而是好几杯。我的本意是说我多要几个杯子。我担心我的房东以为我是馋嘴。但是我要为我自己辩护说，在我读过的英文地质学以及斯宾塞的《生物学原理》里，对于喝茶这样的大事，连个提示也没有。&lt;/p&gt;
+&lt;p&gt;任何体系，都是这三个体系的组合，数字化系统尤其如此。数字化和人分不开。人也一样，人要获得信息、表达信息、行动解决问题或满足需求。&lt;/p&gt;
 
-&lt;p&gt;我接到俄国《地理学会学报》以后，就开始写一点关于俄国地理探险的消息向《泰晤士报》投稿。蒲利叶瓦尔斯基当时正在中亚细亚，他的旅行在英国引起许多人的注意。&lt;/p&gt;
+&lt;p&gt;基于此，我们可以得出一个简单结论。今天大部分数字化产品和公司，包括Google、微软、阿里、字节，本质是信息搬运公司。一定要记住，我们所做的一切，一切的一切，包括在座的大部分企业都在搬运信息。Nothing more than that，You just move bytes（仅此而已，你只是移动字节）。但它已经足够好，改变了世界。&lt;/p&gt;
 
-&lt;p&gt;可是我身边带来的钱用得非常之快，而凡是我寄到俄国去的信件全被扣留，没有办法可以使我的通信地址为我的家属和亲戚们知道。因此几个星期以后，我就去伦敦，希望在那里能找到一份比较正规的工作。俄国老亡命者P.L.拉甫罗夫继续在伦敦出版他的《前进》；但是我当时打算不久就动身回俄国，而这俄国报纸的编辑部一定受到密探的严密监视，所以我没有去找他。&lt;/p&gt;
+&lt;p&gt;早在1995-1996年，通过PC互联网迎来一个拐点。那时我刚从CMU（卡内基梅隆大学）毕业。大量公司层出不穷，其中诞生了一家伟大公司叫Google。为什么会有这个拐点？为什么会有爆炸式增长？把这个观点讲清楚，就能把今天的拐点讲清楚。&lt;/p&gt;
 
-&lt;p&gt;我自然到过《自然》杂志的编辑部，它的副编辑司各脱·克尔提君十分诚意地接待我。他们这时正要把“论著札记”栏扩充，觉得我写的文章正合他们的意思。于是他在编辑部里给我指定一张桌子，上面堆着能够搜集到的各国文字的科学杂志。副编辑向我说：“拉瓦旭夫先生，每星期一请你来把这些杂志大略看一遍，如果有你觉得有值得介绍的论文，就请你把它的大意写出，或是在那篇论文上作个记号，我们就送给一个专家去审定。”克尔提君自然不知道我每写一篇介绍文，常常抄改三四遍，才敢把我的英文拿给他看；不过我可以把这些科学杂志带回家去，不久我便一面替《自然》杂志写“论著札记”，一面向《泰晤士报》投短文，我就这样维持生活。《泰晤士报》按星期给报酬，每星期四将稿费付给投稿人，我觉得这个办法极好。不用说，有几个星期关于蒲利叶瓦尔斯基的探险没有什么重要消息，俄国别处的新闻他们又不感兴趣；在这种时候，我除了面包与茶以外，便没有别的东西可吃了。&lt;/p&gt;
+&lt;p&gt;原因是，获取信息的边际成本开始变成固定成本。&lt;/p&gt;
 
-&lt;p&gt;然而有一天，克尔提在书架上拿出好几本俄文书，请我写一篇评论在《自然》上发表。我一看那些书就感到为难，——那都是我自己的关于冰河时代和亚洲山志的著作。我的哥哥没有忘记把这些书寄给我们爱读的《自然》。我当时简直不知所措，只好将这些书放在我的书包里带回家去，把这件事细细想一下。&lt;/p&gt;
+&lt;p&gt;一定要记住，任何改变社会、改变产业的，永远是结构性改变。这个结构性改变往往是一类大型成本，从边际成本变成固定成本。&lt;/p&gt;
 
-&lt;p&gt;我问自己：“对这几本书，我怎么办呢？这是我自己著的书，当然不能称赞它们；然而我的意见与书中的完全一致，对作者也不能严词批驳。”我只好决定第二天把这几本书带回去，向克尔提声明我以前用的拉瓦旭夫这个姓不是真的，这几本书是我的著作，我不便加以评论。&lt;/p&gt;
+&lt;p&gt;举个例子，我在CMU念书开车离开匹茨堡出去，一张地图3美元，获取信息很贵。今天我要地图，还是有价钱，但都变成固定价格。Google平均一年付10亿美元做一张地图，但每个用户要获得地图的信息，基本上代价是0。也就是说，获取信息成本变0的时候，它一定改变了所有产业。这就是过去20年发生的，今天基本是free information everywhere（免费的信息无处不在）。&lt;/p&gt;
 
-&lt;p&gt;克尔提在报纸上本已知道克鲁泡特金越狱的消息，这时发现这个亡命者平安地到了英国，非常高兴。对于我的为难，他想出了一个聪明的办法：我无须申斥也不必表扬作者，只把书的内容告诉读者就行了。从那天起，我们就成了朋友，一直到现在。&lt;/p&gt;
+&lt;p&gt;Google为什么伟大？它把边际成本变成固定成本。Google固定成本很高，但它有个简单商业模式叫广告，它是世界上高盈利、改变世界的公司，这是拐点关键。&lt;/p&gt;
 
-&lt;p&gt;1876年11月或12月，在P.L拉甫罗夫的报纸“通信栏”里，我看见一个启事：请“K”到该报编辑部去，领一封从俄国来的信。我想这大概指的是我，我便到该报编辑部去，不久，我就与拉甫罗夫和印刷这报纸的年轻人结成朋友。&lt;/p&gt;
+&lt;p&gt;今天2022-2023年的拐点是什么？它不可阻挡、势不可挡，原因是什么？一模一样。模型的成本从边际走向固定，因为有件事叫大模型。&lt;/p&gt;
 
-&lt;p&gt;我第一次到《前进》编辑部去的时候，胡须全剃了，戴着一顶高帽，尽力用我的最好的英语，向那位替我开门的太太说：“拉甫罗夫先生在办公室吗？”我当时以为如果我不说出我的姓名，不会有人知道我是谁。但是好像这位太太立刻就把我认出来了，她跑上楼去告诉人：这位客人是谁——其实她从来没有和我会过面，不过我的哥哥在苏黎世的时候，这位太太和他很熟。她后来对我说：“我一看见你，立刻就认了出来，因为你的眼睛让我想起你哥哥的。”&lt;/p&gt;
+&lt;p&gt;模型的成本开始从边际走向固定，大模型是技术核心、产业化基础。OpenAI搭好了，发展速度爬升会很快。为什么模型这么重要、这个拐点这么重要，因为模型和人有内在关系。我们每个人都是模型的组合。人有三种模型：&lt;/p&gt;
 
-&lt;p&gt;那一次，我在英国没有停留多久。我当时与汝拉同盟里的朋友J.吉约姆频繁通信，我一旦找到较长期的地理工作，在瑞士也可以做，与在伦敦没有什么不同，我就搬到了瑞士。后来终于接到从俄国来的信，说在俄国当时并没有什么重要事可做，劝我还是留在国外。&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;认知模型，我们能看、能听、能思考、能规划；&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;任务模型，我们能爬楼梯、搬椅子剥鸡蛋；&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;领域模型，我们有些人是医生，有些人是律师，有些人是码农。&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
 
-&lt;p&gt;在那时候，斯拉沃尼亚人正在反抗土耳其的年长月久的压迫，俄国全国有许多人很热烈地支持他们；我的最好的朋友塞尔该（即斯捷普尼亚克）、克尔尼支和另外几位，都到巴尔干半岛去加入革命军。我的朋友写信给我说：“我们在《每日新闻》的通信里读到在保加利亚的恐怖行为，我们读的时候总是流泪，于是就去加入巴尔干的起义者，充当志愿兵或是去做看护。”&lt;/p&gt;
+&lt;p&gt;That’s all。我们对社会所有贡献都是这三种模型的组合。每个人不是靠手和腿的力量赚钱，而是靠脑袋活。&lt;/p&gt;
 
-&lt;p&gt;我到了瑞士，加入国际工人协会的汝拉同盟，听从瑞士朋友的劝告，定居在拉·绍得封。&lt;/p&gt;
+&lt;p&gt;简单想一想，如果你没有多大见解，你的模型能力大模型都有，或者大模型会逐步学会你所有的模型，那会怎样？——未来，唯一有价值的是你有多大见解。&lt;/p&gt;
 
-&lt;p&gt;汝拉同盟在近代社会主义发展史中占有一个重要的位置。&lt;/p&gt;
+&lt;p&gt;人类社会是技术驱动。从农业时代，人用工具做简单劳动，最大问题是人和土地绑定，人缺少流通性，没有自由。工业发展对人最大变化是人可以动了，可以到城市和工厂。早期工业体系以体力劳动为主、脑力劳动为辅，但随着机械化、电气化、电子化，人的体力劳动下降。信息化时代以后，人以脑力劳动为主，经济从商品经济转向服务经济——码农、设计师、分析师成为我们时代的典型职业&lt;/p&gt;
 
-&lt;p&gt;无论什么政党，在成立的时候，总要规定它的目的，而且当众宣布：不完全达到这个目的决不满足，但是到了后来，它就会分成两派。一派仍然致力于已定的方针；另一派虽然宣称对当初的目标一点也没有改变，但是接受某种妥协，一次又一次，渐渐的妥协惯了，离开最初的党纲愈来愈远，终于变成一个头痛医头、脚痛医脚的改良党。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/vp7ow2c.png&quot; alt=&quot;image02&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;在国际工人协会里也发生了一次这样的分裂。国际工人协会最初公布的目的乃是剥夺现在地主和资本家的财产，把生产财富的一切资料交给生产者自己。协会要求各国劳动者组成他们自己的组织来直接与资本主义斗争；而且要他们找出使财富之生产及其消费社会化的方法；一旦时机成熟，劳动者准备这样做时，就占有生产的必需资料，并且由他们自己管理生产，而不管本身需要进行彻底重建的现有的政治组织。因此协会必须成为在人的头脑中，随后在人的生活方式中准备发动一次巨大革命的工具。——这一革命会替人类打开一个以所有人的团结为基础的进步的新纪元。就是这个理想唤醒了几百万酣睡着的欧洲劳动者，把其中最聪敏最有识见的分子吸收到协会里来。&lt;/p&gt;
+&lt;p&gt;这一次大模型拐点会让所有服务经济中的人、蓝领基本都受影响，因为他们是模型，除非有独到见解，否则你今天所从事的服务大模型都有。下一时代典型的职业，我们认为是创业者和科学家。&lt;/p&gt;
 
-&lt;p&gt;但是不久，国际工人协会也渐渐分成了两派。这时是在普法战争以后，法国完全战败，巴黎公社的起义又被武力镇压了，法国政府还制定了严厉的法律，禁止法国工人加入国际工人协会；而在另一方面，议会政体已经被“统一的德意志”所采用（这是1848年以来激进派的目的）。这时候，德国人作出努力要修改整个社会主义运动的目的与方法。这一派自称为“社会民主党”，他们的口号是“在现存的各个国家内部夺取权政”。德国议会选举时，社会民主党的最初几次胜利引起了很大的希望。社会民主党议员的数目，由两个增加到七个，不久又增加到九个，于是就有些本来颇为理智的人自信地估计，不到十九世纪终了，社会民主党就要在德国议会中占大多数，他们就可以用适当的立法手段来实现那个社会主义的“平民国家”了。社会民主党的这一社会主义理想渐渐地失去了它本来的性质，不再主张由劳工组织自己动手，而主张由国家经营各种工业——事实上即是国家社会主义；而国家社会主义实即国家资本主义。现在瑞士的社会民主党在政治上努力实现中央集权制反对联合主义，在经济上提倡铁道由国家经营，银行业务由国家垄断，酒类由国家专卖。下一步便是在较远的将来由国家经营管理土地、主要工业、甚至财富的消费。&lt;/p&gt;
+&lt;p&gt;所以，这次变革影响每个人。它影响整个社会。&lt;/p&gt;
 
-&lt;p&gt;德国社会民主党的生命与活动被渐渐地完全置于选举考虑之下。他们蔑视工会，反对罢工，因为这两件事都分了劳动者的心，使之不能集中在选举斗争上。在那几年中间，欧洲任何国家的每一次民众暴动和革命鼓动，都会受到社会民主党领袖们的仇视，甚至仇视得比资本家的报纸还要厉害。&lt;/p&gt;
+&lt;h3 id=&quot;我所看到的三个拐点&quot;&gt;我所看到的三个拐点&lt;/h3&gt;
 
-&lt;p&gt;但是在拉丁各国，这个新趋势所得到的追随者并不很多。国际工人协会的各部门、各联合会依旧忠于协会成立时多数公认的原则。拉丁民族的劳动者历史上自来主张联合主义，厌恶中央集权国家这种主张，而且有着革命的传统，当然不能追随德国人的演变。&lt;/p&gt;
+&lt;p&gt;下个拐点是什么？&lt;/p&gt;
 
-&lt;p&gt;社会主义运动里这两派的分裂在普法战争以后立刻就明显起来。我在前面已经说过，协会当时设立了一个总管机构，名为总委员会，驻在伦敦，总委员会的中心人物是两个德国人：恩格斯和马克思；这个机构成了社会民主党方向的据点；而在拉丁各国，劳动同盟的鼓舞者及精神上的领导人则是巴枯宁和他的朋友们。&lt;/p&gt;
+&lt;p&gt;下个拐点将是组合：“行动”无处不在（自动驾驶、机器人、空间计算）。也就是人需要在物理空间里行动，它的代价也从边际走向固定。20年后，这个房子里所有一切都有机械臂，都有自动化的东西。我需要的任何东西，按个按钮，软件可以动，今天还需要找人。&lt;/p&gt;
 
-&lt;p&gt;马克思派和巴枯宁派之间的冲突并不是他们的个人的事情。这是联合主义与中央集权主义之间、自由的公社和国家的父权统治之间、人民大众的自由行动与用立法手段以改善现存资本主义状况之间必然的冲突——这是拉丁精神与德意志精神之间的冲突；德国在战场上战败了法兰西以后，这德意志精神还要在科学、政治、哲学上，甚至于在社会主义上争霸，把自己的社会主义的概念称作“科学的”，而把所有其他方式的理解称为“空想的”。&lt;/p&gt;
+&lt;p&gt;那么，哪些公司能走到下个拐点、站住下个拐点？我认为特斯拉有很高概率，它的自动驾驶、机器人现在很厉害。微软今天跟着OpenAI爬坡，但怎么站住下个拐点？&lt;/p&gt;
 
-&lt;p&gt;1872年，国际工人协会在海牙举行的大会上，伦敦总委员会用了虚构多数这个办法把巴枯宁和他的友人吉约姆开除，甚至于把汝拉同盟也从协会里排斥出去。但是因为协会中未被除名的分子大多数（即意大利、西班牙与比利时的各同盟）一定会与汝拉同盟取一致行动，这次大会便想把国际工人协会解散。他们提名的几个社会民主党人在纽约成立了一个新委员会，当时在那里并没有一个劳工团体是加入国际工人协会的，所以没有人监察他们，后来就再也没有听见人谈起这回事了。同时，协会里的西班牙、意大利、比利时与汝拉各同盟继续存在，并且此后五、六年间还和以前一样，每年举行一次国际大会。&lt;/p&gt;
+&lt;p&gt;接下来讲一下我们看到的三个拐点：&lt;/p&gt;
 
-&lt;p&gt;我到瑞士的时候，汝拉同盟在当时要算是国际工人协会的各联合主义的同盟的中心和发言人。巴枯宁刚死去（1876年7月1日），但是汝拉同盟依然保持着它在巴枯宁的推动之下所取得的地位。&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;今天信息已经无处不在了，接下来15-20年，模型就是知识，将无处不在。以后手机上打开，任何联网，模型就过来了。它教你怎么去解答法律问题，怎么去做医学检验。不管什么样的模型都可以无处不在。&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;在未来，自动化、自主化的动作可以无处不在。&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;人和数字化的技术共同进化。Sam最近经常讲，它必须要共同进化，才能达到通用智能（AGI）。通用智能四大要素是：涌现（emergence）+代理（agency）+功能可见性（affordence）+具象（embodiment）。&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
 
-&lt;p&gt;当时在法国、西班牙和意大利情形恶化，要不是国际工人协会的工人保持着普法战争前的革命精神，那么这三国政府便会采取决定性的步骤来摧垮劳工运动实行白色恐怖。现在大家知道，当时的法国波旁王朝的复辟差不多就要成为事实。麦克马洪元帅能够留着做共和国的总统，只是为着准备皇室复辟；连亨利五世庄严地进入巴黎的日期都已决定了，甚至于马具（镶以那个篡夺王位者的王冠与姓名的第一个字母）也都已齐备。这个复辟计划之所以没有实现，全是因为甘必大和克雷孟梭（机会主义者与激进派）在法国许多地方成立了许多武装了的委员会，如果有人敢实行这个政变，他们马上就起来反抗。但是这些委员会的真正的力量还是在工人；他们中间许多是以前国际工人协会的会员，没有失掉那原有的革命精神。据我个人所知道的，我敢说中产阶级激进的领袖们在危急的时候也许会踌躇不进，然而工人会抓住机会实行起义，首先去保卫共和国，然后也许会向着社会主义方向前进的。&lt;/p&gt;
+&lt;p&gt;总结来说，我们从根本性的三位一体结构分析未来，从过去的历史拐点能清晰看到今天所面临的拐点，本质是模型成本从边际走向固定，将有一家甚至多家伟大公司诞生。毫无疑问，OpenAI处于领先。&lt;/p&gt;
 
-&lt;p&gt;在西班牙情形也是一样。只要国王左右的教会和贵族的分子包围着国王，使他加紧实行反动，共和党人立刻就会以发动一个运动去威吓他。他们知道，在这个运动中真正能够战斗的分子是工人。在加泰鲁尼亚一省，坚强组织起来的工会会员在十万人以上，国际工人协会的西班牙会员在八万人以上，他们以真正的西班牙人的责任感定时举行大会，按期缴纳协会会费。我到过西班牙，我说的关于这些劳工组织的话都是我自己所深知的，我知道当时他们已经准备成立西班牙合众国，放弃殖民地的统治，并且在一些最先进的地区，在实现集体化方面作了认真的努力。正是这种始终存在的威胁使西班牙王朝不敢镇压所有的工农组织，不敢公然实行教会的反动。&lt;/p&gt;
+&lt;p&gt;虽然讲得有点早，但我个人认为，OpenAI未来肯定比Google大。只不过是大1倍、5倍还是10倍。&lt;/p&gt;
 
-&lt;p&gt;意大利的情形也类似。意大利北部的工会的势力，虽然还没有像现在这样强大；但是有些地区，国际工人协会的支部和共和党的团体已如星罗棋布。意大利君主政府天天在那里担心中产阶级的共和党人如果真与工人中的革命分子携手，它的末日便要到了。&lt;/p&gt;
+&lt;h3 id=&quot;openai核心就坚信两件事发展速度连sam本人都惊讶&quot;&gt;OpenAI核心就坚信两件事，发展速度连Sam本人都惊讶&lt;/h3&gt;
 
-&lt;p&gt;总之，回想起距今已有二十五年的那些年代，我坚决相信1871年后欧洲之所以没有经历一个严酷的反动时期，原因大半在于这种革命精神——这精神在普法战争以前勃兴于西欧，以后又被国际工人协会的安那其主义者、布朗基派、玛志尼派与西班牙的主张地方自治的共和党所保持。&lt;/p&gt;
+&lt;p&gt;下面我从技术角度讲OpenAI大事迹，它怎么把大模型时代带来的？&lt;/p&gt;
 
-&lt;p&gt;马克思主义者当时专心从事他们的各地选举竞争，对于这些情况所知甚少。他们害怕俾斯麦的雷霆会打在他们的头上，尤其害怕一种革命精神在德国出现会使政府采用高压手段，而他们的力量不足以去对付它，于是他们不但为了策略起见拒绝给予西欧革命者以任何同情，而且渐渐地对于革命精神也憎恶起来。无论哪一个地方只要有革命精神出现，他们就恶狠狠谴责它——甚至在看到俄国出现了革命精神的最初苗头时也是如此。&lt;/p&gt;
+&lt;p&gt;为什么讲OpenAI，不讲Google、微软。讲真心话，因为我知道，微软好几千人也做这个，但不如OpenAI。一开始比尔·盖茨根本不相信OpenAI，大概6个月前他还不相信。4个月前看到GPT-4的demo（产品原型），目瞪口呆。他写了文章说：It’s a shock，this thing is amazing（这太令人震惊了，这东西太神奇了）。谷歌内部也目瞪口呆。&lt;/p&gt;
 
-&lt;p&gt;在麦克马洪元帅的总统任内，没有一份革命的报纸可以在法国印行，甚至于唱《马赛曲》都被当做犯罪行为；1878年5月我在法国旅行，火车到了一个车站，有几个新兵在唱这支革命歌曲，同车有好几个乘客听见后害怕起来，彼此焦虑地相问：“难道又许唱《马赛曲》啦？”我看见这情形非常惊异。在法国，这时自然没有社会主义的报纸了。当时西班牙社会主义的报纸编得却很精彩，有几次，他们的大会宣言便是安那其社会主义的极好的阐释；但是在西班牙境外，有什么人知道西班牙人的主张呢？至于意大利社会主义的报纸，它们都是短命的，出版了不久就停版，后来换一个名字换一个地方再出；其中虽然有一些很好的报纸，但总不能够销到意大利境外。在这种情形之下，汝拉同盟以及它的那些用法文出版的报纸，当然就成为拉丁各国维持和表现那革命精神的中心了——这种精神拯救了欧洲，使它免于一个非常黑暗的反动时期。巴枯宁和他的追随者们用一种全欧洲大陆所了解的语言阐明安那其主义理论的概念时，也是以这个汝拉同盟为基地。&lt;/p&gt;
+&lt;p&gt;OpenAI一路走下来的关键技术：&lt;/p&gt;
 
-&lt;p&gt;-&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;GPT-1是第一次使用预训练方法来实现高效语言理解的训练；&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;GPT-2主要采用了迁移学习技术，能在多种任务中高效应用预训练信息，并进一步提高语言理解能力；&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;DALL·E是走到另外一个模态；&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;GPT-3主要注重泛化能力，few-shot（小样本）的泛化；&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;GPT-3.5 instruction following（指令遵循）和tuning（微调）是最大突破；&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;GPT-4已经开始实现工程化；&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;2023年3月的Plugin是生态化。&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
 
-&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;汝拉同盟及其重要分子——定居绍得封——瑞士禁止红旗——一个新社会组织&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;OpenAI的融资结构为什么这么设计？和Sam早期目标和对未来的判断分不开。他知道要融很多钱，但股权设计有一个很大挑战——容易把回报和控制混在一起——所以他要设计一个结构，让它不受任何股东的制约。于是，OpenAI的投资者没有控制权，他们的协议是一种债的结构。如果赚完2万亿，接下来是non-profit（不再盈利了），一切回归社会。这个时代需要新的结构。&lt;/p&gt;
 
-&lt;p&gt;当时汝拉同盟里面有不少各国的杰出人材，他们差不多全是巴枯宁的私人朋友。同盟的主要刊物《会报》的主笔J.吉约姆是一位教员，出身于纽夏德尔的贵族家庭。他的身材瘦小，颇有罗伯斯庇尔的刚毅果断，又有着一颗真正的黄金的心，但是只有最亲密的朋友才能感觉到：他的工作精力是那样异乎常人，他的活动是那样一丝不苟，真是一位天生的领袖。八年来他和种种阻力作斗争，以维持这个刊物，对于同盟中一切事情，无论大小，全都极其积极地参与，但是到了后来，在瑞士什么工作都找不到，他不得不移居法国，从事教育的改革。有一天法国教育史上会非常尊敬地提到他的姓名的。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/D4RxXHF.png&quot; alt=&quot;image03&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;另一个瑞士人席威次加伯尔属于乐天、活泼、眼光敏锐的这种类型，在伯尔尼的汝拉山中，说法语的钟表匠里这种类型的人是很多的。他的职业是钟表雕刻匠，他从来没有想抛弃他的手艺工人的地位，哪怕是在本业不旺，挣钱有限的最困苦时期，他也很快活很勤勉地工作，以养活他的那一个大家庭。他会提出一个经济的或政治的难题，经过细细思索以后，从工人的视角去考察这问题，而不失其最深刻的含义，这种才能令人叹服。在“山中”无论远近的各国工人中，他是个人人敬重喜爱的人物。&lt;/p&gt;
+&lt;p&gt;它势不可挡。Sam Altman自己都surprise，连他都没想到会那么快。&lt;/p&gt;
 
-&lt;p&gt;另外有一个瑞士人与他恰恰相反，那是斯皮席革耳，也是一个钟表匠。他是个哲学家，行动思想都很迟缓，外貌像一个英国人；对于每一事实他总想把它的意义弄得清清楚楚，他一面雕刻表盖，一面默想着种种问题，他所得的结论总是非常公正，使我们大家感受很深。&lt;/p&gt;
+&lt;p&gt;如果大家对技术感兴趣，Ilya Sutskever（OpenAI联合创始人兼首席科学家）很重要，他坚信两件事。&lt;/p&gt;
 
-&lt;p&gt;在这三人的周围，聚集了不少忠实诚恳的中年和老年工人，他们都爱自由，非常高兴来参加这个大有前途的运动，还有一百名左右聪明活泼的青年，大半也是钟表匠——他们个个不依不靠，相亲相爱，非常活跃，随时准备着不顾一切地去牺牲自己。&lt;/p&gt;
+&lt;p&gt;第一是模型架构。它要足够深，只要到了一定深度，bigness is betterness（大就是好）。只要有算力，只要有数据，越大越好。他们一开始是LSTN（long short term memory），后来看到Transformer就用Transformer。&lt;/p&gt;
 
-&lt;p&gt;巴黎公社的亡命者中，也有好几个加入了汝拉同盟。如大地理学家爱利塞·邵可侣便是其中之一。他在生活方式上是一个真正的清教徒，其头脑又像一个十八世纪法国百科全书派哲学家；这个人能鼓舞别人，但从没有支配过也决不想支配别人。他是一个安那其主义者，他对于在一切气候下在一切文明阶段的人类生活方式之知识异常渊博，他的安那其主义不过是这种知识的一个概括；他的著作应列入十九世纪名著之林；他的文体有一种惊人的美，读了使人的心智良心为之感动。这个人走进一个安那其主义的杂志社时，便会开口对编者（即使这个编者比起他来只能算是个孩子）说：“请告诉我让我干什么？”于是他坐下来，像报馆里的助手，去把本期刊物里若干行的空白填满。在巴黎公社时期，他拿着一支枪站在队伍里。如果他请一个人和他一起编纂他的世界闻名的《地理》中的某一卷时，对方胆怯地问他：“我要做些什么？”他的回答是：“书在这里，桌子在这里，你愿意做什么就做什么。”&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/BsvL4S1.png&quot; alt=&quot;image04&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;除了邵可侣外，还有上了年纪的勒弗郎塞，以前是一个教员，他已经三次亡命外国：第一次是在1848年6月革命以后，第二次是在拿破仑三世政变以后，第三次是1871年巴黎公社失败以后。他是前公社委员之一，当时大家都说，所有公社委员离开巴黎时，每个人口袋里都装有好几百万。但是他却在洛桑做铁路搬运夫，这种只有壮年人干得了的工作几乎送了他的命：有一天，他和另外三个工人一起从货车里卸下一块铁板，铁板太重，差点儿把他压死。他的那本关于巴黎公社的著作，是一本把那个运动的真正历史意义予以恰当的阐明的书。他会说：“请注意，我是一个公社派，不是一个安那其主义者。我是不能和你们这些蠢人在一起工作的。”但是，他除了我们以外，不愿和别人一起工作。他自己说过：“因为你们虽然都是蠢人，但是我最爱的人。和你们在一起，一个人可以工作而保持他自己的一切。”&lt;/p&gt;
+&lt;p&gt;第二个OpenAI相信的是，任何范式、改变一切的范式永远有个引擎，这个引擎能不断前进、不断产生价值。&lt;/p&gt;
 
-&lt;p&gt;另外还有一个前巴黎公社委员与我们在一起，那是潘狄。他是来自法国北部的木匠，后来成了巴黎人。他在一次受国际工人协会援助的罢工里，由于精力和聪明出众在巴黎得到很大的名声，并被举为公社委员，公社又提名他为土伊勒里宫的司令。凡尔赛军队进巴黎时大批地枪杀他们的俘虏，巴黎城内各区里，至少有三人是因为被人误认作潘狄而被枪杀的。但是在战斗以后，幸而有一个勇敢的姑娘，一个女裁缝，把他藏匿起来，军队来搜查的时候，她的镇静救了他的生命，后来这位姑娘便做了他的夫人。十二个月以后，他们才得以安然离开巴黎，没有被人认出。他们来到瑞士，在瑞士他学会了金属化验，成了个技艺高强的化验员。他白天在他的那个赤热的炉边度日，夜间便热心地从事宣传工作，他进行宣传的时候能够把一个革命者的激情与巴黎工人所特有的见识与组织能力巧妙地结合在一起。&lt;/p&gt;
+&lt;p&gt;这个引擎基本是一个模型体系（model system），它的核心是模型架构Transformer，就是sequence model（序列模型）：sequence in、sequence out、encode、decode后者decode only。但最终的核心是GPT，也就是预训练之后的Transformer，它可以把信息高度压缩。Ilya有个信念：如果你能高效压缩信息，你一定已经得到知识，不然你没法压缩信息。所以，你把信息高效压缩的话，you got to have some knowledge（你得有一些知识）。&lt;/p&gt;
 
-&lt;p&gt;保罗·布鲁斯当时还是一个年轻的医生，头脑灵活机动，性好热闹，锐敏、活泼，对于任何思想都要用几何般精确的逻辑推究到它的最终结论；他的对于国家及国家组织之批评十分有力。他居然有时间同时编辑两个刊物：一个法文的，一个德文的，还写了许多长篇大论的信。他又是工人晚会的灵魂；经常以一个真正的“南方人”的细致的头脑去积极组织人们。&lt;/p&gt;
+&lt;p&gt;Ilya坚信GPT3、3.5，当然GPT-4更是，它已经有一个世界模型在里面。虽然你做的事是predict next word（预测下一个关键词），这只不过是优化手段，它已经表达了世界的信息，而且它能持续地提高模型能力，尤其是目前研究比较多的在子概念空间当中做泛化。知识图谱真的不行。如果哪个同学做知识图谱，我认真跟你讲，你不要用知识图谱。我自己也做知识图谱20多年，just don’t do that。Just pretty bad。It does not work at all。You should use Transformer。（不要那样做。很糟糕。它根本不起作用。你应该使用Transformer。）&lt;/p&gt;
 
-&lt;p&gt;在瑞士与我们合作的意大利人中间有两个人的姓名总是连在一起，而且在意大利不止一代人会记着他们。这两个人都是巴枯宁的好友，一个是加费罗，一个是马拉铁斯达。加费罗是一个极高尚极纯洁的理想主义者，他把他的很大的家产献给了革命事业，而且从此也不问自己他明天将如何生活。他是一个善于哲学思辨的思想家，一个从不肯伤害任何人的人，然而有一次，他和他的朋友们以为可以作一次带有社会主义性质的暴动的尝试，纵使不成功，也可以使民众明白他们的暴动不仅是对税收官员的反抗，还应该有更深的意义。这样决定以后他便拿起一支枪到贝内文托山里去了。&lt;/p&gt;
+&lt;p&gt;更重要的是用增强学习，加上人的反馈，与人的价值对齐。因为GPT已经做了4年多，知识已经封装在里面了，过去真的是用不起来，也很难用。&lt;/p&gt;
 
-&lt;p&gt;马拉铁斯达是一个医科学生；他为了革命抛弃了他的医生专业和他的财产。他充满着火一样的热情与智慧，是一个纯洁的理想主义者，现在他已经快到五十岁了，可是他一辈子从没有想过：今晚能不能有一块面包充饥，夜间能不能有一个宿处。他连一间可以说是他自己的房间也没有。他日里在伦敦街头卖冰冻果汁水维持生活，夜间替意大利的报纸写出色的文章。&lt;/p&gt;
+&lt;p&gt;最大的是对齐（alignment engineering），尤其是instruction following和自然语言对齐。当然也可以跟代码、表格、图表对齐。&lt;/p&gt;
 
-&lt;p&gt;他在法国入狱，期满释放后被驱逐出境，在意大利被捕定罪，流放到一个岛上；他逃出来，化装回到意大利；无论是在意大利，或是在别国，他总是在斗争进行得最激烈的地方——他坚持过这种生活，已经连续有三十年了。无论是在他由狱中释放或从岛上逃出以后，我们再见着他，他总是依然如故；总是重新投入战斗，总是那样爱人。对于他的敌人和狱卒，总是毫无仇恨之心；对朋友，总是那样恳切地微笑；对于小孩，总是那样抚摩爱护。&lt;/p&gt;
+&lt;p&gt;做大模型是很难的，很大难度是infra（基础设施）。我在微软的时候，我们每个服务器都不用网卡，都放了FPGA。网络的IO的带宽速度都是无限带宽技术（Infiniband），服务器和服务器之间是直接访问内存。为什么？因为Transformer是密度模型，它不光是算力问题，对带宽要求极高，你就想GPT-4需要24000张到25000张卡训练，试想世界上多少人能做这种系统。所有数据、data center网络架构都不一样。它不是一个三层的架构，必须是东西向的网络架构。所以这里要做大量的工作。&lt;/p&gt;
 
-&lt;p&gt;在我们中间，俄国人并不多；他们大多跟着德国社会民主党去了。但是我们有茹科夫斯基。他是赫尔岑的朋友，1863年离开俄国。他是一个才华出众，英俊而极其聪明的贵族，工人们都喜欢他——他有法国人所说的“平民的耳朵”，在这一点上，我们其余的人都不及他，因为他知道怎样指点给工人看：在这个社会改造的工作里他们要起多么大的作用，使他们振作起来；他会向工人陈述那高瞻远瞩的历史眼光去提高他们的精神境界，他会把最复杂的经济问题给他们解释得非常明白。他的热心与诚恳又能使听众心情振奋。还有索科罗夫，以前是俄国参谋总部的一位军官，他崇拜路易·库里埃的气魄与蒲鲁东的哲学思想。他在杂志上发表的文章使许多俄国人相信了社会主义。这个人也和我暂时在一起。&lt;/p&gt;
+&lt;p&gt;Token很重要。全世界可能有40-50个确定的token，就是语言的token和模态，现在有更多的token化。当然现在更多的模型的参数小型化、本地化，任务领域的专业知识可以融入这些大模型当中。它的可操纵性主要是靠提示和调试，尤其是根据指令来调，或者对齐来调试，或者in-context learning（上下文学习），这个已经贯彻比较清晰了。它的可操作性是越来越强。可拓展性基本上也足够。&lt;/p&gt;
 
-&lt;p&gt;我在这里仅仅举出那些因为是著作家、大会代表，或者其他原因而出名的人。但是我要自问，我是否应该提那些姓名从来不曾见之于文字的人，他们在维持汝拉同盟一事上所尽的力并不下于任何著作家；我是否更应该提出那些在队伍里战斗的人，他们以普通一兵的身份战斗，随时准备参加任何行动，不计工作之大小，是出众还是平常，其后果是否伟大还是将给自己和家人造成无穷的苦恼。&lt;/p&gt;
+&lt;p&gt;加在一起，这个引擎并不完美。足够好、足够强的引擎，我没从没有过。&lt;/p&gt;
 
-&lt;p&gt;我本来还该提及德国人威尔纳和林克以及西班牙人阿尔巴拉青以及其他许多人；但是我的文笔太无力了，恐怕不能把这小团体里的每一个人所引起的那些熟识他们的人的敬爱之心充分传达出来，使读者也同样地感觉到。&lt;/p&gt;
+&lt;p&gt;以上是引擎，拐点是怎么到的？ChatGPT能在历史上第一次两个月1亿活跃用户，挡都挡不住，为什么？&lt;/p&gt;
 
-&lt;p&gt;在我所知道的瑞士城市中，最不吸引人的恐怕就是拉·绍得封了。它在一个寸草不生的高原上，冬天暴露在侵骨的寒风之下，那时积雪之深与莫斯科相同，雪融了又落，落了又融，次数之多，又像在圣彼得堡。但是把这个城市当做一个宣传我们的主义的中心，使地方的宣传更有生气，这却是很重要的。潘狄、斯皮奇革耳、阿尔巴拉青以及布朗基派的斐勒与查罗两人当时都在那里，我还可以不时去纽夏德尔去看吉约姆，到圣·伊美去看席威次加伯尔。&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;它封装了世界上所有知识。&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;它有足够强的学习和推理能力，GPT-3能力在高中生和大学生之间，GPT-4不光是进斯坦福，而且是斯坦福排名很靠前的人。&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;它的领域足够宽，知识足够深，又足够好用。自然语言最大的突破是好用。扩展性也足够好。当然还是很贵，像2万多张卡，训练几个月这么大的工程。不过也没贵到那么离谱——Google可以做，微软可以做，中国几个大公司能做，创业公司融钱也能做。&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
 
-&lt;p&gt;我所喜欢的一种充满了工作的生活现在开始了。我们时常开会，亲自到咖啡店和工场里去散发我们的通告。我们的支部会议每星期开会一次，开会时讨论极其生动热烈，我们也到各政党所召集的会上去宣传安那其主义，我还时常旅行，去参观别地方的支部，帮助它们。&lt;/p&gt;
+&lt;p&gt;加在一起，范式的临界点到了。拐点已经到来。&lt;/p&gt;
 
-&lt;p&gt;在那一个冬天，我们赢得很多人的同情，但是我们的正规工作，却因钟表业的危机大受阻碍。有一半的工人，或是完全失业，或是只作半天的工，结果市政厅不得不设立公共食堂，将只收成本的价廉的伙食供给工人。安那其主义者在拉·绍得封设立的将挣来的钱平均分配给每个成员的合作工场，虽是信誉卓著，这时候也很难接到活儿。斯皮奇革耳好几次为了维持生活不得不去替一个室内装饰商做梳羊毛的工作。&lt;/p&gt;
+&lt;p&gt;稍微啰嗦几句。我做自然语言20多年，原来的自然语言处理有14种任务，我能够把动词找出来、名词找出来、句子分析清楚。即使分析清楚，你知道这是形容词，这是动词，这是名词——那这个名词是包香烟？还是你的舅舅？还是一个坟墓？还是个电影？No idea（不知道）。你需要的是知识。自然语言处理没有知识永远没用。&lt;/p&gt;
 
-&lt;p&gt;那一年，我们全体都参加在伯尔尼举行的红旗示威运动。当时反动浪潮蔓延到了瑞士，伯尔尼警察竟敢违背宪法禁止手执工人的旗帜。因此我们必须有所表示，使人知道至少还有一些地方的工人不能容忍别人践踏他们的权利，他们要出来反抗。在巴黎公社纪念日，我们全体到伯尔尼去，不顾警察的禁令，高举红旗在街上游行。这自然免不了要和警察发生冲突，两个同志受了刀伤而两个警官伤得颇重。但是这面红旗却平安地到了会场，在那里开了一个热烈异常的会。不用说，那些所谓的领导人也都在队伍里和其余的人共同战斗，将近三十个瑞士人被牵连在这个案件里受审判，他们全体要求对他们提出公诉，打伤警官的人也自动地出来承认。这使我们的运动得到很多同情；人们明白一切自由必须拼命保卫，不被人夺走。因而法庭的判决非常轻，至多也不过是三个月的监禁。&lt;/p&gt;
+&lt;p&gt;The only way to make natural language work is you have knowledge（让自然语言处理有效的唯一路径是你有知识）。正好Transformer把这么多知识压缩在一起了，这是它的最大突破。&lt;/p&gt;
 
-&lt;p&gt;然而伯尔尼政府依然禁止在本市任何地方手执红旗；汝拉同盟为了反抗这个禁令，决定在圣·伊美（我们那一年正在那里举行大会）手执红旗游行。这一次，我们中间大多数都带了武器，准备即使流血也要保卫我们的旗帜。一个广场里驻扎着一队警察预备阻止我们的队伍前进；还有一队民团以打靶为名在附近一个空地里等候——我们在街上游行的时候，清楚听得他们的枪声。但是我们到了那个广场的时候，根据形势可以判定：如果向我们进攻，一定会发生大流血，市长只好让我们继续前进，一直走到准备在那里开会的会场，路上没有人敢捣乱。我们中间没有一个人希望与军警发生冲突，但是在军乐声中做着战斗准备的进军，使我们是那样地斗志昂扬，我简直说不上来，我们刚到会场的时候我们中大多数是一种什么样心情——是因为免于一场我们并不愿意进行的战斗而自慰呢，还是由于战斗没有发生而觉得惋惜。人这东西是非常复杂的。&lt;/p&gt;
+&lt;h3 id=&quot;未来是一个模型无处不在的时代&quot;&gt;未来是一个模型无处不在的时代&lt;/h3&gt;
 
-&lt;p&gt;不过我们主要的努力却是在使安那其社会主义在理论及实践两方面，都完备起来。在这一方面，汝拉同盟无疑有一些难以磨灭的成绩。&lt;/p&gt;
+&lt;p&gt;OpenAI未来2-3年要做的——模型更稀疏一点，现在它对带宽要求实在太高，要把attention window拉长一点，或者是recursion causality推理的功能，包括brainstorming等一些工作要做。当然有一些grounding的东西，包括亚符号、子概念的都可以做。更多的模态，更多的token空间，更多的模型稳定性，更多的潜在空间（例如Latent Space对齐），更多的计算，更多的基础架构工具。2-3年基本排满。也就是说，我们大概知道需要什么去把这个引擎继续做大。&lt;/p&gt;
 
-&lt;p&gt;我们看到在文明国家里有一种新的社会形式在萌芽，它一定会代替现在这个旧的。在新社会里，人人平等，没有一个人会被强迫去把他的体力或脑力卖给那些随意雇用他们的人，大家都能在这样一个机体中把他们自己的知识和能力应用在生产上；这个机体的构成使所有的努力都可以联合起来，以求为所有的人获得最大可能的福利，同时为每一个人的主动精神的发挥提供了充分的自由的天地。这个社会由许多团体联合组成；这些团体的联合是为了达到一切必需联合起来才能达到的目的：工会联合是为了从事各种农业、工业、智力方面的以及艺术方面的生产；合作社联合起来是为了消费，提供住房、煤气、食物、卫生设施等等；然后是合作社彼此之间的联合，合作社与工会之间的联合；最后是包括一个或好几个国家的更为广大的组织，它们由合力以求满足不限于某一特定区域的经济、智力、艺术和道德方面的需要的人所组成。所有这些团体，都用自由协议的方法，直接联合起来，恰与现在各国铁路公司和邮政局一样，用不着一个中央铁路政府，或一个中央邮务政府，也能一起合作——纵然铁路公司仅以自私的营利为目的，而邮政局属于许多不同的而且时常彼此敌对的国家，但仍无碍于他们的合作。又如现在的阿尔卑斯山各登山、滑雪俱乐部，大英帝国的各救生艇站以及气象学者、自行车运动员、教员等等为了各自共同的事业联合起来，或是为了求知的目的，或仅仅是为了娱乐。对于新的生产形式、新发明、新组织之发展将有完全的自由；这个社会鼓励个人的主动精神，而对于一切倾向于一致与集中的趋势，则加以劝阻。&lt;/p&gt;
+&lt;p&gt;不过这个飞轮启动，主要是资本大量进来。美国2023年1月到3月，挡也挡不住，钱全进去了，每个月都在比上个月增长。中国基本也一样，商业模式、盈利模式有初步规模，基础设施、平台应用、生态在加速开发，初创公司、大型企业都在进入。&lt;/p&gt;
 
-&lt;p&gt;而且这个社会还会继续不断地修改它的形式，而不会集中成为某种固定不变的模式，因为它将是一个活生生的、进化的机体；不会感到需要有个政府，一则因为现在各国政府所认为是它们的种种职能那时全都用自由协议和自由联合去执行；二则因为冲突的根由在数量上将会减少；即使还有冲突发生，也可以提交仲裁解决。&lt;/p&gt;
+&lt;p&gt;当然社会的安全、监管，一大堆问题——现在这些是OpenAI最头痛的——Sam在美国花大量精力让社会认可这个技术。现在OpenAI核心做的是，把推进速度变慢，每推进新版本，都有足够时间让用户给他们足够反馈，找到潜在风险点，有足够时间弥补。但加在一起，增长飞轮的雏形基本上起来了。&lt;/p&gt;
 
-&lt;p&gt;我们里面没有一个人不知道，我们所希求的变革是非常重大，非常深远的。我们明白现在流行的意见总以为土地、工厂、矿山、住宅等等必须归个人私有，才能求得工业的进步；而且为了强迫人们去作工，工资制度也是不可缺少的。我们很知道这些意见一时不会为社会化的所有制和社会化生产这些更高的观念所代替。我们都很知道要经过很久的时间，要有不断的宣传和一长串的斗争，对于现在私有财产制度的个人和集体的反抗，个人的牺牲，要为了重建社会的部分的努力和部分的革命，才能改变现在流行的财产私有的观念。我们也明白现在的文明人类决不会而且不能摒弃“强权是必要的”这个思想（我们大家也都是在这思想里培养出来的）。一定要经过多年的宣传，一长串对强权之部分的反抗行为，而且还要把从历史演绎出来的教训加以彻底修改，才能使人们认识到：把事实上从他们自己的社会感情和习惯所引申出来的东西看作统治者及其法律的成就，那是大错特错了。这一切我们都知道。不过我们也知道：在这两方面宣传改革，我们应该顺应人类进步的潮流。&lt;/p&gt;
+&lt;p&gt;有了飞轮，我认为发展路径核心是模型的可延伸性和未来模型的生态。是一个模型无处不在的时代。&lt;/p&gt;
 
-&lt;p&gt;我和工人阶级以及同情他们的知识分子更为接近以后，不久就明白他们珍惜他们的个人自由更甚于他们的个人幸福。五十年前，工人情愿把他的个人自由卖给形形色色的统治者（甚至于卖给一个专制暴君）以换得一个个人丰衣足食的许诺；然而现在情况不再如此。我看出在拉丁各国工人中间，那种对于当选的统治者盲目的信仰已经在消失了——纵使这当选人是从劳工运动的最好的领袖中挑出来的，他们也不肯再盲目地信任他了。“我们必须首先知道我们要什么，然后我们自己去干，能干得最好。”这个思想在工人中间是非常普遍的——远过于大家平常所相信的。写进国际工人协会的章程里那句话“工人的解放是工人们自身来完成”，大家对此都有同感，而且在工人的心中生根。巴黎公社的悲惨的经验只是证实了它。&lt;/p&gt;
+&lt;p&gt;未来的模型世界会怎么发展？首先是将有更多大模型会出来。更多更完整的模态和更完整的世界知识在这里。你有大量的知识、更多的模态，学习能力、泛化能力和泛化机制一定会加强。&lt;/p&gt;
 
-&lt;p&gt;巴黎公社起义爆发的时候，许多属于中产阶级的人也准备在社会化方向作一新的开始——至少是接受这一新的开始。爱利塞·邵可侣有一次对我说：“当我的哥哥和我两人走出我们的那个小房间到街上去的时候，四面八方都有许多中产阶级的人走过来问我们：‘请告诉我们，现在应该怎么办？我们愿意试试来一个新的开始。’但是我们当时还没有准备好来提出方案。”&lt;/p&gt;
+&lt;p&gt;此外，会有更多的对齐工作要做。OpenAI目前会关注什么呢？今天对齐基本上是做到，有一部分人能接受但你也得罪很多人，很多人每天骂GPT。他们想要做到是足够宽的一个对齐，希望有个像美国宪章这样一个结果，虽然ChatGPT不是大家都能够认可，但它足够平稳、综合，大部分人能接受，这是对齐工程。自然语言也好，代码也好，数学公式也好，表单也好，有大量对齐工作要做。&lt;/p&gt;
 
-&lt;p&gt;从来没有一个政府能够像1871年3月25日所选举的公社委员会那样公平地代表所有的进步党派。在这个委员会里一切革命党派，如布朗基派、雅各宾派、国际工人协会派等等各派的代表人数的比例是符合实际的。但是因为工人们自己对于社会改革没有明确的想法要求他们的代表去付诸实施，所以公社政府在这方面一点事情也没有做。而且，政府人员把自己关在市政厅里与民众分离；结果是使政府趋于瘫痪。因此如果要使社会主义成功，一定要在宣传社会化所有制和社会化生产以外，同时还要宣传废除政府，自力更生，个人的自由主动精神的思想——一言以蔽之，安那其主义的思想。&lt;/p&gt;
+&lt;p&gt;还有更多的模态对齐。这里先讲human scale的模态，它主要是对人的描述，以人的语言为主，它的模态目前是语言和图形，以后有更多的模态会接入。这是大模型层面。&lt;/p&gt;
 
-&lt;p&gt;我们的确预料到如果个人被赋予了思想和行动的自由，我将面对我们的原理的某种过度的夸张。我在俄国虚无主义的运动中便见过这样的事。但是我们相信（而且经验证明我们是对的），社会生活本身，在对思想和行为之坦白开明的批评的支持之下，便是一个弄清楚各种意见并去除其中夸张的成份的最有效的方法。实际上，我们是按照一句老话行事：医治自由的一时的弊害，最明智的方法还是自由。人类中有一个社会习惯的核心（这是过去遗留下来的，大家还不十分了解它们），这些习惯不是靠强制来维持的，它们超乎强制之上。人类的进步正是以这个核心为基础的。只要人类在肉体与精神两方面不开始堕落，那么不管这个核心受到何等的批评与偶尔的反抗，它们也不会被毁掉。我的对人对事的经验愈增，我对这个意见也愈加肯定。&lt;/p&gt;
+&lt;p&gt;在大模型之上建立的模型更多了。我判断主要是有两类模型和他们的组合。第一是事情的模型，人类每一类需求都有领域/工作模型，其中有结构模型、流程模型、需求模型和任务模型，尤其是记忆和先验。&lt;/p&gt;
 
-&lt;p&gt;同时我们也明白，这样的一个变化决不能是一个伟大的天才的臆测的产物，这也不是一个人的发现。这一变化必须是民众的建设性工作的结果，恰和中世纪初期制定的诉讼程序形式、乡村公社、同业工会、中世纪都市以及国际法的基础一样，都是由民众自己创造出来的。&lt;/p&gt;
+&lt;p&gt;第二，人的模型，包括认知/任务模型，它是个体的，其中有专业模型，有认知模型、运动模型和人的记忆先验。人基本是这几类模型的组合，律师也好，医生也好，大量领域会有大量模型往前走。&lt;/p&gt;
 
-&lt;p&gt;在我们以前已经有许多人致力于描画理想的联合体了，有的以权威的原则为基础，有的（在一些少见的场合）是根据自由的原则。欧文和傅立叶发表了他们关于有机地发展的自由社会这一理想，以与那些抄袭罗马帝国和罗马教会而来的金字塔式的理想对抗。蒲鲁东继续了他们的工作，巴枯宁把他的渊博明晰的历史哲学见解用来批判现有制度，“在破坏中建设”。但是所有这一切都不过是准备工作而已。&lt;/p&gt;
+&lt;p&gt;人的模型和学的模型有本质区别，这是我过去1-2个月个人收获较多的。&lt;/p&gt;
 
-&lt;p&gt;国际工人协会对于解决各种实际的社会学问题创出一个新方法：便是请工人自己去解决。那些加入协会的知识分子仅仅告诉工人：世界各国在发生些什么以便分析现有的结果，并随后帮助工人形成他们的结论。我们并不妄想，根据我们的关于社会应该是怎样的理论见解造出一个理想的联合体来，我们不过请工人自己去探讨现社会弊病的原因，请他们在讨论时以及开大会时，把那个比现社会好一点的社会组织的实际面貌加以研究。一次国际大会上提出的一个问题应当成为所有的劳工团体研究的题目。在这一年中，在全欧洲各支部的小集会上，大家本着对于各业各地方的当时的需要的充分了解，来讨论这个问题；然后各支部讨论的结果在各联合会的下一次会议上再提出来讨论；这个问题渐渐有了更精密、更完满的形式，最后提交给下次国际大会。那个我们所渴望的未来社会的结构就这样由下而上，在理论和实践两方面创造出来；这个安那其主义的理想之趋于精密的过程，汝拉同盟的功劳实在不小。&lt;/p&gt;
+&lt;p&gt;首先，人一直在建立模型。人的模型好处是泛化的时候更深、更专业，基本是用符号（例如数学公式）或结构（例如画流程图）。它具体用，说实话都不好用。人的模型要么像物理公式解决很宏观的问题，要么解决很微观的问题。我们日常生活的问题，物理一点用都没有——没法告诉我这个树的叶子的形状，狗的猫的颜色为什么是这样子？没有任何模型可以解这个。很大问题是它的模型是静态的，不会场景变化。&lt;/p&gt;
 
-&lt;p&gt;至于我自己，我处在那样好的环境里，也就渐渐明白安那其主义所包含的不仅是一个行动方式，也不仅是一个自由社会的概念，它还是一个自然哲学与社会哲学之一部分——这个哲学的发展，应该采取与以前研究关于人的科学所用的形而上的以及辩证的方法大不相同的一种方法。我认为研究这个哲学所用的方法，应该与研究自然科学所用的完全一样；而不像斯宾塞那样站在仅仅类推法的一个容易失足的基础上，而是站在一个牢固的适用于人类制度的归纳基础上。我全力以求在这方面最好地完成我能完成的一切。&lt;/p&gt;
+&lt;p&gt;今天有很多模型，比方说数字孪生，很难用。因为物理世界一直在变，这个模型僵硬、不变，就用不起来。尤其是用知识图谱建的模型，我做了几十年，超级难算，函数结构差得一塌糊涂。所以人的模型有好处，专业性强，但有很大缺点。&lt;/p&gt;
 
-&lt;p&gt;-&lt;/p&gt;
+&lt;p&gt;学出来的模型，首先，它本质是场景化的，因为它的token是场景化的。其次，它适应性很强，环境变了，token也变了，模型自然会随着环境变；第三，它的泛化拓展性有大量理论工作要做，但是目前子概念空间的泛化，看来是很有潜在发展空间的这样一种模型的特性。它好用，因为它可以对齐人的使用倾向或人的自然语言、表格等等。它的计算性内在是过程性的。这里有大的问题，就是人表达知识倾向运用结构，但真正能解决问题的是过程，人不适合用过程来表达。&lt;/p&gt;
 
-&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;安那其主义与社会民主主义间的斗争——我被比利时政府驱逐出境——巴黎居留——法国社会主义之复兴——屠格涅夫和他对俄国青年的影响——屠格涅夫与虚无主义——《父与子》里的巴扎洛夫&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;ChatGPT代表的模型跟人的模型相辅相成，长期可以融在一起。我们看到的未来是更多模型的生态，新的领域、新的专业、新的结构、新的场景、新的适应能力，形成闭环，不断加强认知和推理能力。当然，最终还是要所谓叫grounding，跟感知要ground，和接入行动的能力，形成真正的智能。&lt;/p&gt;
 
-&lt;p&gt;1877年秋天，有两个大会在比利时举行；一个在韦尔维耶，是国际工人协会的大会，另一个在根特，是国际社会党大会。两者中间国际社会党大会尤为重要，因为大家知道在这次大会上，德国的社会民主党企图使所有欧洲的劳工运动隶属于一个组织之下，受一个中央委员会的指挥——这个中央委员会将是以前国际工人协会的总委员会，只是换了个新名称。因此保全拉丁各国劳工组织的自治权实属必要，我们于是尽力设法在这个大会上能多有几个代表。我用了拉瓦旭夫这个假姓赴会，还有两个德国人是排字工威尔纳和工程师林克，他们从瑞士的巴塞尔到比利时，几乎完全步行；在根特的大会上，虽然我们只是九个安那其主义者，但是我们成功地阻遏了中央集权的计划。&lt;/p&gt;
+&lt;p&gt;某种意义上20-30年后，这个模型世界跟生物世界有很多类似的地方。大模型我觉得像基因，有不同的种类，然后进化。我们目前能看到未来核心技术模型世界，它是用这个方法来向前驱动。&lt;/p&gt;
 
-&lt;p&gt;至今二十二年已经过去了；其间国际社会党大会也开了不少次，每次大会上，这个斗争没有不发生的——社会民主党总想把全欧洲的劳工运动完全放在他的旗帜之下，受他们的控制，安那其主义者则反对他们，便阻止这个计划。多少精力因此白费，多少恶语彼此相加，多少努力因此分散，只是因为那些采取“在现存国家内夺取政权”的政策的人不明白这方面的活动永远不能代表社会主义运动！社会主义在最初的时期中，就形成了三条发展路线，体现在圣西门、傅立叶和欧文三人身上。圣西门主义发展成社会民主主义，傅立叶主义则变成安那其主义；欧文主义在英国和美洲便进化成工会主义，合作以及所谓地方社会主义，这一派反对社会民主党的国家社会主义，而与安那其主义有许多汇合点。但是社会民主党不明白这三派的道路虽然不同，但是共同的目的则是一个；而且不明白后两派对于人类进步也有非常宝贵的贡献，他们竟然花费了四分之一世纪想去实现那个永远不会实现的乌托邦——要造出一个社会民主主义型的独一无二的劳工运动。&lt;/p&gt;
+&lt;p&gt;我们基本对这个时代的范式有了结构性的理解。那么接下来，我们如何拥抱这个时代？&lt;/p&gt;
 
-&lt;p&gt;对我来说，根特大会结束得出人意料。开会后三四天，比利时警察就知道了拉瓦旭夫是谁，奉命来逮捕我，因为我在旅馆里用了假名，违犯警章。我的比利时朋友们警告过我。他们认为当时的旧教徒内阁有把我引渡给俄国的可能，他们极力要我立刻离会。他们不让我回到旅馆去。吉约姆挡着路，说如果我一定要回旅馆，那么他非和我动武不可。我只好和几个根特的同志一起走了，但是我一到了他们中间，立刻从一个黑暗的广场的各个角落里发出低声的呼叫和口哨的声音——广场上散布着几伙工人，当时的情形简直神秘莫测。最后，在许多次低语声和口哨声以后，便有一群同志把我护送到一个社会民主党工人家里，我和他一起过了这一夜。虽然我是一个安那其主义者，但他竟然把我当作兄弟似的，非常令人感动。第二天早晨，我搭船再一次去英国。上岸时，英国海关职员要检查我的行李，但是他们见我除了一个小手提包外再也没有别的东西，便露出善意的微笑。&lt;/p&gt;
+&lt;h3 id=&quot;每周都有holy-shit-moment对每个人行业都有结构性影响&quot;&gt;每周都有“HOLY SHIT” moment，对每个人/行业都有结构性影响&lt;/h3&gt;
 
-&lt;p&gt;我在伦敦没有停留多久。我在大英博物馆很丰富的藏书中研究法国革命的开端——革命是如何爆发的；但是我需要生活得更活跃，于是不久到了巴黎。在巴黎公社被惨酷地镇压下去以后，法国劳工运动又开始复活了。我和意大利人科斯达、巴黎工人中间几个安那其主义的朋友，还有盖斯德和他的同伴（他们当时还不是严格的社会民主党人），一起组织了几个最初的社会主义团体。&lt;/p&gt;
+&lt;p&gt;我个人过去10个月，每天看东西是挺多的，但最近实在受不了。就真的是跟不上。发展速度非常非常快。最近我们开始发行“大模型日报”，是我实在不行了，论文实在是跟不上，代码实在是跟不上——just too much（太多了）——基本上，每周都会有一两个“HOLY SHIT” moment。&lt;/p&gt;
 
-&lt;p&gt;我们最初的规模，小得令人好笑。我们六七个人常在咖啡店里聚会，如果在我们召集的会上能有一百个听众，我们就很高兴。那时谁也不会猜想到两年以后社会主义运动会热火朝天的发展。但是法国有它自己的发展道路。当反动势力占了上风时，一个运动的所有看得见的痕迹都告消失。逆潮流进行斗争的人是很少的，但是简直有点令人莫名其妙地，通过一种看不见摸不着的思想的渗透，反动会遭到削弱；一个新的潮流于是出现，到了那时，大家一下子看到那个大家以为已经死了的思想始终活着，而且不断地在传播，在扩大。一旦公开鼓动成为可能，立刻就有成千的追随者走上前来——他们的存在，谁也没有猜想到。老布朗基常说：“在巴黎有五万人，他们从来不到会场里来，也从来不参加一次示威游行，但是时机一到，他们觉得民众能够到街上去表示他们的意见，他们就会到场去夺取阵地。”当时的情形就是这样。当时坚持这个运动的人不到二十个，公然支持这个运动的人也不到二百。1878年3月，我们开第一次巴黎公社纪念会时，到场的人不到二百。但是两年以后，对于参加公社运动的人的大赦令已经通过，巴黎工人便在街上欢迎那些归来的公社同志；开会的时候，成千的工人鼓掌喝彩欢迎他们，这时社会主义运动突然勃兴了，连激进党人也被卷到这运动里来了。&lt;/p&gt;
+&lt;p&gt;Holy shit！You can do this now。&lt;/p&gt;
 
-&lt;p&gt;但是我们在巴黎的时候，这个社会主义复兴时期还没有到。1878年4月某天晚上，科斯达和一个法国同志同时被捕，在警察法庭受审，因为他们是国际工人协会会员，被判了十八个月的监禁。我之所以没有被捕，仅仅因为误会。警察来逮捕拉瓦旭夫，竟捕去了一个俄国学生，他的姓与我的假姓读音很相像。这一次，我用了我的真姓名，并且用这个姓名在巴黎继续住了一个月。然后我应召赴瑞士。&lt;/p&gt;
+&lt;p&gt;世界在哗哗哗地变。我曾经说1995-1996年有这种感觉，但这个比1995-1996年还要强。为什么？模型的成本从边际转向固定，知识创造就是模型和知识的获取，它结构性做演变了。&lt;/p&gt;
 
-&lt;p&gt;这一次在巴黎，我初次认识屠格涅夫。他先向我们的共同朋友P.L.拉甫罗夫表示要见我，并且还要照俄国人的习惯，请几个朋友吃饭来庆祝我的越狱。我带了近乎崇拜的感情跨过门槛进了他的房间。他的《猎人笔记》使大家憎恨农奴制度，单是这一本书，他对俄国的贡献就非常巨大（我在当时还不知道他是赫尔岑的强有力的《钟》杂志里，他是一个首要的角色），而他以后的小说对于俄国的贡献也不小。他给我们指出了俄罗斯妇女是怎么样的人，她们有着何等的头脑和心灵的宝藏，她们是怎样鼓舞着男子。他又教导我们真正高尚的男子是怎样看待女子的，他们怎样爱女子。对于我，对于成千上万的同时代人，他的这种教导所给与我们的不可磨灭的印象，比最好的关于女权的论文给予我们的印象还要有力得多。&lt;/p&gt;
+&lt;p&gt;生产资本从两个层次全面提高。第一，所有动脑筋的工作，可以降低成本、提升产能。我们目前有一个基本假设，码农成本会降低，但对码农的需求会大量增加，码农不用担心。因为对软件的需求会大量增加，就是这个东西便宜了，都买嘛。软件永远可以解决更多问题，但有些行业未必。这是生产资本的广泛提高。&lt;/p&gt;
 
-&lt;p&gt;他的相貌是大家都知道的。高大、强健，满头浓密柔软的灰发，他的确是一个美男子，两眼充满了智慧，还带点幽默的味道。他的全部举止显得纯朴和毫不矫揉造作，这是所有俄国第一流作家的特点。他的美丽的头显得他的脑力非常发达。他死的时候，保罗·伯特和保罗·邵可侣（爱利塞的侄子，一个外科医生）量他的脑，竟有两千克以上的重量，比当时知道的最重的居维叶的脑还重许多，使他们不敢相信他们的秤，便换了新的秤重新量过，结果仍是一样。&lt;/p&gt;
+&lt;p&gt;第二，生产资本深层提升。有一些行业的生产资本本质是模型驱动，比如医疗就是一个模型行业，一个好医生是一个好模型，一个好护士是一种好模型。医疗这种产业，本质是强模型驱动。现在模型提高了，科学也随之提高。在游戏核心产业，我们的产能将本质性、深度提高。产业的发展速度会加快，因为科学的发展速度加快了，开发的速度加快了，每个行业的心跳都会加快。因此，我们认为下个拐点会加速。用大模型做机器人、自动化、自动驾驶，挡也挡不住。&lt;/p&gt;
 
-&lt;p&gt;他的谈吐尤其令人惊异。他说话的时候也与写作的时候一样，爱通过形象。虽然他非常长于哲学讨论，但是他常用一个设计得很优美的场面来说明他的思想，那场面美得有如从一本他的小说里摘出来似的。&lt;/p&gt;
+&lt;p&gt;它对每个人都将产生深远和系统性影响。我们的假设是每个人很快将有副驾驶员，不光是1个，可能5个、6个。有些副驾驶员足够强，变成正驾驶员，他自动可以去帮你做事。更长期，我们每个人都有一个驾驶员团队服务。未来的人类组织是真人，加上他的副驾驶员和正驾驶员一起协同。&lt;/p&gt;
 
-&lt;p&gt;他有一天对我说：“你常常和法国人、德国人或其他国家的人来往，一定有很多的经验。你有没有注意到：对于同样的问题，他们的许多概念与我们俄国人的意见之间，也有一个深不可测的鸿沟吗？在这些问题上我们俄国人是和他们永远不能一致的吗？”&lt;/p&gt;
+&lt;p&gt;毫无疑问，每个行业也会有结构性影响，会系统性重组。这里有一个简单公式（【$X小时（人工）-$Y（硬件和规模化）】X数量=降本增效）。比如，今天动脑筋的人一天平均工资多少美元每小时，减掉ChatGPT的价格（现在大概平均是15美元/小时，再过3年可能不到1美元，再过5年可能几十美分），然后就乘一下有多少数量。降本或者增效，让码农能变成super码农，医生变成super医生。&lt;/p&gt;
 
-&lt;p&gt;我回答说，我还没有注意到这些地方。&lt;/p&gt;
+&lt;p&gt;大家可以按这个公式算一算。如果你是华尔街的对冲基金，你可以做空一大堆行业。&lt;/p&gt;
 
-&lt;p&gt;“的确有一些。我举一个例子。有一天晚上，我和福楼拜、都德、左拉同在一个包厢里看一出新戏的首演。他们都是有进步思想的人。剧本的情节是这样：有一个女人和她的丈夫离了婚。她后来又有一次新的恋爱，和另一个男子同居。在剧本里这个男子是个出色的人。多年来，他们过得很幸福。她以前生的两个孩子（一男一女）在她与前夫离婚的时候都只是婴儿；现在他们都长大了，女的有十八岁，男的也有十七岁。这许多年里，他们都把这男子当做他们真正的父亲。这男子待他们像待亲生的儿女一样，他们爱他，他也爱他们。这一场戏中，这个家庭在进早餐。姑娘走进来，走近她的后父身边——当他正要去亲她的时候，男孩不知从哪里得知了真相，冲上去叫道：‘你敢！’&lt;/p&gt;
+&lt;p&gt;举个简单例子，律师在美国平均1500美元/小时，我在网上已经看到每天有这种信息——如果你想离婚，不要找离婚律师，ChatGPT离婚很便宜啊！&lt;/p&gt;
 
-&lt;p&gt;“这句话使全场震动，疯狂似地鼓掌喝彩。福楼拜他们也随着大家鼓掌。我感到厌恶。&lt;/p&gt;
+&lt;p&gt;开发人员、设计师、码农、研究人员都一样，有些是更多需求，有些是成本下降。尤其是核心产业，科学、教育、医疗，这是OpenAI长期最关注的3个行业，也是整个社会最根本的。&lt;/p&gt;
 
-&lt;p&gt;“我当时就说：‘为什么鼓掌呢？这个家庭既然幸福；这个男子对待这两个孩子比他们的亲生父亲还要好……他们的母亲既然爱这个男子，和他过得很幸福……这个顽皮变态的孩子应该为了说那两个字挨一顿打才是。’……我的话不起作用。我后来还花费了好几个钟头和他们讨论这个问题；他们中间谁也不能了解我！”&lt;/p&gt;
+&lt;p&gt;尤其是医疗。在中国，需求远远大于供给。而且，中国是大政府驱动的市场经济，政府可以扮演更大角色，因为固定成本政府可以承担。&lt;/p&gt;
 
-&lt;p&gt;我自然完全同意屠格涅夫的观点；但是我对他说，他所来往的人大半都是中产阶级。在中产阶级里，民族间的差别的确是很大的。然而我所来往的纯粹是工人，各国工人之间，尤其是在农民之间，相似的地方很多。&lt;/p&gt;
+&lt;p&gt;最为重要的是教育。如果你是大学，你第一担心的是，考试怎么考？没法考了。他一问ChatGPT，什么都知道。更重要的是，以后怎么定义是好的大学生呢？假定说有个大学生什么都不懂，物理也不懂、化学也不懂，但他懂怎么问ChatGPT，他算不算一个好的大学生？机会与挑战并存。&lt;/p&gt;
 
-&lt;p&gt;然而我这么说是错误的。我后来有机会和法国工人来往得更亲密了，我便时常想到屠格涅夫的话的确不错。对于婚姻关系，俄国人的想法与法国人的想法的确有一道鸿沟——无论是在工人中间，或是在中产阶级中间。还有许多别的问题，俄国人的意见也与别国人的意见同样大不相同。&lt;/p&gt;
+&lt;p&gt;总结一下，整个这个时代在高速地进行，速度越来越快。它是结构上决定的。势不可挡。&lt;/p&gt;
 
-&lt;p&gt;屠格涅夫死后，有人说过他曾有意就这个问题写一本小说。他如果已经开始写它，上面所说的那个场面一定会留在他的稿本里。他竟然没有把这本小说写出来，这是多么可惜的事！以他的思想方法而论，屠格涅夫是一个彻头彻尾的“西欧派”，关于这个在他一生中曾深深地打动他的问题，他一定能发表一些很深刻的见解。&lt;/p&gt;
+&lt;h3 id=&quot;大模型的淘金时代对机会点进行结构性拆解&quot;&gt;大模型的淘金时代，对机会点进行结构性拆解&lt;/h3&gt;
 
-&lt;p&gt;十九世纪小说家中，屠格涅夫在艺术方面的确达到最高的完美的境界；他的散文在俄国人听来简直是音乐——而且和贝多芬的音乐同样感人至深。他的主要的小说是《罗亭》、《贵族之家》、《前夜》、《父与子》、《烟》与《处女地》，都能勾划出1848年后急速而连续地演变的俄国知识阶层中主要的“创造历史”型的人物。这些人物都描写得充满着哲学的思想和人道主义的理解，以及一种在任何别的文学里难以找到的艺术上的美。但是《父与子》（作者正当地认为是他的最深刻的作品）出版的时候，却遭到当时俄国青年的大声反对。俄国青年以为《父与子》里面的主人公虚无主义者巴扎洛夫不是他的阶级的真正的代表，许多人甚至以为巴扎洛夫只是一幅虚无主义的讽刺画。这个误解使屠格涅夫十分难过，虽然后来在《处女地》出版以后，在圣彼得堡的青年一代又与他重归于好，那些抨击给他留下的伤痕却始终不曾医好。&lt;/p&gt;
+&lt;p&gt;现在，我给大家一个结构化思维框架。某种意义上你可以对号入座，知道我在这里，我怎么思考今天的机会点。&lt;/p&gt;
 
-&lt;p&gt;屠格涅夫听到拉甫罗夫说过我热烈赞赏他的作品。有一天，我们同去看雕刻家安托科尔斯基的工作室坐车回来的时候，他问我对巴扎洛夫的意见怎样。我老老实实地回答说：“巴扎洛夫是虚无主义者的一幅出色的画像，但是我们读的时候总觉得你爱他不及你爱你的其他主人公。”&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/Aj3RLHq.png&quot; alt=&quot;image05&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;“恰恰相反，我爱他，深深地爱他”，他用了意想不到的着重语气回答我。“我们到家的时候，我把我的日记给你看，其中我记到我用巴扎洛夫的死来结束那本小说的时候，我曾怎样地哭过。”&lt;/p&gt;
+&lt;p&gt;这张图是整个人类技术驱动的创业创新，所有事情的机会都在这张图上。&lt;/p&gt;
 
-&lt;p&gt;屠格涅夫对于巴扎洛夫的知识分子一面的确是很爱的。他使自己如此认同于他的小说主人公的虚无主义哲学，以至于用巴扎洛夫的名字记了一本日记，用巴扎洛夫的观点来评价时事。但在我看来，与其说他爱巴扎洛夫，不如说是仰慕他。他在一次关于哈姆雷特与唐·吉诃德的出色演讲里，把人类的创造历史的人物分成两类，就以哈姆雷特与唐·吉诃德为两类的代表。他以为哈姆雷特的特点是：“首先是分析，然后是利己主义，所以没有信仰——一个利己主义者连他自己也不能相信，所以他是一个怀疑派，永远不会做成一件事；唐·吉诃德与风车战斗，把一个剃头匠用的盘子当做是曼布林的魔盔（其实我们中间谁不曾犯过这种错误呢？）他是一个群众的领袖，因为群众永远跟随着那种不理会大多数人的冷嘲热讽，甚至迫害，勇往直前，目光永远盯着一个也许只有他一个人看得见的目标的人。他们寻觅；他们倒下；但是他们会再站起来，终于找到目标——这是理所应当。不过哈姆雷特虽然是一个怀疑者，虽然不相信善，但是他对恶却并不不相信，他恨恶；恶与欺骗是他的仇敌；而且他的怀疑，并非事事都漠不关心，只是否定与怀疑，这最终将使他的意志消磨净尽。”&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;首先，底层是数字化的技术，因为数字化是人的延伸。数字化的基础里有平台，有发展基础，包括开源的代码、开源的设计、开源的数据；平台有前端、后端等。这里有大量机会。&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;第二波是用数字化的能力去解决人的需求。我们把数字化应用完整放在这张表上。&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;C端是把所有的人分成人群，每种人群24小时，他花时间干什么？有通讯、社交、内容、游戏消费、旅游、健身……C端有一类特殊的人，这类人是改变世界的，是码农、设计师、研究员。他们创造未来。微软这么大的公司，是基于一个简单理念：微软我们就是要写更多软件、帮别人写更多软件，因为写软件是未来。&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;B端，企业需求也一样，降本增效。它要生产，有供应链、销售、客服……有了这些需求之后，数字化看得见的体验结构有6种：给你信息的，二维就够；给你三维交互体验，在游戏、元宇宙；人和人之间抽象的关系，包括信任关系、Web 3；人在物理世界环中自动驾驶、机器人等；人的内在的用碳机植入到里面，今天是脑机接口，以后有更多，以后是可以用硅基；最后是给你模型。&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
 
-&lt;p&gt;在我看来，要了解屠格涅夫与他的书中主人公的关系，他的这些思想是一把真正的钥匙。他自己以及他的几个最好的朋友是多少属于哈姆雷特型的。他爱哈姆雷特，他仰慕唐·吉诃德，所以他也仰慕巴扎洛夫。他把巴扎洛夫的优越之处描写得很好。他也了解巴扎洛夫的孤立处境之可悲，但是他对别的近似哈姆雷特型的主人公，有如对待一个病友似的，给他们以那种温柔的、诗意的爱，而他却不能把这种爱用在巴扎洛夫身上。那本是不相宜的。&lt;/p&gt;
+&lt;p&gt;最后，人类是挺奇怪的物种，不光要满足这些需求，还要改变世界，我们在满足世界时，也要获得更多能源，所以需要有能源科技；需要转化能源，用生命科学的形式，biological process转化能源或者使用mechanical process，材料结构来转化能源，或者是新的空间。这是第三波。&lt;/p&gt;
 
-&lt;p&gt;1878年，他有一次曾问我：“你认识麦希金吗？”在审讯我们的团体时，麦希金表现出来是我们里面最强有力的人物。他又说：“我真想知道他的一切。这才真是个人！他一丝一毫的哈姆雷特气味也没有。”他说这些话的时候，显然是在默想着俄国革命运动里这一新的典型——这种典型在屠格涅夫的《处女地》中所描写的时代里还不存在，而是在两年以后出现的。&lt;/p&gt;
+&lt;p&gt;所以创业公司基本上有三类：数字化基础，用数字化去解决人的需求，去改变物理世界。有了这个大的框架，我们可以系统性地来看对号入座：我在哪个位置？如果我在这个位置，需要关注哪些点？&lt;/p&gt;
 
-&lt;p&gt;我最后一次看见屠格涅夫是在1881年秋天。他当时病势沉重，而且时时以为他应该写一封信给亚历山大三世，这个念头使他苦恼。这时亚历山大三世刚即位，拿不定主意他应取的政策。屠格涅夫想劝他给俄国一个宪法，并且用确实不移的论据，使他明白这一步骤是必要的。他带了显然的悲哀对我说：“我觉得我应该写这封信，但我又觉得我已经没有力量这么做了！”事实上，他因为脊髓里生了癌，痛苦万分，连坐起来谈几分钟话也已困难到了极点。他终究没有写这封信，几星期以后，这已无用了。亚历山大三世在一篇宣言里声称他仍然要做俄国的专制统治者。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/AKgZcQH.png&quot; alt=&quot;image06&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;-&lt;/p&gt;
+&lt;p&gt;首先讲数字化基础，它有一个稳定结构，不管再怎么发展，结构永远是这样。过去30多年，大部分系统或多或少我都碰过，这个结构确实相当稳定。&lt;/p&gt;
 
-&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;俄土战争后人民对于政府之不满——一九三人案——暗杀特列颇夫事件——四次谋杀国王——汝拉同盟遭迫害——我们创刊《反抗者》——社会主义报纸的使命——经济的和印刷上的困难&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;核心是前端和后端——前端是完整可延伸的体验，后端是完整可延伸的能力，有设备端，比方说电脑、手机、眼镜、汽车等等，设备端里面是芯片、模组加上操作系统。万亿美元的公司都在这一层。&lt;/p&gt;
 
-&lt;p&gt;1878年俄国事态有了一次新的转折。1877年俄国对土耳其发动的战争引起了人民普遍的失望。战争未爆发以前，俄国人民对于在土耳其压迫之下的斯拉沃尼亚民族曾经表示过非常热烈的同情。许多人并且相信一场巴尔干的解放战争，结果会使俄国本国也向着进步的方面前进。但是斯拉沃尼亚民族的解放只部分地实现了。俄国人作出的巨大牺牲因高级军事当局的大错终归无效。在战场上送命的人以十万计，所得的结果，不过是些部分的胜利，而土耳其被迫作出的让步在柏林会议中又被取消。大家还知道，在这次战争期间，公款被私吞盗用，其规模之大竟与克里米亚战争时差不多。&lt;/p&gt;
+&lt;p&gt;其次是体验的容器，二维的容器，三维的容器，内在嵌入的容器。&lt;/p&gt;
 
-&lt;p&gt;就在1877年终，这种普遍的不满笼罩俄国全国的时候，在1873年后陆续被捕的一百九十三个和我们的运动有关的人的审判开始在一个高级法庭举行。这些被告有一些很有辩才的律师为他们辩护，立刻得到了公众的同情。他们给圣彼得堡社会的印象对他们有利。后来大家知道，他们中间大部分都已经被监禁了三四年等候审判，而且有二十一个人已经自杀或发了狂，于是大家对他们的好感更加强烈——便是审判他们的法官中也有对他们表同情的。法庭对于少数人处以极重的刑罚，对于其余的人则处罚较宽，理由是：候审拘留期太长，这本身已是很重的刑罚了，如果再处重刑，未免有失公道。当时大家还有把握地以为沙皇会进一步减刑。但是使大家极其惊异的是沙皇竟把刑罚加重。法庭已经判决无罪释放的人竟被流放到西伯利亚和俄国的僻远地方；法庭只判短期监禁的人，现在却要服五年到十二年的苦役。这是第三科的头子麦孙佐夫将军所做的事。&lt;/p&gt;
+&lt;p&gt;容器之上，写代码都知道画布，画布可以是文档，可以是聊天，可以是代码，可以是空间，可以是世界，可以是数字人，也可以是碳基里的蛋白质等等。这是前端。&lt;/p&gt;
 
-&lt;p&gt;就在这时候，圣彼得堡警察总监特列颇夫将军有一次视察拘留所，看见一个政治犯波哥留波夫没有向这个万能的恶官僚脱帽致敬，他立刻跑到波哥留波夫面前，亲自揍了他一下，波哥留波夫表示反抗，他便下令处波哥留波夫以鞭刑。其他的囚犯在他们的监房里听见这事，都高声大叫表示他们的愤怒，因此都受了狱卒和警察的惨酷的鞭打。&lt;/p&gt;
+&lt;p&gt;后端也一样，底层式设备，服务器、交换机、数据中心等等，也是芯片、模组、操作系统。&lt;/p&gt;
 
-&lt;p&gt;俄国的政治犯在西伯利亚流放期间或苦役期内忍受一切困苦艰辛不作一声，但是他们决定对体刑绝不容忍。一位年轻姑娘，薇拉·沙苏丽奇，尽管自己并不认识波哥留波夫，却拿了一支手枪跑到圣彼得堡来，找到这个警察总监对他开枪。特列颇夫不过受了伤。亚历山大二世来亲自看一看这个英勇的少女。她的十分可爱的面貌和谦逊的神态给了他深刻的印象。特列颇夫在圣彼得堡的仇人太多了，他们居然能设法使这一案件按习惯法审理。沙苏丽奇在法庭当众宣言，她用手枪是出于不得已，因为一切别的可以使社会知道这事而得到某种伸雪机会的方法都已用尽而无效果。甚至有人请伦敦《泰晤士报》驻圣彼得堡的记者把这个消息在他的报上发表，他也许以为这件事是不确实的而没有照办。她不得已才去枪击特列颇夫，事先并没有把她的打算告诉任何人。现在事情既已公之于众，她听说特列颇夫不过受了一点轻伤，她觉得很高兴。陪审员全体一致决定判她无罪；当她走出法庭的时候，警察要再逮捕她，门外的群众援救她脱了魔掌。她便离开俄国，不久就来瑞士，到我们中间来了。&lt;/p&gt;
+&lt;p&gt;中间这一层非常重要，网络数据堆栈，分布式系统，区块链等等。&lt;/p&gt;
 
-&lt;p&gt;这事轰动了全欧。沙苏丽奇被释放的消息传到西欧时，我正在巴黎，那天我刚刚有事到几家报馆的编辑部去。我发现编辑们对此都很热心，并且写出非常有力的评论赞美这位俄国少女。甚至《两世界评论》也在它的1878年大事述评里说：本年使欧洲舆论印象最深的两个人乃是柏林大会上的戈尔恰科夫亲王和沙苏丽奇。好几本年鉴都把他们两人的照片并排刊印出来。对于西欧工人，沙苏丽奇的这一献身行为也给了他们以极深的印象。&lt;/p&gt;
+&lt;p&gt;最上面是云，是能力的供给。能力供给像自然水源，打开就是算力，有存储和通讯能力。今天的模型时代，打开就是模型。&lt;/p&gt;
 
-&lt;p&gt;就在这1878年里，一连发生了四起谋刺君王的事，都未发现有事先的谋划。工人荷得尔和诺比令博士先后枪击德国皇帝，几个星期以后，又有一个西班牙工人奥立瓦·蒙卡西枪击西班牙国王，一个厨子帕萨南特拿了一把刀要杀意大利国王。欧洲各国政府不能相信，这种对三位君主的谋刺连续发生，而背后却没有一个国际阴谋！它们匆匆断定安那其主义者的汝拉同盟便是这个阴谋的中心。&lt;/p&gt;
+&lt;p&gt;下面是数字化基础。符号计算，或者所谓的深度学习，叠加向量的浮点计算，硅基的，碳基的。&lt;/p&gt;
 
-&lt;p&gt;从那时候到现在，已经有二十多年了，因此我可以确定不移地断言：各国政府的这种假定是毫无根据的。但在当时，欧洲各国政府全都攻击瑞士，责备它不该庇护组织这种暗杀阴谋的革命党人。我们的汝拉报纸《前锋》的编辑保罗·布鲁斯遂被捕受审。但是瑞士法官也明白要把布鲁斯或汝拉同盟牵连进那几次的暗杀事件是一点根据也没有的，于是仅仅判了布鲁斯两个月监禁，说是为了他的文章的缘故；但是这家报纸却被禁止发行，而且联邦政府要瑞士全国的印刷局都拒印这张以及其他相似的报纸。汝拉同盟因此被剥夺了发表意见的权利。&lt;/p&gt;
+&lt;p&gt;如果你是这里的创业者，机会点在哪里？&lt;/p&gt;
 
-&lt;p&gt;此外，瑞士的政治家不满于安那其主义者在该国（瑞士）的鼓动工作，私下使汝拉同盟里最重要的瑞士会员不得不退出公众生活，否则只能挨饿。布鲁斯被瑞士政府驱逐出境。不顾一切障碍把汝拉同盟的机关报维持了八年之久的J.吉约姆，他的生活费大半是从授课得来的，如今也找不到事做，只得离开瑞士到法国去了。A.席威次加伯尔在钟表业里找不到事，他又要担负一大家子的生活费，因此只好退出了运动。斯皮奇革耳的情形也是一样，他只得移居别国。我虽是一个外国人，但是为当时的情势所迫，汝拉同盟机关报的编辑责任却不得不落到我的肩上。我当然为此踌躇，但是别无他法，我便和两个朋友屠美德莱及海尔奇一起，于1879年2月在日内瓦创办了一个半月刊，定名《反抗者》（Le Révolté）。大部分的稿件都要我一个人写。发起这刊物的时候，我们只有二十三个法郎（约合四美元），但是我们大家尽力去征求订户。第一期居然出版了。刊物的论调虽然温和，但是实质上是革命的。我尽力写得使一般聪明的工人都能了解那些历史的和经济的复杂问题。我们以前出的刊物从来没有销到六百份以上。这次，第一期的《反抗者》我们印了两千份，不到几天，竟一份也没有剩下。这个刊物成功了，现在它还继续在巴黎出版，不过改用了《新时代》这名称。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/txwhlOK.png&quot; alt=&quot;image07&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;社会主义的报纸容易有成为记载对现状的抱怨诉苦的倾向。矿山、工厂与田庄的劳动者所受的压迫在这里都有交代，罢工时，工人的贫困与痛苦被活灵活现地描写下来；工人们和雇主抗争时的那种孤立无援的状况也被再三提出。每一个星期都要提出的这些无望的努力会给读者们以极不良的影响，使他们意气消沉。为了防止这个流弊，编辑人只有用那些激烈热情的字句去提高读者的活力，加强他们的信心。我的意见恰与这个相反，我以为一张革命的报纸首先必须指出那些见于各处的，报告新时代来临、人类社会生活的新形式萌生，以及日益有力地反抗陈旧制度的征兆。我们应该找出这些征兆，发现它们之间的密切关系，并且把它们归在一起，使那大多数犹豫不决的人也能明白：在一个社会里，发生了思想复兴的时候，进步的思潮到处可以找到看不见的意识不到的支持。&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;首先搬运信息，这个时代还有很多可以做。&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;如果你是做模型的，我现在判断什么都要重做一遍。大模型为先。很多设备也要重做，你要支持大模型，容器要重做，这些都有机会。云、中间的基础设施、底层的硬件，包括数字化发展核心的基础，尤其是开源的体系，这里是真正意义上是有大量机会。&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;第三代系统，即已经开始做机器人、自动化、自主系统。孙正义今天all in。这个也能用大模型做。马斯克也看到这种机会。都是在第三代下一个拐点，创业公司完全可以把握的机会。&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;同时并行的，我把它称作“第三代++系统”，是碳基的生物计算，这一类公司有大量的量子计算，有很多机会。元宇宙和Web 3今天有点冷，但从历史长河角度来讲，只是时间问题，因为这些技术都能真正意义上带来未来的人类价值。&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
 
-&lt;p&gt;我以为，一张革命的报纸的主要任务在于使读者觉得他的心是和全世界人的心是跳动在一起的，使他同情人心对于年长月久的不义的反抗和创造新生活形式的努力。使革命成功的不是绝望而是希望。&lt;/p&gt;
+&lt;p&gt;所以如果是这个创业项目，基础层机会就在这里。这是最好的生意。为什么？这个时代跟淘金时代很像。如果你那个时候去加州淘金，一大堆人会死掉，但是卖勺子的人、卖铲子的人永远可以赚钱。所谓的shove and pick business。&lt;/p&gt;
 
-&lt;p&gt;历史家常常告诉我们，这一或那一哲学体系曾如何完成了在人类思想上，因而在社会制度上的某一变革。但这不是历史。最伟大的社会哲学家只要抓住了即将到来的变革的迹象，便能懂得这些迹象彼此的内在关系，凭归纳法和直觉，可以预言将会发生什么。社会学家们拟定了许多社会组织的规划，由几条原则出发，演绎出必然的结果，恰如根据几条定理，得出一个几何学的结论来一样；但这不是社会学。要得出正确的社会预测，唯一的办法是留心那个新生活的成千个迹象，把一时偶然发生的事实和有机的、本质的事实区别开来，在这个基础上建立普遍法则。&lt;/p&gt;
+&lt;p&gt;大模型是平台型机会。按照我们几天的判断，以模型为先的平台，将比以信息为先的平台体量更大。平台有以下几个特征：&lt;/p&gt;
 
-&lt;p&gt;我尽力使读者熟悉这个思考方法，我用浅显易懂的字句，务使读者中间最谦逊胆小的人也习惯于自己去判断现在社会究竟向何处去；如果这个思想家得到了错误的结论，他们也能自己去纠正他。至于对现存制度的批判，我只将罪恶的根源分解说明，指出一切罪恶的主要来源一是对于人类发展的过去阶段的陈旧残余的根深蒂固而且精心培育的偶像崇拜；其次是广泛存在的思想和意志上的怯懦。&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;它是开箱即用；&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;要有一个足够简单和好的商业模式，平台是开发者可以活在上面，可以赚足够的钱、养活自己，不然不叫平台；&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;他有自己杀手级应用。ChatGPT本身是个杀手应用，今天平台公司就是你在苹果生态上，你做得再好，只要做大苹果就把你没收了，因为它要用你底层的东西，所以你是平台。平台一般都有它的锚点，有很强的支撑点，长期OpenAI设备机会有很多——有可能这是历史上第一个10万亿美元的公司。&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
 
-&lt;p&gt;屠美德莱与海尔奇在这方面全力支持我。屠美德莱生在萨甫瓦的一个最贫苦的农家。他不过在小学里得到一点极粗浅的知识。但是他是我所遇见的最聪明的人之一。他对时事和对人的评估异乎寻常地合情合理，往往简直等于预言。他对于新刊的社会主义的书报是一个极优秀的批判家，从来不为那些漂亮字句所迷惑，也不受那冒牌科学的欺骗。&lt;/p&gt;
+&lt;p&gt;这是一场激烈的竞争平台之战，未来一个体量很大的公司。在这个领域竞争是无比激烈。The price is too big（代价实在太大），错过太可惜。再怎么也得试一试。&lt;/p&gt;
 
-&lt;p&gt;海尔奇生在日内瓦，是一个年轻的商店职员；他为人拘谨腼腆。当他表示他的一项独创的见解时，会脸红得像一个姑娘。我被捕以后就由他负责继续编辑我们的刊物，靠了他的坚强的意志他居然写出了很好的文章。日内瓦的店主后来议定都不再雇用他，使他的全家陷于绝境，但是他还努力维持这个刊物，直到刊物可以移往巴黎出版时为止。&lt;/p&gt;
+&lt;p&gt;今天的模型鲁棒性、脆弱性，还是问题。用这个模型，你一定要一开始稍微窄一点，限制要严一点，这样的话体验是稳定的，等到模型能力越来越强再把它放宽，找到适当的场景，循序渐进。质量和宽度之间的平衡很重要。另外发展路径上，你要考虑今天产品要不要在这个上基础上改，重启炉灶，还是齐头并进。把这个团队给改了、重做，还到外面去买公司？&lt;/p&gt;
 
-&lt;p&gt;对这两个朋友的见识我不言自明地信任。如果海尔奇皱起眉头迟疑地低声说：“对——嗯——也许行”，我立刻明白定有什么地方不行。屠美德莱每逢要读一篇写得不很通顺的原稿时，总是抱怨他的眼镜太糟，所以通常他只读校样。他读的时候，有时忽然中断，大声叫起来：“不，这不行！”我立刻明白那地方写得不对头，于是尽力去猜想是什么思想，或什么文句使他不满意。我知道不必去问他，为什么那地方不对头？如果问他，他会回答：“呵！那不是我的事，是你的。我只能说那不行。”但是我总觉得他是对的，于是坐下来，把这一段重新写过，或者拿了排字盘，自己另外排出一段。&lt;/p&gt;
+&lt;p&gt;创新，尤其是创业公司落地，它永远是技术推动和需求拉动的组合。在落地的过程中，对需求理解的把控，掌握和满足需求的方法是一切当中最重要。长期一定是技术驱动为主，但在落地的时候对需求的拆解、分析、梳理，把控好需求，是一切的一切。&lt;/p&gt;
 
-&lt;p&gt;我应该承认，我们维持这个刊物，有时候也很艰难。刊物才出到第五期，印刷人就来要我另找印刷所。宪法上规定的出版自由，对于工人和他们的出版物，在法律本文以外还有许多限制。承印我们刊物的人对刊物并无异议：他爱好这个刊物；但是瑞士的印刷所无论哪一家都依靠政府为生，每一家都多少承印一些政府的统计报表等文件。我们刊物的印刷人得到明白的通知，如果他再印我们的刊物，那么他就不要再想承印日内瓦政府的任何东西了。我走遍了瑞士说法语的地方，拜访了所有印刷所的经理，但是无论在什么地方，即使遇着那些并不讨厌我们刊物的倾向的人，所得到的回答也永远是这样：“如果不承印政府的东西我们就不能维持下去；而如果我们答应印刷《反抗者》，政府那边的生意就一点也没有了。”&lt;/p&gt;
+&lt;p&gt;有一个机密大家今天都知道了——OpenAI是用GPT-4做GPT-5，每个码农都是放大能力的码农。它规模效应不一样，马太效应不一样，从此壁垒和竞争格局不一样，知识产权结果不一样，国际化的格局也不一样。中国显然有机会。&lt;/p&gt;
 
-&lt;p&gt;我回到日内瓦时非常失望，但是屠美德莱却更加热心，更充满希望。他对我说：“这没有什么，我们去买一架印刷机，言明三个月以后付款，三个月内，我们一定可以付清。”我当时反对说：“但是我们没有钱，手头只有几百法郎。”“钱？傻瓜！我们一定会有的。我们只要马上买了铅字，把下一期印出来——钱自然会来的！”他的判断又一次证明是对的。当下期《反抗者》在我们自己的汝拉印刷所里印出以后，我们又在刊物上把我们的困难告诉了读者，另外还印出两本小册子（我们大家都帮着印），钱居然来了；大部分是铜板和小银角，但是钱毕竟来了。我一生不知道有多少次听到进步的党派抱怨说没有钱；但是我的年纪愈大，我愈相信我们的最大困难并不在于没有钱，而在于没有人坚定不移、继续不断地朝着正确的方向，向着一个确定的目标走去，而且鼓舞别人也努力前进。二十一年来，我们的刊物始终是经济拮据——差不多每期的封面上都有求人捐钱的启事；但是只要有人坚持，用全力维持刊物，如海尔奇与屠美德莱在日内瓦，格拉佛在巴黎十六年来所做的那样，钱总是会陆续来的：大部分是工人的铜板和银角，印刷费用就多少可以支付了。办一个刊物和做其他一切事情一样，人的价值比钱不知要大多少倍。&lt;/p&gt;
+&lt;h3 id=&quot;我对创业者有几点建议&quot;&gt;我对创业者有几点建议&lt;/h3&gt;
 
-&lt;p&gt;我们的印刷所设在一个狭小的房间里，排字的是一个小俄罗斯人（即乌克兰人），他为我们的刊物排字，每月只要六十法郎。他只要每天有饭吃，有时候能听一次歌剧，他就满足了。有一次，我在日内瓦街上遇见他，他挟了一个褐色的纸包，我问他：“约翰，你去洗澡吗？”“不！我搬家，”他用了他惯有的悦耳的声调，带着他的常有的微笑回答。&lt;/p&gt;
+&lt;p&gt;创业公司的内在结构是人和事的组合。人，一开始是创始人/创始团队；他有初心，内在驱动力、外在驱动力；他能独立思考，判断未来；他能行动导向，解决问题；他能需求导向，找到价值；最终通过沟通获得资源。接下来是产品市场匹配，这部分就是研发技术、研发产品、交付产品。商业模式是收到钱、更多增长、触达更多客户、融更多钱、一直触达到未来的价值。组织上，通过系统建设，开拓面向未来的人才、组织结构和文化价值观等等。这一切就是一家公司的总和。&lt;/p&gt;
 
-&lt;p&gt;可惜他不懂法文。我总是把我的稿子尽力写得非常工整——我时常后悔从前在学校里上我们的好老师爱尔伯特的习字课时浪费掉的时间——但是约翰读法文原稿时，读得怪极了，排字时也会排出许多异常古怪的别字，完全是他自己发明的；不过他却不曾加字或减字，所以改的时候每行的长短可以不变，只把每行换十二个左右字母，就行了。我们和他的感情非常好，我在他的指导之下，不久就学会了一点排字术。每期的报纸总是按时排好，照例先把清样送到报纸的负责发行人（一个瑞士同志）那里，请他完全看过之后才付印；然后我们中间一个人便把排好的版用车子送到印刷所去印。我们的汝拉印刷所因了它的出版物，尤其是它的小册子，不久就很出名了。小册子的售价不超过一个铜板，这是屠美德莱的规定。要写这些小册子不得不创造一种新文体。我承认我有一种劣迹，就是去嫉妒那些可以把他们的思想随意发挥，无须计较写作页数，而且可以用塔列朗的有名的借口：“我没有时间写得简短”来为自己辩解的著作家。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/pEH83Qi.png&quot; alt=&quot;image08&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;当我要把几个月的研究结果（比如法律的起源之类）在一本售价不过一个铜板的小册子里扼要写出来时，不得不另花时间使文字写得简短。我们的刊物是给工人看的，对于一个普通工人，一本二十生丁（即四枚法国小铜板）的小册子太贵了。结果是这些价值不过一两个小铜板的小册子，可以成千上万地卖出去，而且译成了各国文字出版。我在那个时期中写的社论，后来在我入狱以后，被爱利塞·邵可侣编印成书，题名为《一个反抗者的话》。&lt;/p&gt;
+&lt;p&gt;我们对每位同学的建议是，不要轻举妄动，首先要思考。&lt;/p&gt;
 
-&lt;p&gt;法国从来是我们运动的主要目的地；但是法国政府严禁《反抗者》，而且走私商人可以由瑞士运到法国的好东西太多了，不愿意过问我们的刊物而使他们的行当遭到危险。有一次，我曾和他们一起偷过法国国境，我觉得他们都是十分勇敢可靠的人，但是我不能使他们答应私运我们的杂志。没有别的办法，我们只好把杂志放在封口的信封里寄往法国，给一百左右的人看。我们并不因邮费而加价，只请订阅者自愿捐款，弥补这种额外的费用（他们总是照办的）。但是我们常常想，法国警察错过了一个可以使我们的刊物破产的大好机会。他们只要订阅一百份，而不自愿捐款，就很足以使《反抗者》不能维持下去了。&lt;/p&gt;
+&lt;p&gt;不要浮夸，不能蹭热。我个人最反对蹭热，你要做大模型，想好到底做什么，大模型真正是怎么回事，跟你的创业方向在哪个或哪几个维度有本质关系。蹭热是最不好的行为，会浪费机会。&lt;/p&gt;
 
-&lt;p&gt;第一年全靠我们这几个人来维持这个刊物；不过爱利塞·邵可侣对于我们的事业之兴趣渐渐浓厚起来，到了后来，在我被捕以后，他便参加进来赋予刊物以未曾有过的生气。邵可侣请我帮助编纂他的不朽的《大地理》中关于亚洲的俄国领土的一卷，他自己懂得俄文，但是他以为我既然熟悉西伯利亚，可以在这一特殊方面给他帮一点忙；而且我妻子的身体当时很不好，医生因为日内瓦的寒风于她的病体有碍，劝她马上离开，我们夫妇于是在1880年初春搬到克拉龙，爱利塞·邵可侣当时住在那里。我们定居在克拉龙上面一个小村的一个农家，下临日内瓦湖的碧波，后靠南齿山的积雪的山峰。在我们的窗下流着一道小溪，在大雨之后像一道激流似的发出很大的响声，挟着巨大的山石冲到狭窄的溪床里。对面的山坡上，可以看到那沙特拉的古城堡，城堡主人直到1799年文书烧毁团革命以前，凡有邻近农奴生子、婚嫁、死亡的事，都要征收封建税。在那里，在我妻子的帮助下——（我做每一件事，每写一篇文章，都要先和她讨论过，她是我的文章的一个严格的文学批评家）。这样我写出了我为《反抗者》写的一些最好的文章，其中如《告青年书》一篇被译成各国文字，散布达数十万份。事实上，我以后的几乎所有著述的基础都是在这里建立的。我们安那其主义的著作家因为受着放逐排斥而散布在世界各地；我们最最缺少的也许就是不能接触到与我们的思想方法近似的有教养的人。在克拉龙，我却有机会常与爱利塞·邵可侣、勒弗郎塞两人接触，同时我还继续不断地和工人来往；虽然我的地理工作已经很忙，但是我为安那其主义的宣传所做的事甚至于比平时还要多。&lt;/p&gt;
+&lt;p&gt;在这个阶段要勤于学习。新范式有多个维度，有蛮大复杂性，该看到的论文要看，尤其现在发展实在太快，非确定性很大。我的判断都有一定灰度，不能说看得很清楚，但大致是看到是这样的结果。学习花时间，我强烈推荐。&lt;/p&gt;
 
-&lt;p&gt;-&lt;/p&gt;
+&lt;p&gt;想清楚之后要行动导向，要果断、有规划地采取行动。如果这一次变革对你所在的产业带来结构性影响，不进则退。你不往前走没退路的，今天的位置守不住。如果你所在的产业被直接影响到，你只能采取行动。&lt;/p&gt;
 
-&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;俄国革命运动之形势更为严重——执行委员会指挥下的暗杀沙皇计划——亚历山大二世之死——专为攻击革命者的保皇同盟之创立——我被判死刑——我被瑞士政府驱逐出境&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;接下来我想讲几个维度——每个公司是一组能力的组合。&lt;/p&gt;
 
-&lt;p&gt;在俄国国内，争自由的斗争愈演愈烈。好几次政治犯审判由高等法庭进行，如“一九三人案”、“五十人案”、“达尔古欣团案”等等——每次使人看到的都是同一现象。&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;产品开发能力方面，如果你的公司以软件为主，毫无疑问一定对你有影响，长期影响大得不得了。尤其是如果你是做C端，用户体验的设计一定有影响，你今天就要认真考虑未来怎么办。&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;如果你的公司是自己研发技术，短期有局部和间接影响，它可以帮助你思考技术的设计。长期核心技术的研发也会受影响。今天芯片的设计是大量的工具，以后大模型一定会影响芯片研发。类似的，蛋白质是蛋白质结构设计。不管你做什么，未来的技术它都影响。短期不直接影响，长期可能有重大影响。&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;满足需求能力，满足需求基本就要触达用户，供应链或运维一定受影响。软件的运维可以用GPT帮你做，硬件的供应链未必。长期来看有变革机会，因为上下游结构会变。你要判断你在这个产业的结构会不会变。&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;商业价值的探索、触达用户、融资，这一切它可以帮你思考、迭代。&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
 
-&lt;p&gt;青年们到农民和工人中间去，向他们宣传社会主义，散布在外国印出的社会主义小册子，也有一些含混不清的呼吁大家反抗经济压迫的传单。总而言之，他们所做的，都不过是世界上其他国家的社会主义运动所常见的事情。警察丝毫不曾查出反对沙皇的阴谋，甚至没有任何准备革命行动的迹象。而且事实上也没有。当时的青年的大多数反对这样的行动。我现在回顾1870年至1878年间的运动，我敢自信地说：只要允许当时青年的大多数与工农阶级在一起生活，教育他们，或以个人或地方自治政府一类的资格来和民众携手共事（本来有知识又正直的青年男女是有成千种方法来为民众服务的），他们就会感到满意。我充分了解那时代的青年，我的话自信是不错的。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/20hMyLn.png&quot; alt=&quot;image09&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;但是他们所得的惩罚，却是残酷的——残酷到了愚蠢的地步，因为这个运动是俄罗斯当时国情的产物，已经根深蒂固，不是残暴所能镇压得了的。六年，十年，十二年矿山中的苦役，期满后永远流放在西伯利亚，这是很普通的刑罚。比如有一位姑娘被判处了九年的苦役并终身流放西伯利亚，只为了把一本社会主义的小册子交给一个工人。&lt;/p&gt;
+&lt;p&gt;最后是关于人才和组织。&lt;/p&gt;
 
-&lt;p&gt;还有一个十四岁的姑娘，顾可夫斯加亚，在科瓦尔斯基和他的友人们将受绞刑的时候，她好像歌德的克莱杏那样，想煽动袖手旁观的人群去救出他们（这件事在俄国便是从当局的立场上看，也是极自然的，因为在俄国法律里，对于普通刑事犯是不处死刑的，而对于政治犯执行死刑，当时还是一件新鲜事，一个恢复已被遗忘的传统之举。）—只为了这件事，她竟然被终身流放在西伯利亚的一个僻远的小村。被投身在这一大片荒原之中，这位姑娘不久就投叶尼塞河死了。&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;首先讲创始人。今天创始人技术能力强，好像很牛、很重要，未来真的不重要。技术ChatGPT以后都能帮你做。你作为创始人，越来越重要、越来越值钱的是愿力和心力。愿力是对于未来的独到的判断和信念，坚持、有强的韧劲。这是未来的创始人越来越重要的核心素养。&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;其次，对初创团队，工具能帮助探索方向，加速想法的迭代、产品的迭代，甚至资源获取。&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;第三，对未来人才的培养，一方面学习工具，思考和探索机会，长期适当时候培养自己的prompt engineer（提示工程师）。&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;最后讲到组织文化建设，要更深入思考，及早做准备，把握时代的机会。尤其是考虑有很多职能已经有副驾驶员，写代码也好，做设计也好，这之间怎么协同？&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
 
-&lt;p&gt;便是那些被法庭释放的人，也被宪兵流放到西伯利亚或俄国东北部的小村落去，政府每月只给他们三个卢布，使他们忍饥待死。这种小村落没有什么工业，而教书对于流放的人是严禁的。&lt;/p&gt;
+&lt;p&gt;我们面临这样一个时代的机会。它既是机会，也是挑战。我们建议你就这个机会做全方位思考。&lt;/p&gt;</content><author><name>陆奇</name></author><summary type="html">这个时代跟淘金时代很像，如果你那个时候去加州淘金，一大堆人会死掉。但是卖勺子、卖铲子的人永远可以赚钱。</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://i.imgur.com/IVQ7aO3.png" /><media:content medium="image" url="https://i.imgur.com/IVQ7aO3.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">苏俄晚期地下神秘主义</title><link href="https://agorahub.github.io/pen0/heros/2013-01-01-BirgitMenzel-a1_r-the-occult-underground-of-late-soviet-russia.html" rel="alternate" type="text/html" title="苏俄晚期地下神秘主义" /><published>2013-01-01T12:00:00+08:00</published><updated>2013-01-01T12:00:00+08:00</updated><id>https://agorahub.github.io/pen0/heros/BirgitMenzel-a1_r-the-occult-underground-of-late-soviet-russia</id><content type="html" xml:base="https://agorahub.github.io/pen0/heros/2013-01-01-BirgitMenzel-a1_r-the-occult-underground-of-late-soviet-russia.html">&lt;p&gt;苏联后期出现各种地下神秘主义思潮。这与东方哲学和宗教有什么影响关系？又与西方新时代运动有什么相互关系？&lt;/p&gt;
 
-&lt;p&gt;官厅似乎故意使青年更加愤激，它把这些已经定罪的人不直接送往西伯利亚，却先把他们囚禁在中央监狱里好几年，使他们备受苦楚，因而羡慕起被送到西伯利亚矿山中作苦工的罪犯来。这些中央监狱也的确可怕。某一中央监狱（该狱牧师在一次布道中竟称之为“伤寒病之窟”）的囚犯的死亡率在十二个月中高达百分之二十。在中央监狱里，在西伯利亚的苦役监内，在要塞中，囚人时常不得不使用“同盟绝食”这个办法以抗议狱卒的暴行，或者要求改善待遇，如干某种活儿或在监房里读书之类，使他们不致于在几个月以内发狂。实行“同盟绝食”的男女囚人连续七八天不进食物，躺在地上不动，神志游离，甚至这也似乎不能使宪兵动心。在哈尔科夫的监狱里，他们把那些卧地待死的囚人用绳索捆缚起来，强迫喂进食物。&lt;/p&gt;
+&lt;!--more--&gt;
 
-&lt;p&gt;这种可怕的消息从监狱里漏出来，越过广大的西伯利亚，在青年中间传播很广。有一个时候，没有一个星期不发现一件这类新的暴行，有的还更惨酷。&lt;/p&gt;
+&lt;h3 id=&quot;引言&quot;&gt;引言&lt;/h3&gt;
+&lt;h3 id=&quot;后无神论时代的宗教&quot;&gt;后无神论时代的“宗教”&lt;/h3&gt;
 
-&lt;p&gt;俄国青年当时实在是愤怒到了极点。他们开始说：“别国的人遇着这样的事是有勇气反抗的。一个英国人、一个法国人是决不会忍受这种摧残的。我们又怎能忍受呢？让我们手执武器，抵抗宪兵的深夜搜查罢；既然被捕以后便是慢慢地、可耻地死在他们手里，至少让他们知道他们只有和我们决一死战的一条路。”&lt;/p&gt;
+&lt;p&gt;试想一下，一个来自典型苏联家庭的年轻人，他家族的几代人都完全脱离了任何宗教传统。现在他听到了召唤，神的声音从上方传来。这个年轻人无法确定他应该去哪个教堂，在哪个屋檐下避难。所有历史宗教对他来说都同样陌生。他寻求信仰，却只找到了宗教派别。正是在渴望信仰和传统教义之间，出现了“贫穷的宗教”，一种没有教条、书籍或仪式的宗教。它是一个共同的信仰点，平等地接受所有信仰体系，将它们视为通向统一信仰的道路。&lt;/p&gt;
 
-&lt;p&gt;在敖德萨，科瓦尔斯基和他的友人们在夜间宪兵来逮捕他们的时候，便开枪拒捕。&lt;/p&gt;
+&lt;p&gt;对于俄罗斯犹太学者米哈伊尔·爱泼斯坦（Mikhail Epstein）来说，这种他称之为“贫穷宗教”（poor religion，一种没有进一步定义的宗教）的独特精神重塑追求，是与苏联过去密不可分的“后无神论”现象。自从苏联解体、边境开放和市场经济兴起以来，西方学者一直在关注后苏联时期大量出现的与神秘学和秘教相关的主题和出版物。这种现象不仅盛行于1990年代，即苏联解体和共产主义制度崩溃后的第一个动荡不安的十年，而且即使在普京政府执政和东正教重新占据主导地位之后，这种现象仍然以边缘化的形式存在。对神秘主义、超自然现象和非正统精神世界的迷恋可以在社会各个阶层，包括知识分子、艺术界、科学界和政界中找到。&lt;/p&gt;
 
-&lt;p&gt;亚历山大二世对付这一新动向的回答便是下令全国戒严。把俄国分成了若干区，每区设一个总督，奉有命令可以无情地绞死违犯戒严令的人。科瓦尔斯基和他的朋友们并没有打死一个宪兵，但是全体被绞死了。绞刑成了平常事情。两年中间，被绞死的人一共二十三个，包括一个十九岁的青年，他在火车站贴一张革命传单时被捕，他的罪名只有这一点。他还是个孩子，但像成人一样被处死。&lt;/p&gt;
+&lt;p&gt;2006年新年夜，俄罗斯电视播放了帕维尔·隆金（Pavel Lungin）执导的电影《岛》（The Island, 2006）时，讲述了一名前士兵在当代俄罗斯成为神秘主义修道士的故事。影片中出现的念诵神秘的耶稣祈祷文、心灵疗愈等未被教会认可的东方神秘基督教传统与东正教修道院的教条发生冲突。这部电影的观众数量远远超过了观看普京新年讲话的人数。观众的热烈反响反映出人们对个人精神重塑的巨大渴望。&lt;/p&gt;
 
-&lt;p&gt;于是“自卫”两字便成了革命党人的口号。对付有些密探冒充为同志混进团体里任意告发人，只因为如果不告发很多人，他们就得不到赏金；对付那些虐待囚人的人以及权力无限的政治警察首脑是应该用自卫手段的。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/qybK0BU.png&quot; alt=&quot;image01&quot; /&gt;
+▲ 电影《孤独之岛》海报&lt;/p&gt;
 
-&lt;p&gt;死在这个新阶段的战斗里的人，有三个大官和两三个小密探。麦孙佐夫将军因为使沙皇把“一九三人案”的判罪加重一倍，便在圣彼得堡大街上光天化日之下被人杀死。一个宪兵上校也在基辅被杀；他做下的事，比上面所说的还更凶残。任哈尔科夫总督的我的堂兄狄米特里·克鲁泡特金在一个晚上从戏院回家的路上也被人枪击身死，因为那第一次的同盟绝食和强迫进食之事是在他治下的中央监狱里发生的。他其实并不是一个坏人——我知道他本人对政治犯多少还有点表同情。但是他这个人没有魄力，又是一个廷臣，所以没有毅然去干涉。实际上他只要说一句话，囚人所受的虐待就可以立刻停止。亚历山大二世是那么喜欢他，他在宫廷里的地位是那么稳固，因此他的干预很可能会得到赞许。两年前，他到圣彼得堡去报告沙皇说，他对于哈尔科夫那次的贫民暴动采取了平和的态度，处置暴动者也很宽厚，亚历山大二世回答说：“谢谢你，你的行为正合我的意思。”但是这一次，他批准了狱卒的暴行，哈尔科夫的青年看到他们的同志受着这种虐待非常愤激，有一个就枪杀了他。&lt;/p&gt;
+&lt;p&gt;在过去的十年里，过去参与或对苏联神秘学地下思潮感兴趣的大多数人已经转向东正教。东正教已经成为占主导地位的宗教，并与俄罗斯民族主义和政治当局紧密结合，形成了一套稳固的制度。尽管东正教反对任何异端，但我们仍然可以在教会内部和外部观察到许多不同信仰体系的协同作用和折衷混合。这在某种程度上是东方基督教，即拜占庭基督教的长期传统。&lt;/p&gt;
 
-&lt;p&gt;但是沙皇本人还处于斗争之外；直到1879年，还没有企图刺杀沙皇的行为。那个农奴解放者是有一道灵光护卫着的，这比大批军警的保护强多了。如果亚历山大二世在这危急的时候，稍微表示一点改善俄国政治状况的意思，如果他仅仅召回一两个从前改革时期中辅佐过他的人，叫他们去调查全国情况或至少调查一下农民状况；如果他表示一点限制秘密警察的权力的意图；那么他的步骤一定会得到人民的热烈欢迎。他只要说一句话，就可以再一次变为“解放者”，而俄国青年又会背诵赫尔岑的名句：“加利利人，你战胜了！”但是正如在波兰暴动时，他已经表示过他是一个暴君，曾经听从过加特科夫的主意滥用绞刑；如今他又听了加特科夫这个邪恶的天才的主意，不干别的，专设一些特别军事总督来执行绞刑。&lt;/p&gt;
+&lt;p&gt;然而，对超越传统宗教教条的精神信仰体系的渴求并不只存在于俄罗斯。它也应该被视为对现代性和后现代性问题性体验的更广泛反应，这种现象在许多西方国家也能观察到。苏联文明将自身定义为一个纯粹理性的社会，然而它对理性的崇拜达到了如此极端的地步，以至于人们可以说它是一种“理性主义宗教”。&lt;/p&gt;
 
-&lt;p&gt;到了那时候，而且只有在那时候，才有几个革命党人（执行委员会）起来向专制政体宣战。我应该老实说，当时的知识阶层，甚至沙皇身边的人，也有对现状越来越不满的。这对于执行委员会是一种支持。这一斗争经过了好几次失败，终于以1881年刺死亚历山大二世而告结束。&lt;/p&gt;
+&lt;p&gt;尤其自20世纪60年代以来，社会上出现了一股明显的反对“理性崇拜”（cult of the rational）的思潮：各种宗教哲学、神秘主义探索和神秘实践重新兴起，同时早期10世纪的乌托邦项目也得到复兴。控制论几乎神奇般的吸引力引发了人们对全能控制的幻想，其中包括旨在让人类永生的科技项目。&lt;/p&gt;
 
-&lt;p&gt;我在前面已经说过，在亚历山大二世身上，有两个人同时存在，在他一生中，这两个人的冲突愈来愈猛烈，此时已到了真正悲剧性的地步。索罗维约夫枪击的时候，第一枪没有打中他，当时他居然还能镇静地不走直线，而曲折地向最近的门跑去，尽管索罗维约夫还在继续放枪。他因此得以身免，只是他的大衣撕破了一点。便是在临死那一天，他还证明：他无疑是有胆量的。在真正的危险关头，他是勇敢的，但是他却对自己想象中的幽灵不断地颤抖。&lt;/p&gt;
+&lt;p&gt;数学和神秘主义结合形成了“魔法名字”（magic of names/imiaslavie）——一个高度神秘的莫斯科数学家神秘圈，其历史可以追溯到本世纪初。我们不仅可以在人文科学领域，还能在自然科学领域发现神秘思想和意识形态的巨大影响。“俄罗斯宇宙主义”（Russian cosmism）是一种将人类自我完善和拯救融为一体的混合意识形态概念，可以被视为对神秘主义的悖论解读，它在科学和人文科学组织内部和外部都建立了自己的地位。医学、物理学和超心理学相互合作，重新开放了研究领域。科幻文学是唯一不受现实主义教条约束的文学体裁（儿童文学除外），它激发了人们的幻想。小说与科学在科普杂志中融为一体，20世纪六七十年代（高峰期出现在70年代末和88-92年）UFO热潮席卷全国。象征主义艺术先锋派对神秘主义的迷恋在非官方文化中复兴。所有这一切，再加上冷战条件下征服自然和宇宙，导致了科学、宗教、艺术和神秘主义之间一种高度矛盾的关系。苏联文明这种强烈的形而上学暗流的历史仍待书写。&lt;/p&gt;
 
-&lt;p&gt;有一天，他枪击了一个侍从武官，因为那个人做了一个突如其来的动作，亚历山大二世便以为这人要刺杀他。仅仅是因为他怕遭暗杀，他竟把一切沙皇的权力交给了那些只求升官发财毫不忠心于他的人。&lt;/p&gt;
+&lt;p&gt;尽管斯大林时代严厉镇压，20世纪初的神秘主义传统从未消亡。神智学和人智学与斯大林后期到后苏联时期的具体特征一起，帮助塑造了20世纪60年代的神秘主义复兴。20世纪六七十年代的苏联神秘学地下思潮主要源于重新发现乔治·伊万诺维奇·葛吉夫（Ceorge Ivanovich Gurdjieff, 1866-1949）、尼古拉·洛里奇（Nikolai Roerich, 1874-1947）及其家族、布拉瓦茨基（Blavatsky）的神智学（Theosophy)、东方宗教、古代神秘主义哲学、基督教神秘主义和苏菲主义（Sufism）。它还受到西方神秘学经典、西方当代新时代运动（New Age）以及与苏维埃帝国（西伯利亚、布里亚特共和国、中亚和高加索地区）的民间治疗师和东方土著导师的直接影响。&lt;/p&gt;
 
-&lt;p&gt;亚历山大二世对于皇后玛丽的感情无疑没有完全消失，虽然当时他已经和多尔戈露奇公主发生了关系。皇后一死他马上就娶了她。他不只一次对L.米利科夫说：“请不要向我提起皇后，这使我太痛苦了。”然而他到底把他身为“解放者”时忠实地和他在一起的皇后玛丽完全抛弃了；任她无人照顾地死在宫里。只有两个真正对她忠心的侍女留在她的身边，而他却住在另一座宫里，来看她时也只是坐一刻就走。一位现已谢世的俄国名医曾告诉他的友人说，他虽是一个外人，但他看见皇后在最后的病中那样无人照顾也感到震惊。自然，宫中的侍女们都不管她，她们要去奉承多尔戈露奇公主。&lt;/p&gt;
+&lt;h3 id=&quot;俄罗斯神秘文化&quot;&gt;俄罗斯神秘文化&lt;/h3&gt;
+&lt;h3 id=&quot;russian-occulture&quot;&gt;Russian Occulture&lt;/h3&gt;
 
-&lt;p&gt;当执行委员会作出了炸毁冬宫的大胆计划时，亚历山大二世竟做了一件史无前例的事。他制造了一种独裁制，给L.米利科夫以无限的权柄。这位将军是亚美尼亚人，以前有一次，伏尔加下游发生黑死病疫时，德国威吓俄国，如果不将瘟疫扑灭，就要下动员令对俄国进行检疫封锁。当时亚历山大二世已经给了他一次同样的独裁权力。现在亚历山大二世看到连宫廷警察的护卫也不可靠，于是又把独裁的权力给了米利科夫。因为米利科夫有着“自由主义者”的名声，大家便以为这个任命表示不久就会召集一个国民议会。但是在炸毁冬宫事件以后短时间内，并没有危害沙皇的性命的事发生，他又恢复了信心。几个月以后，米利科夫又由独裁者而降为内务大臣，什么事也没有办成。&lt;/p&gt;
+&lt;p&gt;在这篇文章中，介绍了从20世纪60年代到80年代一些非传统的灵性运动，即神秘主义地下领域。由于并非所有活动都局限于非官方的地下领域，我也借用了克里斯托弗·帕特里奇（Christopher Partridge）的术语“神秘文化”（Occulture）：1、波西米亚神秘文化；2、科学神秘文化；3、东方宗教——佛教、萨满教和（新）印度教；4、民间疗愈和神秘主义；5、重塑传统主义的案例。基于这些材料以及1970-1980年代东西方直接接触的情况，我将提出一些关于苏联和后苏联俄罗斯神秘主义/秘传主义的特定元素的论点。&lt;/p&gt;
 
-&lt;p&gt;我在前面已经说到过亚历山大二世的伤感，在伤感突然袭来的时候，他常常责备自己在位期间的统治的反动性质。如今，这伤感愈来愈厉害，发作起来竟使他会嚎啕大哭。他会坐着哭好几个钟头，使米利科夫束手无策。他会问米利科夫：“你的宪法草案要到什么时候才会完成呢？”但是如果两天以后，米利科夫来向他说，宪法草案已经完成，沙皇却似乎已忘得一干二净！他竟然会问：“我曾经说过它吗？有什么用处呢？不如让我的继位人来办，就算是他即位后赐给俄国的礼物罢。”&lt;/p&gt;
+&lt;h4 id=&quot;1波西米亚神秘文化&quot;&gt;1、波西米亚神秘文化&lt;/h4&gt;
+&lt;h4 id=&quot;bohemian-occulture&quot;&gt;Bohemian Occulture&lt;/h4&gt;
 
-&lt;p&gt;当一个新的阴谋的风声传到亚历山大二世耳边时，他为了讨好执行委员会起见，又打算去做一点事。但是在革命党人中间似乎没有什么动静的时候，他又听从反动派的意见，什么事情都不管了。米利科夫随时都准备着丢官。&lt;/p&gt;
+&lt;p&gt;由于获取神秘学知识的主要途径是书籍，一些后来成为年轻一代精神导师的早期神秘主义者都是作家、诗人和翻译家：尤里·马姆列夫（Iurii Mamleev）、叶夫根尼·戈洛文（Evgenii Golovin）、叶夫根尼·拉扎列夫（Evgenii Lazarev）和弗拉基米尔·斯捷潘诺夫（Vladimir Stepanov）从20世纪50年代后期开始，就在莫斯科的列宁图书馆等中央国家图书馆发现了19世纪和20世纪的西方神秘主义经典著作。&lt;/p&gt;
 
-&lt;p&gt;1881年2月，米利科夫报告沙皇说，执行委员会已经策划好一个新的阴谋。但是无论怎样搜查，总不能发现这个阴谋的计划。&lt;/p&gt;
+&lt;p&gt;戈洛文和马姆列夫将传统主义创始人勒内·盖农（René Guenon, 1886-1951）的教义介绍到俄罗斯。他们对尤利乌斯·埃佛拉（Julius Evola, 1898-1974）和其他法西斯主义哲学家的迷恋也成为政治神秘主义的灵感来源。在莫斯科和列宁格勒/圣彼得堡这两个大都市的波西米亚神秘文化圈子里，可以找到神秘主义的温床。当然，文学也是一个灵感来源。&lt;/p&gt;
 
-&lt;p&gt;亚历山大二世于是决定召集一个由各省选出的代表组成的协商会议。他时时担心会遭到路易十六的命运，便把这个会议说成是“名流会议”，与路易十六在1789年的国民议会以前所召集的一样。这一计划，需要在枢密院提出，但是他这时又犹豫不决了。直到1881年3月1日（即旧历13日）的早晨，得到L.米利科夫的新的警告以后，他才下令在下星期四将这计划提交枢密院。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/jmrNvfM.png&quot; alt=&quot;image02&quot; /&gt;
+▲ René Guenon, 1886-1951&lt;/p&gt;
 
-&lt;p&gt;那是在星期日，米利科夫要求他那天不要出去阅兵；否则他有遇刺的危险。但是他去了。他要去看加塞林公主（这是他的姑母海伦·帕夫洛夫娜的女儿，海伦是1861年的改革派的领袖之一），告诉她这个好消息，也许是他想向故皇后玛丽赎罪的一个表示。据说他曾用法语告诉公主说：“我已经决定召集名流会议。”但是这个迟来的、半心半意的让步还没有宣布出来，他在回到冬宫去的途中就被刺杀了。&lt;/p&gt;
+&lt;p&gt;一些作家诗人延续了20世纪初白银时代具有广泛神秘主义氛围的魅力，例如象征主义诗人列奥尼德·安德烈耶夫（Leonid Andreev）的儿子、神秘主义者达尼尔·安德烈耶夫（Daniil Andreev, 1906-1959），他的小说《世界玫瑰》（Rose of the world/Roza mira, 1947-1957）在长达十年的监禁期间写成，通过地下出版物（samizdat）传播，并引发了一整个宗教追随者运动。&lt;/p&gt;
 
-&lt;p&gt;沙皇被刺时的情形是大家都知道的。一个炸弹投在他的铁甲马车下面，马车停了，几个护卫他的塞加西亚人受了伤。扔炸弹的雷沙科夫当场被捕。这时他的马车夫非常恳切地劝他坐在车里不要出来，说马车虽然有点损坏，他还可以驱车回宫，但是沙皇无论如何一定要下车。他觉得他的统帅的尊严使他一定要去看望负伤的塞加西亚人，慰问他们，像他慰问俄土战争中的伤兵那样。那一次是在他的生辰，猛攻普列夫那城之后，他的军队损失惨重。这一次，他走近雷沙科夫，问了他几句话。当他走过另一个青年格林涅维次基身边时，这个青年抱着同归于尽的决心扔了一个炸弹在他自己和亚历山大二世中间。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/dp2fwnZ.png&quot; alt=&quot;image03&quot; /&gt;
+▲ Daniil Andreev, out of prison, 1958&lt;/p&gt;
 
-&lt;p&gt;两个人都受了重伤，几个钟点以后都死去了。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/r9XsaSb.png&quot; alt=&quot;image04&quot; /&gt;
+▲ The Rose of the World, 1997&lt;/p&gt;
 
-&lt;p&gt;亚历山大二世这时躺在雪上，他的侍从中竟无一人理他，所有的人都不见了。还是阅兵以后回来的军官学校学生把这个垂死的沙皇抬起来，把他的还在抖动的身体放在雪橇上，盖上一件军校学生的外套。一个恐怖主义者伊米连洛夫臂下挟了一个用纸包着的炸弹，不顾自己有当场被捕处绞刑的危险，跑去帮助军校学生救护那个受伤的沙皇。人的天性每每是这样矛盾的！&lt;/p&gt;
+&lt;p&gt;赫鲁晓夫的解冻时期在20世纪50年代后期开启了长达十年的去斯大林化进程，一些葛吉夫的弟子要么从古拉格获释，要么从偏远的藏身之地返回首都。他们吸引了年轻追随者，这些追随者成为“第四道”的个体实践者，并指导了年轻知识分子，例如作家阿尔卡迪·罗夫纳（Arkadii Rovner, 1940-）、语言学家米哈伊尔·迈拉赫（Mikhail Meilakh, 1944-）和爵士音乐家鲍里斯·格列贝施奇科夫（Boris Grebenshchikov, 1953-），他们进一步扩大了葛吉夫的教义的影响。同时，神秘主义地下领域一些最具魅力的权威人物，诗人和翻译家叶夫根尼·戈洛文（Evgenii Golovin, 1958-）和作家尤里·曼米耶夫（Yuri Mamleev, 1931-）将葛吉夫的教义纳入他们的思想和行为中，特别是那些带有冲击、挑衅和贬低的元素。有时，突破铁幕进行接触和获取信息的做法反映了葛吉夫古怪的伪装。正如罗夫纳回忆的那样，米哈伊尔·迈拉赫会在列宁格勒接待外国客人的国际酒店的早餐室里倒立，过了一会儿，他会走到每个餐桌前，用各种语言礼貌地询问那些困惑或好笑的外商或外交官，他们是否能在后续旅行中带来有关葛吉夫的任何信息或材料。&lt;/p&gt;
 
-&lt;p&gt;亚历山大二世一生的悲剧就这样完结了。人们不明白一个为俄国做了这样多事情的沙皇，怎么会死在革命党人手里。但是我有机会亲眼看见亚历山大二世的最初的反动施政和他的渐次的堕落，我又知道他是一个性格复杂的人（他是一个天生的专制君主，只是因为教育把他的暴虐性减轻了些，他只有武士的勇猛，但缺乏政治家的魄力，他的情感很强烈，但他的意志又很薄弱），在我看来，这个悲剧的发展好像有着一出莎士比亚戏剧中在劫难逃的天意。在1862年6月13日，他下令在波兰第一次大肆屠杀以后对我们这班新任军官演说的时候，这悲剧的最后一幕就已经为我写好了。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/LKyOIxW.png&quot; alt=&quot;image05&quot; /&gt;
+▲ Ceorge Ivanovich Gurdjieff, 1866-1949&lt;/p&gt;
 
-&lt;p&gt;圣彼得堡宫廷里起了一阵很大的恐慌。亚历山大三世虽然身高体壮，却不是一个很有魄力的人。他不肯移住到冬宫而搬到加奇那，住在他祖父保罗一世的宫内。我是知道这座老建筑的，它被设计成一个沃邦式的要塞，四周围以壕沟，护以望楼，又有暗梯，由望楼顶上直通沙皇的书斋。我见过这书斋里特设的陷阱，可以出其不意地把一个敌人抛掷在下面水底尖利的岩石之上，我也曾见过通地牢的暗梯，这暗梯还通到对着一个湖泊的地道。保罗一世的所有的宫殿建筑差不多是一个模式。同时在亚历山大三世做皇太子时代所住的阿尼奇科夫宫的四周也掘了一条地道，并有自动电气装置，防止革命党人来埋炸药炸毁它。&lt;/p&gt;
+&lt;p&gt;当今俄罗斯所有主要的政治神秘主义大师，以及一些具有神秘主义倾向的作家，例如亚历山大·杜金（Aleksandr Dugin），盖达尔·杰马尔（Gejdar Dzhemal）、维克多·佩列文（Viktor Pelevin）和弗拉基米尔·索罗金（Vladimir Sorokin），都曾参与过这些圈子或成为这些灵修导师的门徒。莫斯科大学的心理系里，神秘学团体至少暂时建立了自己的网络，列宁格勒的宗教史和无神论博物馆也是探索和遇见神秘学寻道者的场所。小型移民期刊《神秘主义与瑜伽》（Occultism and Yoga，可能是苏联时期最早和持续时间最长的移民出版物之一，1929-1977）被秘密运入苏联，并提供来自苏联和世界各地神秘学者的各种文章。&lt;/p&gt;
 
-&lt;p&gt;一个专为保护沙皇的秘密团体成立了。用了三倍的薪水去引诱各级军官加入这一团体，到社会各阶级中做志愿的密探。不用说，常常发生许多可笑的事。有两个军官彼此都不知道对方是这个秘密团体的成员，在火车上互相引诱对方说些犯上不忠的话，然后你要捕捉我，我要逮捕你；直到最后才知道他们的苦心努力，纯属白费力气。这个团体现今还存在着，不过形式较为公开，改名为奥赫拉纳（保护会）；为了维持自身的存在，它时时编造各种虚构的危险，去恐吓现今的沙皇。&lt;/p&gt;
+&lt;h4 id=&quot;2科学神秘文化&quot;&gt;2、科学神秘文化&lt;/h4&gt;
+&lt;h4 id=&quot;scientific-occulture&quot;&gt;Scientific Occulture&lt;/h4&gt;
 
-&lt;p&gt;还有一个更秘密的团体“神圣同盟”，也在这时成立。首领是皇弟弗拉季米尔。目的是用种种手段与革命党人作对。其中之一是要暗杀国外亡命者中被他们认为是最近阴谋之主谋者的人。我也被列入其中。弗拉季米尔大公大骂同盟里的军官太怯懦，竟没有一个人胆敢去暗杀这些亡命者；于是有一个军官（当我还在侍从学校时他也是一个侍从）便被同盟派去实行暗杀计划。&lt;/p&gt;
+&lt;p&gt;让人惊讶的是，人们既可以在官方机构内，也可以在非官方的地下文化中接触神秘主义和秘传思想。首先，根据马克思列宁主义意识形态，人文科学被定义为科学的一部分，它们的界限比西方国家要宽松得多。其次，在冷战条件下，由于俄罗斯和美国情报机构的利益，对超自然现象的研究——在生物物理学和天体物理学中所谓的“心理-生物-物理”现象，根据主流西方范式，这些现象被认为是伪科学或边缘科学，但在这两个国家仍然秘密地得到促进和支持。科学本身也变成了神秘学的一部分。在苏联，尽管这些研究项目公开受到攻击甚至迫害，但还是得到了相当多的机构支持。超能力和心灵感应研究（Psy and ESP-research），是以列昂尼德·瓦西里耶夫（Leonid Vasiliev）和弗拉基米尔·别赫捷列夫（Vladimir Bekhterev）领导的脑研究所以及列宁格勒科学院生物物理实验室在20世纪20年代早期关于心灵感应和催眠的先驱研究为基础的，在20世纪50年代得以恢复，此前它曾在20世纪30年代早期被禁止，但仍在秘密实验室和私人研究中继续进行。&lt;/p&gt;
 
-&lt;p&gt;事实上，居留国外的亡命者与圣彼得堡执行委员会的工作无干。自己远在瑞士，竟想指导阴谋，而叫那些在圣彼得堡的人冒着无时不在的生命危险去行动，——绝无这样的道理。斯捷普尼亚克和我曾经声明过好几次，说我们自己如不在场，决不去替人制定行动计划。但是圣彼得堡的警察当然要说，他们无法保护沙皇的生命，全是因为一切暗杀阴谋都是在外国制订的——而且我很清楚，他们派出的密探则按着他们的意旨提供许多所需的报告。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/AqoCXXB.png&quot; alt=&quot;image06&quot; /&gt;
+▲ 1913年圣彼得堡，弗拉基米尔·别赫捷列夫教授（站在中间）和一群军事医学院的学生在心理实验室进行集体催眠的实践课程&lt;/p&gt;
 
-&lt;p&gt;俄土战争中的英雄，斯科别列夫也曾被邀加入这个同盟，但是他断然拒绝了。L.米利科夫的遗书曾由他的一个友人在伦敦刊行了一部分。在这些遗书里，我们才知道当亚历山大三世即位后迟疑不肯召集“名流会议”时，斯科别列夫竟向L.米利科夫及伊格纳节夫伯爵（即“说谎的帕沙”，这是君士坦丁堡的外交官们送给他的绰号）提议把沙皇拘禁起来，强迫他在一张立宪的宣言上签字。但是据说伊格纳节夫向沙皇告了密，因此被任为首相，他在首相任内，按照前巴黎警察总监昂得里欧的主意，用了种种计策去麻痹革命党人。&lt;/p&gt;
+&lt;p&gt;自20世纪60年代以来，许多科学机构除了公开的部分之外，还拥有一个完全独立的秘密部门架构。那些在列宁格勒、基辅和新西伯利亚的临床、辐射、实验和创伤医学研究所以及莫斯科的毕洛加洛夫航空航天医学研究所工作的苏联核武器和太空项目人员，都拥有实验室和不受意识形态限制的工作条件，遵循不同的规则，主要听命于高层人物或克格勃（苏联国家安全委员会）的命令。&lt;/p&gt;
 
-&lt;p&gt;如果俄国的自由主义者在当时多少表现一点勇气和组织力量，那么一个国民议会早已召集了。根据L.米利科夫的遗书，亚历山大三世在好几个星期内愿意召集一个国民议会。他已经决意这样做，而且还告诉过他的兄弟。老威廉一世也支持他这样做。&lt;/p&gt;
+&lt;p&gt;这些研究所为具有超能力的人提供了自由实验的机会，也为科学界的秘术师研究扩展意识提供了场所。在这里，在封闭的医疗机构最高当局的批准下，提升人体潜能的瑜伽实验得到了推进。科学家和领导层对宇航员以及著名运动员进行长时间的训练，尤其对可能用于苏联太空旅行的假死状态技术很感兴趣。&lt;/p&gt;
 
-&lt;p&gt;只因为他看见自由主义者毫无动作，同时加特科夫派则十分积极从事相反的活动——昂得里欧也劝他镇压虚无主义者，还教他用种种手段去达到这个目的（这个前巴黎警察总监的关于此事的信函，也发表在米利科夫的遗书里），——亚历山大第三终于打定主意，宣称他要继续做俄罗斯帝国的专制君主。&lt;/p&gt;
+&lt;p&gt;生物物理学家阿列克谢·卡特科夫（Aleksei Katkov）痴迷于极度寒冷条件下的瑜伽呼吸技巧。从1966年到1973年，他在莫斯科的毕洛加洛夫航空航天医学研究所从事秘密研究工作。他还发表了几篇关于假死状态和瑜伽的文章，随后进行了激进的秘密自我实验。但就在他快要完成关于战胜疼痛和人体潜能的论文时，卡特科夫在1987年37岁时因执行一项“不吸氧气”（bina oxigen）攀登高加索厄尔布鲁士山的命令而不幸身亡。&lt;/p&gt;
 
-&lt;p&gt;亚历山大二世死后不到几个月，瑞士联邦政府就下令把我逐出瑞士国境。对于这件事，我并不愤慨。瑞士政府因为容许各国政治亡命者居留，受各君主国家的攻击，俄国政府机关报又恐吓它说要把当时在俄国的很多做家庭女教师和侍女的瑞士女子全体驱逐出境。瑞士政府将我驱逐，便可以使俄国警察多少感到满意。但是我代瑞士设想，它做这件事，乃是它的失策。因为这样一来，就无异于自己承认“瑞士是一个酝酿阴谋的地方”，而且也承认了自己的弱点，果然各国政府不久就利用这个机会。两年以后，J.费里向意大利和德国提议瓜分瑞士的时候，他的理由必定是：瑞士政府自己已经承认瑞士是“国际阴谋的策源地”。这第一次让步招来了更无理的要求，如果瑞士当初不作那次让步，瑞士的独立地位一定会更加稳固得多。&lt;/p&gt;
+&lt;p&gt;1969年至1981年间，专业和大众科学书籍和期刊上发表的有关超自然现象的出版物目录列出了800多篇文章。在整个60年代，挑战理性主义界限并推动乌托邦幻想的精神发现也成为了国际流行文化的一部分，就像另一位书记列昂尼德·伊里奇·勃列日涅夫（Leonid Brezhnev）公开承认他与格鲁吉亚灵异者欧亨尼娅·达维塔什维利（Eugenia Davitashvili）的会面一样。应最高指示，欧亨尼娅·达维塔什维利在公共机构和秘密机构进行了大量实验，并由一群医学和物理学专家全程记录。&lt;/p&gt;
 
-&lt;p&gt;1881年7月，我到伦敦，出席一次安那其主义者大会。从伦敦回来，我马上就接到驱逐出境的命令。大会闭幕后，我在英国住了几个星期，写了从我们的立场论述俄国事务的最初几篇文章，登在《纽喀斯尔纪事报》上。当时英国报界完全是诺维科夫夫人的（换句话说，就是加特科夫与俄国政治警察的）应声虫。约瑟夫·考温先生答应在他的报上腾出篇幅给我发表我们的观点，我当然高兴之至。&lt;/p&gt;
+&lt;h4 id=&quot;3东方宗教佛教萨满教和新印度教&quot;&gt;3、东方宗教——佛教、萨满教和（新）印度教&lt;/h4&gt;
+&lt;h4 id=&quot;eastern-religionsbuddhism-shamanism-and-neo--hinduism&quot;&gt;Eastern religions—Buddhism, Shamanism and (Neo-) Hinduism&lt;/h4&gt;
 
-&lt;p&gt;我刚刚见过在高山中的妻子（她当时住在山中离爱利塞·邵可侣的家不远的地方）以后，我就被要求离开瑞士。我们先把我们的简单的行李送到邻近的火车站，步行到亚格尔，最后一次欣赏我们十分喜爱的山景。我们越过几座小山抄近路，但后来发觉近路却使我们走了一些弯路，便大笑起来；我们到了谷底，便走入满地灰尘的大道。每每在这种情景中，会遇上可笑的事。这一次是一个英国太太惹出来的。一个穿得十分华丽的太太斜倚在一部租来的马车里面，旁边坐着一个绅士，车子经过我们这两个穿得寒伧的流浪人时，她扔给我们几本小册子。我从灰土里拾起小册子。这位太太显然是那种自以为是基督教徒，而以向“放荡的外国人”分送宗教小册子为己任的人。我想我们在火车站上一定可以追上这位太太，便把《圣经》里大家都知道的那一句，关于富人进天国的话，以及其他适用于此的类似的说法利赛人的话，写在一本小册子上。&lt;/p&gt;
+&lt;p&gt;另一个秘教温床是东方/东方学（Orientalism）研究，特别是在列宁格勒大学（印度学、埃及学、亚洲和非洲国家研究所）。自从1913年圣彼得堡建成第一座藏传佛教寺庙以来，以及布里亚特的彼得·扎姆察兰·巴德玛耶夫（Petr Zhamtsaran Badmaev, 1851-1920）将西藏的宗教、文化和医疗传统带到欧洲俄罗斯，并在沙皇尼古拉二世的宫廷里用藏医方法进行治疗，藏传佛教就对俄罗斯产生了特殊的影响。象征主义画家和神秘主义者尼古拉·洛里奇（Nikolai Roerich, 1874-1947）的生活和作品也建立了与佛教和印度的另一层联系。他与妻子海伦娜和两个儿子斯维托斯拉夫和尤里，在20世纪30年代后期移居印度，并一直住在那里直到去世。这两个儿子都延续了父亲的秘教遗产：斯维托斯拉夫·洛里奇（Svetoslav Roerich, 1904-1993）留在了印度，作为一名画家，但他会回去苏联参加展览和官方纪念活动，并将父亲的许多画作带回俄罗斯，尤里·洛里奇（Iurii Roerich, 1902-1960）则成为了一位国际知名的藏学家。&lt;/p&gt;
 
-&lt;p&gt;我们到了亚格尔，那位太太正在她的马车里吃点心。她显然觉得坐在马车中沿着这风景如画的山谷前进，比闷在窄小的火车里舒服得多。我彬彬有礼地把那几本小册子还给她，并且说，我在上面加了几句话，对于她本人也许不无补益。这位太太当时不知道应该跳起来打我，还是拿基督教徒的耐心接受这个教训好。这两个冲动都在她的两只眼睛里先后飞快地表现出来。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/deXmfVb.png&quot; alt=&quot;image07&quot; /&gt;
+▲ Nikolai Roerich, 1874-1947&lt;/p&gt;
 
-&lt;p&gt;我的妻子正在准备受日内瓦大学理科学士的考试，所以我们就定居在托农，这是莱蒙湖岸旁的法国高萨甫瓦的一个小城，我们在那里住了两个月左右。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/JfoGaIV.png&quot; alt=&quot;image08&quot; /&gt;
+▲ Svetoslav Roerich, Karma Dorje. 1934&lt;/p&gt;
 
-&lt;p&gt;至于那神圣同盟给我的死刑判决，我接到了来自一个俄国最高级官员的警告。我连那个从圣彼得堡派到日内瓦来主持这阴谋的太太的姓名都已知道了。我不过将这件事告诉了《泰晤士报》的日内瓦记者，如果发生了什么事，便请他将这个消息发表。同时关于这事，我也写了几行登在《反抗者》上面。以后我就不把这事放在心上了。但是我的妻子却并不小看这事。我们在托农时，住在那位心地善良的农妇散索夫人的家里，并在她那里包饭。她也从别方面知道了这个阴谋（她的在一个俄国密探家里当保姆的妹妹告诉她的），她便尽力照顾我，令我十分感动。&lt;/p&gt;
+&lt;p&gt;东方哲学和神秘主义学者通过翻译东方神秘主义的基础文本，使人们能够研究古代印度、波斯、阿拉伯和埃及的文献。但他们中的一些人也过着双重生活：一方面是大学教授，另一方面则是按照安特万·法夫勒（Antoine Faivre）关于西方秘教的定义模式，为弟子们进行古典意义上的灵性指导。该模式包括四个内在要素和两个外在要素：神圣知识的秘密传授、媒介的概念、普遍对应关系的教导、活的自然和宇宙的概念，以及所有知识都以个人转化作为最终目标的秘教追求。&lt;/p&gt;
 
-&lt;p&gt;她的家是在托农城外，每逢我晚上到托农城里去时（有时是到火车站去接我的妻子），她总能找到一个借口，叫她的丈夫提了一个灯笼陪我去。“克鲁泡特金先生，请你稍等，”她总是这样对我说：“我的丈夫也要进城去买点东西，你知道他总是带灯笼的。”有时候，她请她的兄弟远远地跟着我，不让我知道。&lt;/p&gt;
+&lt;p&gt;比达·丹达隆（Bidia Dandaron, 1914-1974）是通过与东方灵性导师亲自接触进行东西方秘教交流的一个例子。这位来自布里亚特地区的喇嘛萨满教法师在俄罗斯和西方都鲜为人知，直到最近才被人们所认识。&lt;/p&gt;
 
-&lt;p&gt;-&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/BfLdeTr.png&quot; alt=&quot;image09&quot; /&gt;
+▲ Bidia Dandaron, 1914-1974&lt;/p&gt;
 
-&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;居住伦敦一年——英国社会主义精神复兴之最初的征兆——去托农——密探——伊格纳节夫与恐怖主义者议和——1881年与1882年的法国——里昂织工的贫苦生活——里昂某咖啡店被炸——我的被捕与判罪&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;丹达隆生于1914年，在布里亚特地区长大，成为藏传佛教的受戒僧人。1917年后，他被指定为计划中的布里亚特-蒙古神权政体的转世精神领袖。这些计划失败后，丹达隆在列宁格勒学习航空工程，但于1937年因泛蒙古阴谋罪被捕，并被送往劳改营关押十年。获释后，在1956年至1971年间，他受列宁格勒大学教授尤里·罗里奇（Iurii Roerich）的邀请，担任印度学和藏学讲师。无论是在莫斯科还是列宁格勒，他都聚集了一个秘密的圈子，周围环绕着忠诚的弟子，他们接受了他的入门仪式（initiation），其中包括像亚历山大·皮亚特戈尔斯基（Aleksandr Piatigorsky, 1919-1009）和鲍里斯·斯米尔诺夫（Boris Smirnov, 1891-1967）这样备受国际尊敬的学者。丹达隆还与布里亚特、蒙古和西藏的寺庙建立了个人联系，因此僧侣们在1970年代和1980年代经常来到列宁格勒，在私人公寓里举行讲座。丹达隆喇嘛本人一生大部分时间都在监狱外贫困度日，他因各种原因被捕三次，并在古拉格度过了14年，最终在1976年因遭受野蛮殴打去世。尽管他的弟子大多数也遭受过镇压，在劳改营呆了多年，但他们至今仍然是他坚定而忠诚的追随者。由于在布里亚特地区，藏传佛教一直与萨满教融合在一起，因此丹达隆的影响也代表了萨满教的影响，萨满教是西伯利亚土著居民的秘教宗教（直到1960年代一直是一个活着的传统），它是西俄罗斯唯一的一种此类宗教。&lt;/p&gt;
 
-&lt;p&gt;1881年10月或11月，我的妻子考试完毕，我们马上从托农去伦敦，在那里住了将近十二个月。从那时到现在没有几个年头，但是我可以说，当时伦敦和英国全国思想文化生活与较后时期大不相同。大家知道，在四十年代，英国差不多是欧洲社会主义运动的先导。这个伟大运动当时深深地影响了工人阶级，现在大家称为科学社会主义或安那其社会主义的理论在当时都已提出来了，不过在以后多年的反动时期中，这个大运动停顿了下来。在英国也和在欧洲大陆一样，大家都忘记了这个运动。而法国著作家们笔下的“无产阶级的第三次觉醒”，在英国还没有开始。1871年的农业委员会的工作，在农业劳动者里面所做的宣传，基督教社会主义者的以前的努力，当然都为开辟未来的道路做了一些工作。但是亨利·乔治的《进步与贫困》出版后所引起的社会主义情绪在英国的勃兴，在当时（1881年）也还没有发生。&lt;/p&gt;
+&lt;h4 id=&quot;4民间疗愈和神秘主义&quot;&gt;4、民间疗愈和神秘主义&lt;/h4&gt;
+&lt;h4 id=&quot;folk-healing-and-mysticism&quot;&gt;Folk healing and mysticism&lt;/h4&gt;
 
-&lt;p&gt;我当时在英国过的一年生活真正是流放人的生活。对于一个抱有先进的社会主义思想的人，这里是没有自由空气可以呼吸的。我在1886年回英时所看到的那个发展得生气蓬勃的社会主义运动，在这时连一点预兆也没有。彭斯、钱毕昂、哈弟等工人运动领袖当时都还没有出现；费边派也不存在；莫理思还没有自称是一个社会主义者；至于工会，它们仅限于伦敦少数几个特权行业，对于社会主义是敌视的。社会主义运动之唯一的积极活动的、公然的代表就是海因德曼夫妇以及在他们周围聚集的少数工人。1881年秋天，他们举行了一个小小的会议，我们常常开玩笑地说（其实这句话也差不多是实情），海因德曼夫人在她的家里接待了大会全体人员。至于那多少带一点社会主义色彩的激进派的运动，虽然在人心里已经产生，但是还没有公开明白地表现出来。四年以后出现于公众生活中的那一大群知识阶层男女，他们虽不公开相信社会主义，却也参加了种种和民众的幸福与教育有关的运动，而使英吉利和苏格兰的每个城市后来都有一种改革的新空气，都有一群新的改革家。然而在1882年看不到有这样一群人。自然，这些人当时已经存在了；他们在思想，他们在发言；一个广泛的运动所必需的要素都已经有了。但是因为他们找不到一个可以吸引人的中心，如像后来成立的社会主义团体那样；因此，他们都消失在群众中间；他们当时彼此都不认识，而且对他们自己也没有明确的认识。&lt;/p&gt;
+&lt;p&gt;这一领域在一定程度上与大学的东方和东方研究重叠，因为学术东方学家翻译的东方神秘主义古籍，为对个体灵性、内在疗愈感兴趣的人们开辟了新视野，并导致一些人秘密练习冥想和瑜伽。20世纪70年代和80年代初期，瑜伽作为开发“隐藏的人类潜能”的官方活动的一部分，成为一项相对流行的运动。许多关于瑜伽的文章发表在科普期刊上，但在这里，瑜伽再次以一种非常矛盾的方式被对待：对公众而言，它被积极地宣传为一种单纯的保健和体育锻炼方式；而在私下非官方的瑜伽练习圈子里，人们被引导去接触瑜伽更深层次的内容，并打开内在精神疗愈的可能性。然而，在1980年之后，随着另一场无神论运动的开始，瑜伽被彻底禁止。&lt;/p&gt;
 
-&lt;p&gt;柴可夫斯基当时也在伦敦，我们于是像从前那样地开始在工人中间传布社会主义。我们得着几个英国工人的帮助（他们中间有的是我们在1881年的大会上认识的，有的是因为对于控告约翰·莫斯特感着不平而接近社会主义者的），便到激进派俱乐部中去演说俄国问题，俄国青年“到民间去”的运动以及一般的社会主义。听讲的人数少得可笑，很少有超过十二个人的时候。偶尔有一位胡须灰白的老宪章运动者在听众中站起来，向我们说，我们现在所说的在四十年前就有人说过了，当时大受劳动群众的热烈欢迎，但是现在全都完了，而且没有希望再使死灰复燃了。&lt;/p&gt;
+&lt;p&gt;需要指出的是，印度是苏联的重要盟友之一。尼古拉·洛里奇（Nikolai Roerich）提倡的1935年和平条约（类似于国际联盟和联合国的做法）是官方赞成的关系之一。尽管洛里奇在公众认知中只是一位前卫艺术时代的艺术家，但他也被一些人视为神智学思想家和神秘主义者，尤其是在1958年他的神秘主义绘画首次公开展览之后。这可以作为一个例子，说明苏联晚期另类文化与官方意识形态的微妙关系。某些替代性精神健康的术语和概念显然只在俄罗斯内部交流的封闭圈子里使用，并且一直沿用至今，例如“健康学”（valeology）这个词，它指的是受洛里奇运动启发的“一种特别关注整体健康的俄罗斯科学”；另一个例子是“意念集合体”（egregore）这个词，由丹尼尔·安德烈耶夫（Daniil Andreev）提出，用于描述“人类心理集体放射的各种物质形态”。&lt;/p&gt;
 
-&lt;p&gt;海因德曼刚刚出版了他的《大家的英国》，这是一本阐释马克思主义社会主义的出色的书。我还记得在1882年夏天，有一次，我很诚恳地劝他创办一份社会主义的报纸。我告诉他说，我们当时创办《反抗者》的时候，经费是多么的少；还对他说，如果他愿意尝试，他一定会成功。但是当时前景是如此不令人乐观，甚至海因德曼本人也认为尝试一定会失败，除非他有钱来支付一切费用。当时他也许是对的，但是不到三年以后，当他创刊《正义》时，工人却热心支持他；到了1886年，就有了三份社会主义的报纸，而社会民主联盟也已经是一个很有势力的团体了。&lt;/p&gt;
+&lt;p&gt;这些理论和疗法从20世纪60年代后期开始出现在小型地下团体中。它们与其他替代性精神健康和补充疗法概念一起流行，既包括俄罗斯传统的“民间疗愈术”（folk healing）（znachkharstvo、narodnoe tselitelstvo），也包括西方新时代运动引进的疗法，例如重生疗法、通灵术、人体动觉学和全息呼吸疗法，这些疗法直到90年代才在大众层面上流行起来。民间疗愈师通常是受过教育程度不高的流浪农民，他们充满魅力，被神话成各种人物，从“魔法师”（kolduny）到“圣愚”（yurodivy）。传统民间疗愈术和魔法的信仰和实践深深植根于俄罗斯文化，并从苏联时代延续到了后苏联时代。民间疗愈师使用草药和祖传知识进行治疗，这些知识通常在家庭或村里的老妇人（babki）之间代代相传。许多这样的疗愈师似乎拥有超感能力，并在治疗中使用咒语。与流行的植物疗法机构一样，民间疗愈师不一定拥有神秘主义信仰，但许多人都有“双重信信仰”（dvoeverie）的特点；也就是说，他们将异教自然宗教和神秘的基督教信仰混合在一起。东方医学则有所不同，因为东方医学将一切都定义为精神层面的，不会将身体、思想和灵魂分开。一些专家，例如教育科学学者瓦迪姆·罗津（Vadim Rozin, 1937-），会进行半公开的讲座，介绍中国民间医学和生物场理论，并引用大量被禁读的文献。精神疗愈是那些致力于发展内心本性的人们的追求。通过练习冥想、瑜伽、素食主义和各种心理技术，这些人旨在转化自我，从而开发人类潜能。&lt;/p&gt;
 
-&lt;p&gt;1882年夏天，达勒姆矿工举行一年一度的大会时，我用嗑嗑巴巴的英语向他们演说。我又在纽喀斯尔、格拉斯哥和爱丁堡等地演讲俄国的革命运动，大受欢迎。散会以后，成群结队归家的工人在街上齐声向虚无主义者欢呼。但是我的妻子和我两个人却在伦敦感觉到非常寂寞，我们想在英国唤起一个社会主义运动的努力看来又是那样没有希望，我们便决定在1882年秋天动身再回到法国去。我们本也知道到了法国我不久一定会被逮捕，但是我们彼此向对方说：“法国监狱总比这座坟墓好。”&lt;/p&gt;
+&lt;p&gt;民间信仰得以延续的一个例子是农夫波尔菲里·伊万诺夫（Porfiry Ivanov, 1898-1983），他是最受欢迎的俄罗斯瑜伽大师之一。在35岁时，经历了一次神秘的疗愈体验后，他开始过一种极端的回归自然的生活方式，放弃所有物质财产，拒绝穿衣服（只穿短裤）或鞋子，只摄取最少的食物。尽管在1960年代遭到多次逮捕、监禁和精神病院的强制治疗，伊万诺夫还是继续过着苦行神秘主义者和自然疗愈师的流浪生活，遵循基督教和异教信仰，试图突破肉体极限，实现永生。虽然受教育程度不高，但他还是为越来越多的追随者写下了日记和教学文本。伊万诺夫尤其是在1983年去世后成为一个崇拜偶像。一些人接受了他的苦行养生哲学和实践；另一些人则选择将他尊为俄罗斯自然界的圣人。在后苏联时代，伊万诺夫被官方东正教会斥为新异教精神分裂症患者，但他仍然是一位非常受欢迎的英雄人物，在官方大众媒体上被广泛宣传，在互联网上成为偶像，并且是他的追随者团体“Ivanovtsy”的精神领袖。&lt;/p&gt;
 
-&lt;p&gt;那些爱说进化迟缓的人应该研究一下英国社会主义的发展史。进化是慢的，但是它的速度并不是永远一致。它有酣睡的时候，也有突然猛进的时候。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/ZlXacg1.png&quot; alt=&quot;image10&quot; /&gt;
+▲ Porfiry Ivanov, 1898-1983&lt;/p&gt;
 
-&lt;p&gt;我们又定居在托农，住在我们的旧房东散索夫人的家里。我的妻子有一个兄弟，患肺病垂危，已经到了瑞士，这时便来与我们同住。&lt;/p&gt;
+&lt;h4 id=&quot;5重塑传统主义的案例&quot;&gt;5、重塑传统主义的案例&lt;/h4&gt;
+&lt;h4 id=&quot;an-example-of-reinvented-traditionalism&quot;&gt;An example of reinvented Traditionalism&lt;/h4&gt;
 
-&lt;p&gt;我从来没有像我住在托农的两个月中看到过那样多俄国密探。我们刚刚租好房子，就有一个自称是英国人的可疑人物来租房子的另一部分。毫不夸张地说，一伙伙的俄国密探包围了我的住宅，用种种借口想进门来，否则就是两人、三人、四人一队在门前走来走去。我可以想象他们会写出多么有趣的报告，一个密探总得报告。如果他老实说他在街上站了一个星期，什么诡秘的事也没有见到，那么他很快会被扣去一半薪水甚至被解职。&lt;/p&gt;
+&lt;p&gt;代表神秘地下“致病信念系统”（pathogenic belief-system）中最离奇的团体之一是以列宁格勒的弗拉基米尔·舒克托莫夫（Vladimir Shuktomov, 1957-1987）为核心的昆塔瑜伽团（Kunta-Yoga group），他以托沙（Tosha）的名字成为传奇。在20世纪70年代末，年轻的不合群者拒绝了政治异议人士的意识形态愤怒，受到了鲍里斯·格列宾谢科夫（Boris Grebenshchikov）、维克托·琴科（Viktor Tsoi）以及嬉皮士反文化的启发，这位已经在苔原上进行了孤独的生存训练的年轻学生辍学生托沙，拥有心灵能力，开发了一套符号和象形文字（Dissa），据称，这种符号系统可以让任何暴露于这种系统或控制扩展意识的心理技术的人唤醒魔力。他声称，这个系统复兴了一种古老的印度瑜伽技术，但事实上，他的纲领性口号“只做你真正想做的事！”让人更想起了阿莱斯特·克劳利（Aleister Crowley）的信条“做你想做的！”&lt;/p&gt;
 
-&lt;p&gt;这时正是俄国秘密警察的黄金时代。伊格纳节夫的政策已经有了功效。有两三个警察机构彼此竞争，每个都有很多的钱可以随意花用，从事最放肆的阴谋。举一个例子：一个警察机构的首领苏台金上校和一个名叫德加叶夫的人（苏台金上校后来就死在他的手里）合谋，向日内瓦的革命者告发伊格纳节夫手下的密探，而且给恐怖主义者以种种必要的便利去暗杀内务大臣托尔斯泰伯爵和弗拉季米尔大公。苏台金说如果托尔斯泰被杀，他就会被任为内务大臣，有独裁的权柄，沙皇本人就完全在他的掌握之中。俄国秘密警察的这种活动肆无忌惮，后来竟敢把巴腾堡亲王从保加利亚绑架到俄国，可谓达到了顶点。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/FGXtIjF.png&quot; alt=&quot;image11&quot; /&gt;
+▲ Vladimir Shuktomov&lt;/p&gt;
 
-&lt;p&gt;法国警察也提高了警戒。“他在托农干些什么？”这个问题使他们很不放心。我还继续在编《反抗者》，并且给《大英百科全书》和《纽喀斯尔纪事报》写稿。但是根据这种事编造些什么呢？&lt;/p&gt;
+&lt;p&gt;昆塔瑜伽团的主要任务是挑战生死界限，克服死亡恐惧，从而创造出无限力量、隐身和灵力治疗能力的感知。托沙极具磁性的人格魅力提供了一条通过获取和控制生命和意识的隐秘力量来最终解脱的捷径。大约二十名化学系学生在经历了一些冲击疗程、类似萨满之旅的出体体验和自发性治愈（据称一名成员的肺结核被治愈）之后，他们开始一起生活。当他们中的大多数人被开除出共青团，失去奖学金，一些公寓被克格勃搜查后，他们放弃了普通的生活和工作，全身心投入自我转化的项目。20世纪80年代初左右，包括一个带孩子的家庭在内的25名学生，准备放弃他们在列宁格勒的生活，跟随托沙的建议去任何地方。他们首先搬到了亚美尼亚的一个偏远山区，在那里他们在荒野扎营。后来，随着冲突的出现，一些成员退出了或者被当地警察赶走。回到列宁格勒后，他们引起了克格勃的注意，因此一些最忠诚的人跟随托沙躲了起来。为了逃避逮捕，他带着一个小团体去了俄罗斯西北部古老的卡累利阿森林。这个实验以悲剧收场，在当地居民的告发下，他们不得不再次逃跑；一些人自杀，另一些人被关进精神病院；只有少数人幸存并移民。托沙本人失踪在森林里，他被告发、逮捕、释放，最后他在几个月后被发现死于帐篷里。这个团体变得传奇，但幸存的成员对他们遭受的创伤经历和据称导致这种毁灭的神秘符号保持沉默。其中之一谢尔盖·别利亚耶夫（Sergey Beliaev），经过多年的移民后回到俄罗斯成为一位神秘疗愈老师，他写了一本回忆录，被翻译成多种语言，将托沙赞美为“俄罗斯神秘主义者”&lt;/p&gt;
 
-&lt;p&gt;有一天，一个本地的宪兵来看我的女房东。他在路上听见一架机器的声音，就大惊小怪，以为我家里有一架秘密印刷机。他便趁着我不在家的时候来请我的女房东带他去看印刷机。她回答说没有什么印刷机，宪兵听到的也许是她的缝衣机的声音。对这样平淡的解答宪兵当然不会满意，竟强迫女房东使用她的缝衣机，好使他在房里、房外听这声音是否就是他所听到的。&lt;/p&gt;
+&lt;h4 id=&quot;东西方的连接&quot;&gt;东西方的连接&lt;/h4&gt;
 
-&lt;p&gt;“他一天到晚干些什么呢？”他问我的女房东。&lt;/p&gt;
+&lt;p&gt;西方的新时代运动在20世纪60年代通过摇滚音乐、新兴宗教运动、文学作品以及与国外杰出另类文化代表的个人接触传入苏联。甲壳虫乐队和其他摇滚音乐家，尤其是乔治·哈里森（George Harrison）在1966年前往印度跟随玛哈里希·优吉（Maharishi Mahesh Yogi, 1918-2008）学习超觉冥想，并推广新成立的奎师那运动（Krishna movement）；新印度教导师斯里·钦莫伊（Sri Chinmoy, 1931-2007）获得联合国教科文组织的官方认可，这些都对苏联产生了影响。苏联充满热情的学生歌迷通过磁带复制和其他创造性技术传播他们的音乐，并帮助组织崇拜团体。一些苏联摇滚音乐家，比如鲍里斯·格列别施奇科夫（Boris Grebenshchikov），参与了新时代运动，后来成为东西方交流的中间人。&lt;/p&gt;
 
-&lt;p&gt;“他写东西。”&lt;/p&gt;
+&lt;p&gt;秘鲁裔美国人类学家卡洛斯·卡斯塔尼达（Carlos Castañeda）的著作《唐望的教诲》（Teachings of Donfuan, 1968）对迷幻型新时代运动产生了巨大影响。1969年，神秘生物学家瓦西里·马克西莫夫（Vasilii Maksimov）在前往东西伯利亚的旅行中发现了这本书，并立即将其翻译成俄语，后续所有系列书籍也都翻译成了俄语。1971年，总部位于纽约的国际奎师那意识协会（ISKCON；Hare-Krishna，俄语译作Vaishnavy）创始人巴克提韦丹塔·斯瓦米·帕布帕达（A.C. Bhaktivedanta Swami Prabhupada, 1896-1977）造访苏联后，地下奎师那组织开始在苏联建立。1970年，希拉·奥斯特兰德（Sheila Ostrander）和林恩·施罗德（Lynn Schroeder）参加了1968年在苏联举办的第一次超心理学大会，她们的著作《铁幕后的超感官发现》（Psychic Discoveries Behind the Iron Curtain）在西方引起了极大的兴趣。此外，斯坦利·克里彭纳（Stanley Krippner）等美国专业超心理学家在访问苏联期间也与苏联同行建立了个人联系。&lt;/p&gt;
 
-&lt;p&gt;“他不能一天写到晚。”&lt;/p&gt;
+&lt;p&gt;迈克尔·墨菲（Michael Murphy, 1930-）创立的埃萨伦研究所（Esalen Institute）是西方新时代运动的主要机构之一，他多次访问苏联，与埃萨伦研究所的其他人员一起开启了高级别的交流渠道。他第一次访问苏联（1971年）是私下组织的，之后几次访问则是苏联科学院美国和加拿大研究所的间接邀请（实际上是由克格勃促成）。1971年，墨菲经由中欧国家进入苏联，在那里他之前曾会见过其他神秘主义科学家。他和一群朋友，包括捷克精神病学家和超个人心理学创始人斯坦尼斯拉夫·格罗夫（Stanislav Grof, 1931-），在莫斯科市中心的酒店住了几个月，会见了科学家、灵媒和超心理学家，直到他们的访问威胁到苏联同事的安全。让美国这些热情推崇普遍意识的人士惊讶的是，他们还发现了一些差异，例如基督教神秘主义和宗教哲学的强烈影响，以及苏联人自己发明神秘主义词汇的特殊自倾向。美国外交官亚瑟·哈特曼（Arthur Hartmann）促进了俄罗斯和美国新时代成员之间的进一步交流，他因为一些个人关系而对埃萨伦研究所有好感。当他成为里根总统时期驻莫斯科大使时，他家经常举办活动和会议，接待苏联摇滚音乐家和灵性治疗师。&lt;/p&gt;
 
-&lt;p&gt;“中午他在园里锯木头，每天下午四点到五点，到外面去散步一次。”——那时是11月。&lt;/p&gt;
+&lt;p&gt;对俄罗斯神秘学界来说，对美国新时代运动的拥抱反应是矛盾的。由于铁幕的限制被迫处于孤立状态，并且意识到西方来源的信息接收具有高度选择性和偶然性，俄罗斯知识分子们并没有逃脱普遍的竞争态度。他们一方面对西方类似运动充满好奇，另一方面又固守自我神话的倾向。访客们经常被考验、挑衅和质疑，以证明他们与俄罗斯主人的强大超能力和“隐藏资源”相比并不兼容。苏维埃垮台后，许多俄罗斯人开始旅行，而“想象中的西方”（用尤尔恰克的话来说）受到了现实遭遇的挑战，随之而来的是幻灭感。当来自西方的宗教和神秘教派浪潮在90年代下半叶消退，以及俄罗斯东正教通过创建专门的“教派研究”（sektovedenie）部门重新确立其影响力时，大部分神秘主义地下组织都停止了活动。许多以前的重要“导师”选择了东正教信仰，有些人甚至以极端的方式皈依，成为僧侣并消失在修道院生活中；另一些人则选择移民或在东西方之间建立跨国生活。&lt;/p&gt;
 
-&lt;p&gt;“呵！对了！天色已晚的时候，对不对？”他就在他的记事册里写道：“每出必在晚间。”&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/xEXhoks.png&quot; alt=&quot;image12&quot; /&gt;
+▲ Carlos Castaneda, 1925-1998&lt;/p&gt;
 
-&lt;p&gt;俄国密探为什么这样特别监视我，我当时不十分明白。不过这一定与下面的事多少有点关系。伊格纳节夫被任为首相时听从了前巴黎警察总监昂得里欧的劝告编造了一个新计划。他派了许多他的手下人到瑞士去，其中有一个创办了一份杂志，表面上主张略为扩大俄国的地方自治制，但是实际上，主要的目的在于攻击革命党人并把亡命者中反对恐怖活动的人联合在这一旗帜之下。这当然是挑拨离间的一种方法。后来，执行委员会的委员们差不多都在俄国被捕，只有两个亡命到巴黎来，伊格纳节夫便派了一个人到巴黎来提议讲和。他答应对亚历山大二世时代暗杀沙皇一案的犯人，此后不再判处死刑，即使对那些以前没有抓到，后来落在政府手里的人也不处死刑。他答应把车尔尼雪夫斯基从西伯利亚召回；他答应指定一个调查委员会把那些未经审判而流放到西伯利亚去的人的案件一一改判。同时，他要求执行委员会答应在皇上举行加冕礼以前不企图暗杀他。也许还提到过亚历山大三世打算实施的有利于农民的改革。协议是在巴黎达成的，双方都遵守。恐怖主义者停止了敌对活动。也没有一个人因为参与以前的阴谋而被处死刑，后来为这一罪名被捕的人都被囚禁在席鲁塞尔要塞这个俄国的巴士底监狱里，十五年来从来没有他们的消息。其中一部分至今还囚禁在那里。车尔尼雪夫斯基从西伯利亚召回以后只许他住在阿斯特拉罕，与俄国思想界完全隔绝，不久便死了。调查委员会巡行西伯利亚，释放了一些流放人，又给其余的人定了一个流放的年限。我的哥哥亚历山大的流放期限就被这个委员会延长了五年。&lt;/p&gt;
+&lt;h3 id=&quot;结论&quot;&gt;结论&lt;/h3&gt;
 
-&lt;p&gt;1882年我在伦敦的时候，有一天，有人告诉我，一个自称是俄国政府派来的真正代理人（他有证据可以证明这一点），想来和我开始谈判。“请告诉他，如果他敢进我的门，我一定把他推下楼去。”这就是我的回答。伊格纳节夫大约由此便以为执行委员会虽然答应不暗杀沙皇，但是安那其主义者也许会有此企图，所以想把我除掉。&lt;/p&gt;
+&lt;p&gt;我们可以总结出，在苏联后期，存在着广泛的异端思潮，反对官方规定的“理性宗教”和“科学无神论”。这些思潮的圈子既存在于官方机构内部，也存在于文化地下。他们既追求神秘知识和神秘实践，也探索艺术创造力、感性和疗愈等方面。这里描述的许多思想和实验性做法在西方看来似乎很熟悉，可以被认为是西方新时代的变体。根据科林·坎贝尔（Colin Campbell）的说法，苏联神秘学地下思潮可以被描述为一种“神秘主义环境”。虽然单个圈子或神秘主义团体大多是短暂的，成员流动性很大，但与之形成对比的是，神秘主义环境却是社会的一个恒常特征。坎贝尔将神秘主义环境定义为社会的“文化地下”，它包括“所有偏离主流的信仰体系及其相关实践。非正统科学、外来异端宗教和另类医学都构成了这种地下文化的一部分”。尽管坎贝尔只关注西方新时代运动，但我认为他为神秘主义环境确定的总体功能同样适用于苏联后期：&lt;/p&gt;
 
-&lt;p&gt;1881年和1882年中，法国安那其主义运动有很大的发展。大家通常以为法国人思想中是反对共产主义的。国际劳工协会因此在宣传时便以集体主义这个名词代替。那时集体主义的意义是“生产资料公有，至于消费方面，或根据个人主义，或根据共产主义，每一个集体各有自由决定之权”。实际上，法国人思想中所反对的，不过是旧派“共同居住论者”（Phlanstére）的寺院式共产主义。当汝拉同盟在1880年大会上大胆宣称它信奉安那其共产主义也就是自由共产主义时，安那其主义在法国得到了极大的同情。我们的报纸开始在法国流传，与法国工人来往的信件也非常之多，在巴黎以及某几省，尤其是里昂一带，一个重要的安那其主义运动很快发展起来。我在1881年从托农到伦敦的路上，曾在里昂、圣·艾蒂安、维埃纳各地停留、演讲。我在这些城市里发现许多工人都准备接受我们的思想。&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;神秘主义环境是文化“传播”的主要机构；&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;它是一个主要的文化创新机构；&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;它作为一个文化“基因库”，通过传递和创造大量的文化“突变”，增强社会文化适应的潜力；&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;它也作为一个“负面参照群体”作用于文化正统的代言人，通过执业科学家和相关实践者来促进对主流科学范式的遵守；&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;神秘主义环境的兴盛与“外来”文化接触的数量和主流本土文化的解体程度有关；&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;神秘主义运动代表了对“精神匮乏”的普遍反应。&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;p&gt;在1882年年尾，里昂一带发生了一个可怕的危机；丝织业已告瘫痪。织工们一贫如洗，以致成群结队的小孩每天早晨站在军营门口，等士兵们省下的一点面包和汤水给他们吃。布朗热将军就是从这时出名的，因为他允准士兵们分给小孩食物。里昂地区的矿工也处于朝不保夕的境地。&lt;/p&gt;
+&lt;p&gt;然而，有一个主要的区别：苏联俄罗斯是一个封闭的社会。政治压制、国家控制、意识形态审查，以及最重要的是，正统的苏联意识形态根深蒂固的道德清教主义，以及传统的东正教宗教，无疑对“俄罗斯新时代”产生了强大影响。这使得团体之间很难建立联系、建立网络，几乎不可能尝试替代的生活方式。这些条件对俄罗斯的神秘复兴产生了多大的影响，以及以何种方式影响，还有待进一步讨论，只有未来的研究才能进行最终评估。但我认为，一些典型特征反映了威权社会的影响：这些团体的零散化，但自我封闭和自我指向的结构，阴谋的影响，对某些有魅力的个人（个性）崇拜，以及西方和东方影响的特定综合，无论哪种都是可获得的，都存在于铁幕之后。&lt;/p&gt;
 
-&lt;p&gt;我知道当时人们情绪处于极大的骚动中，但是我在伦敦住了十一个月，已失去和法国的运动的密切接触。我到托农以后不到几个星期，就在报上看到关于蒙素·勒·明勒的矿工的消息：他们受着“极端天主教徒”的矿山主人的种种盘剥，愤而开始了一个运动。他们秘密开会商议总同盟罢工的事。矿山附近所有的道路本来都竖有石十字架，他们把这些十字架或是推倒，或是用炸药炸毁。这些炸药是他们在地下干活时经常使用的，有时就存在他们手里。同时里昂的骚动也愈演愈烈。在里昂，安那其主义者的数目不算少。每逢投机的政客开会，他们总要去加入演说，如果被拒绝，他们就强占讲台。他们一上讲台便提议把矿山、一切生产资料以及住宅等等马上完全充公。他们提出的议案大受听众欢迎，很热烈地被通过了，使中产阶级大为恐慌。&lt;/p&gt;
+&lt;p&gt;随着科学家对神秘事物进行研究，许多以前被认为是神秘的事物现在在科学中找到了依据。相反，由于冷战时期科学的秘密政治，神秘科学有时可能会被科学合法化，无论它们看起来多么异想天开。最后，中央集权和意识形态体系通过增加对非理性的迷恋，影响了地下社会本身：对于一些人来说，政府的保密性创造了这样一种可能性，即曾经无法理解的事物可能有科学的解释，已知或将来会被发现。其他人被一些“完全陌生、秘密和不可理解”的事物所吸引，在神秘、神秘或秘传事物中找到了它们。&lt;/p&gt;
 
-&lt;p&gt;工人的愤激日甚一日，他们反对投机派的市政府委员和政党领袖；他们还反对报界，因为报界把极其尖锐的危机不当回事，不去设法缓解那广泛的贫困。在这种情形之下，穷人们总是特别憎恨那些声色犬马、纸醉金迷的场所。在穷困与惨苦的时刻，这种地方更令人刺目，因为在工人看来，这些地方就代表着富人阶级的自私与堕落。工人们尤其憎恨的一个地方，是柏尔库戏院的地下咖啡馆。这个咖啡馆通宵营业，从外面可以看到一批新闻记者和政客们拥抱着娼妓大吃大喝，一直到天明。工人们每次开会的时候，对这个咖啡馆总要恶狠狠地说些指桑骂槐的话。有一夜，不知道什么人拿一管炸药放在那个咖啡馆里面，点燃了引线。一个工人（他是一个社会主义者）偶然看到了，便跑过去想把引线弄灭，却被炸死。此外还有几个正在那里饮酒作乐的政客也受了轻伤。&lt;/p&gt;
+&lt;p&gt;我认为，一些显著的差异，最后，可以确定为俄罗斯新时代的特定特征：&lt;/p&gt;
 
-&lt;p&gt;第二天，又有一管炸药在招兵局门口爆炸，有传说是安那其主义者想把里昂山上那座极大的圣母像炸毁。只有在里昂或里昂附近住过的人才能明白那地方的居民和学校直到现在还受着天主教牧师多大的控制；而且那里的男子憎恨神职人员到了怎样的地步。&lt;/p&gt;
-
-&lt;p&gt;里昂的资产阶级大起恐慌。六十个左右安那其主义者被捕。他们都是工人，只有爱米尔·戈蒂耶一人是属于中产阶级的，他当时正在里昂旅行演讲。里昂各报催促政府把我也逮捕起来，说我是这次骚乱的首领，特为从伦敦赶来指挥这个运动的。于是俄国密探又在我住的那个小城里出现，人数令人瞩目。我几乎每天都接到一些信，显然是国际警察的密探寄来的，信里不是说什么炸药阴谋，就是莫名其妙地告诉我：有一批交给我的炸药已经运出。我在每封信上面都写明“警察国际”字样，集在一起，为数很可观；后来法国警察到我家来搜查的时候，就把这些信拿去了，但是他们从不敢在法庭上发表出来，也永没有交还给我。&lt;/p&gt;
-
-&lt;p&gt;在12月里，我住的房子被他们进行一次俄国式的搜查。而且我的正要去日内瓦的妻子在托农车站被捕，还被人搜了身。但是他们当然搜不出一点不利于我或可以牵连到别人的东西来。&lt;/p&gt;
-
-&lt;p&gt;十天过去了，在这时间内如果我想走，很可以自由地离开。我接到好几封信都劝我走。其中有一封是一个未具名的俄国友人寄来的，也许是外交团的一个成员，好像认识我；他在信里说，如果我不愿意做正在缔结的法俄罪犯引渡条约的第一个牺牲者的话，最好立刻走开。我没有走，而且我看到伦敦《泰晤士报》登载一条电文说我已经离开托农，我便写了一封信给这家报馆，把我的住址告诉他们，并且宣称我的同志中间被捕的人是这样多，我无意离去。&lt;/p&gt;
-
-&lt;p&gt;12月21日夜间，我的内弟死在我的怀里。我们早已知道他的病是不治之症，但是看着一个年轻的生命在很勇敢地和死搏斗了许久以后，在你的眼前渐渐消失，真是可怕。我的妻子和我悲痛之极。三四个钟头以后，那阴暗的冬季的早晨刚刚发白，宪兵就走进我的屋里来逮捕我。鉴于我妻子的心情，我要求他们允许我暂时陪伴她到她的弟弟入土后为止，以我的人格担保，到了时候一定自己到监狱门口来。这个要求也被拒绝了，第二天夜里，我就被押解到里昂。爱利塞·邵可侣接到电报，知道我被捕，马上就来以他的伟大仁爱的胸怀，竭力安慰我的妻子，别的朋友从日内瓦来。虽然葬仪完全不用宗教仪式（在小城里这还是一件新鲜事），但是全城的人有一半来送殡，他们来是向我的妻子表示：贫苦阶级和诚朴的萨甫瓦农民同情我们，而是和他们的统治者对立的。在我受审期中，农民们同情地关注着审判，常常从他们山间的村里到城内来买报纸。&lt;/p&gt;
-
-&lt;p&gt;另外还有一件事也使我深为感动：一个英国朋友特地跑到里昂来。他是代表一个在英国政界很出名而且很受人尊敬的先生来的（1882年在伦敦时，我和他和他的家人度过许多幸福的时光）。他带来一笔巨款，要运动保释我出狱，同时我的伦敦友人又请他对我说，我完全用不着顾虑这一笔保释金，要紧的是立刻离开法国。不知怎么，他竟能自由见我，不受人监视（并不像我会见我的妻子时那样，在一个有两道栅栏的铁笼里）。他看到我拒绝这个提议，十分感动，正和我一样，我对这个伦敦朋友的友谊的表示也非常感动，——我对这位朋友和他的无限善良的夫人，早已深怀敬意。&lt;/p&gt;
-
-&lt;p&gt;法国政府当时希望有一桩使人民产生很深的印象的大案，但是政府无法把爆炸事件扣在被捕的安那其主义者的头上。因为要这样办，非把我们交给一个陪审团不可，而陪审团大概会无罪释放我们。政府于是用了一个非常阴险的办法，以国际工人协会会员的罪名判我们的罪。巴黎公社失败后，法国议会曾通过一项法律，凡是做过国际工人协会会员的人都可以被带到普通警察法庭里审判。最重的刑罚是五年监禁。而一个警察法庭当然不敢不迎合政府的意旨判罪的。&lt;/p&gt;
-
-&lt;p&gt;审判于1883年1月初在里昂开始，审了两星期左右。控诉的罪名简直是一个笑话，大家都知道里昂工人中没有一个加入过国际工人协会的。这个罪名完全不能成立，只要看下面的一件事就可知道。原告方面的证人只有一个，这就是里昂秘密警察的头目，他年事已高，法官们十分尊敬他。我应该承认他的报告里凡是事实都是正确的。他说：“安那其主义者已经掌握了居民，他们使机会主义者的集会开不成，因为每有这样的会，他们总来登台演说，宣传共产主义，宣传安那其主义，听众就跟着他们走。”鉴于迄今为止他的证词都是实在的，我便大胆地问他一句：“你在里昂听到过有人说起国际工人协会这一名称吗？”&lt;/p&gt;
-
-&lt;p&gt;“从来不曾听到过，”他不大高兴地回答道。&lt;/p&gt;
-
-&lt;p&gt;“1881年我从伦敦大会回来，尽力想在法国把国际工人协会恢复起来，我成功了没有？”&lt;/p&gt;
-
-&lt;p&gt;“你没有成功。法国工人认为国际工人协会不够革命。”&lt;/p&gt;
-
-&lt;p&gt;“谢谢你！”我对他说，于是面向检察官继续说道：“你看！你的控诉的罪名被你自己的证人完完全全推翻了！”&lt;/p&gt;
-
-&lt;p&gt;虽是如此，但我们依然以国际工人协会会员的罪名全数被判了罪：其中四个人被判最重的刑罚：监禁五年，罚金二千法郎；其余的人都被判一年至四年的监禁。事实上，控告人对于和国际工人协会有关的事从未企图加以证实。这件事他们似乎全然忘记了。他们只是请我们将安那其主义加以解释，我们照办了。至于那件炸药案他们提也没提。有一两个里昂同志提出它，请他们澄清，他们直截了当地回答：“你们并未为此受到控告，我们判你们罪，因为你们都是国际工人协会会员”——其实除了我一人以外，其余都不是。&lt;/p&gt;
-
-&lt;p&gt;这类审判总有一些笑料，这一次的笑话是我的一封信引起的。控诉毫无根据。许多法国安那其主义者的家里都被搜查过，但是他们仅仅搜出两封我的信。检察官想尽可能利用这两封信。一封信是给一个法国工人的，他感到失望消沉，我在信里对他说，我们现在生活在一个伟大的时代，大的改革不久就会到来，新思潮已经发生，而且在各处流传等等。这封信并不长，检察官在里面找不到什么。另外一封信共有十二页，是我写给另一个法国朋友的——他是一个年轻的鞋匠。他的生计是在他的房间里替一家商店做鞋。他左手边有一个小铁炉，在炉上天天自己烧东西吃；右手边有一小凳，在这上面他写出许多长信给同志们，用不着离开他的鞋匠的矮凳。只要他做了几双皮鞋，够他自己的费用（他生活过得极其简朴），还能寄点钱给他的乡下的老母，他就放下活儿花上好几点钟去写信，在信中他以了不起的智力和见识，演绎安那其主义理论的原理。现在这个人已经是一位著作家了，在法国很出名，为人大义凛然，无人不尊敬他。可惜，他会一口气写上八页或一打信纸，还没有一个句点；竟然连一个逗点也没有。有一天，我便写了一封长信给他解释：我们的思想写在纸上的时候，应该分成一组组句子，句子后面要加句号。每一句子又分成子句，子句后面要加逗点。这样读起来很清楚。我告诉他，事情很简单，只须稍加注意，他的文章一定会有所进步。&lt;/p&gt;
-
-&lt;p&gt;检察官在法庭上把这封信高声朗诵，还加上了可怜亦复可笑的评论。他在法庭上说：“诸位先生！你们都已经听到了，乍看起来，信里并没有什么。他不过给一个工人上一堂文法课……但是啊（说到这里他的声音因感情激动而颤抖）！这封信的目的，并不是要教育一个可怜的工人——这个工人大概是因为懒惰，没有在学校里受到教育。这封信的目的并不是要帮助这个工人获得正当生计……不！诸位先生！这封信是要使这个工人憎恨我们的伟大而完备的制度，好使安那其主义的毒素更容易灌输到他的心里，而使这个工人变成社会的一个格外可怕的仇敌啊……唉！克鲁泡特金的脚踏上法兰西国土的那一天，我们的法国就该倒霉啦！”他以妙极了的感情结束了他的演说。&lt;/p&gt;
-
-&lt;p&gt;在他演说的时候，我们忍不住像小孩子一样地笑；法官们也都大张着眼睛呆望着他，好像在对他说：“够了，够了！你太过火了！”但他仿佛什么也没有看见，只管装腔作势，悲壮激昂，越来越起劲，他真是用尽了气力来博得俄国政府的奖赏。&lt;/p&gt;
-
-&lt;p&gt;我们判罪以后，庭长不久就升官，被任为巡回法庭庭长。至于检察官和另外一个法官呢，说起来简直难以相信，俄国政府居然授予他们圣安娜十字章，而且法兰西共和国允许他们去接受。那有名的法俄同盟原来出自这里昂审判中。&lt;/p&gt;
-
-&lt;p&gt;这次审判为时两个星期，在审判期中，那些第一流的演说家，如工人伯纳尔和戈蒂耶等人极其出色地阐明安那其主义，他们的演说辞都登在各报上。所有被告的态度都十分坚决，自始至终宣讲我们的信条，在法国传播安那其主义思想上有很大的影响，而且肯定无疑对其他各国中社会主义的复兴起了一定的作用。&lt;/p&gt;
-
-&lt;p&gt;这次判罪极其无理，所以法国报界除了政府御用报纸以外，全都公开责备那些法官。便是那十分温和的《经济学家新闻》也公然反对，说“在法庭审判过程中，没有任何事实可以使人预见这样的判决。”原告方面与我们之间的争论，在舆论界看来是我们得胜了。立刻就有人在众议院里提议特赦，表决时居然有一百票左右投票赞成。以后这动议每年都提出来，投票赞成的人数也逐年增加，直到我们全被释放为止。&lt;/p&gt;
-
-&lt;p&gt;-&lt;/p&gt;
-
-&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;监狱制度在社会方面之恶果——在克来服中央监狱中——囚人的劳动——老囚人的悲惨境遇——囚人彼此间密切的来往——监狱之使人堕落的影响&lt;/code&gt;&lt;/p&gt;
-
-&lt;p&gt;审判终结以后，我在里昂监狱里又过了两个月光景。被判罪的同志大多数对警察法庭的判决提出了上诉，我们得静候上诉的结果。我与四个同志不肯在上诉状上签名，继续在我的“优待室”里劳动。我的好友马旦（一个维埃纳的织工）住在我隔壁的一间“优待室”。我们既已定罪，便可以一同散步。在两次散步之间，如果有什么要谈时，就用叩壁的方法通话，和在俄国一样。&lt;/p&gt;
-
-&lt;p&gt;我住在里昂时，已经开始明白监狱对于囚人有使他们堕落之可怕的影响，这使我无条件地谴责这整个制度。&lt;/p&gt;
-
-&lt;p&gt;里昂监狱是一座“现代化”监狱，按一人一房建筑的，形状像一颗星。每一道监房与另一道监房之间有一个沥青铺地的小院。天晴的时候，囚人就出来在露天里干活。大多数囚人的工作是打蚕茧取丝，成群结队的小孩在白天某一个时候也被带到这些小院里来。我时常从我的窗口观察他们，他们瘦小、衰弱，吃不饱饭——只能说是一些孩子的影子。他们的小脸上写着，他们的瘦弱发抖的身体很明白无误表露着：他们害着贫血症。非但在宿舍里，便是在小院里，在太阳下面，他们的贫血症也在日渐加重。这些孩子将来从这样的学校里出去，身体是毁了，意志消沉了，精力削弱了——他们会变成怎样的人呢？贫血症削弱人的精力，使人厌恶工作，使人的意志薄弱，智力衰退，想象力被引向邪路，它促成犯罪，不知要比多血质症高多少倍。这个人类的大敌是在监狱里造成的。而且，这些孩子们在这样的环境里所受的又是什么样的教育啊！单靠隔离，即使能够严格做到，也没有多大效力——何况根本做不到。一切监狱里的空气都在夸耀那“孤注一掷、铤而走险的身手”——这就是盗窃、欺诈以及其他同类反社会行为的实质。一代代的未来的囚犯，就在这些“幼儿园”里养成了。这些“幼儿园”，国家出钱维持，社会也默许它存在。为什么呢？不过是因为它不愿让人谈起它自身的病患并加以解剖罢了。“一个人年轻时候进过监狱，就会在监狱里过完一辈子。”这句话我后来时常听到，凡是关心刑罚制度的人都这样说。我眼看着这些孩子们，想到他们将来的苦命，我不能自已地问我自己：“究竟谁是真的有罪呢？是这些孩子呢？还是那些年年判决成百上千的孩子，使他们一生受罪的法官呢？”我很愿意承认法官的罪行是无意识的。但是所有被囚禁在监牢里的人，他们所犯的罪难道就像一般人以为的那样是有意识的吗？&lt;/p&gt;
-
-&lt;p&gt;我入狱以后不到几个星期，就有了另一点活生生的感受，然而这感受却没有引起过法官和刑法学者的注意。这就是，监狱制度（除了那有意无意的法律上的错误不用说外）有无数案件，使许许多多完全无辜的人所受的罪，比那个被判罪的囚犯本人所受的还更严酷。&lt;/p&gt;
-
-&lt;p&gt;我的几乎每一个同志的经济情况很可以代表工人阶级的中等境况。他们差不多都有家庭负担，或者有妻儿要养活，或有姊妹、老母依靠他的工钱过活。现在呢，这些女人都没有了依靠，只好尽力设法去找工做，有几个居然找到了，但是没有一个能够每天赚到一个半法郎。他们所挣的工资，每星期不过九个法郎，往往只有七个法郎，她们和她们的儿女就靠着这一点工资过日子。这样生活的结果就是：食不果腹，各方面的匮乏，女人和小孩的健康日益恶化，智力消损，精力减退，意志变弱。我因此明白，法庭宣布的判决在事实上使完全无辜的人受到种种的苦楚，而且在大多数的案件里，这些无辜的人所受到的痛苦，比被判罪的本人所受到的还更厉害。据说法律拿种种物质的和使精神堕落的困苦来惩罚犯罪的人。但是人生来就是这样：无论你把怎样的困苦加之于他，他渐渐都能习惯不以为意。他既然无法减轻这些痛苦，便只好忍受，过不了多久也就习惯了，好像对一项痼疾一样，久了成为习惯，也就没有感觉了。但是当他被关在牢里的时候，他的妻儿（即是那些平时靠他作工来养活的无辜的人）怎么办呢？他们所受的惩罚比罪犯本人所受到的还要残酷！我们习以为常地不去想这么一件极不公道的事。便是我自己也在是有了实际经历后才明白的。&lt;/p&gt;
-
-&lt;p&gt;1883年3月中旬，我们二十二个判决一年以上监禁的人被极其秘密地押到克来服中央监狱里。这在以前本是圣伯尔拿寺院，法国大革命时被改为济贫院，后来又改为“拘留兼感化院”。但是囚犯们甚至狱吏们自己也给它起了一个更适当的绰号“拘留兼腐化院”。&lt;/p&gt;
-
-&lt;p&gt;我们在里昂监狱里所受的待遇，与法国一般候审人所受的待遇一样，可以穿自己的衣服，可以从饭店里叫饭食进来吃，可以每月出几个法郎租一间较大的监房。我便趁这个机会努力替《不列颠百科全书》和《十九世纪杂志》写文章。不过到了克来服，我们应该受什么样的待遇，就成问题了。在法国，大家都承认，剥夺政治犯的自由，强迫他不能活动，已经是很重的刑罚了，不必再加别的惩处。所以狱中当局告诉我们，我们还是受候审人的待遇。我们可以有各自的房间，穿自己的衣服，不从事强迫劳动，而且不禁止我们抽烟。典狱还向我们说：“你们里面如果有人想做一点手工挣几个钱，便可以缝紧身褡，或是雕刻珍珠母的小东西。这些活儿挣钱很少；但是你们不能到牢内工场的制造铁床、画框之类商品的工厂里去作工，因为那样就要你们和普通刑事犯住在一起了。”和别的囚犯一样，我们也可以在狱中饮食店里买一些外加的食物和一品脱葡萄酒。这些东西都是价廉物美的。&lt;/p&gt;
-
-&lt;p&gt;克来服监狱给我的最初的印象是极好的。我们在早晨两三点钟坐在通常用来押解囚犯的火车上，关在那个窄小的箱子里面，这样走了一整天。到了中央监狱，我们被临时收容在惩戒监里，那里是一些通常的监房，不过它们极其清洁。虽然已经夜深，狱里居然特为我们预备好一顿热饭，很简单，但是质量很好，我们每人还能喝一大杯当地出产的好葡萄酒，这酒是狱中饮食店卖给囚人的，价钱很便宜，每瓶只要二十四生丁。典狱和狱卒对我们也都十分客气。&lt;/p&gt;
-
-&lt;p&gt;第二天，典狱把他打算给我们居住的房间指给我看。我告诉他，这些房间都很不错，不过我们有二十二人，这些房间未免太小一点，许多人挤在一起，容易生病。他于是从那所当年寺院院长的住宅，现在改为医院的房屋里，选出几个房间给我们。我们的窗前有一个小花园，再往前便可以饱览四围的田野美景。老布朗基在出狱前的三、四年内，就关在靠近这房屋的另一个房间里。在此以前，他是关在单身牢房内的。&lt;/p&gt;
-
-&lt;p&gt;我们一共得到三个很大的房间，另有一间较小的留给爱米尔·戈蒂耶和我两人在里面继续我们的文字工作。我们所以得到这样的优待，大概是因为一大批英国科学家的干预，他们在我被定罪以后立刻呈递了一份请愿书给法国总统，要求将我释放。许多《不列颠百科全书》的撰稿人，以及H.斯宾塞和斯温伯恩都签了名；维克多·雨果不但签了名，还加上几句热情的话。法国的舆论对于我们的判罪十分不满。当我的妻子在巴黎向人说我需要书籍，科学院就将它的藏书供我借用，E.勒南也写了一封动人的信给我的妻子，表示愿意把他的私人藏书听她使用。&lt;/p&gt;
-
-&lt;p&gt;我们还有一个小花园，可以在里面玩球。此外我们又在沿墙一带开了一条菜畦，种了一些蔬菜，在这块不过八十平方码的面积上，我们所得到的莴苣和红萝卜的数量之多，简直叫人难以相信；我们另外还种了一些花。不用说，我们马上就组织班次上课，在克来服的三年中间，我给我的同志讲授了宇宙志、几何与物理，还帮助他们学习外国语。他们几乎每人都学了一种外国语——英语、德语、意大利语或西班牙语，有几个还学了两种。我们有时还装订书报，这是在出色的《洛列百科全书》出版的一本小册子里学来的。&lt;/p&gt;
-
-&lt;p&gt;不过到了第一年年尾，我的身体又变坏了。克来服监狱是建筑在一块低湿的土地上，在这种地方疟疾是很容易发生的，我同时患了疟疾和坏血病。我的妻子当时正在巴黎求学，在伍尔茨的实验室里工作，准备参加理科博士的考试。她抛弃一切，跑来住在克来服的小村里。这个小村只有十几所房屋，聚在那监狱的极高的围墙脚下。这种生活当然没有丝毫的乐趣。但是她却一直住在那里，直到我出狱。第一年，她只被允许每两个月见我一次，而且每次见面，总有一个狱卒坐在我们中间，但是她搬到克来服以后，声明她坚决要留在那里，不久她便得到每天见我的许可。&lt;/p&gt;
-
-&lt;p&gt;我们在一间狱卒住的小屋里会面，我的饮食就由她住的旅馆送进狱里来。后来，我们甚至得到许可，一起在典狱的花园里散步，通常总有一个同志陪伴着我们——当然是在严密监视之下。&lt;/p&gt;
-
-&lt;p&gt;我惊奇地发现克来服中央监狱在各方面都像一个小的工业城市，四面围以果园和麦田，全都圈在一道外墙里面。虽然法国中央监狱里面的囚人过得如何，似乎比英国监狱里的囚人更随典狱和狱卒的一时高兴而定；但是法国囚人所得的待遇，比英国囚人所受的要人道得多。中世纪遗留下来的报复之道在英国监狱里还很普通，但在法国却早已没有了。法国囚人并不被强迫睡硬板床，也不是要每隔一天才有软垫睡。人一进监狱，就有人给他一张正常的床，从此床就是他的。没有人强迫他做难堪的活儿，如爬一个轮子，或理清乱麻之类。相反，他做的是有用的工作，所以克来服监狱简直像一个工业发达的小城，差不多有一千六百个囚人在里面制造铁制家具、画框、镜子、米达尺、绒布、麻布、紧身褡、珍珠母制的小东西以及木鞋等等。&lt;/p&gt;
-
-&lt;p&gt;虽然不服管教要受十分严厉的惩罚（这事我在那本讲监狱的书里已经详述过，有关法国监狱的那一章，巴黎《时报》曾经转载），但是在英国监狱里还未废除的笞刑，在法国已经不用了。这样的刑罚在法国是绝对不可能有的。总之，克来服中央监狱可算是欧洲最好的监狱之一。虽然如此，但是在克来服监狱所得到的结果，也与其他一切旧式监狱一样坏，有一次，一名监狱管理当局的官员亲自对我说：“如今大家都在说，在我们的监狱里面囚犯得到改造。这是瞎说，我无论如何决不会受人指使说出这样的谎言来。”&lt;/p&gt;
-
-&lt;p&gt;克来服监狱的药房就在我们住的房间的下面。所以我们有时和在那里做事的囚人有点来往。其中一个年纪有五十多岁，头发已经斑白；我们在狱时，他的刑期满了。听了他出狱的情形，人人不免为之动容。他知道不到几个月甚至于不到几个星期，他会回来，便请求医生把他的药房里的位置留着给他。他来克来服，这已不是初次了，而且他知道这也不是最后一次。他出狱以后，在世界上没有一个亲人伴他度他的晚年。他说：“有谁肯雇用我呢？我有一行手艺吗？没有！出狱以后，我不得不到我的老伙计们那里去，他们至少会接待我，把我当做一个老朋友看待。”和他们在一起时他会多喝一杯，大家谈到某一次的好手气，谈到再露一次“好身手”，说的自然是偷盗，于是一半是因为意志薄弱，一半是因为不愿意使他那些仅有的朋友失望，他入了伙，于是又被关起来。他一生中已经有过好几次这样的事。但是这次他出狱已经两个月，还不曾回克来服。囚人们，甚至于狱卒们都想他，大家开始焦虑起来。“他到现在还没有回来，难道他有功夫搬到别一个司法区里去犯法吗？但愿他没有陷到什么坏事里面，”他们会这样说，希望他不会干比偷盗更坏的事。“要是真陷了进去可就糟了，他是多么善良安份的人！”不久，从另一座监狱里来了一封信，大家才知道这老人已被关在那里，正在争取移到克来服来。&lt;/p&gt;
-
-&lt;p&gt;那班年老的囚人的境遇是最可怜不过的。他们里面很多人自小或者少年时，就开始尝到铁窗风味，其余的是成人后才入狱的。反正“一入监狱，就会在里面过一辈子。”这句话是出自经验。如今年纪已经到了或者过了六十，他们明白他们得在牢里过一辈子。监狱当局通常把他们派在毡袜工场里作工（这些毡鞋都是用种种废弃的羊毛做的），好让他们早点离开这个世界。&lt;/p&gt;
-
-&lt;p&gt;这工场里的灰尘不久会使他们害上肺病死去。于是四个同狱的囚人就把死者抬到公共坟场里，唯一的送殡人便是守墓人和他的那条黑狗。监狱牧师走在前面，机械地背诵他的祷文，两眼看着路旁的栗树和枞树，那四个抬棺材的囚人也正忙着享受他们暂时脱离监狱的自由，能被葬仪的肃穆所打动的，恐怕就只有这条黑狗了！&lt;/p&gt;
-
-&lt;p&gt;法国当初设立改良中央监狱的时候，人们相信可以在里面实行“绝对肃静”的原则，但是这原则与人性截然相反，所以它的实行就不得不放松了，事实上，单身囚禁也不足以防止囚人彼此通问。&lt;/p&gt;
-
-&lt;p&gt;从外面观察，监狱似乎是完全肃静的，但是实际上住在里面的人也是一样忙碌，好像在一个小城市里一般。悄声耳语，照面时匆忙地说上一两句，或者仓卒地写在纸片上，用了这些方法，凡是稍有一点趣味的消息立刻会传遍整个监狱。随便什么事情，无论是在囚人中间发生的，或是在狱吏住宅中发生的，或是在工厂雇主们居住的克来服村庄里发生的，或是在巴黎政界发生的，无不立刻传遍各宿舍、各工场、各单身牢房。法国人生性太喜欢来往沟通，要完全禁止他们的地下通讯是不可能的。我们和普通刑事犯之间没有来往。但是每天的消息我们都知道：&lt;/p&gt;
-
-&lt;p&gt;“园丁约翰又回来啦，刑期是两年。”&lt;/p&gt;
-
-&lt;p&gt;“某督察的妻子与某人的妻子大闹了一场。”&lt;/p&gt;
-
-&lt;p&gt;“牢房里的詹姆斯递给画框工场里的约翰一张问候字条，被人逮住了。”&lt;/p&gt;
-
-&lt;p&gt;“某某那老畜生已经不是司法部长啦，这个部已经垮啦。”诸如此类。当有消息说：“约翰刚刚拿了两件绒背心，换得两包五十生丁一包的烟草”，这消息也会马上传遍全狱。&lt;/p&gt;
-
-&lt;p&gt;问我们要烟草的人是很多的。有一次，一个不出名的律师也被囚在监狱里，想给我一张字条，请当时住在村里的我的妻子不时去看望一下他的太太（她也住在村里），不少囚人十分关心于传递这张字条，不知经过了多少只手，这张字条才到了我手里。如果一张报上有一点和我们特别有关的消息，这张报会被人以最奇妙莫测的方法传到我们手里来，报纸里面会包着一个小石子，从我们园里的高墙外扔过来。&lt;/p&gt;
-
-&lt;p&gt;单身牢房也不能成为传播的障碍。我们到克来服时，先住在单身牢房里，这些小房间真是冷得可怕，连我的手也冻僵了。我写给当时在巴黎的妻子的信到了她手里，她竟然认不出是我的笔迹。后来上面下了命令叫把这些牢房尽量烧得热一些，但是随你怎么烧，还是一样冷。后来才知道所有这些热气管全被塞住了，里面尽是好几代囚人隐藏的碎纸、撕成小块的字条、小刀和别的种种小玩意。&lt;/p&gt;
-
-&lt;p&gt;我在前面已经说过的朋友马旦，现在得到许可将他的刑期一部分在单身牢房里度过。他不愿和十几个难友挤在一间房里，情愿与世隔绝，于是他到了一个单身牢房的一间房里。他一到那里，就大吃一惊，在他的牢房里，决不是只有他一个人。四周墙壁，钥匙孔，都在向他说话。不过一两天，所有关在单身牢房里的囚人都知道了他是谁，他也认识了大家。这种表面上各房隔绝的单身牢房，实际上像一个蜂窠一般忙碌。不过这种忙碌时常带了一种可以完全归之为精神变态的性质。恐怕连克拉夫特·埃宾也闹不清有些关在单身牢房的囚人、精神错乱到了何等地步。&lt;/p&gt;
-
-&lt;p&gt;我在1886年从克来服监狱出来以后不久在英国出版了一本题作《俄法狱中记》的书，说明监狱对于囚人的精神上的影响。在那本书里说过的，我在这里用不着再说了。不过有一件事必须说一说。监狱里面的囚人的成份很复杂，但是单就那些通常称为正规的“罪犯”来说，关于这种人，龙布罗梭和他的追随者近来说了许多，使我印象深刻的乃是下面一件事：通常大家总以为监狱是一种防止反社会行为的工具，其实它正是一个滋生这种行为的机构；囚人受了“监狱教育”以后，犯起罪来会变本加厉。谁都知道，这类人犯法受审的原因是缺乏教育、从小就厌恶正规劳动、身体缺乏锻炼，不能长时间用力气、爱好不正当的冒险、爱好赌博、精力萎靡、意志未经锻炼以及对于他人的幸福之漠不关心等等。而我在克来服时却注意到监狱在囚人身上所培养的正是这些人性的缺点一个也不少——这就是我在狱期间的深刻印象。监狱使这些缺点发展，这是必然的，因为监狱总是监狱。监狱不废除，这些人性的缺点也永远在那里滋长。&lt;/p&gt;
-
-&lt;p&gt;事实上，监狱里的长期幽禁，注定要毁灭一个人的精力，而且更加确定无疑地会杀死他的意志。对于一个人，监狱生活没有供他应用他的意志的余地。一个囚人如果还有自己的意志，那就肯定会给自己惹上麻烦。囚人的意志是必须消灭的，事实上，它也是被消灭了。而应用一个人的天然的同情之机会更是没有；监狱方面，千方百计地使囚人与那些他可以同情的人——狱外的也好，狱中的也好——毫无自由接触的机会。无论肉体还是精神，他愈来愈难以作持续不断的努力。如果他以前对于正规的劳动已经有点厌恶，在监狱里关上几年以后，这种厌恶只有格外增加。如果他在第一次入狱以前，因为不十分知道一门手艺，不能好好地干活，对于那种单调的劳动不久便感到厌烦，对于那种工钱太少的过度劳动已经有怨言；那么到了现在，他的厌恶会变成憎恨。如果他以前对于现今的道德训条的社会作用已经有所怀疑；那么到了现在，他看清了卫护这些训条的官吏是些什么样的人，听了他的同狱囚人对于这些人的意见，他自然会抛弃这些训条。如果他的性格、情感、肉欲各方面以前就有病态的发展，因而犯罪入狱，那么现在在监狱里关了好几年以后，这种病态的性格会格外发展——在许多情况下简直会发展到可怕的地步。在最后这一点上（这是最危险的一点），监狱教育起的作用是最灵验不过的了。&lt;/p&gt;
-
-&lt;p&gt;我在西伯利亚时亲眼看见那龌龊不堪、挤满了囚犯的俄国“未经改良”的监狱简直是一个垃圾堆，是使人身心堕落的地方。我在十九岁时心里就想，如果不把囚犯那样挤在一堆，如果把他们分门别类，如果给他们合乎身心健康的工作，监狱制度就可以大大改善。现在我不得不和这些幻想分手了。我有理由相信：就对囚犯起的效果，对社会全体造成的后果说，最好的“改良”监狱（无论是单身牢房与否）比起从前的龌龊的牢房来是一样糟，甚至更糟。&lt;/p&gt;
-
-&lt;p&gt;这些新式监狱决不会使囚犯得到改造的。恰恰相反，在绝大多数情况下，这些新式监狱给囚犯以最大的腐蚀。盗贼、骗子、地痞、恶棍等等，在监狱里住过几年以后出来会比以前更容易去干他们的老勾当。现在他更有准备，更懂得怎样去干那些老勾当，干得比以前更干净利落。他现在对社会更加仇视。他发现了更有力的理由去反抗现社会的法律和习惯。他因为干了一些反社会的行为而犯罪受审，现在他必然不可避免地沿着这条反社会的道路走下去，愈走愈远。他出狱后所犯的罪一定会比以前犯过的更为严重。他注定了要在一个监狱或苦役地结束他的一生。在前面提过的我的那本书里，我曾说过：监狱是国家出钱办的犯罪大学，这是我在十五年前说的话，现在加上这十五年的经验，我对这句话只有更加确信无疑。&lt;/p&gt;
-
-&lt;p&gt;就我个人来说，我对在法国监狱里那几年生活并没有抱怨的理由。对于一个活跃的独立的人，自由和活动受到限制是最大的匮乏；和它比，其余的一切，如监狱生活的小苦恼，便不值一提。当我们听到人说起当时法国政界的活跃情况，我们对于受强制不能活动一事，当然感到痛恨。在第一年的年终，尤其是那阴暗的冬天，囚人总是感到难堪。春天来了，一个人感觉到比任何时候都更需要自由。当我倚窗远望，看见一片青绿的牧场，春雾弥漫群山，或者看见一列火车驰入一个山谷，我确实感到一个非常强烈的愿望，要跟着火车走去，要去呼吸林间的新鲜空气，要追随着人流流到一个忙碌活动的城市里去。不过一个人既然投身在一个进步的革命党里，就应该准备在监狱中住几年，不要抱怨。他觉得即使是在狱中，他仍然是人类进步潮流中远非不起作用的一分子；这潮流在扩大、在加强对他来说是最宝贵的思想。&lt;/p&gt;
-
-&lt;p&gt;里昂监狱里的狱卒全是些横暴的人。我的同志们、我的妻子和我自己都受过他们的无礼待遇。但是打过两三次交道以后，情形也就好了。再说，狱中当局也知道巴黎报界同情我们，他们当然不愿意招罗什福尔的怒骂或克雷孟梭的尖刻的讥评。克来服监狱不需要报界的干预。我们到这里时，监狱管理人员刚刚全部换过。有几个狱卒把一个囚犯杀死在他的牢房里，然后把尸首吊起来装作囚人自缢。但是这一次，狱医却把这个秘密泄漏了出去。典狱受了免职处分，狱里的气氛此后就好得多了。至于我自己，我离开克来服时还带着典狱所给我的极好的印象。即使是在监狱里时，我也不止一次地想，人总要比他们所属的制度好一点。但是我既无个人的私怨，我更可以自由地、无条件地反对这个监狱制度，它是黑暗的过去的遗迹，其原则是错误的；对社会来说是深远难测的邪恶根源。&lt;/p&gt;
-
-&lt;p&gt;我应该还提到一件事，这件事给我印象之深比监狱的使人堕落的效果还更甚。每个监狱（甚至于每个法庭）对于它的邻里，对于那些住在它的附近的人，总是一个传染源！龙布罗梭就他在监中囚犯里面发现的“罪犯标本”作了很多发挥。如果他能下一番同样的功夫来观察那些围着法庭转（侦探、密探、讼师、告密者、欺诈老实人的坏蛋等等），他大概会得到这个结论：他所说的“罪犯标本”，并不都在监狱的高墙里面，他们的地理范围要广得多。我在里昂审判厅内外看到过数以十计的人。我从没有见过比这伙人的脸更卑劣、更下流的，远远低于常人。我在克来服监狱的围墙里面的确没有见过这样的一些人。狄更斯和克鲁克香克在他们的作品里，曾把这些标本中的几个描了下来，使他们长此留存。但是他们代表着环绕法庭活动的一个世界，它将疫病传播得又广又远。每一个像克来服这样的中央监狱都是如此，处处都是小偷、小骗、暗访密探，引人腐化堕落，形形色色，不一而足，每个监狱四周都有这样一片油污，无孔不入。&lt;/p&gt;
-
-&lt;p&gt;以上所说都是我亲眼看见的。我在未入狱前本已知道现社会设置目前的刑罚制度是错误的；待到走出克来服以后，我更明白这个制度非但是错误的，非但是不公道的，而且社会幻想这个制度对于遏止犯罪本能确有必要，便一半不自觉地，一半有意无视现实地，来自己掏钱办这些犯罪大学，——这些引人堕落的场所，这简直是一大蠢举。&lt;/p&gt;
-
-&lt;p&gt;-&lt;/p&gt;
-
-&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;我和密探开玩笑——一个密探的可笑的报告——被人发觉了的密探——一个假男爵——密探行为的结果&lt;/code&gt;&lt;/p&gt;
-
-&lt;p&gt;每一个革命者在他的一生中多少总要遇上几个警探和假充革命党的密探，我也遇见过不少。各国政府每年总要耗费大量金钱去养活这些恶棍。不过他们主要对年轻人造成危险。对生活、对人多少有点经验的人不久就会看出这帮家伙身上总有一些令人警惕的地方。他们都是从社会渣滓中募集而来的，在那些下流到极点的人中间选来的。只要一个人对他所遇见的人的道德品质加以注意，他不久就会在这些“社会栋梁”的行为举止间看出一些令人震惊的地方。于是他会自问道：“这个人来会我是为了什么？他身上有什么可以使我引为同道的呢？”在绝大多数情况下，这个简单的疑问就很足以使人小心警惕了。&lt;/p&gt;
-
-&lt;p&gt;我第一次到日内瓦时，俄国政府派来侦察流亡者的那个密探，我们都熟识他。他自称是一个伯爵；但是他既没有听差，又没有马车可以把他的爵冕和爵徽（纹章）绘在车上，他便把它们绣在他的小狗的外套上。我们有时在咖啡馆里见到他，并不和他攀谈。实际上这是一个“无害的”家伙，他不过到报摊上把亡命者所有的刊物买来，多半添上一些迎合上司心理的评语。&lt;/p&gt;
-
-&lt;p&gt;后来，亡命到日内瓦的俄国青年越来越多，各种不同的人也成群结队地跑来了。然而我们总有法子认出他们。&lt;/p&gt;
-
-&lt;p&gt;如果有一个外人到我们中间来，我们就以虚无主义者的惯有的坦率盘问他的过去历史和他的眼下光景；并不要多久，我们就可以知道他是个怎样的人。人们彼此来往时，如果希望建立很好的关系，最好的方法便是坦白。在辨别友敌这一点上，坦白的好处更是无穷的。许许多多到日内瓦来的人，我们不认识他们，连他们的姓名也没有听说过，他们和一切革命团体完全没有关系，但是其中不少人在到后不过几天功夫，甚至不过几个钟头，竟会和所有的亡命者变得异常友好。可是不知为什么，那班密探从不曾能跨越和我们熟悉的门槛。一个密探可以成为我们的一般相识，可以说出他以前在俄国的最好经历（有时甚至是正确的），他可以把虚无主义者的俗话和举止完全学会，但是俄国青年中间生长起来的那种特别的虚无主义者的伦理观念，他是永远学不会的。——这一点就足以使他无法接近我们的聚居地了。密探能模仿任何事情，却不能模仿虚无主义者的伦理观念。&lt;/p&gt;
-
-&lt;p&gt;当我和邵可侣在克拉龙一起工作的时候，在那里有一个这样的家伙，我们都不理他。我们并不知道不利于这个人的任何事情，但是我们总觉得他不是“我们中间的一个”。因为他愈是想方设法要钻到我们里面来，我们愈是对他起了疑心。我从来没有和他谈过一句话，他因此特别要来找我。他发现不能够用平常的方法和我接近，便开始写信给我，神秘莫测地约我在树林里或这一类地方相会，为了神秘莫测的目的。有一次，我想开个玩笑，便答应了他的约会，到指定的地点去，远远地有一个好朋友跟随着。这家伙（大概他有一个同伙）准是注意到了我不是一个人；便没有出现。因此不幸失去和他说话的机会。再说我当时很忙碌，一面帮助邵可侣编纂他的《大地理》，一面又要替《反抗者》写文章，连一分钟的空闲都没有，更没有功夫参加任何阴谋。虽然如此，我们后来知道这家伙时常给第三科寄递详细的报告，当然都是他捏造的，说我和他谈了些什么话，告诉他什么心腹之言，说我在策划什么可怕的阴谋，要暗杀在圣彼得堡的沙皇！所有这些报告一到圣彼得堡，马上就有钱来，是现款交易。在意大利也是如此。有一天，加费罗在瑞士被捕，当局把一些案情重大的报告给他看，递这些报告的意大利密探警告政府说加费罗和我带了许多炸弹，就要进入意大利。事实上，我从来没有到过意大利，也从来不曾想过要到意大利去。&lt;/p&gt;
-
-&lt;p&gt;话说回来，密探的报告也不全是凭空捏造的。他们所说的事往往是真的；一切取决于事情是怎样讲的。1881年，我的妻子和我从巴黎到伦敦，有一个法国密探跟踪我们。他给法国政府上的报告使我们开心了好一会。这个密探干的大概是两方面的买卖（这在他们是常有的事），所以又把这个报告卖给罗什福尔，后者在他的报上发表了那报告。这个报告里面所说的话都正确无误。且看他是怎样讲的。&lt;/p&gt;
-
-&lt;p&gt;举一个例，他写道：“我坐的那节车厢是在克鲁泡特金和他的夫人所坐的车厢的隔壁。”一点也不错。他是在那里，我们注意到他，因为他的那张阴沉的讨厌的面孔引起了我们的注意。“他们总是讲俄国话，为了使别的旅客不懂他们说些什么。”也很对，那天我们讲俄国话；我们两人之间说话，照例用俄语。“到了加莱，他们两位每人喝了一碗汤。”一点不错，我们喝了一碗汤。但是那次旅行的神秘莫测的部分就此开始。“喝了汤以后，他们忽然一起不见了。我在月台上、在别的地方找他们，都不见踪影。后来他们再出现时，克鲁泡特金变了装，后面有一个俄国牧师，寸步不离地陪他一直到伦敦。到了伦敦以后，我就看不见牧师了。”我的妻子有点牙痛，我于是请饭店主人让我们用一下他的私人房间，治我的妻子的牙。我们就这样地“一起不见了”。因为我们要过海峡，我便将我的毡制的软礼帽放在衣袋里，戴了一顶皮便帽。这样我就“变了装”。至于那位神出鬼没的牧师，他也真在那儿。他不是俄国人，但这无关紧要。他至少穿了一身希腊教会牧师的服装。我看见他站在柜台前面问什么话。但是没有人懂得。他急得直说：“阿加！阿加！”我便向侍者说，“给这位先生一杯水喝”。这个牧师于是用一种真正东方人的感情流露出感谢我的好意。我的妻子很可怜他，便用不同语言和他说话，但是他除了现代希腊语外，什么也不懂。后来知道他会说几句南斯拉沃尼亚话，我们才听明白：“我是希腊人。伦敦。土耳其大使馆。”我们便对他说（大部分是用手势）我们也是到伦敦去，他可以和我们同行。&lt;/p&gt;
-
-&lt;p&gt;这个故事的最有趣的地方是我居然在到彻灵十字县车站以前，替这位牧师把土耳其大使馆的地址找到了。火车在路上一个车站停下时，有两位漂亮的贵妇人偏要到我们的已经挤满了的三等车厢里来。两人手里都拿了报纸。一个是英国人；另外一个面貌俊俏、高身材的太太说得一口流利的法国话，自称也是英国人。她和我谈了两三句话以后，出其不意地突然问我：“你认为伊格纳节夫伯爵是怎样的人？”接着又问：“你就要去暗杀新即位的沙皇吗？”听了这两个问题，我立刻知道她的职业是什么了。但是我想着那位牧师，我便问她道：“你知道土耳其大使馆的地址吗？”—“某街某号”，她毫不迟疑，好像一个女学生背诵功课似地回答我。我又问她：“我想你大概也可以告诉我，俄国大使馆的地址罢？”她也和刚才一样，马上告诉我，我便把这两个地址交给牧师。我们到了彻灵十字县车站，那个贵妇人对我的行李照顾得十分周到，甚至要用她的戴了手套的手来提那只沉重的箱子，我实在忍不住，向她说（她当然大惊不已）：“够啦！太太们哪有替男人提箱子的道理！走开！”&lt;/p&gt;
-
-&lt;p&gt;现在还是来说那位诚实不欺的法国密探的报告罢。他写道：“他在彻灵十字县下车，但是在火车到站以后，他在站上等了大半个钟点，直到他看见所有人都离站以后才走，那时我也暂时离开，躲在一根柱子背后。他们看见所有旅客都已离站，便猛地跳上一辆马车。但是我仍旧跟着他们，而且还听见车夫把地址告诉守城门的警察——某巷，门牌十二号——当时附近一辆车子也没有，我只好在他们的马车后面奔跑，一直到特拉法加广场，才找到了一辆车。我便坐车跟踪他，看见他们在上面说的那个地址下了车。”&lt;/p&gt;
-
-&lt;p&gt;这段报告里的事实、街名、号数以及其他都是一点不错的。但是从这位密探的口里说出来，这一切听起来是多么神秘莫测。我把到伦敦的日期事先告诉过一位俄国朋友，但是那天早晨起了大雾，我的朋友睡过了头。我们等了他半个钟点，然后把行李寄放在衣帽间，先坐车到他的家里去。&lt;/p&gt;
-
-&lt;p&gt;“他们把窗帘放下，在屋里直到午后两点钟，才有一个身材高大的男子从屋里走出来，一个钟点以后他带了他们的行李回来。”连那句关于窗帘的话都是事实。因为雾太大，我们不得不点起煤气灯，又为了不愿看那条埋在雾里的窄小的依斯令顿街的难看相，便把窗帘放了下来。&lt;/p&gt;
-
-&lt;p&gt;我在克拉龙和邵可侣一起工作时，每隔半月到日内瓦去一次，办理《反抗者》出版事务。一天，我到了印刷所，有人告诉我说，有一位俄国绅士要见我。他已经和我的朋友们见过面，说他是来请我创办一个和《反抗者》同类的俄文报。办报需用的经费，他愿意独力负担。我到一个咖啡店里去见他，他见了我，用的是一个德国姓，似乎是：Tohnlehm，又告诉我他生长在波罗的海省份。他自夸拥有田产和工厂等一大笔财产，对于俄国政府使波罗的海各省俄国化的政策十分愤怒。大体说来，他给我的印象是难以确定的，因此朋友们都坚持要我答应；但是我和他初次见面就不大喜欢他。&lt;/p&gt;
-
-&lt;p&gt;我们走出咖啡店，他又请我到他住的旅馆里去。一到了自己房里，他就不像先前那样谨慎小心，露出一些他的真面目，更使人不快。他对我说道：“请你不要怀疑我的财产。我曾有一项很来钱的发明，我就要去申请专利，可以得一大笔款子，我要把这些钱都用在俄国革命事业上。”他便把他的发明拿出来给我看，使我大吃一惊的是那是一只难看之极的烛台，它的独特之处在于它是极端丑陋，其次是它有三根铜丝，可以放蜡烛。最穷苦人家的女人也不会要这样一只烛台；便是他得到了专利权，也不会有一个五金商肯出十来块钱向这位发明家购买的。“一个有钱的人居然把他的希望放在一只这样的烛台上！这个人一定没有见过比它强的烛台罢。”我这样想。我对这个人的看法就此定了。我断定他不是个有钱人，他要给我的决不是他自己的。我于是不客气地对他说：“好，你既然这样想办一个俄文的革命刊物，既然又这样抬举我，你得用我的姓名把钱存在一家银行里，由我个人随意处置。但是我预先告诉你，你以后和这个刊物将没有丝毫关系。”他回答道：“当然！当然！我不过来看一看，有时候提供一点意见，还帮忙你将刊物偷运到俄国去。”“不，不！这些事你都不要管！你也用不着再来见我！”朋友们都以为我太令这个人难堪了。但是过了不久，我们就接到一封从圣彼得堡来的信，警告我们说第三科派了一个密探来见我们，他的姓就是Tohnlehm。这样看来，那只烛台对我们算是立了一功。&lt;/p&gt;
-
-&lt;p&gt;不管是因为一只烛台，或是别的什么东西，这种人几乎总会自己露出马脚来的。1881年，我们住在伦敦的时候，在一个大雾的早晨，我们接见了两个俄国人。其中一个的姓名我早知道；另一个是我不认识的年轻人，前一个给我介绍说这是他的朋友，他自愿陪他到英国来访问几天。这个年轻人既然是朋友介绍的，我对他也就一点不起疑心，但是那天我有事，非常忙碌，便请一个住在邻近的同志代他们找一间房，带他们到伦敦去游览。我的妻子当时没有逛过伦敦，便和他们同去。下午她回家，就对我说：“你知道，我很不喜欢这个人。你要当心。”我问她：“那是为什么？出了什么事？”“没有，什么事也没有，但是他一定不是‘我们一伙的人’。看他对待咖啡馆侍者的样子，看他用钱的样子，我立刻就知道他不是一个‘我们一伙的人’。既然不是，那么到我们这里来做什么呢？”她确信她的疑心是一点不错的，所以她一面虽然尽她的主人待客的义务，但是居然做到了连一分钟也不让这个年轻人一个人在我的书斋里。我们有一次闲谈，这个客人越谈越露出他的道德品质之低下，连他的朋友都为之脸红。后来我细问他的生平，他的回答更加令人不能满意。我们两人于是都对他有了戒心。两三天以后，他们两人都离开了伦敦。过了半个月，那个俄国朋友写了一封道歉信来，说不该介绍这个年轻人给我，现在巴黎已经有人发觉他是俄国大使馆派出来的密探。我便去查执行委员会（在圣彼得堡到处都有委员会里的人）新近寄给我们亡命者的在法国和瑞士的俄国暗探的名单，发见了其中果然有这个年轻人的姓名，只改了一个字母。&lt;/p&gt;
-
-&lt;p&gt;警察出钱办刊物，由一个暗探主持，这个办法已经是很陈旧的了。1881年，巴黎警察总监昂德里欧早已用过。我和邵可侣一起住在瑞士山中时，我们接到一封信，是一个法国人（也许是比利时人）写来的，他要在巴黎创刊一份安那其主义的刊物，请我们协助。这封信里充满了恭维话，给我们一个很不快的印象，而且邵可侣仿佛记得他听见过写信人的姓名和一件不好的事情有关。我们便决定不与他合作，我还写了一封信给我的一个巴黎朋友，说我们首先一定要弄清楚这个刊物的经费是从什么地方来的。“这些钱也许会是奥尔良派拿出来的（这个家族惯要这把戏），所以我们一定要知道钱的来源……”我的巴黎的朋友以他那种劳动者的直爽，在一次会上将我的信宣读了，那个刊物的暂定的出版人也在座。他假装生了气，我不得不为这件事写了好几封信；但是我坚持说：“如果这个人是认真的，他必须告诉我们钱是从什么地方来的。”&lt;/p&gt;
-
-&lt;p&gt;到了最后，他说了。被人问得紧了，他便告诉我们说，这些钱是他的伯母给他的，——那是一位有钱而思想极旧的太太，但为了满足她的侄儿的办报的想法，答应把钱给他。这位太太当时不在法国；她住在伦敦。但是我们坚持要知道她的姓名，她的伦敦住址。我们的朋友马拉铁斯达愿意去见她。他和一个意大利友人（是贩卖旧家俱的）一起到她的家里去。他们看到了这位太太住在一套小公寓里。马拉铁斯达和她谈话，越谈越相信她不过是在这出喜剧里扮演伯母的角色。同时他的贩卖旧家具的朋友打量着房里的桌椅等等，立刻看出所有这些家具都是前一天从他隔壁那家旧家具店里运来的——大概是租来的。桌椅上的店号还在上面。这本来算不上是重要的证据，但自然使我们的疑心加重了。我于是坚决拒绝和这个刊物发生关系。&lt;/p&gt;
-
-&lt;p&gt;这刊物出版后，其论调之激烈闻所未闻。里面没有别的，尽是放火、杀人、炸弹等等字眼。我在伦敦大会上遇见这刊物的编辑。我一看见他那张阴森森的面孔，听他说上一两句话，看一眼那个到处跟随着他的女人的模样，我对这个人的意见就定下了。大会上，他提出种种可怕的议案，代表们都不理他。当他坚持索取全世界安那其主义者的地址的时候，我们不客气地严辞拒绝了。&lt;/p&gt;
-
-&lt;p&gt;现在长话短说，几个月后，他的面目终于被人揭露了，刊物第二天就永久停刊了。过了两年，巴黎警察总监昂德里欧出版他的《回忆录》，把他创办这个刊物的前前后后和盘托出。他还说到他自己的暗探怎样组织了巴黎的炸弹案——他们把沙丁鱼盒子“里面放了一点东西”放在梯也尔的铜像下面。&lt;/p&gt;
-
-&lt;p&gt;可以想象，这些事要耗费法国和别的国家多少钱财。&lt;/p&gt;
-
-&lt;p&gt;关于这题目我可以写上好几章，但是我只想再讲两个到克来服来的冒险家的故事。&lt;/p&gt;
-
-&lt;p&gt;在监狱围墙脚边发展起来的那个小村里，只有一个小旅馆，我的妻子就住在那里。有一天，旅馆的女主人走进我妻子的房间，拿了一封两个男子写给她的信，他们到旅馆里来见她。这个女主人用尽她的口才为那两个人说好话：“嗯，我见过世面，”她说。“太太，我可向您保证：这两位先生都是规矩人。再也不会有比他们更规矩的啦。一个自称是德国军官。他一定是一位男爵，不然，就是一位大富翁。另外一个是他的译员。他们都熟识您。男爵就要到非洲去，也许永不回来啦，所以在动身之前，他想见你一面。”&lt;/p&gt;
-
-&lt;p&gt;我的妻子看那信封，上面写着：“呈克鲁泡特金王妃夫人”，但是王妃这个称呼就被他写成了“王犯”。因此她用不着别的证据，就已经可以决定这两位先生是否“规规矩矩”的了。至于信的内容，比信封还更坏。“男爵”写信不顾一切文法规则，也违背常识，他说有一件秘密的信息要向她报告。她直截了当地拒绝接见这个“男爵”和他的译员。&lt;/p&gt;
-
-&lt;p&gt;这个男爵于是一封又一封地写信给我的妻子，她不拆就把原信退还。&lt;/p&gt;
-
-&lt;p&gt;全村的人不久就分成了两派：一派，由旅馆的女主人带头站在男爵一边；另外一派的首领竟是她的丈夫，他反对男爵。于是传出了一些谣言。据说这个男爵是在我的妻子未结婚前认识她的。在维也纳俄国大使馆里，他曾和她跳过许多次舞。现在他还爱她。但是她呢，这个狠心的女人，在他就要动身去作危险的远征的时候，竟然不肯和他见一面……&lt;/p&gt;
-
-&lt;p&gt;接着又是一个莫名其妙的故事，说我们有一个儿子，被我们藏了起来。那个男爵问人道：“他们的孩子在哪里？他们有一个儿子，现在应该有六岁了——他到哪里去了呢？”——有一派人说：“如果她有一个儿子，她一定不会丢下他的。”另一派人一口咬定：“不错，他们的确有一个儿子，但是他们把他藏了起来。”&lt;/p&gt;
-
-&lt;p&gt;这场争论对于我们两人是一个很有趣味的启示。这证明我们来往的信，经监狱当局看过以后，还把各信内容通知俄国大使馆。我在里昂时，我的妻子到瑞士去看爱利塞·邵可侣，有一次她写信给我说，“我们的孩子”情形不坏；非常健康；大家为了庆贺他的五岁诞辰，一起度过了一个快乐的晚上。&lt;/p&gt;
-
-&lt;p&gt;我知道她是指《反抗者》，我们在谈话时提到这个刊物，往往称它为“我们的顽皮孩子”。&lt;/p&gt;
-
-&lt;p&gt;现在这些先生们既然问到“我们的顽皮孩子”，而且这样正确地指出了他的年龄，那么那封信除了典狱以外还有别的人看过，这是很明显的了。这个警告对于我们是很有用的。&lt;/p&gt;
-
-&lt;p&gt;在乡下一个小村里，无论什么事都逃不过村里人的注意。那个男爵不久就引起了别人的疑心。他又写了一封信给我的妻子，比以前的信更加唠叨。现在他请她原谅，不应该自称早先认识她。他承认她以前并不认识他，不过虽然如此，他却是一番好意。他有一个异常重要的信息要报告。他要警告她：我有生命危险。男爵和他的秘书走到老远的地里，一起研究这封信，商量这信的要点——有一个森林警察远远地跟着他们。但是两人竟然争吵起来，把这信撕碎，抛在田里。警察看到他们走远了，就把这撕碎的信拾起，拼起来读了。一个钟点以后，全村的人都知道这个男爵并不真的认识我的妻子。男爵那一派所传布的动情的故事顷刻烟消云散了。&lt;/p&gt;
-
-&lt;p&gt;那个宪兵队长终于得出了结论：“哼！他们自称是男爵，是译员，其实全是假的。这么看，他们一定是德国密探了。”他便把他们逮捕了。&lt;/p&gt;
-
-&lt;p&gt;这却不能怪那个队长，事实上，不多久以前，有过一个德国密探到克来服来。在战争期间，监狱的那些大建筑物很可以作储藏军需品、驻扎军队之用，德国总参谋部当然很想知道监狱里各建筑物的内部究竟有多大。果然有一天，一个嘻嘻哈哈的旅行照相师来到这村里，不要一文钱，替全村的人照相，以博取他们的好感。他由此得到许可，非但照了监狱大院的内部，而且还照了各监房。他照完以后，又到东部边境一个城市去，在那里因为被查出身上带有可疑的军事文件，被法国当局捉住。在宪兵队长的脑里照相师的印象还很鲜明，他马上断定这个男爵和他的秘书也是德国暗探，把他们押解到巴绪奥布小城。第二天上午，他们被释放出来，本地报纸刊载消息说，他们是“某友邦的特派人员”，并非德国密探。&lt;/p&gt;
-
-&lt;p&gt;这时，舆论完全转而反对男爵和他的秘书了。但是他们的冒险行为还没有完结。他们被释放以后，到村里一个小咖啡馆里去，一面喝一瓶葡萄酒，一面用德国话发泄他们的气恼。那个假译员竟向假男爵说道：“你是个蠢货，是个胆小鬼。我要是你，我会给那个审讯中的检察官一枪。他要敢对我这样做，他一定会吃我一枪……”如此等等。&lt;/p&gt;
-
-&lt;p&gt;在那间屋子里的一角，有一个商人安安分分地坐在那里，他听到了这些话，立刻跑到宪兵队长那里去报告。队长马上写好一份官方报告书，又把那个秘书逮捕了——其实他是斯特拉斯堡的一个药剂师。他被解到巴绪奥布警察法庭里受审，为了在公共场所威胁一位法官，被判了一个月监禁。最后，这两个冒险家总算离开了克来服。&lt;/p&gt;
-
-&lt;p&gt;上面这些关于暗探的故事，结局都是滑稽可笑的。但是这些恶棍给我们造成了多少悲剧，多少可怕的悲剧！为了使这种诈骗犯过舒服日子，多少宝贵的生命因此丧失，多少完整的家庭被摧残。当你想到那成千上万的暗探，受雇于各国政府，散布在全世界；想到他们所布置的为了陷害老实人用的种种陷阱；想到那多少人命因为他们而落得的悲惨下场；想到他们播下的种种悲苦；想到为了养活这些从社会的渣滓里面挑出的人而花费的巨额金钱；想到他们灌输于社会，甚至于流毒到家庭里的种种腐恶，不由得对他们造成的邪恶之巨大感到震惊。但是侦探行为并不限于侦查革命党，也不限于军事间谍制度。在英国，特别在沿海城市里，有些报纸满载着“私人侦探事务所”的广告，它们专门搜集一切离婚诉讼所需的各种情报，替妻子监视丈夫，替丈夫监视妻子，钻进家庭内部去陷害头脑简单的人，只要人家付相当的钱，要他们做什么他们就做什么。对于最近在法国揭露的最高军界内部的侦察丑闻，人们为之汗颜；但是他们不知道在他们四周，也许在他们的屋顶下便有官厅的或私家的密探在干同样甚至更坏的事。&lt;/p&gt;
-
-&lt;p&gt;-&lt;/p&gt;
-
-&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;米歇尔的“抢劫”——爱理·邵可侣——我定居哈洛——亚历山大哥哥的科学工作——我的哥哥的死&lt;/code&gt;&lt;/p&gt;
-
-&lt;p&gt;在报纸上，在议会里，都有人不断地要求释放我们。尤其是因为差不多在同时露易丝·米歇尔也被判了罪——罪名是抢劫！米歇尔如果看见一个女人受冻，她的的确确会把她的最后一条披肩或最后一件外衣给她；在她坐牢的时候，别人永远无法迫使她吃得好一点，因为她总是把别人送给她的东西分给她的那些同囚者；现在她竟然和另外一个同志布惹一起被判九年监禁，罪名是拦路抢劫！便是在中产阶级的机会主义者看来，这也未免太难堪了。原来有一天，她领着一队失业工人游行，路上经过一家面包店，便进去拿了几条面包分给那些挨饿的人：这就是她的抢劫。释放安那其主义者的呼声因此变成了反对政府的口号。1885年秋天，我们的被捕同志除了三个外，所有其余的完全由格勒维总统下令释放了。要求释放米歇尔和我的呼声于是更加高涨。但是亚历山大三世反对将我释放，有一天，法国总理弗累辛内在答复议员质问时，竟在议会里明说：“因为外交上的困难，不能释放克鲁泡特金。”一个独立的国家的总理居然说出这样的话，真是怪事。但是我们还听到了比这更奇怪的有关法国与俄罗斯帝国所订的那不祥的同盟条约的话！&lt;/p&gt;
-
-&lt;p&gt;终于在1886年1月中旬，米歇尔，布惹和我以及三个和我一起关在克来服的同志被放出狱了。&lt;/p&gt;
-
-&lt;p&gt;〔我被释放，同时我的妻子也恢复了自由。因为她自愿关闭在那个小村里，住在监狱门口陪我，使她的身体渐渐地受了影响。〕我们到了巴黎，与爱理·邵可侣同住了几个星期。他是一个卓越的人类学家，在外国大家时常把他和他的弟弟地理学家爱利塞误以为一人。这两兄弟从小就异常亲密。他们到了应该进大学的年龄，便从吉隆特省山谷中一个小镇，徒步到斯特拉斯堡，像地道的流浪汉一样，只有一条狗作伴。当他们到了一个村庄，只有那条狗有碗汤喝，他们两兄弟的晚饭时常只有一块面包和几个苹果。弟弟从斯特拉斯堡到了柏林，在那里为大地理学家利特尔的讲课所吸引。后来在1840年代，他们两人都在巴黎。爱理·邵可侣变成了坚定的傅立叶主义者。他们两人都把1848年的共和视作一个社会进化的新纪元的开始。所以在拿破仑三世的政变后，他们两人都不得不离开法国，移居英国，大赦令通过以后才回到巴黎来。爱理在巴黎办一个傅立叶派合作主义的刊物，在工人中间销行很广。有一件事很少有人知道，在此也许值得说一说：拿破仑三世想做一个“恺撒”，他关心着工人阶级的情形（一个“恺撒”应该如此）。在这个刊物每一期快出版的时候，他总要派一个侍从到印刷所去，把第一份印好的报，给他拿进土伊勒里宫。后来，他甚至打算去赞助国际工人协会，只要协会在它的会报里写几句话，对于这个“恺撒”的社会改造大计划表示信任。协会直截了当地拒绝和他发生任何关系，他便下令迫害协会。&lt;/p&gt;
-
-&lt;p&gt;巴黎公社成立时，这两兄弟高兴地加入。爱理在瓦扬手下就了国家图书馆馆长及卢浮宫博物院院长之职。我们今天还能够有这两处收藏着人文知识与艺术的宝藏，在很大程度上得力于他的先见和他的努力。在梯也尔军队炮轰巴黎时，城内大火四起，要是没有他，这两处宝藏也许早已毁灭了。他本人热烈爱好希腊美术，他使人把最宝贵的雕像和花瓶包扎起来藏在地窖里。他又小心翼翼地将国家图书馆里最宝贵的书籍藏在安全的地方，将图书馆的建筑保护好，使四周大火不致延及。他的夫人是一个有胆识的女人，而且是他的当之无愧的伴侣。在第二次围城时，市民饥饿到了极点，她带着她的两个小孩在街上奔跑，尽力在她的本区里办理供给市民的粮食。公社到了最后几个星期才明白它首先应该做的事乃是供给市民食物（市民在这危急时期里无法自谋生计），便有一些人自动出来办理这件事。&lt;/p&gt;
-
-&lt;p&gt;爱理·邵可侣服务到最后一刻，他没有被凡尔赛军枪毙，那只是侥幸；后来因为他胆敢在公社时期就任一个那样重要的职务，得到了放逐的判决，只得带着妻儿亡命到外国去。如今他回到巴黎，再开始他的毕生事业：人种学的研究。他的研究的价值，我们根据他的印成单行本的一小部分（可惜太少了），《原始人》和《澳洲人》以及他在他的弟弟爱利塞创办的布鲁塞尔高等研究学校中所讲授的《宗教起源史》便可以判断出来。所有关于人种学的著作里，很少有几本能像他的那样，表示出来对于原始人的真正本性有那么透彻，那么富于同情心的理解。&lt;/p&gt;
-
-&lt;p&gt;至于他的《宗教之起源》（在《新社会杂志》及其后身《新人类》中连载），我敢说，在所有关于这个问题的书里这一本要算是最好的。无论如何，比H.斯宾塞在这方面的论文好些。H.斯宾塞虽然才智超群，但是他并不能了解原始人的朴实单纯的天性，而爱理·邵可侣对于这个却了解得十分透彻。再加上他对于民俗心理学，换言之，就是对于信仰的进化和变化（对于这一部门的学问，大家太不重视了）又有极广博的知识。我用不着说到他的无限的敦厚与谦逊，也用不着说到他的优越的智力，并且凡是关于人文科学的所有学科他都有渊博的知识；这一切都可以从他的文章风格中体会到。以他的十分的谦逊，以他的沉静的举止以及他的深刻的哲学见解，他完全像一个古希腊哲学家。如果在一个社会里不是像现在这样地爱好官厅特许的教授法，不是这样地爱好那种鸡零狗碎的授课，如果对于广大的人文概念的发展更尊重一点，那么他会和古希腊像他那样的人一样，周围会聚集起一大群弟子。&lt;/p&gt;
-
-&lt;p&gt;我们从克来服来到巴黎的时候，巴黎的社会主义与安那其主义运动正十分活跃。路易斯·米歇尔每天晚上都出去演讲，激起了她的听众（无论是工人还是中产阶级）的热情。她的名声本来已经很大，这时更大了，甚至传到了大学生中间。那些大学生也许讨厌进步思想，但是他们把她当作一个理想的女人，崇拜她到那样的地步，有一天，在一个咖啡馆里发生了斗殴——因为有一个人在大学生们面前谈起米歇尔，说了一些不好听的话。这些青年于是替她辩护，终于大打出手，咖啡馆里的所有桌子、杯子全被砸了。我也在巴黎演讲过一次安那其主义，听众有好几千人，我演讲后立刻离开巴黎，使政府没有时间听从反动的和亲俄派的报纸的要求把我驱逐出法国国境。&lt;/p&gt;
-
-&lt;p&gt;我离开巴黎，我们到了伦敦，在那里遇见了两位旧友，斯捷普尼亚克和柴可夫斯基。社会主义运动正是风起云涌，四年前，我在伦敦的生活是枯燥苦闷，虚度时光，这时已经不再是那样了。&lt;/p&gt;
-
-&lt;p&gt;我们定居在哈洛，住的是一所小屋。我们对于屋里的家具不大关心，其中一大部分是我自己做的——有柴可夫斯基给我帮忙。他到过美国，在那里学到了一点木匠的手艺。我的妻子和我大为高兴的是我们园里有一小块米德尔塞克斯沃土的土地。我们于是开始热心于种植。我们读了杜波的著作，认识了几个巴黎园艺家以后，我们开始得到了喜人的收获。我们自己在克来服狱中的园艺经验对于我们也有一些帮助；至于我的妻子，她到哈洛不久就得了伤寒症，病愈后，菜园里的活儿对于她的健康的恢复，比一个最完善的疗养院更有功效。&lt;/p&gt;
-
-&lt;p&gt;但是在夏季的末尾，我受到一个非常沉重的打击。我们得到了我的哥哥亚历山大去世的消息。&lt;/p&gt;
-
-&lt;p&gt;在我亡命到外国以后未入法国监狱之前的那几年里面，我们弟兄间未曾通过一封信。在俄国政府看来，对一个因为政治见解而受迫害的兄弟表示友爱是一种罪孽。如果他亡命国外，还不与他断绝关系，那是犯罪行为。一个沙皇的臣民应该憎恨所有反抗这个最高统治者的威权的人。何况亚历山大当时是在俄国警察的掌握中。所以我坚决不肯写信给我的哥哥以及所有别的亲戚。自从沙皇在海伦姊姊的请愿书上批了“让他待在那里”以后，哥哥就完全失掉了早日恢复自由的希望。两年以后，在俄国成立了一个委员会，专为把那些未经审判、未定年限而被流放到西伯利亚去的人定一个流刑的年限。&lt;/p&gt;
-
-&lt;p&gt;哥哥被判还要留在西伯利亚五年。加上他已经度过的两年，一共是七年。L.米利科夫内阁时代另外又指定了一个新委员会，把哥哥的流刑再加五年，所以他要到1886年10月才能恢复自由。他一共要受十二年流刑。起初是在东西伯利亚的一个小城里，后来在托姆斯克——这是西西伯利亚的一块低地，更不如在西伯利亚东部的高原，那里还有干燥卫生的空气。&lt;/p&gt;
-
-&lt;p&gt;我被囚禁在克来服的时候，他写信给我，我们才通了几次信。他的信里说，既然我们的信在西伯利亚要受俄国警察检查，到了法国又有狱吏查看，我们通信当然就须意识到这双重的检查。他告诉我他的家庭生活，他说起他的三个孩子，他把他们描写得极好，他还说起他的工作。他特别劝我注意考察意大利的科学的发展，那里有出色而独创的研究，但是经过了德国人的复制，才为科学界所知；关于俄国政界的可能出现的进展，他也有意见告诉我。他不相信在最近的将来俄国能有仿效西欧议会的立宪政体出现。但是他希望会召集一种议事的国民议会（他对此认为目前已经够了）。这个议会并不制定法律，不过制订出一些法律草案，让沙皇和枢密院加以修正，最后核准。&lt;/p&gt;
-
-&lt;p&gt;他在信里特别说起他的科学研究。他对天文学从来就有一种明确无误的偏爱。&lt;/p&gt;
-
-&lt;p&gt;我们在圣彼得堡时，他在俄国出版了一本书，出色地概述了所有关于流星的知识。以他的精细的批判头脑，他对于各种假设的优劣马上就可以看出。他的数学的知识虽然不够，但是因为他有非常丰富的想象力，他能够把握最复杂的数学研究的结果。他靠想象生活在不停运动着的天体间，他对于它们的复杂运动，常常比较某一些数学家（特别是纯粹代数学家）更要清楚。这些数学家时常只看见公式和它们的逻辑的关联，而忽视了物质世界的现实。圣彼得堡的天文学家向我说起哥哥的那本著作，表示十分欣赏。现在他已经开始研究宇宙的结构：分析所有关于那无穷的空间中那些太阳、星群及星云的材料和假设；剖析它们彼此间的大概集结方式、它们的生命和它们的进化与衰减之定律。普尔科沃天文台的天文学家季尔登说起亚历山大的这本新著作，予以甚高评价。他写信介绍他与美国的霍尔登先生相识。后来我到华盛顿，有幸听到后者赞扬哥哥的研究。科学非常需要能不时听到精细的，勤勉的，有批判精神，又有想象力的人所作的高水平的探讨。&lt;/p&gt;
-
-&lt;p&gt;但是在西伯利亚的一个小城里，远离所有的图书馆，无法做到随科学的进步同步，所以在他的著作里，他只能体现在他未被流放以前的研究成果。后来有一些重要的著作出版，他并不是不知道，但是如果他不离开西伯利亚，他怎么能得到这些必要的书籍呢？&lt;/p&gt;
-
-&lt;p&gt;自由期的临近并不给他以希望。他知道他不会得到许可住在俄国或西欧的一个大学城里，他知道他离开西伯利亚以后，将会再判流刑，也许这第二次还要更坏，说不定他会被流放到俄国东部的一个小村里去。&lt;/p&gt;
-
-&lt;p&gt;绝望压倒了他。“一种浮士德式的绝望，不时占有着我”，他给我的信里有一次这样说。当他的自由期快到时，他趁着航路还未被冰冻断绝的时候，要他的妻儿搭轮船先回俄国。在一个阴暗的夜里，那浮士德式的绝望结束了他的生命……&lt;/p&gt;
-
-&lt;p&gt;有好几个月，一片阴云罩着我们的小屋——直到一线光明冲破了它。第二年春天，一个小东西，一个小女孩出世了，她继承了哥哥的名字。她的无助的哭声使新的弦在我的心里颤动起来。&lt;/p&gt;
-
-&lt;p&gt;-&lt;/p&gt;
-
-&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;1886年英国社会主义运动——我参加这个运动——生存竞争的公式得到“互助”这个自然定律的补正——社会主义思想的大发展&lt;/code&gt;&lt;/p&gt;
-
-&lt;p&gt;1886年，社会主义运动在英国正是如日中天。在所有的重要都市里，许多大的工人团体都公然加入这个运动。还有不少中产阶级的人士（大多数是青年）也用种种方法帮助社会主义运动的发展。&lt;/p&gt;
-
-&lt;p&gt;那一年，许多行业里都有着严重的经济恐慌，每天早晨甚至整整一天，我都听见成群的工人在街上一面走，一面唱“我们没有工作”等歌或圣诗，讨面包吃。到了晚上，成群的人都跑到特拉法加广场去，不避风雨，垫和盖着两张报纸就在露天睡觉。2月的某一天，群众听了彭斯、海因德曼及钱毕昂的演说以后，冲到匹卡狄力街，打破各大商店的少数玻璃窗。但是比这次的民愤爆发重要得多的，乃是伦敦四郊工人区中最为贫苦的人的精神状态。这种状态到了如此地步，如果那几个因这次骚乱而被起诉的运动的领袖被重判，那么憎恨与复仇的情绪（这是英国近代劳动运动史上至今未见过的，但是它的预兆在1886年已是非常显著）一定还会增加，会使此后的运动长久受其影响。但是中产阶级似乎明白了这个危险。他们在西区捐了大笔的钱去救济东区的贫困——这当然不足以解救那蔓延极广的大穷困，但是至少足以表示有钱人的一番好意了。&lt;/p&gt;
-
-&lt;p&gt;至于法庭对于被控的运动领袖的判罪，只限于两三个月的监禁。&lt;/p&gt;
-
-&lt;p&gt;各个社会阶层对于社会主义以及社会改良与社会革新的种种计划都非常注意。从秋天一直到冬末，全国各地都有人请我去演讲，一部分是请讲监狱制度，但大半是请讲安那其社会主义的。我就这样地把英吉利和苏格兰的各大城市差不多走遍了。我照例是答应那些首先邀请我在演讲以后到他家里过夜的人，所以有时候今夜睡在一个富翁的公馆里，明晚又睡在一个工人家庭狭小的居室内。每天晚上我都看见许许多多各阶级的人。无论是在工人的小客堂里，或是在富翁的大客厅里，关于社会主义和安那其主义之十分热烈的讨论总是要继续到深夜——在工人家里则是希望，在富翁公馆里则是恐惧，但是到处都同样的热切。&lt;/p&gt;
-
-&lt;p&gt;在富翁的公馆里，主要的问题是要知道“社会主义者到底要的是什么？他们打算做些什么？”其次，“到时候为了避免严重的冲突起见，那些绝对必须作出的让步是什么？”在这些谈话里，我很少听到有人把社会主义者的要求说成是不公道的，或者说成是异想天开，但是我也发现他们坚决相信在英国革命是不可能的事，工人群众的要求还没有达到社会主义者的要求那样地精确，也没有达到那种程度，工人们所获改善远比社会主义者要求的低得多，他们便会感到满意，因此只要有一些次要的让步如稍微增加一点福利，一点闲暇时间之类，这在英国工人阶级看来，已经可以作为在将来作更大的改善的保证而接受了。一个对于英国生活广有经验的老国会议员有一天对我说：“我们是一个‘中间偏左’的国家，靠着妥协过日子的。”&lt;/p&gt;
-
-&lt;p&gt;在工人家里也是一样，我注意到在英国向我提出的问题与在欧洲大陆向我提出的问题之间有一个区别。拉丁民族的工人非常看重一般的原则，有了这些原则，就可以决定其部分的应用。如果某一个市政会通过拨款支持罢工，或供给小学学生免费饭食，大家对于这些事并不在意。他们把这些事认为是理所当然的。&lt;/p&gt;
-
-&lt;p&gt;一个法国工人说：“一个挨饿的小孩子当然不能求学。应该给他吃。”他会说：“厂主逼得工人们罢工，这是错误的。”——这样说过以后就不管了。个人主义的现社会对于共产主义原则的微小的让步，在他看来，无须赞扬。工人的所想的已经超越这类让步的时代了。他问：将来负责组织生产的，是公社，还是工会，还是国家；单靠自由协议是否就足以维持社会秩序；如果现社会废除了压迫的工具以后，用什么道德的强制措施才可以代替。他又问，一个选出的民主政府是否能够完成倾向于社会主义的重大改革，既成的事实是否不应该先于立法，以及诸如此类的问题。&lt;/p&gt;
-
-&lt;p&gt;在英国，主要的着重点在于一系列治标的让步，让步的重要程度逐步增加。但是，在另一方面，英国工人似乎早已明白叫国家去管理工业是不可能的。他们最关心的是建设性地实现以及使这种实现成为可能的条件如何达到。“克鲁泡特金！假使明天我们把本城的码头占领了，依你的意见，我们应该怎样去管理呢？”或是：“我们不喜欢国营铁路的这种主意，而现在由私家公司去管理铁路，简直是有组织的抢劫。但是假使所有的铁路都归工人所有了，该怎样来组织铁路的经营呢？”每当我们在一个工人家中小客堂里就座以后，我首先被问的就是这一些问题。他们虽然缺乏一般的观念，但是他们却有一个欲望要去深入探究现实的细节，这也可以算是一种补充罢。&lt;/p&gt;
-
-&lt;p&gt;英国社会主义运动另外一个特点就是有许多中产阶级人士用不同形式来支持这个运动，他们有的公然加入，有的在运动之外予以帮助。在法国和瑞士，工人和中产阶级不但彼此对立，而且阵线分明。至少在1876年至1885年十年间是如此。我住在瑞士的三、四年中间，所认识的几乎全是工人。中产阶级人士不过两三个。这在英国是不会有的。我们可以看到不少中产阶级男女，无论是在伦敦，或是在各省，毫不迟疑地公开出面帮助组织社会主义的集会，或者拿了募捐箱到公园里去求人捐钱援助罢工者。我们还可以看到一个与七十年代初期俄国青年“到民间去”的运动相似的运动，不过不像那样激烈，那样充满自我牺牲精神，也不像那样丝毫不带一点“慈善”的想法。在英国，也有不少的人以各种各样身份去接近工人，走进贫民窟、平民馆、托因比服务所等等地方去。我可以说，当时大家都有很大的热诚。许多人大概以为一个社会革命已经开始，这正如莫里斯的一本喜剧《转败为胜》的主人公所想的一样，他说那个革命岂止就要开始，它已经开始了。但是这类热心人等到发现英国也与别处一样，需要做长期的烦难的艰苦的准备工作，他们中间，很多人退出了积极的宣传工作，如今站在运动的外面，仅仅是一个同情的旁观者而已。这类人往往如此。&lt;/p&gt;
-
-&lt;p&gt;我积极参加了这个运动，和几个英国同志一起，在三种已经在出版的社会主义刊物以外，我们创办了一个安那其共产主义的月刊：《自由》，它至今依然存在。我在被监禁时被迫中断的关于安那其主义的工作，也在这时重新开始。此书的批判的部分，已于我在克来服狱中时由爱利塞·邵可侣编辑出版，题名《一个反抗者的话》。现在我开始写安那其共产主义社会的建设的方面（就能够预测的而言）的一些论文，登载在巴黎的《反抗》上面。“我们的孩子”（《反抗者》）因反军国主义的宣传而受压迫，不得不改换一下名称，现在用一个阴性的名字出版。后来，这些论文经我大加充实之后印成单行本，就是《面包与自由》。&lt;/p&gt;
-
-&lt;p&gt;这项工作使我不得不去把现在文明国家的经济生活的某些方面加以更深的研究。大多数的社会主义者都说，现代文明社会中所生产的其实已经远远超过了保证所有人的安乐所需要，毛病仅仅出在分配方面；一旦社会革命发生，各人只要回到工厂或工场去工作就行了——社会将把现在资本家所拿去的“剩余价值”或得益拿到手。&lt;/p&gt;
-
-&lt;p&gt;在我看来，刚刚相反，在现有的私有条件之下，生产本身走向一个错误方向，忽视而且往往阻止生产充足数量的生活的绝对必需品。没有一件这类必需品是生产到了超过保证所有人的绝对安乐所需的数量的。至于大家谈得那样起劲的生产过剩，其真实意义不过是民众太穷了，连那一般认为维持常规的生存的必需品都买不起。但是在所有一切文明国家里，无论在农业或工业生产都应该，而且很容易便能大大增加，使人人都有充裕的生活。这使我去研究现代农业的可能性究竟有多大，还有通过怎样的教育使每人都有可能同时从事脑力工作和可以作为享受的体力劳动。&lt;/p&gt;
-
-&lt;p&gt;我把这些思想发挥在一系列论文里，陆续刊载于《十九世纪》，现在已在《田园、工厂、手工场》这题名下刊印成书了。&lt;/p&gt;
-
-&lt;p&gt;另一个大问题也使我非常注意。大家都知道达尔文的“生存竞争”公式被他的追随者的大多数（甚至其中最聪明的人如赫胥黎也不能免）演化出一些什么样的结论来，无论是在文明社会里，或是在白人对待所谓劣等民族的关系中，或是在“强者”对待“弱者”的关系中，没有一桩罪恶不是从这个公式中找到借口的。&lt;/p&gt;
-
-&lt;p&gt;对于动物世界中“生存竞争”这个公式本身，以及它在人类社会中的应用，实有加以根本修正之必要，这是我在克来服狱中时就已明白。少数几个社会主义者在这方面所作的尝试都不能使我满意。后来在一个俄国动物学家凯斯勒教授的讲演里，我终于找到了生存竞争这一法则的真正的表述。他在他的讲演中说：“如果相互斗争是自然界的一个法则，那么相互扶助在同等程度上也是一个。但是对于物种的一步步的进化来说，互助比互斗更为重要得多。”&lt;/p&gt;
-
-&lt;p&gt;这几句话——可惜他只引了少数几个实例（以前有一章里，我提到过的动物学家谢威尔左夫又增补了一两个），——他的讲演包含了解答整个问题的钥匙。当1888年赫胥黎发表他的大谬不然的论文《生存竞争：一个纲领》时，我便决定利用我两年来搜集的材料，写成明白易读的文章，反驳他对动物界以及人类中的生存竞争的看法。我把这个意思告诉过我的朋友。&lt;/p&gt;
-
-&lt;p&gt;但是我发现把“生存竞争”解释为“弱肉强食”的战斗口号已经提到科学所启示的自然界的戒律的高度，在英国已经是根深蒂固，（几乎已经成为一个宗教信条了。）支持我来反驳这个对自然事实之错误解释的人只有两个。《十九世纪》编辑J.诺尔斯以其令人叹服的慧眼立刻看出这个问题的要旨，以一个真正青年的精力鼓励我开始着手这个工作。另外一个就是H.W.贝茨。达尔文在他的自传里说过，在他遇见的最聪明的人中间，贝茨算是一个。他当时是地理学会的书记，我认识他。我把我的打算告诉他，他非常高兴，对我说：“对，你务必把它写出来，这才是真正的达尔文主义。想到他们把达尔文的思想解释成那种样子，真叫人难过。你动手写罢。你的书出版时，我将这意思写一封信给你，你可以将它发表。”这番鼓励使我十分感激，我便开始写作，这是系列论文，先后刊载于《十九世纪》，就是《动物界中的互助》《蒙昧人中间的互助》《野蛮人中间的互助》《中世纪都市中的互助》与《现代人中间的互助》。我发表头两篇关于动物界的论文时，贝茨还活着；可惜我没有寄给他看。当时我希望不久就可以完成这书的第二部，关于人类中间的互助的。但是我花费了好几年的功夫才把它写完，那时贝茨已经去世了。&lt;/p&gt;
-
-&lt;p&gt;我研究这些问题时，因为要去探究野蛮时代和中世纪自由都市的制度，使我开始了另一项重要的研究，就是，最近在欧洲发生的“国家”在三百年来的历史上起着怎样的作用。在另一方面，研究各文明阶段的互相扶持的组织，又使我去研究人的正义观念与道德观念之进化论的基础。&lt;/p&gt;
-
-&lt;p&gt;最近十年来，社会主义的成长在英国出现了一个新的面貌。那些只知道根据全国所开社会主义的和安那其主义的集会次数，与这些集会所吸引的听众的数目下判断的人一定会说，社会主义的宣传现在已经衰落了。也有人把那些自称在议会里代表社会主义的人所得的票数之多寡来断定社会主义之盛衰，他们会说，英国社会主义的宣传现在快要销声匿迹了。但是社会主义的思想传播得深浅广狭，是不能以那些在他们的选举纲领上多少写进一点社会主义的要求的人所得的票数而定的。在英国更是不能。事实上，傅立叶、圣西门和欧文三人所创始的三派社会主义中在英吉利和苏格兰最占势力的乃是欧文一派。所以要去判断社会主义运动之强弱，必须要看在工会运动、在合作运动里，以及在所谓城市社会主义运动里，社会主义的观点渗透得怎样，在全国各地社会主义的思想一般渗透得怎样，而不是依据开会次数以及投社会主义的票数的多寡。从这方面看，现在英国社会主义观点穿透的程度比起1886年来要大得多，而我可以毫不迟疑地说，比起1876年到1882年的光景来更有巨大的发展。我还可以说，那少数安那其主义者团体的坚持不懈的努力，对于废除政府、主张个人权利、地方行动、自由协议的思想之传播也很有贡献。—这些思想之传播已经使二十年前流行的国家万能、中央集权、严明纪律的思想受了打击，因此现在我们可以说，我们并没有白费时间。&lt;/p&gt;
-
-&lt;p&gt;全欧洲这时正在经历一个军国主义盛行的极坏的时期。这是1871年德意志军事帝国凭藉它的普遍兵役制战胜法国以后不可避免的后果。在当时就有人预料到，许多人并且预言过这一后果——而以巴枯宁讲话的方式特别的动人。但是在近代生活里，一个相反的潮流已经开始出现了。&lt;/p&gt;
-
-&lt;p&gt;丢掉了经院形式的共产主义思想已经侵入了欧美两洲。在我积极参加社会主义运动的这二十七年中间，我可以观察这些思想的进展，它们的传播极广。我想到国际工人协会的起初几次大会时工人所表达的模糊的、混乱的、胆怯的思想，想到在巴黎公社时期流行的那种思想（便是领袖中间最有思想的人也不能免），把它们拿来和现在为数巨大的工人的思想比起来，我必须说，在我看来，它们简直像是代表两个绝对不同的世界似的。&lt;/p&gt;
-
-&lt;p&gt;历史上没有一个时代（也许十二世纪和十三世纪的暴动时期除外，当时产生了中世纪的公社）曾发生过在流行的社会概念上与当今相类似的深刻变化。现在，在我五十七岁的时候，我比二十五年前还更深信：如果发生了由一些偶然事变巧合而成的条件下，就可能在欧洲发生如1848年的革命蔓延极广，但是重要得多的革命；这不是在各政党之间的斗争的意义上，而是在一次深刻的、急速的社会改造的意义上说的。我深信，不管这样的运动在不同国家里性质如何不同，它们都会表现出比过去六个世纪中所表现出远为深刻得多的对必需的变革的理解；而这样的运动在特权阶级那里所遭到的抵抗不大可能顽固到冥顽不灵的程度，因而也不大可能使革命带有暴力的性质。&lt;/p&gt;
-
-&lt;p&gt;为获得这一巨大成果是非常值得各国各阶级成千上万的男女在最近三十年中为之所付出的努力的。&lt;/p&gt;</content><author><name>彼得·克鲁泡特金</name></author><summary type="html">我在西欧活动之目的——在爱丁堡及伦敦小住——向《自然》杂志及《泰晤士报》投稿——离英赴瑞士——国际工人协会与德国社会民主党——国际工人协会在法国、西班牙、意大利的发展</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://i.imgur.com/jLRShN0.jpg" /><media:content medium="image" url="https://i.imgur.com/jLRShN0.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;在俄罗斯，神秘知识主要由知识精英传播。高素质的专家通过翻译大量原始的经典神秘文本提供直接接触；而在西方，新时代主要在流行文化内部/通过流行文化传播。&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;由于俄罗斯/苏联帝国的地理政治条件，俄罗斯知识分子比西方国家有更多与东方土著的神秘教义和传统进行直接接触的机会，他们与布里亚特、西藏、高加索和中亚的精神导师进行了大量的个人接触。&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;在苏联官方支持的科学体系内，有许多研究活动涉及神秘或超自然现象，这些现象在西方国家会被视为伪科学。&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;然而，显著的区别在于爱欲和性，成为西方新时代在20世纪60年代和70年代的核心问题，却在几乎完全由男性主导的俄罗斯神秘地下社会中起到了非常边缘化的作用。尽管在性领域有一些实际的探索，但俄罗斯的神秘地下社会比起西方更注重智力，更不注重肉体。重点更多地放在神秘知识上，而不是在神秘实践上，更强调心灵和精神，而不是身体。对许多人来说，身体方面包括大量饮酒，实际上这反而阻碍了心理和精神意义上的长期转化。尽管经常进行过度的自我实验，但在男性领导者的明确声明中，对禁欲主义的倾向是显著的。最终的目标是摆脱身体，而不是统一身体、心灵和灵魂。在这一点上，不难发现与苏联的普遍道德清教主义有共同的痕迹，这种清教主义根植于俄罗斯东正教的宗教传统，但也与俄罗斯神秘学有一些共同之处，尽管后者主要由女性主导，还有与各种东方神秘主义教义有共同之处。&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;</content><author><name>Birgit Menzel</name></author><summary type="html">苏联后期出现各种地下神秘主义思潮。这与东方哲学和宗教有什么影响关系？又与西方新时代运动有什么相互关系？</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://i.imgur.com/zm2SnRx.png" /><media:content medium="image" url="https://i.imgur.com/zm2SnRx.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
