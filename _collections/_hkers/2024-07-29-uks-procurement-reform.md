@@ -1,0 +1,74 @@
+---
+layout: post
+title : UK’s Procurement Reform
+author: Julian Brazier and Ryan Shea
+date  : 2024-07-29 12:00:00 +0800
+image : https://i.imgur.com/Iy16dQK.jpeg
+#image_caption: ""
+description: "Procurement Reform Starts with Requirement Formulation and the Supply Chain"
+excerpt_separator: <excerpt/>
+---
+
+_The pace of change today leaves the UK facing formidable threats and remarkable opportunities. However, it is critical to develop and buy the right equipment due to extremely tight defence budget._
+
+<excerpt/>
+
+Cheap, widely available equipment, from drones to laptops propagating viruses, present asymmetric opportunities to terrorists. At the same time, the Russian invasion of Ukraine has restored the threat of peer-on-peer warfare. A range of new technologies, from cyber to artificial intelligence to biological weaponry and, soon, quantum computing, threaten a sudden leap forward in conventional warfare.
+
+This matters, as an example from as far back as 1982 reminds us. In an attack on Syrian surface-to-air missile sites in the Beqaa Valley, the Israeli Air Force destroyed all 19 sites, together with an astonishing 64 Syrian fighters, without a single loss. With aerodynamically comparable aircraft – and highly motivated pilots – on both sides, it was a single Hawkeye airborne early warning and control system and superior avionics which turned a battle into a turkey shoot. Yet today’s attrition rates in Ukraine emphasise the importance of quantity as well as quality.
+
+Acquisition reform is critical, but also a well-trodden area of discussion. While improving defence procurement is a classic “wicked problem” with no easy solutions, we believe there are two areas that the new government needs to focus on. The first is how requirements are generated, and what organisational reforms can improve this process. The second is supply chain management, to enable the Ministry of Defence (MoD) to take advantage of the innovation ecosystem that the UK has to offer.
+
+
+### Defining Procurement Requirements
+
+Bernard Gray’s seminal report of 2009 on defence procurement had a major impact on the operation of Defence Equipment and Support (DE&S), the sharp end of defence procurement, and he was subsequently put in charge of that organisation. But Gray also had some trenchant analysis on the confused arrangements by which elements of the MoD acted as the “customer” for DE&S. He recommended:
+
+- a) DCDS(Capability) to be responsible for the creation and control of requirements, and required to control the budget of the agreed EP as a single point of MoD contact with DE&S for equipment.
+
+- b) Clear ownership of each project/requirement to be allocated to a single individual within DCDS(Capability) team, including business case formulation.
+
+___`The average timeline and onerousness of MoD procurement rules out a large proportion of companies with which Defence would benefit from engaging`___
+
+In the early 1980s, when the UK produced world-class equipment across many categories, the operational requirements branch of each service (as capability directorates were then called) had a cross-section of military officers. These branches included the head at each level, scientists, engineers and finance staff and – crucially – controlled their own budgets, up to certain limits. Ironically, the same period when the sharp end of procurement was greatly improved through the Levene Reforms, with the setting up of the Procurement Executive (now DE&S), the highly effective operational requirements branches, which acted as the “supervising customers” for the Procurement Executive and its predecessor organisations were broken up. In the quotation above, Gray effectively recommended the reintroduction of that original structure for operational requirements. This was ignored.
+
+A complication was that Lord Levene’s second batch of reforms in 2011 involved delegating more powers to the four relevant top-level budget-holders (TLBs) – the Royal Navy, the Army, RAF and StratCom – but each simply took over its share of each central function, capability, technical and financial, replicating the same stove pipe approach with military, technical and financial staff brigaded separately.
+
+Today, each capability function continues to be composed almost entirely of uniformed staff, commissioning work from scientists and engineers concentrated in the Defence Science and Technology Laboratory (DSTL), or in a separate part of their individual service branches, while the budget and – crucially – the authority to spend is held by a third body, such as, in the case of the Army, D Resources.
+
+A series of innovation units has been set up in each of the four TLBs, starting with JHub in StratCom. Early evidence is that these are getting some small projects from conception to fruition with commendable speed. Helping to take forward their work, and innovation more generally, is the Defence and Security Accelerator. These innovation hubs seem to be structured and to operate in a remarkably similar fashion to the old cross-disciplinary operational requirements branches, but they are effectively operating in parallel with the main capability departments; it would seem to make more sense to fix those structures.
+
+The scientists from DSTL and the individual services, and relevant financial staff, should be reintegrated, and authority returned for smaller projects. This should empower and motivate staffs, and having technical capability in-house and part of each team’s culture should temper any temptation to go for the first shiny offering from an existing contractor. A further point is that all the uniformed officers are regulars, so there is only reserve input when they choose to ask for it. We believe that this has two serious disadvantages. First, reservists may identify opportunities early in the process of designing a capability so as to make it easier to integrate citizen elements – as the Russians did with the simple and robust T34C, and the Germans failed to do with their excellent but over-complex Panzers. Second, civilians often bring knowledge of civilian tech alternatives (from simulation, to communications, to the software lifecycle) more advanced than military equivalents. So reservist officers should be included in the capability function, on the usual part-time basis as on other staffs.
+
+One area where the MoD has made remarkable progress is breaking down the traditional structures by which personnel train and upskilled. PUBLIC delivered an innovation programme called the Percy Hobart Fellowship, where Royal Navy personnel were exposed to business, digital, and innovation skills, provided a short secondment into a technology startup, and asked to develop an innovation project predicated around a problem that they had experienced. One of these, the development of a mobile onboard operating theatre, has been taken into the formal procurement process, and is projected to save the Royal Navy £8 million per year against the retrofitting of a standard ship’s medical centre. Although a small example in the grand scheme of defence spending, this illustrates that an empowered individual, with the support of a cross-functional team, can develop requirements that help the MoD buy fit-for-purpose equipment that saves money and delivers what is required to the warfighter.
+
+It also shows that, in the upstream identification of requirements, key MoD decision-makers would benefit from secondments and a general exposure to the innovation, science, and technology world outside Defence. The MoD should provide additional structures and opportunities to encourage networking and knowledge-sharing across different units within Defence, leading to a diffusion of ideas and cooperative networks that can help drive better requirement development.
+
+
+### Broadening the Supply Chain
+
+A consistent concern that arises from both defence suppliers and investors is the so-called “valley of death”: the gap between the capital available for small-scale pilots and the funding required to develop a production-ready capability. As a result, defence technology is largely seen as an un-investable market for start-ups, given the level of risk capital required to build the competition and supply chain needed to deliver benefits to MoD.
+
+A few factors drive this. The first is the disappointing level of market engagement with a diverse set of suppliers. This is partly caused by strict rules around market engagement, many of them rolled over from EU regulations. However, efforts such as Digital Exploitation for Defence (DX4D) aim to increase the touchpoints with digital solution providers. This is important because the best solutions to a problem have often been identified in adjacent markets. Let us not forget that the genesis of Silicon Valley was the defence industry, with Hewlett Packard selling microprocessors to the US Navy. Hewlett Packard selling audio oscillators to the US military To truly take advantage of dual-use technologies and bring a more diverse set of suppliers into the defence market, the MoD must look to expand its market engagement activities beyond the typical avenues.
+
+The second factor is the length of procurement timelines for defence. Particularly for specific technology or software applications, as opposed to platforms, the average timeline and onerousness of MoD procurement rules out a large proportion of companies with which Defence would benefit from engaging. The MoD announced in July 2023 that it intends to reduce the maximum timeline for digital acquisition programmes to three years. However, this remains well outside the typical lifespan of a typical early-stage digital start-up.
+
+Related to the procurement length is the typical size and structure of MoD procurements. The fact that requirements all too often focus on platforms rather than the weapons and capabilities they carry often means that the MoD misses out on applications, tooling or software that might impact specific, well understood opportunities. This leads to a disproportionate amount of spend going through prime contractors. 2022/2023 MoD spend with SMEs totalled only 5%, well below central government’s target of 25%, which shows the degree to which primes and large businesses dominate this market. This compares to 25% of prime contracting value for the US Department of Defence going to SMEs in 2022. While primes have SMEs and innovative businesses in their supply chains, UK primes are under no obligation to produce figures around how much spend makes its way to SMEs. That power differential is felt by companies in Defence; many start-ups in this space report a reticence to engage with primes because of their ability to dictate terms around important issues, such as intellectual property ownership and transfer of risk, that are disadvantageous or even threatening.
+
+Finally, if we want to bring greater diversity, competition, and therefore quality into defence supply chains, we must incentivise the risk capital required to scale disruptive digital and technology businesses. Equity investing in defence companies in the UK from 2021–2023 was 0.6% of that in the US. Investors note the availability of small funding sources for pilots, as well as later stage private equity, but a lack of venture investment in mid-tier funding to carry promising businesses through that “valley of death” to implementation. Therefore, the current route to market is to sell early to a prime, or hopefully gain enough traction in adjacent markets that the challenges mentioned above can be mitigated. This is not an effective way of stimulating a market that delivers good value for money.
+
+___`By reshaping the formulation of requirements and the cultivation of the defence supply chain, the UK could bring British innovation back into the heart of its armed forces`___
+
+There are several approaches that the MoD can adopt to address these challenges. There should be central guidance to dramatically increase the pace of acquisition for digital programmes. One approach is to use a procurement method known as a Challenge Programme, which allows departments to demonstrate multiple solutions around a particular problem space, allowing them to see what the market has to offer and create a clear pathway to procurement for successful suppliers. The Home Office Accelerated Capability Environment has been a successful example of this.
+
+To increase the clarity and attractiveness of the defence market to start-ups and innovative SMEs, we would like to see greater pre-market engagement, accompanied by a genuine dialogue with the proposed reconstituted integrated capability staffs, to help define requirements and detailed specifications. Primes should be required to make public their spend with SMEs. This will both make the attractiveness of the market clear, and help government hold these suppliers to account for SME spend targets. A greater effort to break down platform procurements into smaller lots would attract more businesses and increase competition and value for money.
+
+Finally, we have seen positive efforts from NATO’s DIANA accelerator programme to create not only funding, but also paths to market for leading defence startups. But this is not enough if we want to build a world-beating domestic defence innovation ecosystem. Investors need to be brought into the dialogue to understand and feed into MoD priorities, changing the rules of market engagement where necessary. This would provide valuable insight on the state of the art technologically for government, as well as where spending priorities are for the MoD. A funding mechanism, possibly following structures pioneered by the Enterprise Capital Funds programme at the British Business Bank, to incentivise the creation of funds that focus on mid-stage rather than early-stage growth would go a step further.
+
+The UK used to be a shining example of innovation across the G7 and NATO, from Frank Whittle and Percy Hobart to Alan Turing. There are still points of light, like today’s Government Digital Service. Our warfighters and defence staff deserve the very best that the market has to offer. By reshaping the formulation of requirements and the cultivation of the defence supply chain, the UK could bring British innovation back into the heart of its armed forces.
+
+---
+
+__Julian Brazier__ is a former MP and government minister. As a scholar in maths and philosophy at BNC, Oxford, he worked in the City and in management consulting, co-authoring a major study comparing defence procurement in six NATO nations and Sweden.
+
+__Ryan Shea__ is Managing Director at PUBLIC UK, where he leads the Transformation advisory and Ventures function, advising governments and private sector organisations with public sector footprints on how to utilise technology to achieve their goals.
