@@ -1,291 +1,806 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://agorahub.github.io/pen0/heros.xml" rel="self" type="application/atom+xml" /><link href="https://agorahub.github.io/pen0/" rel="alternate" type="text/html" /><updated>2024-09-24T16:35:36+08:00</updated><id>https://agorahub.github.io/pen0/heros.xml</id><title type="html">The Republic of Agora | Heros</title><subtitle>UNITE THE PUBLIC ♢ VOL.44 © MMXXIV</subtitle><entry><title type="html">无治与虚无主义：后果</title><link href="https://agorahub.github.io/pen0/heros/2009-10-17-Aragorn-a1_c-anarchy-and-nihilism-consequences.html" rel="alternate" type="text/html" title="无治与虚无主义：后果" /><published>2009-10-17T12:00:00+08:00</published><updated>2009-10-17T12:00:00+08:00</updated><id>https://agorahub.github.io/pen0/heros/Aragorn-a1_c-anarchy-and-nihilism-consequences</id><content type="html" xml:base="https://agorahub.github.io/pen0/heros/2009-10-17-Aragorn-a1_c-anarchy-and-nihilism-consequences.html">&lt;p&gt;无治主义者的范围包括抗议队伍里的小丑、锱铢必较的压迫认证专家和打着黑旗的马克思主义者，这并不是对无治主义思想的谴责，而是一个重要的停顿理由。在这种停顿中，我们必须挑战我们对无治主义的假设。在无治主义的大帐篷里（或者应该称为马戏团的帐篷），我们与其他人真正分享的是什么？&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://agorahub.github.io/pen0/heros.xml" rel="self" type="application/atom+xml" /><link href="https://agorahub.github.io/pen0/" rel="alternate" type="text/html" /><updated>2024-09-26T09:22:10+08:00</updated><id>https://agorahub.github.io/pen0/heros.xml</id><title type="html">The Republic of Agora | Heros</title><subtitle>UNITE THE PUBLIC ♢ VOL.45 © MMXXIV</subtitle><entry><title type="html">Status as a Service</title><link href="https://agorahub.github.io/pen0/heros/2019-02-19-EugeneWei-a1_c-status-as-a-service.html" rel="alternate" type="text/html" title="Status as a Service" /><published>2019-02-19T12:00:00+08:00</published><updated>2019-02-19T12:00:00+08:00</updated><id>https://agorahub.github.io/pen0/heros/EugeneWei-a1_c-status-as-a-service</id><content type="html" xml:base="https://agorahub.github.io/pen0/heros/2019-02-19-EugeneWei-a1_c-status-as-a-service.html">&lt;p&gt;“It is a truth universally acknowledged, that a person in possession of little fortune, must be in want of more social capital.” So wrote Jane Austen, or she would have, if she were chronicling our current age (instead we have Taylor Lorenz, and thank goodness for that).&lt;/p&gt;
 
 &lt;!--more--&gt;
 
-&lt;h3 id=&quot;第一章后果关于革命的绝望&quot;&gt;第一章：后果——关于革命的绝望&lt;/h3&gt;
+&lt;p&gt;Let’s begin with two principles:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;People are status-seeking monkeys*&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;People seek out the most efficient path to maximizing social capital&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;*Status-Seeking Monkeys will also be the name of my indie band, if I ever learn to play the guitar and start a band&lt;/p&gt;
+
+&lt;p&gt;I begin with these two observations of human nature because few would dispute them, yet I seldom see social networks, some of the largest and fastest-growing companies in the history of the world, analyzed on the dimension of status or social capital.&lt;/p&gt;
+
+&lt;p&gt;It’s in part a measurement issue. Numbers lend an air of legitimacy and credibility. We have longstanding ways to denominate and measure financial capital and its flows. Entire websites, sections of newspapers, and a ton of institutions report with precision on the prices and movements of money.&lt;/p&gt;
+
+&lt;p&gt;We have no such methods for measuring the values and movement of social capital, at least not with anywhere near the accuracy or precision. The body of research feels both broad and yet meager. If we had better measures besides user counts, this piece and many others would be full of charts and graphs that added a sense of intellectual heft to the analysis. There would be some annual presentation called the State of Social akin to Meeker’s Internet Trends Report, or perhaps it would be a fifty page sub-section of her annual report.&lt;/p&gt;
+
+&lt;p&gt;Despite this, most of the social media networks we study generate much more social capital than actual financial capital, especially in their early stages; almost all such companies have internalized one of the popular truisms of Silicon Valley, that in the early days, companies should postpone revenue generation in favor of rapid network scaling. Social capital has much to say about why social networks lose heat, stall out, and sometimes disappear altogether. And, while we may not be able to quantify social capital, as highly attuned social creatures, we can feel it.&lt;/p&gt;
+
+&lt;p&gt;Social capital is, in many ways, a leading indicator of financial capital, and so its nature bears greater scrutiny. Not only is it good investment or business practice, but analyzing social capital dynamics can help to explain all sorts of online behavior that would otherwise seem irrational.&lt;/p&gt;
+
+&lt;p&gt;In the past few years, much progress has been made analyzing Software as a Service (SaaS) businesses. Not as much has been made on social networks. Analysis of social networks still strikes me as being like economic growth theory long before Paul Romer’s paper on endogenous technological change. However, we can start to demystify social networks if we also think of them as SaaS businesses, but instead of software, they provide status. This post is a deep dive into what I refer to as Status as a Service (StaaS) businesses.&lt;/p&gt;
+
+&lt;p&gt;Think of this essay as a series of strongly held hypotheses; without access to the types of data which i’m not even sure exists, it’s difficult to be definitive. As ever, my wise readers will add or push back as they always do.&lt;/p&gt;
+
+&lt;h3 id=&quot;traditional-network-effects-model-of-social-networks&quot;&gt;Traditional Network Effects Model of Social Networks&lt;/h3&gt;
+
+&lt;p&gt;One of the fundamental lessons of successful social networks is that they must first appeal to people when they have few users. Typically this is done through some form of single-user utility.&lt;/p&gt;
+
+&lt;p&gt;This is the classic cold start problem of social. The answer to the traditional chicken-and-egg question is actually answerable: what comes first is a single chicken, and then another chicken, and then another chicken, and so on. The harder version of the question is why the first chicken came and stayed when no other chickens were around, and why the others followed.&lt;/p&gt;
+
+&lt;p&gt;The second fundamental lessons is that social networks must have strong network effects so that as more and more users come aboard, the network enters a positive flywheel of growth, a compounding value from positive network effects that leads to hockey stick growth that puts dollar signs in the eyes of investors and employees alike. “Come for the tool, stay for the network” wrote Chris Dixon, in perhaps the most memorable maxim for how this works.&lt;/p&gt;
+
+&lt;p&gt;Even before social networks, we had Metcalfe’s Law on telecommunications networks:&lt;/p&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;虚无主义者是一个不向任何权威低头的人，他不在信仰上接受任何原则，无论这个原则多么受人敬仰。&lt;/p&gt;
+  &lt;p&gt;The value of a telecommunications network is proportional to the square of the number of connected users of the system (n^2)&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;This ported over to social networks cleanly. It is intuitive, and it includes that tantalizing math formula that explains why growth curves for social networks bends up sharply at the ankle of the classic growth S-curve.&lt;/p&gt;
+
+&lt;p&gt;But dig deeper and many many questions remain. Why do some large social networks suddenly fade away, or lose out to new tiny networks? Why do some new social networks with great single-player tools fail to transform into networks, while others with seemingly frivolous purposes make the leap? Why do some networks sometimes lose value when they add more users? What determines why different networks stall out at different user base sizes? Why do some networks cross international borders easily while others stay locked within specific countries? Why, if Metcalfe’s Law holds, do many of Facebook’s clones of other social network features fail, while some succeed, like Instagram Stories?&lt;/p&gt;
+
+&lt;p&gt;What ties many of these explanations together is social capital theory, and how we analyze social networks should include a study of a social network’s accumulation of social capital assets and the nature and structure of its status games. In other words, how do such companies capitalize, either consciously or not, on the fact that people are status-seeking monkeys, always trying to seek more of it in the most efficient way possible?&lt;/p&gt;
+
+&lt;p&gt;To paraphrase Nicki Minaj, “If I’m fake I ain’t notice cause my followers ain’t.”&lt;/p&gt;
+
+&lt;h3 id=&quot;utility-vs-social-capital-framework&quot;&gt;Utility vs. Social Capital Framework&lt;/h3&gt;
+
+&lt;p&gt;Classic network effects theory still holds, I’m not discarding it. Instead, let’s append some social capital theory. Together, those form the two axes on which I like to analyze social network health.&lt;/p&gt;
+
+&lt;p&gt;Actually, I tend to use three axes to dissect social networks.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/jM1IRCO.png&quot; alt=&quot;image01&quot; /&gt;
+&lt;em&gt;▲ The three axes on which I evaluate social network strength&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;For this post, though, I’m only going to look at two of them, utility and social capital, as the entertainment axis adds a whole lot of complexity which I’ll perhaps explain another time.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/MFMWLyp.png&quot; alt=&quot;image02&quot; /&gt;
+&lt;em&gt;▲ The basic two axis framework guiding much of the social network analysis in this piece&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Utility doesn’t require much explanation, though we often use the term very loosely and categorize too many things as utility when they aren’t that useful (we generally confuse circuses for bread and not the reverse; Fox News, for example, is more entertainment than utility, as is common of many news outlets). A social network like Facebook allows me to reach lots of people I would otherwise have a harder time tracking down, and that is useful. A messaging app like WhatsApp allows me to communicate with people all over the world without paying texting or incremental data fees, which is useful. Quora and Reddit and Discord and most every social network offer some forms of utility.&lt;/p&gt;
+
+&lt;p&gt;The other axis is, for a lack of a more precise term, the social capital axis, or the status axis. Can I use the social network to accumulate social capital? What forms? How is it measured? And how do I earn that status?&lt;/p&gt;
+
+&lt;p&gt;There are several different paths to success for social networks, but those which compete on the social capital axis are often more mysterious than pure utilities. Competition on raw utility tends to be Darwinian, ruthless, and highly legible. This is the world, for example, of communication services like messaging and video conferencing. Investing in this space also tends to be a bit more straightforward: how useful is your app or service, can you get distribution, etc. When investors send me decks on things in this category, I am happy to offer an opinion, but I enjoy puzzling over the world of artificial prestige even more.&lt;/p&gt;
+
+&lt;p&gt;The creation of a successful status game is so mysterious that it often smacks of alchemy. For that reason, entrepreneurs who succeed in this space are thought of us a sort of shaman, perhaps because most investors are middle-aged white men who are already so high status they haven’t the first idea why people would seek virtual status (more on that later).&lt;/p&gt;
+
+&lt;p&gt;With the rise of Instagram, with its focus on photos and filters, and Snapchat, with its ephemeral messaging, and Vine, with its 6-second video limit, for a while there was a thought that new social networks would be built on some new modality of communications. That’s a piece of it, but it’s not the complete picture, and not for the reasons many people think, which is why we have seen a whole bunch of strange failed experiments in just about every odd combinations of features and filters and artificial constraints in how we communicate with each other through our phones. Remember Facebook’s Snapchat competitor Slingshot, in which you had to unlock any messages you received by responding with a message? It felt like product design by mad libs.&lt;/p&gt;
+
+&lt;p&gt;When modeling how successful social networks create a status game worth playing, a useful metaphor is one of the trendiest technologies: cryptocurrency.&lt;/p&gt;
+
+&lt;h3 id=&quot;social-networks-as-icos&quot;&gt;Social Networks as ICO’s&lt;/h3&gt;
+
+&lt;p&gt;How is a new social network analogous to an ICO?&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Each new social network issues a new form of social capital, a token.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;You must show proof of work to earn the token.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Over time it becomes harder and harder to mine new tokens on each social network, creating built-in scarcity.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Many people, especially older folks, scoff at both social networks and cryptocurrencies.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;[“Why does anyone care what you ate for lunch?” is the canonical retort about any social network, though it’s fading with time. Both social networks and ICO’s tend to drive skeptics crazy because they seem to manufacture value out of nothing. The shifting nature of scarcity will always leave a wake of skepticism and disbelief.]&lt;/p&gt;
+
+&lt;p&gt;Years ago, I stayed at the house of a friend whose high school daughter was home upstairs with a classmates. As we adults drank wine in the kitchen downstairs while waiting for dinner to finish in the oven, we heard lots of music and stomping and giggling coming from upstairs.&lt;/p&gt;
+
+&lt;p&gt;When we finally called them down for dinner, I asked them what all the ruckus had been. My friend’s daughter proudly held up her phone to show me a recording they’d posted to an app called Musical.ly. It was a lip synch and dance routine replete with their own choreography. They’d rehearsed the piece more times than they could count. It showed. Their faces were shiny with sweat, and they were still breathing hard from the exertion. Proof of work indeed.&lt;/p&gt;
+
+&lt;p&gt;I spent the rest of the dinner scrolling through the app, fascinated, interviewing the girls about what they liked about the app, why they were on it, what share of their free time it had captured. I can’t tell if parents are offended or glad when I spend much of the time visiting them interviewing their sons and daughters instead, but in the absence of good enough metrics with which to analyze this space, I subscribe to the Jane Goodall theory of how to study your subject. Besides, status games of adults are already well covered by the existing media, from literature to film. Children’s status games, once familiar to us, begin to fade from our memory as time passes, and its modern forms have been drastically altered by social media.&lt;/p&gt;
+
+&lt;p&gt;Other examples abound. Perhaps you’ve read a long and thoughtful response by a random person on Quora or Reddit, or watched YouTube vloggers publishing night after night, or heard about popular Vine stars living in houses together, helping each other shoot and edit 6-second videos. While you can outsource Bitcoin mining to a computer, people still mine for social capital on social networks largely through their own blood, sweat, and tears.&lt;/p&gt;
+
+&lt;p&gt;[Aside: if you yourself are not an aspiring social network star, living with one is…not recommended.]&lt;/p&gt;
+
+&lt;p&gt;Perhaps, if you’ve spent time around today’s youth, you’ve watched with a mixture of horror and fascination as a teen snaps dozens of selfies before publishing the most flattering one to Instagram, only to pull it down if it doesn’t accumulate enough likes within the first hour. It’s another example of proof of work, or at least vigorous market research.&lt;/p&gt;
+
+&lt;p&gt;Almost every social network of note had an early signature proof of work hurdle. For Facebook it was posting some witty text-based status update. For Instagram, it was posting an interesting square photo. For Vine, an entertaining 6-second video. For Twitter, it was writing an amusing bit of text of 140 characters or fewer. Pinterest? Pinning a compelling photo. You can likely derive the proof of work for other networks like Quora and Reddit and Twitch and so on. Successful social networks don’t pose trick questions at the start, it’s usually clear what they want from you.&lt;/p&gt;
+
+&lt;p&gt;[An aside about exogenous social capital: you might complain that your tweets are more interesting and grammatical than those of, say, Donald Trump (you’re probably right!). Or that your photos are better composed and more interesting at a deep level of photographic craft than those of Kim Kardashian. The difference is, they bring a massive supply of exogenous pre-existing social capital from another status game, the fame game, to every table, and some forms of social capital transfer quite well across platforms. Generalized fame is one of them. More specific forms of fame or talent might not retain their value as easily: you might follow Paul Krugman on Twitter, for example, but not have any interest in his Instagram account. I don’t know if he has one, but I probably wouldn’t follow it if he did, sorry Paul, it’s nothing personal.]&lt;/p&gt;
+
+&lt;p&gt;If you’ve ever joined one of these social networks early enough, you know that, on a relative basis, getting ahead of others in terms of social capital (followers, likes, etc.) is easier in the early days. Some people who were featured on recommended follower lists in the early days of Twitter have follower counts in the 7-figures, just as early masters of Musical.ly and Vine were accumulated massive and compounding follower counts. The more people who follow you, the more followers you gain because of leaderboards and recommended follower algorithms and other such common discovery mechanisms.&lt;/p&gt;
+
+&lt;p&gt;It’s true that as more people join a network, more social capital is up for grabs in the aggregate. However, in general, if you come to a social network later, unless you bring incredible exogenous social capital (Taylor Swift can join any social network on the planet and collect a massive following immediately), the competition for attention is going to be more intense than it was in the beginning. Everyone has more of an understanding of how the game works so the competition is stiffer.&lt;/p&gt;
+
+&lt;h3 id=&quot;why-proof-of-work-matters&quot;&gt;Why Proof of Work Matters&lt;/h3&gt;
+
+&lt;p&gt;Why does proof of work matter for a social network? If people want to maximize social capital, why not make that as easy as possible?&lt;/p&gt;
+
+&lt;p&gt;As with cryptocurrency, if it were so easy, it wouldn’t be worth anything. Value is tied to scarcity, and scarcity on social networks derives from proof of work. Status isn’t worth much if there’s no skill and effort required to mine it. It’s not that a social network that makes it easy for lots of users to perform well can’t be a useful one, but competition for relative status still motivates humans. Recall our first tenet: humans are status-seeking monkeys. Status is a relative ladder. By definition, if everyone can achieve a certain type of status, it’s no status at all, it’s a participation trophy.&lt;/p&gt;
+
+&lt;p&gt;Musical.ly created a hurdle for gaining followers and status that wasn’t easily cleared by many people. However, for some, especially teens, and especially girls, it was a status game at which they were particularly suited to win. And so they flocked there, because, according to my second tenet, people look for the most efficient ways to accumulate the most social capital.&lt;/p&gt;
+
+&lt;p&gt;Recall Twitter in the early days, when it was somewhat of a harmless but somewhat inert status update service. I went back to look at my first few tweets on the service from some 12 years ago and my first two, spaced about a year apart, were both about doing my taxes. Looking back at them, I bore even myself. Early Twitter consisted mostly of harmless but dull life status updates, a lot of “is this thing on?” tapping on the virtual microphone. I guess I am in the camp of not caring about what you had for lunch after all. Get off my lawn, err, phone screen!&lt;/p&gt;
+
+&lt;p&gt;What changed Twitter, for me, was the launch of Favstar and Favrd (both now defunct, ruthlessly murdered by Twitter), these global leaderboards that suddenly turned the service into a competition to compose the most globally popular tweets. Recall, the Twitter graph was not as dense then as it was now, nor did distribution accelerants like one-click retweeting and Moments exist yet.&lt;/p&gt;
+
+&lt;p&gt;What Favstar and Favrd did was surface really great tweets and rank them on a scoreboard, and that, to me, launched the performative revolution in Twitter. It added needed feedback to the feedback loop, birthing a new type of comedian, the master of the 140 character or less punchline (the internet has killed the joke, humor is all punchline now that the setup of the joke is assumed to be common knowledge thanks to Google).&lt;/p&gt;
+
+&lt;p&gt;The launch of these global tweet scoreboards reminds me of the moment in the now classic film** Battle Royale when Beat Takeshi Kitano informs a bunch of troublemaking school kids that they’ve been deported to an island are to fight to the death, last student standing wins, and that those who try to sneak out of designated battle zones will be killed by explosive collars. I’m not saying that Twitter is a life-or-death struggle, but you need only time travel back to pre-product-market-fit Twitter to see the vast difference in tone.&lt;/p&gt;
+
+&lt;p&gt;**Now classic because Battle Royale has subsequently been ripped off, err, paid tribute to by The Hunger Games, Fortnite, Maze Runner, and just about every YA franchise out there because who understands barbarous status games better than teenagers?&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/6SGkp8t.png&quot; alt=&quot;image03&quot; /&gt;
+&lt;em&gt;▲ Favstar.fm screenshot. Just seeing some of those old but familiar avatars makes me sentimental, perhaps like how early Burning Man devotees think back on its early years, before the moneyed class came in and ruined that utopia of drugs, nudity, and art.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/j53MKaM.jpeg&quot; alt=&quot;image04&quot; /&gt;
+&lt;em&gt;▲ Chasing down old Favrd screenshots, I still laugh at the tweets surfaced.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/4Vy2H2E.jpeg&quot; alt=&quot;image05&quot; /&gt;
+&lt;em&gt;▲ One more Favrd screenshot just for old time’s sake&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;It’s critical that not everyone can quip with such skill. This gave Twitter its own proof of work, and over time the overall quality of tweets improved as that feedback loop spun and tightened. The strategies that gained the most likes were fed in increasing volume into people’s timelines as everyone learned from and competed with each other.&lt;/p&gt;
+
+&lt;p&gt;Read Twitter today and hardly any of the tweets are the mundane life updates of its awkward pre-puberty years. We are now in late-stage performative Twitter, where nearly every tweet is hungry as hell for favorites and retweets, and everyone is a trained pundit or comedian. It’s hot takes and cool proverbs all the way down. The harmless status update Twitter was a less thirsty scene but also not much of a business. Still, sometimes I miss the halcyon days when not every tweet was a thirst trap. I hate the new Kanye, the bad mood Kanye, the always rude Kanye, spaz in the news Kanye, I miss the sweet Kanye, chop up the beats Kanye.&lt;/p&gt;
+
+&lt;p&gt;Thirst for status is potential energy. It is the lifeblood of a Status as a Service business. To succeed at carving out unique space in the market, social networks offer their own unique form of status token, earned through some distinctive proof of work.&lt;/p&gt;
+
+&lt;p&gt;Conversely, let’s look at something like Prisma, a photo filter app which tried to pivot to become a social network. Prisma surged in popularity upon launch by making it trivial to turn one of your photos into a fine art painting with one of its many neural-network-powered filters.&lt;/p&gt;
+
+&lt;p&gt;It worked well. Too well.&lt;/p&gt;
+
+&lt;p&gt;Since almost any photo could, with one-click, be turned into a gorgeous painting, no single photo really stands out. The star is the filter, not the user, and so it didn’t really make sense to follow any one person over any other person. Without that element of skill, no framework for a status game or skill-based network existed. It was a utility that failed at becoming a Status as a Service business.&lt;/p&gt;
+
+&lt;p&gt;In contrast, while Instagram filters, in its earliest days, improved upon the somewhat limited quality of smartphone photos at the time, the quality of those photos still depended for the most part on the photographer. The composition, the selection of subject matter, these still derived from the photographer’s craft, and no filter could elevate a poor photo into a masterpiece.&lt;/p&gt;
+
+&lt;p&gt;So, to answer an earlier question about how a new social network takes hold, let’s add this: a new Status as a Service business must devise some proof of work that depends on some actual skill to differentiate among users. If it does, then it creates, like an ICO, some new form of social capital currency of value to those users.&lt;/p&gt;
+
+&lt;p&gt;This is not the only way a social network can achieve success. As noted before, you can build a network based around utility or entertainment. However, the addition of status helps us to explain why some networks which seemingly offer little in the way of meaningful utility (is a service that forces you to make only a six second video useful?) still achieve traction.&lt;/p&gt;
+
+&lt;h3 id=&quot;facebooks-original-proof-of-work&quot;&gt;Facebook’s Original Proof of Work&lt;/h3&gt;
+
+&lt;p&gt;You might wonder, how did Facebook differentiate itself from MySpace? It started out as mostly a bunch of text status updates, nothing necessarily that innovative.&lt;/p&gt;
+
+&lt;p&gt;In fact, Facebook launched with one of the most famous proof of work hurdles in the world: you had to be a student at Harvard. By requiring a harvard.edu email address, Facebook drafted off of one of the most elite cultural filters in the world. It’s hard to think of many more powerful slingshots of elitism.&lt;/p&gt;
+
+&lt;p&gt;By rolling out, first to Ivy League schools, then to colleges in general, Facebook scaled while maintaining a narrow age dispersion and exclusivity based around educational credentials.&lt;/p&gt;
+
+&lt;p&gt;Layer that on top of the broader social status game of stalking attractive members of the other sex that animates much of college life and Facebook was a service that tapped into reserves of some of the most heated social capital competitions in the world.&lt;/p&gt;
+
+&lt;h3 id=&quot;social-capital-roi&quot;&gt;Social Capital ROI&lt;/h3&gt;
+
+&lt;p&gt;If a person posts something interesting to a platform, how quickly do they gain likes and comments and reactions and followers? The second tenet is that people seek out the most efficient path to maximize their social capital. To do so, they must have a sense for how different strategies vary in effectiveness. Most humans seem to excel at this.&lt;/p&gt;
+
+&lt;p&gt;Young people, with their much higher usage rate on social media, are the most sensitive and attuned demographic to the payback period and ROI on their social media labor. So, for example, young people tend not to like Twitter but do enjoy Instagram.&lt;/p&gt;
+
+&lt;p&gt;It’s not that Twitter doesn’t dole out the occasional viral supernova; every so often someone composes a tweet that goes over 1K and then 10K likes or retweets (Twitter should allow people to buy a framed print of said tweet with a silver or gold 1K club or 10K club designation to supplement its monetization). But it’s not common, and most tweets are barely seen by anyone at all. Pair that with the fact that young people’s bias towards and skill advantage in visual mediums over textual ones and it’s not surprising Instagram is their social battleground of preference (video games might be the most lucrative battleground for the young if you broaden your definition of social networks, and that’s entirely reasonable, though that arena skews male).&lt;/p&gt;
+
+&lt;p&gt;Instagram, despite not having any official reshare option, allows near unlimited hashtag spamming, and that allows for more deterministic, self-generated distribution. Twitter also isn’t as great for spreading visual memes because of its stubborn attachment to cropping photos to maintain a certain level of tweet density per phone screen.&lt;/p&gt;
+
+&lt;p&gt;The gradient of your network’s social capital ROI can often govern your market share among different demographics. Young girls flocked to Musical.ly in its early days because they were uniquely good at the lip synch dance routine videos that were its bread and butter. In this age of neverending notifications, heavy social media users are hyper aware of differing status ROI among the apps they use.&lt;/p&gt;
+
+&lt;p&gt;I can still remember posting the same photos to Flickr and Instagram for a while and seeing how quickly the latter passed the former in feedback. If I were an investor or even an employee, I might have something like a representative basket of content that I’d post from various test accounts on different social media networks just to track social capital interest rates and liquidity among the various services.&lt;/p&gt;
+
+&lt;p&gt;Some features can increase the reach of content on any network. A reshare option like the retweet button is a massive accelerant of virality on apps where the social graph determines what makes it into the feed. In an effort to increase engagement, Twitter has, over the years, become more and more aggressive to increase the liquidity of tweets. It now displays tweets that were liked by people you follow, even if they didn’t retweet them, and it has populated its search tab with Moments, which, like Instagram’s Discover Tab, guesses at other content you might like and provides an endless scroll filled with it.&lt;/p&gt;
+
+&lt;p&gt;TikTok is an interesting new player in social media because its default feed, For You, relies on a machine learning algorithm to determine what each user sees; the feed of content from by creators you follow, in contrast, is hidden one pane over. If you are new to TikTok and have just uploaded a great video, the selection algorithm promises to distribute your post much more quickly than if you were on sharing it on a network that relies on the size of your following, which most people have to build up over a long period of time. Conversely, if you come up with one great video but the rest of your work is mediocre, you can’t count on continued distribution on TikTok since your followers live mostly in a feed driven by the TikTok algorithm, not their follow graph.&lt;/p&gt;
+
+&lt;p&gt;The result is a feedback loop that is much more tightly wound that that of other social networks, both in the positive and negative direction. Theoretically, if the algorithm is accurate, the content in your feed should correlate most closely to quality of the work and its alignment with your personal interests rather than the drawing from the work of accounts you follow. At a time when Bytedance is spending tens (hundreds?) of millions of marketing dollars in a bid to acquire users in international markets, the rapid ROI on new creators’ work is a helpful quality in ensuring they stick around.&lt;/p&gt;
+
+&lt;p&gt;This development is interesting for another reason: graph-based social capital allocation mechanisms can suffer from runaway winner-take-all effects. In essence, some networks reward those who gain a lot of followers early on with so much added exposure that they continue to gain more followers than other users, regardless of whether they’ve earned it through the quality of their posts. One hypothesis on why social networks tend to lose heat at scale is that this type of old money can’t be cleared out, and new money loses the incentive to play the game.&lt;/p&gt;
+
+&lt;p&gt;One of the striking things about Silicon Valley as a region versus East Coast power corridors like Manhattan is its dearth of old money. There are exceptions, but most of the fortunes in the Bay Area are not just new money but freshly minted new money from this current generation of tech. You have some old VC or semiconductor industry fortunes, but most of those people are still alive.&lt;/p&gt;
+
+&lt;p&gt;It’s in NYC that you run into multi-generational old money hanging around on the Upper East or West sides of Manhattan, or encounter old wealth being showered around town by young socialites whose source of wealth is simply a fortuitous last name. Trickle down economics works, but often just down the veins of family trees.&lt;/p&gt;
+
+&lt;p&gt;It’s not that the existence of old money or old social capital dooms a social network to inevitable stagnation, but a social network should continue to prioritize distribution for the best content, whatever the definition of quality, regardless of the vintage of user producing it. Otherwise a form of social capital inequality sets in, and in the virtual world, where exit costs are much lower than in the real world, new users can easily leave for a new network where their work is more properly rewarded and where status mobility is higher.&lt;/p&gt;
+
+&lt;p&gt;It may be that Silicon Valley never comes to be dominated by old money, and I’d consider that a net positive for the region. I’d rather the most productive new work be rewarded consistently by the marketplace than a bunch of stagnant quasi-monopolies hang on to wealth as they reach bloated scales that aren’t conducive to innovation. The same applies to social networks and multi-player video games. As a newbie, how quickly, if you put in the work, are you “in the game”? Proof of work should define its own meritocracy.&lt;/p&gt;
+
+&lt;p&gt;The same way many social networks track keystone metrics like time to X followers, they should track the ROI on posts for new users. It’s likely a leading metric that governs retention or churn. It’s useful as an investor, or even as a curious onlooker to test a social networks by posting varied content from test accounts to gauge the efficiency and fairness of the distribution algorithm.&lt;/p&gt;
+
+&lt;p&gt;Whatever the mechanisms, social networks must devote a lot of resources to market making between content and the right audience for that content so that users feel sufficient return on their work. Distribution is king, even when, or especially when it allocates social capital.&lt;/p&gt;
+
+&lt;h3 id=&quot;why-copying-proof-of-work-is-lousy-strategy-for-status-driven-networks&quot;&gt;Why copying proof of work is lousy strategy for status-driven networks&lt;/h3&gt;
+
+&lt;p&gt;We often see a new social network copy a successful incumbent but with a minor twist thrown in. In the wake of Facebook’s recent issues, we may see some privacy-first social networks, but we have an endless supply of actual knockoffs to study. App.net and then Mastodon were two prominent Twitter clones that promised some differentiation but which built themselves on the same general open messaging framework.&lt;/p&gt;
+
+&lt;p&gt;Most of these near clones have and will fail. The reason that matching the basic proof of work hurdle of an Status as a Service incumbent fails is that it generally duplicates the status game that already exists. By definition, if the proof of work is the same, you’re not really creating a new status ladder game, and so there isn’t a real compelling reason to switch when the new network really has no one in it.&lt;/p&gt;
+
+&lt;p&gt;This isn’t to say you can’t copy an existing proof of work and succeed. After all, Facebook replaced social networks like MySpace and Friendster that came before it, and in the real world, new money sometimes becomes the new old money. You can build a better status game or create a more valuable form of status. Usually when such displacement occurs, though, it does so along the other dimension of pure utility.&lt;/p&gt;
+
+&lt;p&gt;For example, we have multiple messaging apps that became viable companies just by capturing a particular geographic market through localized network effects. We don’t have one messaging app to rule them all in the world, but instead a bunch that have won in particular geographies. After all, the best messaging app in most countries or continents is the one most other people are already using there.&lt;/p&gt;
+
+&lt;p&gt;But in the same market? Copying a proof of work there is a tough road. The first mover advantage is also such that the leader with the dominant graph and the social capital of most value can look at any new features that fast followers launch and pull a reverse copy, grafting them into their more extensive and dominant incumbent graph.&lt;/p&gt;
+
+&lt;p&gt;In China, Tencent is desperate to cool off Bytedance’s momentum in the short video space; Douyin is enemy number one. Tencent launched a clone but added a feature which allowed viewers to record a side-by-side video reaction in response to any video. It took about half a second for Bytedance to incorporate that into Douyin, and now it’s a popular feature in TikTok the world over. If you can’t change the proof of work competition as a challenger, copy and throttle is an effective strategy for the incumbent.&lt;/p&gt;
+
+&lt;p&gt;Not to mention that a wholesale ripoff of another app tends to be frowned upon as poor form. Even in China, with its reputation as the land of loose IP protection, users will tend to post dismissive reviews of blatant copycat apps in app stores. Chinese users may not be as aware of American apps that are knocked off in China, but within China, users don’t just jump ship to out-and-out copycat apps. There has to be an incentive to overcome the switching costs, and that applies in China as it does elsewhere.&lt;/p&gt;
+
+&lt;p&gt;A few specifics of note here. I once wrote about social networks that the network’s the thing; that is, the composition of the graph once a social network reaches scale is its most unique quality. I would update that today to say that it’s the unique combination of a feature and a specific graph that is any network’s most critical competitive advantage. Copying some network’s feature often isn’t sufficient if you can’t also copy its graph, but if you can apply the feature to some unique graph that you earned some other way, it can be a defensible advantage.&lt;/p&gt;
+
+&lt;p&gt;Nothing illustrates this better than Facebook’s attempts to win back the young from Snapchat by copying some of the network’s ephemeral messaging features, or Facebook’s attempt to copy TikTok with Lasso, or, well Facebook’s attempt to duplicate just about every social app with any traction anywhere. The problem with copying Snapchat is that, well, the reason young people left Facebook for Snapchat was in large part because their parents had invaded Facebook. You don’t leave a party with your classmates to go back to one your parents are throwing just because your dad brings in a keg and offer to play beer pong.&lt;/p&gt;
+
+&lt;p&gt;The pairing of Facebook’s gigantic graph with just about almost any proof of work from another app changes the very nature of that status game, sometimes in undesirable ways. Do you really want your coworkers and business colleagues and family and friends watching you lip synch to “It’s Getting Hot in Here” by Nelly on Lasso? Facebook was rumored to be contemplating a special memes tab to try to woo back the young, which, again, completely misunderstands how the young play the meme status game. At last check that plan had been shelved.&lt;/p&gt;
+
+&lt;p&gt;Of course, the canonical Facebook feature grab that pundits often cite as having worked is Instagram’s copy of Snapchat’s Stories format. As I’ve written before, I think the Stories format is a genuine innovation on the social modesty problem of social networks. That is, all but the most egregious showoffs feel squeamish about publishing too much to their followers. Stories, by putting the onus on the viewer to pull that content, allows everyone to publish away guilt-free, without regard for the craft that regular posts demand in the ever escalating game that is life publishing. In a world where algorithmic feeds break up your sequence of posts, Stories also allow gifted creators to create sequential narratives.&lt;/p&gt;
+
+&lt;p&gt;Thus Stories is inherently about lowering the publishing hurdle for users and about a new method of storytelling, and any multi-sided network seeing declining growth will try grafting it on their own network at some point just to see if it solves supply-side social modesty.&lt;/p&gt;
+
+&lt;p&gt;Ironically, as services add more and more filters and capabilities into their story functionality, we see the proof of work game in Stories escalating. Many of the Instagram Stories today are more elaborate and time-consuming to publish than regular posts; the variety of filters and stickers and GIFs and other tools in the Stories composer dwarfs the limited filters available for regular Instagram posts. What began as a lighter weight posting format is now a more sophisticated and complex one.&lt;/p&gt;
+
+&lt;p&gt;You can take the monkey out of the status-seeking game, but you can’t take the status-seeking out of the monkey.&lt;/p&gt;
+
+&lt;h3 id=&quot;the-greatest-social-capital-creation-event-in-tech-history&quot;&gt;The Greatest Social Capital Creation Event in Tech History&lt;/h3&gt;
+
+&lt;p&gt;In the annals of tech, and perhaps the world, the event that created the greatest social capital boom in history was the launch of Facebook’s News Feed.&lt;/p&gt;
+
+&lt;p&gt;Before News Feed, if you were on, say MySpace, or even on a Facebook before News Feed launched, you had to browse around to find all the activity in your network. Only a demographic of a particular age will recall having to click from one profile to another on MySpace while stalking one’s friends. It almost seems comical in hindsight, that we’d impose such a heavy UI burden on social media users. Can you imagine if, to see all the new photos posted in your Instagram network, you had to click through each profile one by one to see if they’d posted any new photos? I feel like my parents talking about how they had to walk miles to grade school through winter snow wearing moccasins of tree bark when I complain about the undue burden of social media browsing before the News Feed, but it truly was a monumental pain in the ass.&lt;/p&gt;
+
+&lt;p&gt;By merging all updates from all the accounts you followed into a single continuous surface and having that serve as the default screen, Facebook News Feed simultaneously increased the efficiency of distribution of new posts and pitted all such posts against each other in what was effectively a single giant attention arena, complete with live updating scoreboards on each post. It was as if the panopticon inverted itself overnight, as if a giant spotlight turned on and suddenly all of us performing on Facebook for approval realized we were all in the same auditorium, on one large, connected infinite stage, singing karaoke to the same audience at the same time.&lt;/p&gt;
+
+&lt;p&gt;It’s difficult to overstate what a momentous sea change it was for hundreds of millions, and eventually billions, of humans who had grown up competing for status in small tribes, to suddenly be dropped into a talent show competing against EVERY PERSON THEY HAD EVER MET.&lt;/p&gt;
+
+&lt;p&gt;Predictably, everything exploded. The number of posts increased. The engagement with said posts increased. This is the scene in a movie in which, having launched something, a bunch of people stand in a large open war room waiting, and suddenly a geek staring at a computer goes wide-eyed, exclaiming, “Oh my god.” And then the senior ranking officer in the room (probably played by a scowling Ed Harris or Kyle Chandler) walks over to look at the screen, where some visible counter is incrementing so rapidly that the absolute number of digits starts is incrementing in real time as you look at it, because films have to make a plot development like this brain dead obvious to the audience. And then the room erupts in cheers while different people hug and clap each others on the back, and one random extra sprints across the screen in the background, shaking a bottle of champagne that explodes and ejaculates a stream of frothy bubbly through the air like some capitalist money shot that inspires, later, a 2,000 word essay from Žižek.&lt;/p&gt;
+
+&lt;p&gt;Of course, users complained about News Feed at first, but their behavior belied their words, something that would come to haunt Facebook later when it took it as proof that users would always just cry wolf and that similar changes in the future would be the right move regardless of public objections.&lt;/p&gt;
+
+&lt;p&gt;Back in those more halcyon times, though, News Feed unleashed a gold rush for social capital accumulation. Wow, that post over there has ten times the likes that my latest does! Okay, what can I learn from it to use in my next post? Which of my content is driving the most likes? We talk about the miracles of machine learning in the modern age, but as social creatures, humans are no less remarkable in their ability to decipher and internalize what plays well to the peanut gallery.&lt;/p&gt;
+
+&lt;p&gt;Stories of teens A/B testing Instagram posts, yanking those which don’t earn enough likes in the first hour, are almost beyond satire; a show like Black Mirror often just resorts to episodes that show things that have already happened in reality. The key component of the 10,000 hour rule of expertise is the idea of deliberate practice, the type that provides immediate feedback. Social media may not be literally real-time in its feedback, but it’s close enough, and the scope of reach is magnitudes of order beyond that of any social performance arena in history. We have a generation now that has been trained through hundreds of thousands, perhaps millions of social media reps on what engages people on which platforms. In our own way, we are all Buzzfeed. We are all Kardashians.&lt;/p&gt;
+
+&lt;p&gt;The tighter the feedback loop, the quicker the adaptation. Compare early Twitter to modern Twitter; it’s like going from listening to your coworkers at a karaoke bar to watching Beyonce play Coachella. I wrote once that any Twitter account that gained enough followers would end up sounding like a fortune cookie, but I underestimated how quickly everyone would arrive at that end state.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The rhetorical style of any Twitter account that continues to gain followers converges on that of a fortune cookie.&lt;/p&gt;
+  &lt;h4 id=&quot;-eugene-wei-eugenewei-may-21-2018&quot;&gt;— Eugene Wei (@eugenewei) May 21, 2018&lt;/h4&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;As people start following more and more accounts on a social network, they reach a point where the number of candidate stories exceeds their capacity to see them all. Even before that point, the sheer signal-to-noise ratio may decline to the point that it affects engagement. Almost any network that hits this inflection point turns to the same solution: an algorithmic feed.&lt;/p&gt;
+
+&lt;p&gt;Remember, status derives value from some type of scarcity. What is the one fundamental scarcity in the age of abundance? User attention. The launch of an algorithmic feed raises the stakes of the social media game. Even if someone follows you, they might no longer see every one of your posts. As DiCaprio said in Django Unchained, “You had my curiosity, but now, under the algorithmic feed, you have to earn my attention.”&lt;/p&gt;
+
+&lt;p&gt;As humans, we intuitively understand that some galling percentage of our happiness with our own status is relative. What matters is less our absolute status than how are we doing compared to those around us. By taking the scope of our status competitions virtual, we scaled them up in a way that we weren’t entirely prepared for. Is it any surprise that seeing other people signaling so hard about how wonderful their lives are decreases our happiness?&lt;/p&gt;
+
+&lt;p&gt;As evidence of how anomalous a change this has been for humanity, witness how many celebrities continue to be caught with a history of offensive social media posts that should obviously have been taken down long ago given shifting sensibilities? Kevin Hart, baseball players like Josh Hader, Trea Turner, and Sean Newcomb, and a litany of other public figures and their management teams didn’t think to go back and scrub some of their earlier social media posts despite nothing but downside optionality.&lt;/p&gt;
+
+&lt;p&gt;Could social networks have chosen to keep likes and other such metrics about posts private, visible only to the recipient? Could we have kept this social capital arms race from escalating? Some tech CEO’s now look back and, like Alan Greenspan, bemoan the irrational exuberance that led us to where we are now, but let’s be honest, the incentives to lower interest rates on social capital in all these networks, given their goals and those of their investors, were just too great. If one company hadn’t flooded the market with status, others would have filled the void many times over.&lt;/p&gt;
+
+&lt;p&gt;A social network like Path attempted to limit your social graph size to the Dunbar number, capping your social capital accumulation potential and capping the distribution of your posts. The exchange, they hoped, was some greater transparency, more genuine self-expression. The anti-Facebook. Unfortunately, as social capital theory might predict, Path did indeed succeed in becoming the anti-Facebook: a network without enough users. Some businesses work best at scale, and if you believe that people want to accumulate social capital as efficiently as possible, putting a bound on how much they can earn is a challenging business model, as dark as that may be.&lt;/p&gt;
+
+&lt;h3 id=&quot;why-social-capital-accumulation-skews-young&quot;&gt;Why Social Capital Accumulation Skews Young&lt;/h3&gt;
+
+&lt;p&gt;I’d love to see a graph of social capital assets under management by user demographic. I’d wager that we’d see that young people, especially those from their teens, when kids seem to be given their first cell phones, through early 20’s, are those who dominate the game. My nephew can post a photo of his elbow on Instagram and accumulate a couple hundred likes; I could share a photo of myself in a conga line with Barack Obama and Beyonce while Jennifer Lawrence sits on my shoulders pouring Cristal over my head and still only muster a fraction of the likes my nephew does posting a photo of his elbow. It’s a young person’s game, and the Livejournal/Blogger/Flickr/Friendster/MySpace era in which I came of age feels like the precambrian era of social in comparison.&lt;/p&gt;
+
+&lt;p&gt;While we’re all status-seeking monkeys, young people tend to be the tip of the spear when it comes to catapulting new Status as a Service businesses, and may always will be. A brief aside here on why this tends to hold.&lt;/p&gt;
+
+&lt;p&gt;One is that older people tend to have built up more stores of social capital. A job title, a spouse, maybe children, often a house or some piece of real estate, maybe a car, furniture that doesn’t require you to assemble it on your own, a curriculum vitae, one or more college degrees, and so on.&lt;/p&gt;
+
+&lt;p&gt;[This differs by culture, of course. In the U.S., where I grew up, one’s job is the single most important status carrier which is why so many conversations there begin with “What do you do?”]&lt;/p&gt;
+
+&lt;p&gt;Young people are generally social capital poor unless they’ve lucked into a fat inheritance. They have no job title, they may not have finished college, they own few assets like homes and cars, and often if they’ve finished college they’re saddled with substantial school debt. For them, the fastest and most efficient path to gaining social capital, while they wait to level up enough to win at more grown-up games like office politics, is to ply their trade on social media (or video games, but that’s a topic for another day).&lt;/p&gt;
+
+&lt;p&gt;Secondly, because of their previously accumulated social capital, adults tend to have more efficient means of accumulating even more status than playing around online. Maintenance of existing social capital stores is often a more efficient use of time than fighting to earn more on a new social network given the ease of just earning interest on your sizeable status reserves. That’s just math, especially once you factor in loss aversion.&lt;/p&gt;
+
+&lt;p&gt;Young people look at so many of the status games of older folks — what brand of car is parked in your garage, what neighborhood can you afford to live in, how many levels below CEO are you in your org — and then look at apps like Vine and Musical.ly, and they choose the only real viable and thus optimal path before them. Remember the second tenet: people maximize their social capital the most efficient way possible. Both the young and old pursue optimal strategies.&lt;/p&gt;
+
+&lt;p&gt;That so much social capital for the young comes in the form of followers, likes, and comments from peers and strangers shouldn’t lessen its value. Think back to your teen years and try to recall any real social capital that you could accumulate on such a scale. In your youth, the approval of peers and others in your demographic tend to matter more than just about anything, and social media has extended the reach of the youth status game in just about every direction possible.&lt;/p&gt;
+
+&lt;p&gt;Furthermore, old people tend to be hesitant about mastering new skills in general, including new status games, especially if they involve bewildering new technology. There are many reasons, including having to worry about raising children and other such adult responsibilities and just plain old decay in neural malleability. Perhaps old dogs don’t learn new tricks because they are closer to death, and the period to earn a positive return on that investment is shorter. At some point, it’s not worth learning any new tricks at all, and we all turn into the brusque old lady in every TV show, e.g. Maggie Smith in Downton Abbey, dropping withering quips about the follies of humanity all about us. I look forward to this period of my life when, through the unavoidable spectre of mortality, I will naturally settle into my DGAF phase of courageous truth-telling.&lt;/p&gt;
+
+&lt;p&gt;Lastly, young people have a surplus of something which most adults always complain they have too little of: time. The hurdle rate on the time of the young is low, and so they can afford to spend some of that surplus exploring new social networks, mining them to see if the social capital returns are attractive, whereas most adults can afford to wait until a network has runaway product-market fit to jump in. The young respond to all the status games of the world with a consistent refrain: “If you are looking for ransom I can tell you I don’t have money, but what I do have are a very particular set of skills. Among those are the dexterity and coordination to lip synch to songs while dancing Blocboy JB’s Shoot in my bedroom, and the time to do it over and over again until I nail it” (I wrote this long before recent events in which Liam Neeson lit much of his social capital on fire, vacating the “wronged and vengeful father with incredible combat and firearms skills” role to the next aging male star).&lt;/p&gt;
+
+&lt;p&gt;These modern forms of social capital are like new money. Not surprisingly, then, older folks, who are worse at accumulating these new badges than the young, often scoff at those kids wasting time on those apps, just as old money from the Upper West and Upper East Sides of New York look down their noses at those hoodie-wearing new money billionaire philistines of Silicon Valley.&lt;/p&gt;
+
+&lt;p&gt;The exception might be those who grew up in this first golden age of social media. For some of this generation’s younger NBA players, who were on Instagram from the time they got their first phone, posting may be second nature, a force of habit they bring with them into the league. Witness how many young NBA stars track their own appearances on House of Highlights the way stars of old hoped looked for themselves on Sportscenter.&lt;/p&gt;
+
+&lt;p&gt;If this generational divide on social media between the old and the young was simply a one-time anomaly given the recent birth of social networks, and if future generations will be virtual status-seeking experts for womb to tomb, then capturing users in their formative social media years becomes even more critical for social networks.&lt;/p&gt;
+
+&lt;h3 id=&quot;i-contain-multitudes-said-the-youngblood&quot;&gt;“I contain multitudes” (said the youngblood)&lt;/h3&gt;
+
+&lt;p&gt;Incidentally, teens and twenty-somethings, more so than the middle-aged and elderly, tend to juggle more identities. In middle and high school, kids have to maintain an identity among classmates at school, then another identity at home with family. Twenty-somethings craft one identity among coworkers during the day, then another among their friends outside of work. Often those spheres have differing status games, and there is some penalty to merging those identities. Anyone who has ever sent a text meant for their schoolmates to their parents, or emailed a boss or coworker something meant for their happy hour crew knows the treacherous nature of context collapse.&lt;/p&gt;
+
+&lt;p&gt;Add to that this younger generation’s preference for and facility with visual communication and it’s clearly why the preferred social network of the young is Instagram and the preferred messenger Snapchat, both preferable to Facebook. Instagram because of the ease of creating multiple accounts to match one’s portfolio of identities, Snapchat for its best in class ease of visual messaging privately to particular recipients. The expiration of content, whether explicitly executed on Instagram (you can easily kill off a meme account after you’ve outgrown it, for example), or automatically handled on a service like Snapchat, is a must-have feature for those for whom multiple identity management is a fact of life.&lt;/p&gt;
+
+&lt;p&gt;Facebook, with its explicit attachment to the real world graph and its enforcement of a single public identity, is just a poor structural fit for the more complex social capital requirements of the young.&lt;/p&gt;
+
+&lt;h3 id=&quot;common-social-network-arcs&quot;&gt;Common Social Network Arcs&lt;/h3&gt;
+
+&lt;p&gt;It’s useful to look at some of the common paths that social networks traverse over time using our two axis model. Not all of them took the same paths to prominence. Doing so also helps illuminate the most productive strategies for each to pursue future growth.&lt;/p&gt;
+
+&lt;h4 id=&quot;first-utility-then-social-capital&quot;&gt;First utility, then social capital&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/zrH9fRN.png&quot; alt=&quot;image06&quot; /&gt;
+&lt;em&gt;▲ Come for the tool, stay for the network&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;This is the well-known “come for the tool, stay for the network” path. Instagram is a good example here given its growth from filter-driven utility to social photo sharing behemoth. Today, I can’t remember the last time I used an Instagram filter.&lt;/p&gt;
+
+&lt;p&gt;In the end, I think most social networks, if they’ve made this journey, need to make a return to utility to be truly durable. Commerce is just one area where Instagram can add more utility for its users.&lt;/p&gt;
+
+&lt;h4 id=&quot;first-social-capital-then-utility&quot;&gt;First social capital, then utility&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/nz4xdqM.png&quot; alt=&quot;image07&quot; /&gt;
+&lt;em&gt;▲ Lots of the internet’s great resources were built off people seeking a hit of fame and recognition&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Come for the fame, stay for the tool?&lt;/p&gt;
+
+&lt;p&gt;Foursquare was this for me. In the beginning, I checked in to try to win mayorships at random places. These days, Foursquare is trying to become more of a utility, with information on places around you, rather than just a quirky distributed social capital game. Heavier users may have thoughts on how successful that has been, but in just compiling a database of locations that other apps can build off of, they have built up a store of utility.&lt;/p&gt;
+
+&lt;p&gt;IMDb, Wikipedia, Reddit, and Quora are more prominent examples here. Users come for the status, and help to build a tool for the commons.&lt;/p&gt;
+
+&lt;h4 id=&quot;utility-but-no-social-capital&quot;&gt;Utility, but no social capital&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/5V0neIM.png&quot; alt=&quot;image08&quot; /&gt;
+&lt;em&gt;▲ Plenty of huge social apps are almost entirely utilitarian, but it’s a brutally competitive quadrant&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Some companies manage to create utility for a network but never succeed at building any real social capital of note (or don’t even bother to try).&lt;/p&gt;
+
+&lt;p&gt;Most messaging apps fall into this category. They help me to reach people I already know, but they don’t introduce me to too many new people, and they aren’t really status games with likes and follows. Skype, Zoom, FaceTime, Google Hangouts, Viber, and Marco Polo are examples of video chat apps that fit this category as well. While some messaging apps are trying to add features like Stories that start to veer into the more performative realm of traditional social media, I’m skeptical they’ll ever see traction doing so when compared to apps that are more pure Status as a Service apps like Instagram.&lt;/p&gt;
+
+&lt;p&gt;This bottom right quadrant is home to some businesses with over a billion users, but in minimizing social capital and competing purely on utility-derived network effects, this tends to be a brutally competitive battleground where even the slimmest moat is fought for with blood and sweat, especially in the digital world where useful features are trivial to copy.&lt;/p&gt;
+
+&lt;h4 id=&quot;social-capital-but-little-utility&quot;&gt;Social capital, but little utility&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/LXCo1MQ.png&quot; alt=&quot;image09&quot; /&gt;
+&lt;em&gt;▲ When a social network loses heat before it has built utility, the fall can come as quickly as the rise&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;One could argue Foursquare actually lands here, but the most interesting company to debate in this quadrant is clearly Facebook. I’m not arguing that Facebook doesn’t have utility, because clearly it does in some obvious ways. In some markets, it is the internet. Messenger is clearly a useful messaging utility for a over a billion people.&lt;/p&gt;
+
+&lt;p&gt;However, the U.S. is a critical market for Facebook, especially when it comes to monetization, and so it’s worth wondering how things might differ for Facebook today if it had succeeded in pushing further out on the utility axis. Many people I know have just dropped Facebook from their lives this past year with little impact on their day-to-day lives. Among the obvious and largest utility categories, like commerce or payments, Facebook isn’t a top tier player in any except advertising.&lt;/p&gt;
+
+&lt;p&gt;This comparison is especially stark if we compare it to the social network to which it’s most often contrasted.&lt;/p&gt;
+
+&lt;h4 id=&quot;both-social-capital-and-utility-simultaneously&quot;&gt;Both social capital and utility simultaneously&lt;/h4&gt;
+
+&lt;p&gt;The holy grail for social networks is to generate so much social capital and utility that it ends up in that desirable upper right quadrant of the 2x2 matrix. Most social networks will offer some mix of both, but none more so than WeChat.&lt;/p&gt;
+
+&lt;p&gt;While I hear of people abandoning Facebook and never looking back, I can’t think of anyone in China who has just gone cold turkey on WeChat. It’s testament to how much of an embedded utility WeChat has become that to delete it would be a massive inconvenience for most citizens.&lt;/p&gt;
+
+&lt;p&gt;Just look at the list of services in the WeChat or WePay or AliPay menu for the typical Chinese user and consider that Facebook isn’t a payment option for any of them.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/Sm1oHGo.jpeg&quot; alt=&quot;image10&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/e6zWCQP.jpeg&quot; alt=&quot;image11&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/42RjQAT.jpeg&quot; alt=&quot;image12&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/YxWrdTc.jpeg&quot; alt=&quot;image13&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Of course, the competitive context matters. Facebook faced much stiffer competition in these categories than WeChat did; for Facebook to build a better mousetrap in any of these, the requirements were much higher than for WeChat.&lt;/p&gt;
+
+&lt;p&gt;Take payments for example. The Chinese largely skipped credit cards, for a whole host of reasons. In part it was due to a cultural aversion to debt, in part because Visa, Mastercard, and American Express weren’t allowed into China where they would certainly have marketed their cards as aggressively as they always do. That meant Alipay and WePay launched competing primarily with cash and all its familiar inconveniences. Compare that to, say, Apple Pay trying to displace the habit of pulling out a credit card in the U.S., especially given how so many people are addicted to credit card points and miles (airline frequent flier programs being another testament to the power of status to influence people’s decision-making).&lt;/p&gt;
+
+&lt;p&gt;Making a real dent in new categories like commerce and payments will require a long-term mindset and a ton of resources on the part of Facebook and its subsidiaries like WhatsApp and Instagram. Past efforts to, for example, improve Facebook search, position Facebook as payment option, and introduce virtual assistants on Messenger seem to have been abandoned. Will new efforts like Facebook’s cryptocurrency effort or Instagram’s push into commerce be given a sufficiently long leash?&lt;/p&gt;
+
+&lt;h3 id=&quot;social-network-asymptote-1-proof-of-work&quot;&gt;Social Network Asymptote 1: Proof of Work&lt;/h3&gt;
+
+&lt;p&gt;How do you tell when a Status as a Service business will stop growing? What causes networks to suddenly hit that dreaded upper shoulder in the S-curve if, according to Metcalfe’s Law, the value of a network grows in proportion to the square of its users? What are the missing variables that explain why networks don’t keep growing until they’ve captured everyone?&lt;/p&gt;
+
+&lt;p&gt;The reasons are numerous, let’s focus on social capital theory. To return to our cryptocurrency analogy, the choice of your proof of work is by definition an asymptote because the skills it selects for are not evenly distributed.&lt;/p&gt;
+
+&lt;p&gt;To take a specific example, since it’s the app du jour, let’s look at the app formerly known as Musical.ly, TikTok.&lt;/p&gt;
+
+&lt;p&gt;You’ve probably watched a TikTok video, but have you tried to make one? My guess is that many of you have not and never will (but if you have, please send me a link). This is no judgment, I haven’t either.&lt;/p&gt;
+
+&lt;p&gt;You may possess, in your estimation, too much self-dignity to wallow in cringe. Your arthritic joints may not be capable of executing Orange Justice. Whatever the reason, TikTok’s creator community is ultimately capped by the nature of its proof of work, no matter how ingenious its creative tools. The same is true of Twitter: the number of people who enjoy crafting witty 140 and now 280-character info nuggets is finite. Every network has some ceiling on its ultimate number of contributors, and it is often a direct function of its proof of work.&lt;/p&gt;
+
+&lt;p&gt;Of course, the value and total user size of a network is not just a direct function of its contributor count. Whether you believe in the 1/9/90 rule of social networks or not, it’s directionally true that any network has value to people besides its creators. In fact, for almost every network, the number of lurkers far exceeds the number of active participants. Life may not be a spectator sport, but a lot of social media is.&lt;/p&gt;
+
+&lt;p&gt;This isn’t to say that proof of work is bad. In fact, coming up with a constraint that unlocks the creativity of so many people is exactly how Status as a Service businesses achieve product-market fit. Constraints force the type of compression that often begets artistic elegance, and forcing creatives to grapple with a constraint can foster the type of focused exertion that totally unconstrained exploration fails to inspire.&lt;/p&gt;
+
+&lt;p&gt;Still, a ceiling is a ceiling. If you want to know the terminal value of a network, the type of proof of work is a key variable to consider. If you want to know why Musical.ly stopped growing and sold to Bytedance, why Douyin will hit a ceiling of users in China (if it hasn’t already), or what the cap of active users is for any social network, first ask yourself how many people have the skill and interest to compete in that arena.&lt;/p&gt;
+
+&lt;h3 id=&quot;social-network-asymptote-2-social-capital-inflation-and-devaluation&quot;&gt;Social Network Asymptote 2: Social Capital Inflation and Devaluation&lt;/h3&gt;
+
+&lt;p&gt;More terrifying to investors and employees than an asymptote is collapse. Recall the cautionary myth of the fall of Myspace, named after the little known Greek god of vanity Myspakos (Editor’s note: I made that up, it’s actually Narcissus). Why do some social networks, given Metcalfe’s Law and its related network effects theories, not only stop growing but even worse, contract and wither away?&lt;/p&gt;
+
+&lt;p&gt;To understand the inherent fragility in Status as a Service businesses, we need to understand the volatility of status.&lt;/p&gt;
+
+&lt;h3 id=&quot;social-capital-interest-rate-hikes&quot;&gt;Social Capital Interest Rate Hikes&lt;/h3&gt;
+
+&lt;p&gt;One of the common traps is the winner’s curse for social media. If a social network achieves enough success, it grows to a size that requires the imposition of an algorithmic feed in order to maintain high signal-to-noise for most of its users. It’s akin to the Fed trying to manage inflation by raising interest rates.&lt;/p&gt;
+
+&lt;p&gt;The problem, of course, is that this now diminishes the distribution of any single post from any single user. One of the most controversial of such decisions was Facebook’s change to dampen how much content from Pages would be distributed into the News Feed.&lt;/p&gt;
+
+&lt;p&gt;Many institutions, especially news outlets, had turned to Facebook to access some sweet sweet eyeball inventory in News Feeds. They devised all sorts of giveaways and promotions to entice people to follow their Facebook Pages. After gaining followers, a media company had a free license to publish and publish often into their News Feeds, an attractive proposition considering users were opening Facebook multiples times per day. For media companies, who were already struggling to grapple with all the chaos the internet had unleashed on their business models, this felt like upgrading from waving stories at passersby on the street to stapling stories to the inside of eyelids the world over, several times a day. Deterministic, guaranteed eyeballs.&lt;/p&gt;
+
+&lt;p&gt;Then, one day, Facebook snapped its fingers like Thanos and much of that dependable reach evaporated into ash. No longer would every one of your Page followers see every one of your posts. Facebook did what central banks do to combat inflation and raised interest rates on borrowing attention from the News Feed.&lt;/p&gt;
+
+&lt;p&gt;Was such a move inevitable? Not necessarily, but it was always likely. That’s because there is one scarce resource which is a natural limit on every social network and media company today, and that is user attention. That a social network shares some of that attention with its partners will always be secondary to accumulating and retaining that attention in the first place. Facebook, for example, must always guard against the tragedy of the commons when it comes to News Feed. Saving media institutions is a secondary consideration, if that.&lt;/p&gt;
+
+&lt;h3 id=&quot;social-capital-deflation-scarcity-precarity-or-the-groucho-marx-conundrum&quot;&gt;Social Capital Deflation: Scarcity Precarity or the Groucho Marx Conundrum&lt;/h3&gt;
+
+&lt;p&gt;Another existential risk that is somewhat unique to social networks is this: network effects are powerful, but ones which are social in nature have the unfortunate quality of being just as ferocious in reverse.&lt;/p&gt;
+
+&lt;p&gt;In High Growth Handbook by Elad Gil, Marc Andreessen notes:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;I think network effects are great, but in a sense they’re a little overrated. The problem with network effects is they unwind just as fast. And so they’re great while they last, but when they reverse, they reverse viciously. Go ask the MySpace guys how their network effect is going. Network effects can create a very strong position, for obvious reasons. But in another sense, it’s a very weak position to be in. Because if it cracks, you just unravel. I always worry when a company thinks the answer is just network effects. How durable are they?&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Why do social network effects reverse? Utility, the other axis by which I judge social networks, tends to be uncapped in value. It’s rare to describe a product or service as having become too useful. That is, it’s hard to over-serve on utility. The more people that accept a form of payment, the more useful it is, like Visa or Mastercard or Alipay. People don’t stop using a service because it’s too useful.&lt;/p&gt;
+
+&lt;p&gt;Social network effects are different. If you’ve lived in New York City, you’ve likely seen, over and over, night clubs which are so hot for months suddenly go out of business just a short while later. Many types of social capital have qualities which render them fragile. Status relies on coordinated consensus to define the scarcity that determines its value. Consensus can shift in an instant. Recall the friend in Swingers, who, at every crowded LA party, quips, “This place is dead anyway.” Or recall the wise words of noted sociologist Groucho Marx: “I don’t care to belong to any club that will have me as a member.”&lt;/p&gt;
+
+&lt;p&gt;The Groucho Marx effect doesn’t take effect immediately. In the beginning, a status hierarchy requires lower status people to join so that the higher status people have a sense of just how far above the masses they reside. It’s silly to order bottle service at Hakkasan in Las Vegas if no one is sitting on the opposite side of the velvet ropes; a leaderboard with just a single high score is meaningless.&lt;/p&gt;
+
+&lt;p&gt;However, there is some tipping point of popularity beyond which a restaurant, club, or social network can lose its cool. When Malcolm Gladwell inserted the term “tipping point” into popular vernacular, he didn’t specify which way things were tipping. We tend to glamorize the tipping into rapid diffusion, the toe of the S-curve, but in status games like fashion the arc of popularity traces not an S-curve but a bell curve. At the top of that bell curve, you reach the less glamorous tipping point, the one before the plummet.&lt;/p&gt;
+
+&lt;p&gt;When the definition of status is distributed, often one minority has disproportionate sway. If that group, the cool kids, pulls the ripcord, everyone tends to follow them to the exits. In fact, it’s usually the most high status or desirable people who leave first, the evaporative cooling effect of social networks. At that point, that product or service better have moved as far out as possible on the utility axis or the velocity of churn can cause a nose bleed.&lt;/p&gt;
+
+&lt;p&gt;[Mimetic desire is a cruel mistress. Girard would’ve had a field day with the Fyre Festival. Congratulations Billy McFarland, you are the ritual sacrifice with which we cleanse ourselves of the sin of coveting thy influencer’s bounty.]&lt;/p&gt;
+
+&lt;p&gt;Fashion is one of the most interesting industries for having understood this recurring boom and bust pattern in network effects and taken ownership of its own status devaluation cycles. Some strange cabal of magazine editors and fashion designers decide each season to declare arbitrarily new styles the fashion of the moment, retiring previous recommendations before they grow stale. There is usually no real utility change at all; functionally, the shirt you buy this season doesn’t do anything the shirt you bought last season still can’t do equally well. The industry as a whole is simply pulling the frontier of scarcity forward like a wave we’re all trying to surf.&lt;/p&gt;
+
+&lt;p&gt;This season, the color of the moment might be saffron. Why? Because someone cooler than me said so. Tech tends to prioritize growth at all costs given the non-rival, zero marginal cost qualities of digital information. In a world of abundance, that makes sense. However, technology still has much to learn from industries like fashion about how to proactively manage scarcity, which is important when goods are rivalrous. Since many types of status are relative, it is, by definition, rivalrous. There is some equivalent of crop rotation theory which applies to social networks, but it’s not part of the standard tech playbook yet.&lt;/p&gt;
+
+&lt;p&gt;A variant of this type of status devaluation cascade can be triggered when a particular group joins up. This is because the stability of a status lattice depends just as much on the composition of the network as its total size. A canonical example in tech was the youth migration out of Facebook when their parents signed on in force. Because of the incredible efficiency of News Feed distribution, Facebook became a de facto surveillance apparatus for the young: Mommy and Daddy are watching, as well as future universities and employers and dates who will time travel back and scour your profile someday. As Facebook became less attractive as a platform for the young, many of them flocked to Snapchat as their new messaging solution, its ephemeral nature offering built-in security and its UX opacity acting as a gate against clueless seniors.&lt;/p&gt;
+
+&lt;p&gt;I’ve written before about Snapchat’s famously opaque Easter Egg UI as a sort of tamper-proof lid for parents, but if we combine social network utility theory with my post on selfies as a second language, it’s also clear that Snapchat is a suboptimal messaging platform for older people whose preferred medium of communication remains text. Snapchat opens to a camera. If you want to text someone, it’s extra work to swipe to the left pane to reach the text messaging screen.&lt;/p&gt;
+
+&lt;p&gt;I would be shocked if Facebook did not, at one point, contemplate a version of its app that opened to the camera first, instead of the News Feed, considering how many odd clones of other apps it’s considered in the past. If so, it’s good they never shipped it, because for young people, publishing to a graph that still contained their parents would’ve still been prohibitive, while for old folks who aren’t as biased towards visual mediums, such a UI would’ve been suboptimal. It would’ve been a disastrous lose-lose for Facebook.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;On network effect traps: https://t.co/l66ruYps7e pic.twitter.com/kDADIBOwcU&lt;/p&gt;
+  &lt;h4 id=&quot;-patrick-collison-patrickc-february-16-2019&quot;&gt;— Patrick Collison (@patrickc) February 16, 2019&lt;/h4&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Patrick Collison linked to an interesting paper (PDF) on network effects traps in the physical world. They exist in the virtual world as well, and Status as a Service businesses are particularly fraught with them. Another instance is path dependent user composition. A fervent early adopter group can define who a new social network seems to be for, merely by flooding the service with content they love. Before concerted efforts to personalize the front page more quickly, Pinterest seemed like a service targeted mostly towards women even though its basic toolset are useful to many men as well. Because a new user’s front page usually drew upon pins from their friends already on the service, the earliest cohorts, which leaned female, dominated most new user’s feeds. My earliest Pinterest homepage was an endless collage of makeup, women’s clothing, and home decor because those happened to be some of the things my friends were pinning for a variety of projects.&lt;/p&gt;
+
+&lt;p&gt;Groucho Marx was ahead of his time as a social capital philosopher, but we can build upon his work. To his famous aphorism we should add some variants. When it comes to evaporative cooling, two come to mind: “I don’t want to belong to any club that will have those people as a member” and “I don’t want to belong to any club that those people don’t want to be a member of.”&lt;/p&gt;
+
+&lt;h3 id=&quot;mitigating-social-capital-devaluation-risk-and-the-snapchat-strategy&quot;&gt;Mitigating Social Capital Devaluation Risk, and the Snapchat Strategy&lt;/h3&gt;
+
+&lt;p&gt;In a leaked memo late last year, Evan Spiegel wrote about how one of the core values of Snapchat is to make it the fastest way to communicate.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The most durable way for us to grow is by relentlessly focusing on being the fastest way to communicate.&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;——Arkady&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;人类没有一个解放的愿景。每一个所谓的革命者在最好的情况下是失败的，在最坏的情况下是建立了另一个藩篱。解放的说辞是很好的睡前故事，让那些满怀梦想的人在夜里感到温暖，而我们应该看到它的本质。骗子们要么认为他们代表被压迫者说话，他们的意见的分量更重，因为他们召唤着代表的力量，要么认为他们是第一个提出他们的想法的人。&lt;/p&gt;
-
-&lt;p&gt;用单一的、递归的或反复的方法来实现积极的社会变革，这种想法在课堂上比在生活经验中更有效。从这些探索中产生的那种社会科学类似于一种世俗的一神论。作为社会的一种组织，或社会转型的一种模式，天启有一个长期的记录，它完全是反动的。这就是说，无论是称为叛乱、革命、奇点还是崩溃，都是为了一个类似的东西：更多的相同。&lt;/p&gt;
-
-&lt;p&gt;日常生活的平静苦难是否比反动的断裂更可取？德国革命（1918-1919）的教训就是历史上无治主义的教训：光荣的失败。无论是法国、西班牙、德国还是俄国，社会革命的故事都不是胜利的。相反，充其量，它一直是一组关于值得生活的时刻的故事。&lt;/p&gt;
-
-&lt;p&gt;我们愿意为我们的时刻牺牲多少生命？我们要把他们堆成街垒吗？在坦克开进后用他们填满战壕？用他们的鲜血来书写历史书，讲述我们的辉煌时代？&lt;/p&gt;
-
-&lt;p&gt;涅恰耶夫并没有告诉我们如何成为好人。他关于一支由革命超人组成的军队，甚至是一个秘密社会的概念是可笑的，但也许笑的原因并不立即清楚。列宁很清楚《教义》对他的思想有多大影响。它是革命者的《王子》。慕道论》提供了一个道德路线图，一个有明显效果的行动计划。按犯罪顺序列出你的人类目标，强化自己，并依次消灭这些目标。最大的罪犯是最先被消灭的。&lt;/p&gt;
-
-&lt;p&gt;心理学使超人的角色成为一个尴尬的角色。激进主义的社会环境只允许敏感的非人类的成功案例存在。破碎的人备受青睐，只要他们是沿着生存和礼貌的路线破碎。今天的涅恰耶夫们在没有犯下比小偷小摸和心碎更严重的罪行之后，就逐渐淡出人们的视线。马基雅维利人实施简单的战略，以确保超人一直忙于无关紧要的事情。&lt;/p&gt;
-
-&lt;p&gt;从提供一个从这里到那里的机制的角度来看，革命的战略是失败的。这并不是说不存在广泛的社会变革的可能性，而是说只要它遵循过去的光荣的失败者（无治主义者）、内奇或米歇尔的领导，它就会失败，无论是从它自己的角度还是从作为一个解放的社会变革的角度来看，都不会成功。&lt;/p&gt;
-
-&lt;p&gt;这并不是说我们已经自由或满意了。我们正处于一个僵局。这个僵局一方面是对我们可用的过渡性修辞的挫败感（没有文字，就很难理解自己在哪里或别人在哪里），另一方面是对变性的日常生活的磨灭性死亡的愤怒，以及对我们的社会或政治力量的徒劳的迷惘。如果没有能力控制我们自己的生活、政治行动和社会关系，我们生动的想象力就会休眠。这里没有什么可吃的，只有让我们活下去的灰色浆糊。但为了什么？&lt;/p&gt;
-
-&lt;p&gt;这个问题普遍延伸到了西方。我们明白，过去的提法已经过时了。我们缺乏新的方案。&lt;/p&gt;
-
-&lt;p&gt;新的努力正在进行中，但它们与西方人文主义的方法是正交的。说得温和一点，它们比现代性的价值观和理论所允许的更加严厉。它们最终是没有结果的。这些是由他人解释的行动，但行动如此迅速，以至于完全被毛拉、法特瓦和分析家们所追逐。这些新的努力是被剥夺了权利的人类的语言。没有希望。只有死伤。&lt;/p&gt;
-
-&lt;p&gt;自杀式炸弹袭击者是我们时代的缪斯。他们不是在激励我们歌唱自由、正义和尊严，而是在歌唱后果。&lt;/p&gt;
-
-&lt;h3 id=&quot;第二章虚无主义与科学&quot;&gt;第二章：虚无主义与科学&lt;/h3&gt;
-
-&lt;p&gt;有一种虚无主义的历史，它将自然科学理想化为没有上帝的物质存在问题的唯一解决方案，而另一种虚无主义则会基于经验、意识形态和道德的理由来批判科学。&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;“一个像样的化学家比任何诗人都要有用二十倍。”&lt;/p&gt;
+  &lt;p&gt;Recently I had the opportunity to use Snapchat v5.0 on an iPhone 4. It had much of Bobby’s original code in many of my original graphics. It was way faster than the current version of Snapchat running on my iPhone X.&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;——巴扎罗夫&lt;/p&gt;
+  &lt;p&gt;In our excitement to innovate and bring many new products into the world, we have lost the core of what made Snapchat the fastest way to communicate.&lt;/p&gt;
 &lt;/blockquote&gt;
-
-&lt;p&gt;虚无主义的历史是一个时间段的。19世纪60年代的俄罗斯是一个令人窒息的地方。大多数人都是农奴，他们在新的自由（根据沙皇的命令向他们的前领主付款以换取耕种土地）下崩溃，或者在东正教的迷信和保守主义下窒息。俄国也处在一个十字路口：在拿破仑战败后，它证明了自己是欧洲大帝国中的一员，但它也发现自己是一个智力落后的国家。影响欧洲大陆的民主动荡在俄国几乎没有产生任何影响。即使是沙皇亚历山大二世解放农奴的戏剧性举动，也是出于他读过屠格涅夫的《运动员速写》后的浪漫情怀，而不是为了改造俄罗斯社会。&lt;/p&gt;
-
-&lt;p&gt;由于这种环境，历史上的虚无主义接受了一些立场，我们在很大程度上可以理解为反动的，而不是故意的。（这是革命传统所特有的东西，可以说，应该包括在他们的定义中）。鉴于历史上的虚无主义时期的寿命有多短（横跨基础时期和革命时期），很难想象，如果严格的普遍怀疑主义有时间发展和转变，其后果会是什么。一群一无所有的人将会有什么能力？&lt;/p&gt;
-
-&lt;p&gt;如果哲学是耕地的实践，那么就难怪大多数思想家会花时间在被推翻的土壤上徘徊，寻找丢失的种子并重新种植。如果虚无主义是怀疑主义的政治哲学，在社会被东正教会和沙皇政权框住的时代，难怪它给传统留下的空间很小。如果教会代表着精神主义、迷信和感性，那么现代的哲学就必须拒绝所有这些东西。如果沙皇代表君主制的僵化的专制偏执，那么自由就必须是法国的进步的民主共和主义。这就是狭隘的怀疑主义的局限性。&lt;/p&gt;
-
-&lt;h4 id=&quot;探究是如何被限制的&quot;&gt;探究是如何被限制的？&lt;/h4&gt;
-
-&lt;p&gt;科学的历史是一个穿越时代的语义之旅。科学曾经关注世界的形成以及我们应该如何生活在其中，与哲学没有区别。这些术语是同义词。后来出现了分裂：通过实验和感性认识世界（经验主义）成为一门不同于通过推理认识世界（理性主义）的学科。这种辩证法在科学界得到了解决，牛顿将公理证明与物理观察的机械纪律结合起来，形成了可验证的预测系统，并在很大程度上保持了完整。&lt;/p&gt;
-
-&lt;p&gt;科学变成了一个编纂和官僚化的过程，涉及到科学从业者、科学资助者和越来越多的科学协会之间的关系（16世纪后）。科学家的角色与寻求自然界知识的人不同。科学家既要经过培训，确定他们的研究范围，又要成功，因为他们精通宫廷、教皇和最终世俗社会的政治阴谋。&lt;/p&gt;
-
-&lt;p&gt;对这种常态化的探究也有不满的地方。炼金术士们融合了多种理论和精神传统的理解，以追求解决投机性的巨大问题（转化、年龄、疾病）。炼金术士所依赖的异端思想被对定量实验和可重复结果的强调所消除。&lt;/p&gt;
-
-&lt;p&gt;技术，以工业革命的形式，作为一种社会生活的组织，通过提供结果来隔离同质性。技术最好被理解为与科学分开但相关的调查领域，其视野因创造应用的动机而进一步缩小。技术的大规模生产从来都是权力欲望以外的任何其他力量的结果。就18世纪末的工业革命而言，这看起来像是英国的社会生活转变为一个由工厂主导的城市人口。它还涉及到在半个地球上开采资源（印度是英国工业化的一个慷慨的资本来源），并由极少数人控制。&lt;/p&gt;
-
-&lt;p&gt;在效率的名义下，产品是目标，而不是发现和检验的过程。&lt;/p&gt;
-
-&lt;p&gt;专业化的限制是什么？问题不再是技术人员或哲学家的追求，答案才是。人类问题的解决方案是以物质条件为框架的，与原因完全不同。矫正眼镜并不能治愈视力不良，也不能阻止人们看电视或盯着电脑屏幕，但却能让人继续从事视力好的追求。这种平移体现了专业化的动机。如果日常生活的结构强迫某种行为（例如看书和屏幕的能力），那么没有视力的人可以发展的那种特性就没有被发现。随着日常生活进一步限制我们的选择，我们被迫进入越来越狭窄的隧道。最终我们发现，我们选择了一件事，以牺牲其他一切为代价，以生存为名义。&lt;/p&gt;
-
-&lt;h4 id=&quot;我们的怀疑主义应该采取什么形式&quot;&gt;我们的怀疑主义应该采取什么形式？&lt;/h4&gt;
-
-&lt;p&gt;在激进派和绿色派之间有一个积极的对话，需要回应。经典的表述是，一方面指称技术是中性的，另一方面指称技术嵌入了一个基本的“负面”价值，这两者之间是二分法。显然，技术是中性的，只有在你假设了当前秩序的价值的情况下。如果不假设这些价值，那么技术就与历史、哲学或科学没有任何区别。它们是权力用来分化和控制民众的武器。如果没有工作上的、理论上的和实践上的技术知识，人们就无法理解我们的社会，因此大多数人都会选择这样做。不过，了解我们社会的价值还有待商榷。&lt;/p&gt;
-
-&lt;p&gt;如果跟随19世纪60年代的虚无主义者，我们主张一种狭隘的怀疑主义，那么就足以反抗租金、高利贷、沥青、官僚和他们的随从，等等。如果我们要做出更进一步的回应，那就是反对我们社会中最像沙皇俄国的过度方面。我们的回应将看起来与道德多数派和大政府迷信者相反。与其说是重视自然科学，不如说是这种思路会导致一种禁欲主义的伦理体系，与无治主义者的思路一致，即放弃数字技术而选择模拟技术。他们的座右铭是“到此为止，不能再进一步”。&lt;/p&gt;
-
-&lt;h4 id=&quot;怀疑主义上升了&quot;&gt;怀疑主义上升了！&lt;/h4&gt;
-
-&lt;p&gt;假设狭隘主义是一种限制，从反文化的革命运动的失败来看，这可能是真的，那么反面人物的下一步是什么。一个普遍的怀疑主义作为一种探究方法、社会形式和实践会是什么样子？今天的虚无主义实践会不会更像《父与子》中的痴迷的科学家或《罪与罚》中的偏执的杀人犯。&lt;/p&gt;
-
-&lt;p&gt;如果政治虚无主义是对世界现状的具体拒绝，那么它仍然是使优先事项。虚无主义仍有其遗产。今天，一个虚无主义的积极方案不会包括一个DIY自然主义的科学，这不仅仅是因为科学的含义在过去150年里发生了变化，而是因为积极方案的概念在激进主义者的眼中已经发生了变化。对虚无主义方案的任何评价都必须考虑到它究竟会有多大的试探性。普遍怀疑主义遇到了与普遍实证主义类似的问题，究竟是谁在进行普遍化？&lt;/p&gt;
-
-&lt;p&gt;考虑到这一限制，我们将开始对三种具体的方法进行评估，这些方法既重叠又包含在虚无主义的观点中。作为实践的批判，契约的使命，以及否定——作为修辞、实践和形式。&lt;/p&gt;
-
-&lt;p&gt;修辞学上的否定并不是与厌世症无异的存在主义的漫无边际的思考。它是一种立场，即对当前秩序的政治参与是无足轻重的，但阐明这一政治立场却不是。特里斯坦-查拉的著作就是这种立场的典范。&lt;/p&gt;
-
-&lt;p&gt;否定的做法很可能是北美变质的知识环境的产物，但它代表了积极的非活动主义，将参与政治项目而不与政治（和政治化的）社会运动联系在一起的做法混淆为一种“扶手椅”活动。这是一种没有策略的实践，可能是为了自己的回报而做的。许多无治主义阅读小组的活动都符合这一立场。&lt;/p&gt;
-
-&lt;p&gt;形式上的否定可能是最广泛持有的政治虚无主义立场。它是一种通过回避来不屈服于主导秩序的侵略的做法。人们不参加政治抗议活动，因为他们不喜欢警察的存在，或者不投票，因为选票上的每一个选择都是狗屎，都是这种立场的例子。&lt;/p&gt;
-
-&lt;p&gt;贯穿所有否定方法的主线是将不参与作为政治实践的姿态。这有助于对虚无主义作为孤独主义的批评，这也是对左派作为修辞上自我牺牲的道德家的批评的一个很好的反驳。&lt;/p&gt;
-
-&lt;p&gt;契约的使命将是最刻板的虚无主义政治立场。许多可能的虚无主义者利用战略使命的主张作为讨论其欲望的挡箭牌。推倒电塔和电话线是他们自己的奖励，把它们与“人类解放的普遍斗争”（The Generalized Struggle for Human Emancipation™）联系在一起是装点门面。耸人听闻的行动，骇人听闻的事迹，仍然是各路激进分子的核心问题。&lt;/p&gt;
-
-&lt;p&gt;对“事迹宣传”的遗产的评价是不正确的。一方面，绝大多数契约宣传的行动不是针对资本家、领导人和官僚的暴力行动，而是日常生活中的实践。另一方面，有一种说法是，如果革命斗争由于缺乏准备和一千种其他原因而注定要失败，那么出去开枪（PbtD可以安全地被描述为）就是一种有效的退出策略。还有什么选择呢？像共产党人一样追寻每一个革命的蛛丝马迹，过着流亡的生活？追逐每一个峰会，希望有另一个西雅图？&lt;/p&gt;
-
-&lt;p&gt;今天的职业与PbtD不同，它把重点放在行动上，而不是历史或公共关系的结果。这可能需要放弃某种权力，因为其他人会成为你信息的管理者，就像自杀式炸弹袭击者那样，但行动的明确性比任何政治家的信息更有说服力。&lt;/p&gt;
-
-&lt;p&gt;批评的实践需要使用一套经验和智力工具来评估他人的行为和行动。这是一种不是独立存在而是依靠他人的实践，在这一点上是最社会虚无主义的实践。虚无主义项目的核心是，没有任何东西应该成立：信仰、价值或范式，没有任何积极的方案安装在它们的位置上。&lt;/p&gt;
-
-&lt;h4 id=&quot;结论&quot;&gt;结论&lt;/h4&gt;
-
-&lt;p&gt;21世纪的虚无主义在一个重要问题上与19世纪的虚无主义不同。它不再是由特定的政治背景（沙皇俄国）导致的反动的政治实践，而是从对20世纪的哲学轨迹、19和20世纪的革命运动的理解中汲取灵感，并清醒地认识到这些井喷式的东西对那些愿意反抗的人来说究竟有多大的作用。&lt;/p&gt;
-
-&lt;p&gt;事后看来，自然科学是对一个由对领袖和上帝的神秘主义崇敬所主导的社会的解放性回应。在缺乏对今天类似的和扩展的问题的简单回应的情况下，无治主义的虚无主义提供了一个类别，一个参考框架，而不是政治话语倾向于的简单答案。虚无主义者不会成为黑衣男童子军，不会在峰会上跳楼，也不会从过度社会的残渣中政治化地繁荣。对于我们这些对这个社会的拒绝包括其反对的人来说，不会有安慰。&lt;/p&gt;
-
-&lt;h3 id=&quot;第三章现在是时候了但我们仍在等待&quot;&gt;第三章：现在是时候了（但我们仍在等待）！&lt;/h3&gt;
-
-&lt;p&gt;我们必然不耐烦。我们无法忍受多付一个月的租金。被迫从摇篮到厕所到教室到隔间到坟墓让我们感到无聊。我们更讨厌自己和自己的状况。&lt;/p&gt;
-
-&lt;p&gt;但该怎么办呢？我们没有天真到相信左派关于“革命”团体如天气预报员的说法。我们不接受他们的策略的问题是缺乏群众基础的说法。我们认为他们的问题是缺乏野心。&lt;/p&gt;
-
-&lt;p&gt;你不仅不能通过全速奔跑来推倒城堡的墙壁，而且这个世界可能已经变得足够复杂，在很大程度上不再需要城堡，甚至是物理存在。这就是大多数对后现代性的批评的问题所在。他们假设后现代将是我们反对这个世界的武库中被剥夺者所使用的一个装置。事实并非如此。真实的情况是，后现代（及其伴随的条件）是这个秩序的武库中的另一个工具。后现代主义是这个秩序目前的旅行可以被映射的地形。这一点在关于虚拟性、身份和解构的政治的讨论中尤其可以看到（作为相关的任期内的追求而不是其他）。&lt;/p&gt;
-
-&lt;p&gt;后现代主义的第一个前提是，没有“元”叙事。没有单一的历史或人类学或系统，使我们能够认识真实。如果你厌倦了那些吹嘘工人或企业家即将解放的马克思主义和共和党的演说家，这是一个好消息，但它也让我们非常孤独。一方面，我们现在有了一种语言，可以理解从我们的领导人、教师和专家口中说出的每一个真理都是可疑的，但另一方面，我们不再有一条通往我们欲望世界的金砖大道。&lt;/p&gt;
-
-&lt;p&gt;最有准备地利用这些信息的群体不是一无所有的群体，而是拥有最多资源可以利用的群体。如果我们不再对把自己和别人组合成可以放在政治和商业的板子上的形状感兴趣，那么那些人就可以把板子留给自己。他们明白，后现代的条件使我们分离。独自一人。他们已经训练我们相信什么，并接受这个世界的条件是普遍的。&lt;/p&gt;
-
-&lt;p&gt;第二个前提是建立在第一个前提之上的。如果历史不再是一个“真实”的故事（在西方文明课或马克思主义者所说的宏大史诗意义上），那么进步就不再是那个延伸到未来的故事。如果进步不再是世界舞台上的假设，那么它可能不是理解物质世界、人类在其中的作用或许多东西的正确机制（或元叙事）。这让进化论何去何从？进化论不就是一个理想主义-唯物主义的生物系统进步的“证明”吗？&lt;/p&gt;
-
-&lt;p&gt;如果我们放弃进步的概念，那么我们应该，有理由（原文如此），放弃对民主机构建设的倾向（作为实现我们所希望的部分步骤），包括参与这些机构的人性化。相反，我们被知识专家告知，如果我们不接受进步模式，我们就处于“历史的尽头”，在那里，目前的条件是普遍的、固定的和无条件的。这是另一个例子，那些控制意识形态的人把他们的价值体系种植在被后现代控制的火烧掉的空间里。&lt;/p&gt;
-
-&lt;p&gt;后现代主义的另一个前提是，在一个媒体丰富的世界里，文化是社会转型的手段。这主要是一种修辞手法，暗指一些明显的东西（如果你接受这个前提）。如果这个世界确实是媒体丰富的、控制论的、虚幻的，并且完全没有停泊在19世纪的基础上，包括19世纪关于劳动和进步的偏见，那么与它打交道就必须使用这个新的词汇。如果你不接受这一点，如果你认识到这是对德波的悲剧性误读，那么将文化视为变革性杠杆的大部分后果就可以被视为基于一个错误的前提。&lt;/p&gt;
-
-&lt;p&gt;这就是后现代主义的运作方式。它采取了一个前提，比方说“一切直接生活的东西都退缩为一种表象”（德波），并把它转过来“表象就是一切直接生活的东西”，你就有了一个明确的不参与的论点。为什么要在时间和空间里生活呢？如果生活仅仅是表象，那么媒体就是生活在一个比其他方式更大的范围内。&lt;/p&gt;
-
-&lt;p&gt;我最近参加了一个演讲，其中一个向演讲者提出的问题是这样的：“我是一名计算机图形学专业的学生，我花了很长时间精确地测量和评估一片草叶，目的是在计算机环境中再现其形态。你怎么能说我的工作，无论是观察还是再现，都是错误的？”这是一个典型的接受前提的例子，在这种情况下，整个职业和人生道路都建立在它的基础上。如果我们生活在一个媒体环境中，那么，哦，我自己不必去田野去体验一个叫做田野的东西，这是多么节省的时间。相反，我可以下载《田野经验》第一卷，了解田野。你有什么资格对我说不同的话？你对“田野”这个概念有所有权吗，你要霸占我？&lt;/p&gt;
-
-&lt;p&gt;这里要说明的是：放弃对控制机制的理解，就会使我们失去武装。在后现代主义的案例中，将一组学者与颁布其思想的实际权力经纪人混淆起来是一个令人麻痹的问题。&lt;/p&gt;
-
-&lt;p&gt;那么下一步是什么？如果没有城堡的围墙，因为统治已经找到了一种成功的方式，而不一定要实现，那么我们的项目就不再像一个围城了。如果虚拟化已经成为统治矩阵的一部分，那么单点攻击就不再有效了。没有足够大的字母炸弹。&lt;/p&gt;
-
-&lt;p&gt;简单的答案是，我们必须要有耐心。我们必须有一种参与性的耐心，这种耐心对于革命左派的昏昏欲睡是不可理解的。我们的角色不应该是埋头等待一些标志蹒跚而来，因为那是永远不会发生的。相反，我们必须完全参与到我们周围的社会和政治进程中。没有什么能逃过我们的眼睛。这可能看起来像，但不限于，参加教会（特别是政治上活跃的教会），去参加股东会议，参加市议会、烤面包机、麋鹿会、公民组织，甚至左派会议。我们的想法并不是说我们的努力应该特别支持甚至破坏这些团体（尽管向两个方向推动边界应该是这个过程的一部分），而是要了解现代文化的公民社会是如何运作的。一个社会群体是什么样子的，它对可以带来的那种刺激有什么反应？如果你玩这个游戏，融入一个组织形式有多容易？这些形式在多大程度上积累了权力、疏忽和动力？我们需要更多的信息。&lt;/p&gt;
-
-&lt;h3 id=&quot;第四章当所有的字典都被烧毁时我们会重新开始吗&quot;&gt;第四章：当所有的字典都被烧毁时，我们会重新开始吗？&lt;/h3&gt;
 
 &lt;blockquote&gt;
-  &lt;h4 id=&quot;积极的虚无主义&quot;&gt;积极的虚无主义&lt;/h4&gt;
+  &lt;p&gt;In 2019, we will refocus our company on making Snapchat the fastest way to communicate so that we can unlock the core value of our service for the billions of people who have not yet learned how to use Snapchat. If we aren’t able to unlock the core value of Snapchat, we won’t ever be able to unlock the full power of our camera.&lt;/p&gt;
 &lt;/blockquote&gt;
-
-&lt;p&gt;正如拉乌尔-瓦尼格姆在《日常生活的革命》中预言的那样，“没有分解的意识就没有超越的意识”。积极的虚无主义者在未知的未来和对我们目前状况的绝望中看到了一种呼唤。一个积极的虚无主义者在我们社会的顺应性、僵化和窒息的无望中找到了能量，一种行动的意愿。意义是在接近虚空的过程中找到的，而不是在虚空的另一边是什么的虚假知识中。&lt;/p&gt;
 
 &lt;blockquote&gt;
-  &lt;h4 id=&quot;恐怖&quot;&gt;恐怖&lt;/h4&gt;
+  &lt;p&gt;This will require us to change the way that we work and put our core product value of being the fastest way to communicate at the forefront of everything we do at Snap. It might require us to change our products for different markets where some of our value-add features detract from our core product value.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;阶级社会的主要模式，无论是通过暴力、饥饿，还是元素的威胁。如果每个物体、人和时刻都是可以出售的，如果外面什么都没有，那么就会有卑微的恐怖。当生活是一种可鄙的行为时，它就是恐怖。与此相反的是什么？&lt;/p&gt;
+&lt;p&gt;This clarifies Snapchat’s strategy on the 3 axes of my social media framework: Snapchat intends to push out further on the utility axis at the expense of the social capital axis which, as we’ve noted before, is volatile ground to build a long-term business on.&lt;/p&gt;
 
-&lt;blockquote&gt;
-  &lt;h4 id=&quot;虚无主义的无治主义&quot;&gt;虚无主义的无治主义&lt;/h4&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;Many will say, especially Snapchat itself, that it has been the anti-Facebook all along. Because it has no likes, it liberates people from destructive status games. To believe that is to underestimate the ingenuity of humanity in its ability to weaponize any network for status games.&lt;/p&gt;
 
-&lt;p&gt;我们不是在现实中移动的漂流雪。事情已经发生。已经做出了选择。这些选择可以被评估，不是从一个永恒的学说，而是从人类的尺度。在这个人类的尺度上，所做选择的规模和范围是无法理解的。在这种情况下，由于有意识的身体的愿望是理解，开始影响世界的参考框架可以基于两个选项之一。要么缩小你渴望理解和触摸的世界，要么在一个疯狂的世界上坚持自己，以这样一种方式来改变规模。制度、意识形态、系统、学校、家庭、资本、政府和革命运动的发展都超越了身体。虚无主义的无治主义并不关心为旧历史添加新篇章的社会革命，而是关心历史的彻底结束。如果不是革命者，那么可能是史诗，因为社会的改造没有一个积极的方案。&lt;/p&gt;
+&lt;p&gt;Anyone who has studied kids using Snapchat know that it’s just as integral a part of high school status and FOMO wars as Facebook, and arguably more so now that those kids largely don’t use Facebook. The only other social media app that is as sharp a stick is Instagram which has, it’s true, more overt social capital accumulation mechanisms. Still, the idea that kids use Snapchat like some pure messaging utility is laughable and makes me wonder if people have forgotten what teenage school life was like. Whether you see people attend a party that you’re not invited to on Instagram or on someone’s Snap, you still feel terrible.&lt;/p&gt;
 
-&lt;blockquote&gt;
-  &lt;h4 id=&quot;哲学上的虚无主义&quot;&gt;哲学上的虚无主义&lt;/h4&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;Remember Snapchat’s original Best Friends list? I’m going to guess many of my readers don’t, because, as noted earlier, old people probably didn’t play that status game, if they’d even figured out how to use Snapchat by that point. This was just about as pure a status game feature as could be engineered for teens. Not only did it show the top three people you Snapped with most frequently, you could look at who the top three best friends were for any of your contacts. Essentially, it made the hierarchy of everyone’s “friendships” public, making the popularity scoreboard explicit.&lt;/p&gt;
 
-&lt;p&gt;关于什么是可知的存在问题的答案是，什么都不是。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/dGFXwzF.png&quot; alt=&quot;image14&quot; /&gt;
+&lt;em&gt;▲ I’m glad this didn’t exist when I was in high school, I really didn’t need metrics on how much of a loser I was&lt;/em&gt;&lt;/p&gt;
 
-&lt;blockquote&gt;
-  &lt;h4 id=&quot;被动虚无主义&quot;&gt;被动虚无主义&lt;/h4&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/YvACiKK.jpeg&quot; alt=&quot;image15&quot; /&gt;
+&lt;em&gt;▲ You don’t want to know what the proof of work is to achieve Super BFF-dom&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;如果未来是不可知的，我们就面临着一个选择。当我们所知道的都是恐怖时，许多人就不再做选择。人们崩溃了。如果你曾经面对闹钟，只是把它关掉，把盖子拉到你的头上，你就知道消极的虚无主义。抵抗的痛苦，成为虚假的反对者，或者被清除的痛苦，证明了无数个“不”的理由。一百万个。被动的虚无主义者不再有希望，他们的参与对于世界的继续旋转是必要的。&lt;/p&gt;
+&lt;p&gt;As with aggregate follower counts and likes, the Best Friends list was a mechanism for people to accumulate a very specific form of social capital. From a platform perspective, however, there’s a big problem with this feature: each user could only have one best friend. It put an artificial ceiling on the amount of social capital one could compete for and accumulate.&lt;/p&gt;
 
-&lt;blockquote&gt;
-  &lt;h4 id=&quot;生命&quot;&gt;生命&lt;/h4&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;In a clever move to unbound social capital accumulation and to turn a zero-sum game into a positive sum game, broadening the number of users working hard or engaging, Snapchat deprecated the very popular Best Friends list and replaced it with streaks.&lt;/p&gt;
 
-&lt;p&gt;一个被恐吓的身体是活的吗？&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/rlNlMZB.png&quot; alt=&quot;image16&quot; /&gt;
+&lt;em&gt;▲ If you’ve never seen those numbers and emojis on the right of your Snapchat contacts list, no one loves you. Just kidding, it just means you’re old.&lt;/em&gt;&lt;/p&gt;
 
-&lt;blockquote&gt;
-  &lt;h4 id=&quot;权力&quot;&gt;权力&lt;/h4&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;If you and a friend Snap back and forth for consecutive days, you build up a streak which is tracked in your friends list. Young people quickly threw their heart and souls into building and maintaining streaks with their friends. This was literally proof of work as proof of friendship, quantified and tracked.&lt;/p&gt;
 
-&lt;p&gt;Hyphenated power并不回避权力所引发的问题，而是试图将其转移到其他地方。我们能够、确实、并将继续伤害、支配和操纵彼此。我们是权力的创造者。在我们为此承担责任的程度上，它看起来像是羞耻。这将权力与基督教混为一谈。&lt;/p&gt;
+&lt;p&gt;Streaks, of course, have the wonderful quality of being unbounded. You can maintain as many streaks as you like. If you don’t think social capital has value, you’ve never seen, as I have, a young person sobbing over having to go on vacation without their phone, or to somewhere without cell or wifi access, only to see all their streaks broken. Some kids have resorted, when forced to go abroad on a vacation, to leaving their phone with a friend who helps to keep all the streaks alive, like some sort of social capital babysitter or surrogate.&lt;/p&gt;
 
-&lt;blockquote&gt;
-  &lt;h4 id=&quot;希望&quot;&gt;希望&lt;/h4&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;What’s hilarious is how efficiently young people maintain streaks. It’s a daily ritual that often consists of just quickly running down your friend list and snapping something random, anything, just to increment the streak count. My nephew often didn’t even bother framing the camera up, most his streak-maintenance snaps were blurry pics of the side of his elbow, half his shoulder, things like that.&lt;/p&gt;
 
-&lt;p&gt;这枚硬币有两面，不能分开：期望和欲望。&lt;/p&gt;
+&lt;p&gt;Of course, as evidence of the fragility of social capital structures, streaks have started to lose heat. Many younger users of Snapchat no longer bother with them. Maintaining social capital games is always going to be a volatile game, prone to sudden and massive deflationary events, but while they work, they’re a hell of a drug. They also can be useful; for someone Snapping frequently, like all teens do, having a best friends list sorted to the top of your distribution list is a huge time-saver. Social capital and utility often can’t be separated cleanly.&lt;/p&gt;
 
-&lt;blockquote&gt;
-  &lt;h4 id=&quot;存在主义的虚无主义&quot;&gt;存在主义的虚无主义&lt;/h4&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;Still, given the precarious nature of status, and given the existence of Instagram which has always been a more unabashed social capital accumulation service, it’s not a bad strategy for Snapchat to push out towards increased utility in messaging instead. The challenge, as anyone competing in the messaging space knows, is that creating any durable utility advantage is brutally hard. In the game theory of tech competition, it’s best to assume that any feature that can be copied will. And messaging may never be, from a profit perspective, the most lucrative of businesses.&lt;/p&gt;
 
-&lt;p&gt;一个存在主义的虚无主义者在各种核心问题上一直处于僵局。如果我们不能知道任何事情，那么我们怎么能做出选择？当尼采谈到虚无主义时，这就是他所指的。西方思想的轨迹导致了不可知的问题和瘫痪。&lt;/p&gt;
+&lt;p&gt;As a footnote, Snapchat is also playing on the entertainment axis with its Discover pane. Almost all social networks of some scale will play with some mix of social capital, utility, and entertainment, but each chooses how much to emphasize each dimension.&lt;/p&gt;
 
-&lt;blockquote&gt;
-  &lt;h4 id=&quot;战略虚无主义&quot;&gt;战略虚无主义&lt;/h4&gt;
-&lt;/blockquote&gt;
+&lt;h3 id=&quot;lengthening-the-half-life-of-status-games&quot;&gt;Lengthening the Half-life of Status Games&lt;/h3&gt;
 
-&lt;p&gt;革命的方案理应受到冷嘲热讽。那种认为又一个宣言（YAM）或使命宣言或行动计划会使新一代疲惫的行动主义少了它缠绕在脖子上的死亡的味道的想法是可笑的。战略虚无主义主张采取一种新的社会转型方法，这种方法类似于焚烧田地，而不是在旧世界的外壳中建立新世界，或者是工人阶级夺取生产资料的最后一次推动。一种关注社会控制的形式到底是什么以及对它们的压制的方法，与招募、教育、进步的模式或交叉的手指，即下一次暴动将是大暴动的模式相差甚远。&lt;/p&gt;
+&lt;p&gt;The danger of having a proof of work burden that doesn’t change is that eventually, everyone who wants to mine for that social currency will have done so, and most of it will be depleted. At that point, the amount of status-driven potential energy left in the social network flattens. If, at that inflection, the service hasn’t made headway in adding a lot of utility, the network can go stale.&lt;/p&gt;
 
-&lt;blockquote&gt;
-  &lt;h4 id=&quot;积极的计划&quot;&gt;积极的计划&lt;/h4&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;One way to combat this, which the largest social networks tend to do better than others, is add new forms of proof of work which effectively create a new reserve of potential social capital for users to chase. Instagram began with square photos and filters; it’s since removed the aspect ratio constraint, added video, lengthened video limits, and added formats like Boomerang and Stories. Its parent company, Facebook, arguably has broadened the most of any social network in the world, going from a text-based status update tool for a bunch of Harvard students to a social network with so many formats and options that I can’t keep track of them all. These new hurdles are like downloadable content in video games, new levels to spice up a familiar game.&lt;/p&gt;
 
-&lt;p&gt;对社会变革的积极方案的简称，积极方案是一种将欲望与现实混淆的方案，并将这种混淆延伸到未来。对于激进分子来说，这通常采取的形式是，最坏的情况是按照“ATR将没有饥饿”的思路陈述方案，最好的情况是“阶级社会的废除将导致无限制的关系”。积极的纲领是一种理想主义的遗产，构成了大多数革命思想的核心。&lt;/p&gt;
+&lt;p&gt;Doing so is a delicate balance, because it’s quite possible that Facebook is so many things to so many people that it isn’t really anything to anyone anymore. It is hard to be a club that admits everyone but still wants to offer a coherent status ladder. You can argue Facebook doesn’t want to be in the status game, but if so, it had better add a lot more utility.&lt;/p&gt;
 
-&lt;blockquote&gt;
-  &lt;h4 id=&quot;因果关系&quot;&gt;因果关系&lt;/h4&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;Video games illuminate the proof of work cycle better than almost any category, it is the drosophila of this type of analysis given its rapid life cycle and overt skill-versus-reward tradeoffs. Why is it, for example, that big hit games tend to have a life cycle of about 18 months?&lt;/p&gt;
 
-&lt;p&gt;正如休谟所假设的那样，认为一个事件紧随另一个事件之后必然会产生它们之间的关系，这种想法是错误的。如果不能假设因果关系，甚至不能接受论证，那么大多数政治形式的效力是有限的，特别是作为改造世界的一种方式。&lt;/p&gt;
+&lt;p&gt;A new game offers a whole new set of levels and challenges, and players jump into the status competition with gusto. But, eventually, skill differentiation tends to sort the player base cleanly. Players rise to the level of their mastery and plateau. Simultaneously, players become overly familiar with the game’s challenges; the dopamine hit of accomplishment dissipates.&lt;/p&gt;
 
-&lt;blockquote&gt;
-  &lt;h4 id=&quot;atr&quot;&gt;ATR&lt;/h4&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;A franchise like, say, Call of Duty, learns to manage this cycle by investing hundreds of millions of dollars to issue a new version of the game regularly. Each game offers familiarity but a new set of levels and challenges and environments. It’s the circle of life.&lt;/p&gt;
 
-&lt;p&gt;革命之后&lt;/p&gt;
+&lt;p&gt;Some games can lengthen the cycle. For example, casino games in Vegas pay real money to set an attractive floor on the ROI of playing. Some MMORPGs offer other benefits to players, like a sense of community, which last longer than the pure skill challenge of playing the game. Looking at some of the longer lasting video game franchises like World of Warcraft, League of Legends, and Fortnite reveal a lot about how a parallel industry has succeeded in lengthening the productive middle age of its top properties.&lt;/p&gt;
 
-&lt;blockquote&gt;
-  &lt;h4 id=&quot;革命&quot;&gt;革命&lt;/h4&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;I suspect the frontier of social network strategy will draw more and more upon deep study of these adjacent and much older social capital games. Fashion, video games, religion, and society itself are some of the original Status as a Service businesses.&lt;/p&gt;
 
-&lt;p&gt;以法国大革命为榜样，改变世界的有限愿望。好消息。人头会滚落。坏消息。官僚们最终获胜。&lt;/p&gt;
+&lt;h3 id=&quot;why-some-companies-will-always-struggle-with-social&quot;&gt;Why Some Companies Will Always Struggle with Social&lt;/h3&gt;
 
-&lt;blockquote&gt;
-  &lt;h4 id=&quot;身体&quot;&gt;身体&lt;/h4&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;Some people find status games distasteful. Despite this, everyone I know is engaged in multiple status games. Some people sneer at people hashtag spamming on Instagram, but then retweet praise on Twitter. Others roll their eyes at photo albums of expensive meals on Facebook but then submit research papers to prestigious journals in the hopes of being published. Parents show off photos of their children performances at recitals, people preen in the mirror while assessing their outfits, employees flex on their peers in meetings, entrepreneurs complain about 30 under 30 lists while wishing to be on them, reporters check the Techmeme leaderboards; life is nothing if not a nested series of status contests.&lt;/p&gt;
 
-&lt;p&gt;身体可以是个体。它可以是一群人。它可以是一个文化或社会单位。它也可以被理解为一个哲学单位，一个接受来自世界的输入并作出回应的黑匣子。它不是已知的，而是知道的。&lt;/p&gt;</content><author><name>Aragorn</name></author><summary type="html">无治主义者的范围包括抗议队伍里的小丑、锱铢必较的压迫认证专家和打着黑旗的马克思主义者，这并不是对无治主义思想的谴责，而是一个重要的停顿理由。在这种停顿中，我们必须挑战我们对无治主义的假设。在无治主义的大帐篷里（或者应该称为马戏团的帐篷），我们与其他人真正分享的是什么？</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://i.imgur.com/nTmt0Vp.png" /><media:content medium="image" url="https://i.imgur.com/nTmt0Vp.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">興中會成立宣言</title><link href="https://agorahub.github.io/pen0/heros/1894-11-24-SunYatsen-a1_l-declaration-of-the-founding-of-the-revive-china-association-in-honolulu.html" rel="alternate" type="text/html" title="興中會成立宣言" /><published>1894-11-24T10:56:15+06:55</published><updated>1894-11-24T10:56:15+06:55</updated><id>https://agorahub.github.io/pen0/heros/SunYatsen-a1_l-declaration-of-the-founding-of-the-revive-china-association-in-honolulu</id><content type="html" xml:base="https://agorahub.github.io/pen0/heros/1894-11-24-SunYatsen-a1_l-declaration-of-the-founding-of-the-revive-china-association-in-honolulu.html">&lt;p&gt;中國積弱 非一日矣 上則因循苟且 粉飾虛張 下則蒙昧無知 鮮能遠慮 近之辱國喪師 強藩壓境 堂堂華夏不恥於鄰邦 文物冠裳被輕於異族 有志之士 能無撫膺 &lt;!--more--&gt; 夫以四百兆蒼生之眾 數萬里土地之饒 固可發憤為雄 無敵於天下 乃以庸奴誤國 荼毒蒼生 一蹶不興 如斯之極 方今強鄰環列 虎視鷹瞵 久垂涎於中華五金之富 物產之饒 蠶食鯨吞 已效尤於接踵 瓜分豆剖 實堪慮於目前 有心人不禁大聲疾呼 亟拯斯民於水火 切扶大厦之將傾 用特集會眾以興中 協賢豪而共濟 抒此時艱 奠我中夏&lt;/p&gt;
+&lt;p&gt;Have I met a few people in my life who are seemingly above all status games? Yes, but they are so few as to be something akin to miracles, and damn them for making the rest of us feel lousy over our vanity.&lt;/p&gt;
 
-&lt;p&gt;仰諸同志 盍自勉旃&lt;/p&gt;
+&lt;p&gt;The number of people who claim to be above status games exceeds those who actually are. I believe their professed distaste to be genuine, but even if it isn’t, the danger of their indignation is that they actually become blind to how their product functions in some ways as Status as a Service business.&lt;/p&gt;
 
-&lt;p&gt;謹訂規條 臚列如左&lt;/p&gt;
+&lt;p&gt;Many of our tech giants, in fact, are probably always going to be weak at social absent executive turnover or smart acquisitions. Take Apple, which has actually tried before at building out social features. They built one in music, but it died off quickly. They’ve tried to add some social features to the photo album on iOS, though every time I’ve tried them out I end up more bewildered than anything else.&lt;/p&gt;
 
-&lt;p&gt;——是會之設 專為振興中華 維持國體起見 蓋我中華 受外國欺凌 已非一日 皆由內外隔絕 上下之情罔通 國體抑損而不知 孑民受制而無告 苦厄日深 為害何極 茲特聯絡中外華人 創興是會 以申民志而扶國宗&lt;/p&gt;
+&lt;p&gt;iMessages, Apple fans might proclaim! Hundreds of millions of users, a ton of usage among teens, isn’t that proof that Apple can do social? Well, in a sense, but mostly one of utility. Apple’s social efforts tend to be social capital barren.&lt;/p&gt;
 
-&lt;p&gt;——凡入會之人 每名捐會底銀五元 另有義捐以助經費 隨人惟力是視 務宜踴躍赴義&lt;/p&gt;
+&lt;p&gt;Since Apple positions itself as the leading advocate for user privacy, it will always be constrained on building out social features since many of them trade off against privacy. Not all of them do, and it’s possible a social network based entirely on privacy can be successful, but 1) it would be challenging and 2) it’s not clear many people mind trading off some privacy for showing off their best lives online.&lt;/p&gt;
 
-&lt;p&gt;——本會公舉正副主席各一位 正副文案各一位 管庫一位 值理八位 差委二位 以專司理會中事務&lt;/p&gt;
+&lt;p&gt;This is, of course, exactly why many people love and choose Apple, and they have more cash than they can spend. No one need feel sorry for Apple, and as is often the case, a company’s strengths and weaknesses stem from the same quality in their nature. I’d rather Apple continue to focus on building the best computers in the world. Still, it’s a false tradeoff to regard Apple’s emphasis on privacy as an excuse for awkward interactions like photo sharing on iOS.&lt;/p&gt;
 
-&lt;p&gt;——每逢禮拜四晚 本會集議一次 正副主席必要一位赴會 方能開議&lt;/p&gt;
+&lt;p&gt;The same inherent social myopia applies to Google which famously took a crack at building a social network of its own with Google+. Like Apple, the team in Mountain View has always seemed more suited to building out networks of utility rather than social capital. Google is often spoken of as a company where software engineers have the most power. Engineers, in my experience, are driven by logic, and status-centered products are distasteful or mysterious to them, often both. Google will probably always be weak at social, but as with Apple, they compensate with unique strengths.&lt;/p&gt;
 
-&lt;p&gt;——凡會中所收會底各銀 必要由管庫存貯妥當 或貯銀行以備有事調用 惟管庫須有殷商二名擔保 以昭鄭重&lt;/p&gt;
+&lt;p&gt;Oddly enough, despite controlling one of the two dominant mobile platforms, they have yet to be able to launch a successful messaging app. That’s about as utility-driven a social application as there is, akin to email where Google does have sizeable market share with GMail. It’s a shame as Google could probably use social as an added layer of utility in many of their products, especially in Google Maps.&lt;/p&gt;
 
-&lt;p&gt;——凡會中捐助各銀 皆為幫助國家之用 在此外不得動支 以省浮費 如或會中偶遇別事要用小費者 可由會友集議妥允 然後支給&lt;/p&gt;
+&lt;p&gt;Amazon and Netflix both launched social efforts though they’ve largely been forgotten. It’s likely the attempts were premature, pushed out into the world before either company had sufficient scale to enable positive flywheel effects. It’s hard enough launching a new social network, but it’s even harder to launch social features built around behaviors like shopping or renting DVD’s through the mail which occur infrequently. Neither company’s social efforts were the most elegantly designed, either (Facebook is underrated for its ability to launch a social product that scaled to billions of users, its design team has a mastery of maintaining ease of use for users of all cultures and ages).&lt;/p&gt;
 
-&lt;p&gt;——凡新入會者 須要會友一位引薦擔保 方得准他入會&lt;/p&gt;
+&lt;p&gt;Given the industrialization of fake reviews, and given how many people have Prime accounts, Amazon could build a social service simply to facilitate product recommendations and reviews from people you know and trust; I increasingly turn a skeptical eye to both extremely positive and negative reviews on Amazon, even if they are listed as coming from verified purchasers. The key value of a feature like this would be utility, but the status boost from being a product expert would be the energy turning the flywheel. The thing is, Amazon actually has a track record of harnessing social dynamics in service of its retail business with features like reviewer rankings and global sales rank (both are discussed a bit further down).&lt;/p&gt;
 
-&lt;p&gt;——凡會內所議各事 當照捨少從多之例而行 以昭公允&lt;/p&gt;
+&lt;p&gt;As for Netflix, I actually think social isn’t as useful as many would think in generating video recommendations (that’s a discussion for another day, but suffice it to say there is some narcissism of small differences when it comes to film taste). However, as an amplifier of Netflix as the modern water cooler, as a way to encourage herd behavior, social activity can serve as an added layer of buzz that for now is largely opaque to users inside Netflix apps. It’s a strategy that is only viable if you can achieve the size of subscriber base that a Netflix has, and thus it is a form of secondary scale advantage that they could leverage more.&lt;/p&gt;
 
-&lt;p&gt;——凡以上所訂規條 各友須要恪守 倘有善法 亦可隨時當眾議訂加增 以臻完美&lt;/p&gt;
+&lt;p&gt;However, there’s another reason that senior execs at most companies, even social networks, are ill-suited to designing and leveraging social features. It’s a variant of winner’s curse.&lt;/p&gt;
 
-&lt;p&gt;此中華民國紀元前十八年十月二十七日在檀香&lt;/p&gt;</content><author><name>孫文</name></author><summary type="html">中國積弱 非一日矣 上則因循苟且 粉飾虛張 下則蒙昧無知 鮮能遠慮 近之辱國喪師 強藩壓境 堂堂華夏不恥於鄰邦 文物冠裳被輕於異族 有志之士 能無撫膺</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://i.imgur.com/vfBG6i8.jpeg" /><media:content medium="image" url="https://i.imgur.com/vfBG6i8.jpeg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">巴枯宁瑞士演讲・一</title><link href="https://agorahub.github.io/pen0/heros/1871-05-01-MikhailBakunin-a1_r-bakunins-speech-in-switzerland-1.html" rel="alternate" type="text/html" title="巴枯宁瑞士演讲・一" /><published>1871-05-01T10:56:15+06:55</published><updated>1871-05-01T10:56:15+06:55</updated><id>https://agorahub.github.io/pen0/heros/MikhailBakunin-a1_r-bakunins-speech-in-switzerland-1</id><content type="html" xml:base="https://agorahub.github.io/pen0/heros/1871-05-01-MikhailBakunin-a1_r-bakunins-speech-in-switzerland-1.html">&lt;p&gt;同志们，自从1789～1793年大革命以来，欧洲各国继续发生的大事，没有一件有如今日以巴黎为舞台的那种壮剧那么伟大与重要。&lt;/p&gt;
+&lt;h3 id=&quot;let-them-eat-cake&quot;&gt;Let Them Eat Cake&lt;/h3&gt;
+
+&lt;p&gt;You’ll hear it again and again, the easiest way to empathize with your users is to be the canonical user yourself. I tend to subscribe to this idea, which is unfortunate because it means I have hundreds of apps installed on my phone at any point in time, just trying to keep up with the product zeitgeist.&lt;/p&gt;
+
+&lt;p&gt;With social networks, one of the problems with seeing your own service through your users’ eyes is that every person has a different experience given who they follow and what the service’s algorithm feeds them. When you have hundreds of millions or even billions of users, across different cultures, how do you accurately monitor what’s going on? Your metrics may tell you that engagement is high and growing, but what is the composition of that activity, and who is exposed to what parts?&lt;/p&gt;
+
+&lt;p&gt;Until we have metrics that distinguish between healthy and unhealthy activity, social network execs largely have to steer by anecdote, by licking a finger and sticking it in the air to ascertain the direction of the wind. Some may find it hard to believe when execs plead ignorance when alerted of the scope of problems on their services, but I don’t. When it comes to running a community, the thickest veil of ignorance is the tidy metrics dashboard that munges hundreds, thousands, or maybe even millions of cohorts into just a handful.&lt;/p&gt;
+
+&lt;p&gt;To really get the sense of a health of a social network, one must understand the topology of the network, and the volume and nature of connections and interactions among hundreds of millions or even billions of users. It’s impossible to process them all, but just as difficult today to summarize them without losing all sorts of critical detail.&lt;/p&gt;
+
+&lt;p&gt;But perhaps even more confounding is that executives at successful social networks are some of the highest status people in the world. Forget first world problems, they have .1% or .001% problems. On a day-to-day basis, they hardly face a single issue that their core users grapple with constantly. Engagement goals may drive them towards building services that are optimized as social capital games, but they themselves are hardly in need of more status, except of a type they won’t find on their own networks.&lt;/p&gt;
+
+&lt;p&gt;[The one exception may be Jack Dorsey, as any tweet he posts now attracts an endless stream of angry replies. It’s hard to argue he doesn’t understand firsthand the downside risk of a public messaging protocol. Maybe, for victims of harassment on Twitter, we need a Jack that is less thick-skinned and stoic, not more.]&lt;/p&gt;
+
+&lt;h3 id=&quot;the-social-capital---financial-capital-exchange&quot;&gt;The Social Capital - Financial Capital Exchange&lt;/h3&gt;
+
+&lt;p&gt;[If you fully believe in the existence and value of social capital, you can skip this section, though it may be of interest in understanding some ways to estimate its value.]&lt;/p&gt;
+
+&lt;p&gt;That some of the largest, most valuable companies in history have been built so quickly in part on creating status games should be enough to convince you of the existence and value of social capital. Since we live in the age of social media, we live in perhaps the peak of social capital assets in the history of civilization. However, as noted earlier, one of the challenges of studying it is that we don’t have agreed-upon definitions of how to measure it and thus to track its flows.&lt;/p&gt;
+
+&lt;p&gt;I haven’t found a clean definition of social capital but think of it as capital that derives from networks of people. If you want to explore the concept further, this page has a long list of definitions from literature. The fact is, I have deep faith in all my readers when it comes to social capital that, like Supreme Court Justice Potter Stewart once said about pornography, you “know it when you see it.”&lt;/p&gt;
+
+&lt;p&gt;But more than that, the dark matter that is social capital can be detected through those exchanges in which it converts into more familiar stores of value.&lt;/p&gt;
+
+&lt;p&gt;If you’ve ever borrowed a cup of milk from your neighbor, or relied on them to watch your children for an afternoon, you know the value of social capital. If you lived in an early stage of human history, when people wandered in small nomadic tribes and regularly clubbed people of other tribes to death with sticks and stones, you also know the value of social capital through the protective cocoon of its presence and the sudden violence in its absence.&lt;/p&gt;
+
+&lt;p&gt;Perhaps the easiest way to spot social capital is to look at places where people trade it for financial capital. With the maturing of social networks, we’ve seen the infrastructure to facilitate these exchanges come a long way. These trades allow us to assign a tangible value to social capital the way one might understand the value of an intangible assets like leveled-up World of Warcraft characters when they are sold on the open market.&lt;/p&gt;
+
+&lt;p&gt;Perhaps the most oft-cited example of a social-to-financial-capital exchange is the type pulled off by influencers on Instagram and YouTube. I’ve met models who, in another life, might be mugging outside an Abercrombie and Fitch or working the front door at some high end restaurant in Los Angeles, but instead now pull down over 7 figures a year for posting photos of themselves luxuriating in specific resorts, wearing and using products from specific sponsors. When Jake or Logan Paul post a video of themselves preening in front of their new Lamborghini in the driveway of the mansion they bought using money stemming from their YouTube streaming, we know some exchange of social capital for financial capital has occurred upstream. Reshape distribution and you reshape the world.&lt;/p&gt;
+
+&lt;p&gt;Similarly, we see flows the other direction. People buying hundreds of thousands of followers on Twitter is one of the cleanest examples of trading financial capital for social capital. Later, that social capital can be converted back into financial capital any number of ways, including charging sponsors for posts. Depending on the relative value in both directions there can be arbitrage.&lt;/p&gt;
+
+&lt;p&gt;[Klout, a much-mocked company online, attempted to more precisely track social capital valuations of people online, but, just as the truly wealthy mock the nouveau riche as gauche, many found the explicit measurement attempts unseemly. Most of these same people, however, compete hard for social capital online, so ¯(ツ)/¯. The designation of which status games are acceptable is itself a status game.]&lt;/p&gt;
+
+&lt;p&gt;Asia, where monetization models differ for a variety of cultural and contextual reasons, provides an even cleaner valuation of social capital. There, many social networks allow you to directly turn your social capital into financial capital, without leaving the network. For example, on live-streaming sites like YY, you can earn digital gifts from your viewers which cost actual money, the value of which you split with the platform. In the early days, a lot of YY consisted of cute girls singing pop songs. These days, as seen in the fascinating documentary People’s Republic of Desire, it has evolved into much more.&lt;/p&gt;
+
+&lt;p&gt;Agencies have sprung up in China to develop and manage influencers, almost like farm systems in baseball with player development and coaches. The speed at which social capital can be converted into your own branded product lines is accelerating by leaps and bounds, and nowhere more so than in China.&lt;/p&gt;
+
+&lt;p&gt;Meanwhile, on Twitter, if one of your tweets somehow goes massively viral, you still have to attach a follow-up tweet with a link to your GoFundMe page, a vulgar monetization hack in comparison. It’s China, not the U.S., that is the bleeding edge of influencer industrialization.&lt;/p&gt;
+
+&lt;p&gt;I’m skeptical that all of Asia’s monetization schemes will export to the culture in America, but for this post, the important thing is that social capital has real financial value, and networks differ along the spectrum of how easily that exchange can be made.&lt;/p&gt;
+
+&lt;h3 id=&quot;social-capital-accumulation-and-storage&quot;&gt;Social Capital Accumulation and Storage&lt;/h3&gt;
+
+&lt;p&gt;As with cryptocurrency, it’s no use accumulating social capital if you can’t take ownership of it and store it safely. Almost all successful social networks are adept at providing both accumulation and storage mechanisms.&lt;/p&gt;
+
+&lt;p&gt;It may sound obvious now, but consider the many apps and services that failed to provide something like this and saw all their value leak to other social networks. Hipstamatic came before Instagram and was the first photo filter app of note that I used on mobile. But, unlike Instagram, it charged for its filters and had no profile pages, social network, or feed. I used Hipstamatic filters to modify my iPhone photos and then posted them to other social networks like Facebook. Hipstamatic provided utility but captured none of the social capital that came from the use of its filters.&lt;/p&gt;
+
+&lt;p&gt;Contrast this with a company like Musical.ly, which I mentioned above. They came up with a unique proof of work burden, but unlike Hipstamatic, they wanted to capture the value of the social capital that its users would mine by creating their musical skits. They didn’t want these skits to just be uploaded to Instagram or Facebook or other networks.&lt;/p&gt;
+
+&lt;p&gt;Therefore, they created a feed within the app, to give its best users distribution for their work. By doing so, Musical.ly owned that social capital it helped generate. If your service is free, the best alternative to capturing the value you create is to own the marketplace where that value is realized and exchanged.&lt;/p&gt;
+
+&lt;p&gt;Musical.ly founder Alex Zhu likens starting a new social network to founding a new country and trying to attract citizens from established countries. It’s a fun analogy, though I prefer the cryptocurrency metaphor because most users are citizens of multiple social networks in the tech world, managing their social capital assets across all of those networks as a sort of diversified portfolio of status.&lt;/p&gt;
+
+&lt;p&gt;For the individual user, we’ve standardized on a few basic social capital accumulation mechanisms. There is the profile, to which your metrics attach, most notably your follower count and list. Followers or friends are the atomic unit of many social networks, and the advantage of followers as a measure is it generally tends to only grow over time. It also makes for an easy global ranking metric.&lt;/p&gt;
+
+&lt;p&gt;Local scoring of social capital at the atomic level usually exists in the form of likes of some sort, one of the universal primitives of just about every social network. These are more ephemeral in nature given the nature of feeds, which tend to prioritize distribution of more recent activity, but most social networks have some version of this since followers tend to accumulate more slowly. Likes correlate more strongly with your activity volume and serve as a source of continual short-term social capital injections, even if each like is, in the long-run, less valuable than a follower or a friend.&lt;/p&gt;
+
+&lt;p&gt;Some networks allow for accelerated distribution of posts through resharing, like retweeting (with many unintended consequences, but that’s a discussion for another day). Some also allow comments, and there are other network-specific variants, but most of these are some form of social capital that can attach to posts.&lt;/p&gt;
+
+&lt;p&gt;Again, this isn’t earth-shattering to most users of social networks. However, where it’s instructive is in examining those social networks which make such social capital accumulation difficult.&lt;/p&gt;
+
+&lt;p&gt;A good example is the anonymous social network, like Whisper or Secret. The premise of such social networks was that anonymity would enable users to share information and opinions they would otherwise be hesitant to be associated with. But, as is often the case, that strength turned out to be a weakness, because users couldn’t really claim any of the social capital they’d created there. Many of the things written on these networks were so toxic that to claim ownership of them would be social capital negative in the aggregate.&lt;/p&gt;
+
+&lt;p&gt;A network like Reddit solved this through its implementation of karma, but it’s fair to say that it’s also been a long struggle for Reddit to suppress the dark asymmetric incentives unlocked by detaching social capital from real-life identity and reputation.&lt;/p&gt;
+
+&lt;p&gt;[Balaji Srinivasan once mentioned that someday the cryptocurrencies might allow someone to extract the value from an anonymous social network without revealing their identity publicly, but for now, at least, a lot of this status on social networks isn’t monetary in nature. A lot of it’s just for the lulz.]&lt;/p&gt;
+
+&lt;p&gt;For any single user, the stickiness of a social network often correlates strongly with the volume of social capital they’ve amassed on that network. People sometimes will wholesale abandon social networks, but it’s rare unless the status earned there has undergone severe deflation.&lt;/p&gt;
+
+&lt;p&gt;Social capital does tend to be non-fungible which also tends to make it easier to abandon ship. If your Twitter followers aren’t worth anything on another network, it’s less painful to just walk away from the account if it isn’t worth the trouble anymore. It’s strange to think that social networks like Twitter and Facebook once allowed users to just wholesale export their graphs to other networks since it allowed competing networks to jumpstart their social capital assets in a massive way, but that only goes to show how even some of the largest social networks at the time underestimated the massive value of their social capital assets. Facebook also, at one point, seemed to overestimate the value of inbound social capital that they’d capture by allowing third party services and apps to build on top of their graph.&lt;/p&gt;
+
+&lt;p&gt;The restrictions on porting graphs is a positive from the perspective of the incumbent social networks, but from a user point-of-view, it’s frustrating. Given the difficulty of grappling with social networks given the consumer welfare standard for antitrust, an option for curbing the power of massive network effects businesses is to require that users be allowed to take their graph with them to other networks (as many have suggested). This would blunt the power of social networks along the social capital axis and force them to compete more on utility and entertainment axes.&lt;/p&gt;
+
+&lt;h3 id=&quot;social-capital-arbitrage&quot;&gt;Social Capital Arbitrage&lt;/h3&gt;
+
+&lt;p&gt;Because social networks often attract different audiences, and because the configuration of graphs even when there are overlapping users often differ, opportunities exist to arbitrage social capital across apps.&lt;/p&gt;
+
+&lt;p&gt;A prominent user of this tactic was @thefatjewish, the popular Instagram account (his real name was Josh Ostrovsky). He accumulated millions of followers on Instagram in large part by taking other people’s jokes from Twitter and other social networks and then posting them as his own on Instagram. Not only did he rack up followers and likes by the millions, he even got signed with CAA!&lt;/p&gt;
+
+&lt;p&gt;When he got called on it, he claimed it wasn’t what he was about. He said, “Again, Instagram is just part of a larger thing I do. I have an army of interns working out of the back of a nail salon in Queens. We have so much stuff going on: I’m writing a book, I’ve got rosé. I need them to bathe me. I’ve got so many other things that I need them to do. It just didn’t seem like something that was extremely dire.” Which is really a long, bizarre way of saying, you caught me. Let he who does not have an army of interns bathing them throw the first stone.&lt;/p&gt;
+
+&lt;p&gt;Since then, similar joke aggregator accounts on Instagram have continued to proliferate, but some of them now follow the post-fatjewish-scandal social norm of including the proper attribution for each joke in the photo (for example including the Twitter username and profile pic within the photo of the “borrowed” tweet). But many do not, and even for those who do, the most prominent can trigger a backlash. The hashtag #fuckfuckjerry is an emergent protest against the popular Instagram account @fuckjerry which, like @fatjewish, curates the best jokes from others and daytraded that into a small media company, one that featured in the Fyre Festival debacle.&lt;/p&gt;
+
+&lt;p&gt;As long as we have multiple social networks that don’t quite work the same way, there will continue to be these social media arbitragers copying work from one network and to a different network to accumulate social capital on closing the distribution gap. Before the internet, men resorted to quoting movies or Mitch Hedberg jokes in conversation, to steal a bit of personality and wit from a more gifted comedian. This is the modern form of that, supercharged with internet-scale reach.&lt;/p&gt;
+
+&lt;p&gt;At some level, a huge swath of social media posts are just attempts to build status off of someone else’s work. The two tenets at the start of this article predict that this type of arbitrage will always be with us. Consider someone linking to an article from Twitter or Facebook, or posting a screenshot of a paragraph from someone else’s book. The valence of the reaction from the original creators seems to vary according to how the spoils of resharing are divvied up. The backlash to Instagram accounts like @thefatjewish and @fuckjerry may stem from the fact that they don’t really share value from those whose jokes they redistribute, whereas posting an excerpt from a book on Twitter, for example, generates welcome publicity for the author.&lt;/p&gt;
+
+&lt;h3 id=&quot;social-capital-games-as-temporary-energy-sources&quot;&gt;Social Capital Games as Temporary Energy Sources&lt;/h3&gt;
+
+&lt;p&gt;Structured properly, social capital incentive structures can serve as an invaluable incentive. For example, curation of good content across the internet remains an never-ending problem in this age of infinite content, so offering rewards for surfacing interesting things remains one of the oldest and most reliable marketplaces of the internet.&lt;/p&gt;
+
+&lt;p&gt;A canonical example is Reddit, where users bring interesting links, among other content, in exchange for a currency literally named karma. Accumulate enough karma and you’ll unlock other benefits, like the ability to create your own subreddit, or to join certain private subreddits.&lt;/p&gt;
+
+&lt;p&gt;Twitter is another social network where people tend to bring interesting content in the hopes of amassing more followers and likes. If you follow enough of the right accounts, Twitter becomes an interestingness pellet dispenser.&lt;/p&gt;
+
+&lt;p&gt;Some companies which aren’t typically thought of as social networks still turn to social capital games to solve a particular problem. On one Christmas vacation, I stumbled downstairs for a midnight snack and found my friend, a father of three, still up, typing on his laptop. What, I asked, was he doing still up when he had to get up in a few hours to take care of his kids? He was, he admitted sheepishly, banging out a litany of reviews to try to maintain his Yelp Elite status. To this day, some of my friends still speak wistfully about some of the Yelp Elite parties they attended back in the day.&lt;/p&gt;
+
+&lt;p&gt;Think of how many reviews Yelp accumulate in the early days just by throwing a few parties? It was, no doubt, well worth it, and at the point when it isn’t (what’s the marginal value of writing the, at last count, 9655th review of Ippudo in New York City?), it’s something easily dialed back or deprecated.&lt;/p&gt;
+
+&lt;p&gt;Amazon isn’t typically thought of as a company that understands social, but in its earliest days, before even Yelp, it employed a similar tactic to boost its volume of user reviews. Amazon Top Reviewers was a globally ranked list of every reviewer on all of Amazon. You could boost your standing by accumulating more useful review votes from shoppers for your reviews. I’ll always remember Harriet Klausner, who dominated that list for years, reviewing seemingly every book in print. Amazon still maintains a top customer reviewer list, but it has been devalued over time as volume of reviews is no longer a real problem for Amazon.&lt;/p&gt;
+
+&lt;p&gt;Another example of a status game that Amazon employed to great effect, and which doesn’t exist anymore, was Global Sales Rank. For a period, every product on Amazon got ranked against every other product in a dynamic sales rank leaderboard, and the figure would be displayed prominently near the top of each product detail page. Book authors pointed customers to Amazon to buy their books in the hope of goosing their sales rank the same way authors today often commit to buy some volume of their own book when it releases in the hopes of landing on the NYTimes bestseller list the week it releases.&lt;/p&gt;
+
+&lt;p&gt;IMDb and Wikipedia are two companies which built up entire valuable databases almost entirely by building mechanisms to harness the equal mix of status-seeking and altruism of domain experts. As with Reddit, accumulating a certain amount of reputation on these services unlocked additional abilities, and both companies built massive databases of information with very low production and editorial costs.&lt;/p&gt;
+
+&lt;p&gt;You can think of social capital accumulation incentives like these as ways to transform the potential energy of status into whatever form of kinetic energy your venture needs.&lt;/p&gt;
+
+&lt;h3 id=&quot;why-most-celebrity-apps-fail&quot;&gt;Why Most Celebrity Apps Fail&lt;/h3&gt;
+
+&lt;p&gt;For a while, a trend among celebrities was to launch their own app. The Kardashian app is perhaps the most prominent example, but there are others.&lt;/p&gt;
+
+&lt;p&gt;From a social capital perspective, these create little value because they simply draw down upon the celebrity’s own status. Almost every person who joins just wants content from the eponymous celebrity. The volume of interaction between the users of the app themselves, the fans, is minimal to non-existent. Essentially these apps are self-owned distribution channels for the stars, and as such, they tend to be vanity projects rather than durable assets.&lt;/p&gt;
+
+&lt;p&gt;One can imagine such apps trying to foster more interaction among the users, but that is a really complex effort, and most such efforts have neither the skills to take this on nor the will or capital necessary to see it through.&lt;/p&gt;
+
+&lt;p&gt;Another way to think of all these celebrity ventures is to measure the social capital and utility of the product or service if you remove all the social capital from the celebrity in question. A lot minus a lot equals zero.&lt;/p&gt;
+
+&lt;h3 id=&quot;conclusion-everybody-wants-to-rule-the-world&quot;&gt;Conclusion: Everybody Wants to Rule the World&lt;/h3&gt;
+
+&lt;p&gt;In the immortal words of Obi-Wan Kenobi, “Status is what gives a Jedi his power. It’s an energy field created by all living things. It surrounds us and penetrates us. It binds the galaxy together.”&lt;/p&gt;
+
+&lt;p&gt;That many of the largest tech companies are, in part, status as a service businesses, is not often discussed. Most people don’t like to admit to being motivated by status, and few CEO’s are going to admit that the job to be done for their company is stroking people’s egos.&lt;/p&gt;
+
+&lt;p&gt;From a user perspective, people are starting to talk more and more about the soul-withering effects of playing an always-on status game through the social apps on their always connected phones. You could easily replace Status as a Service with FOMO as a Service. It’s one reason you can still meet so many outrageously wealthy people in Manhattan or Silicon Valley who are still miserable.&lt;/p&gt;
+
+&lt;p&gt;This piece is not my contribution to the well-trod genre of Medium thinkpieces counseling stoicism and Buddhism or transcendental meditation or deleting apps off of your phone to find inner peace. There is wisdom in all of those, but if I have anything to offer on that front, it’s this: if you want control of your own happiness, don’t tie it to someone else’s scoreboard.&lt;/p&gt;
+
+&lt;p&gt;Recall the wisdom of Neil McCauley in the great film Heat.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/5XDWunL.jpeg&quot; alt=&quot;image17&quot; /&gt;
+&lt;em&gt;▲ To get off the hedonic treadmill, heed the words of Robert DeNiro’s Neil McCauley in that classic film about status, Heat, “Don’t let yourself get attached to any social capital you are not willing to walk out on in 30 seconds flat if you feel the heat around the corner.”&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;At the end of Heat, he fails to follow his own advice, and look what happened to him.&lt;/p&gt;
+
+&lt;p&gt;Yet, I come not to bury Caesar, but also not to praise him. Rather, as Emily Wilson says at the start of her brilliant new translation of The Odyssey, “tell me about a complicated man.” So much of the entire internet was built on a foundation of social capital, of intangible incentives like reputation. Before the tech giants of today, I combed through newsgroups, blogs, massive FAQs, and countless other resources built by people who felt, in part, a jolt of dopamine from the recognition that comes from contributing to the world at large. At Amazon, someone coined a term for this type of motivational currency: egoboo (short for, you guessed it, egoboost). Something like Wikipedia, built in large part on egoboo, is a damned miracle. I don’t want to lose that. I don’t think we have to lose that.&lt;/p&gt;
+
+&lt;p&gt;Of course, like the Force, status is equally potent as fuel for the darkest, cruelest parts of human nature. If you look at the respective mission statements of Twitter and Facebook — “to give everyone the power to create and share ideas and information instantly without barriers” and “to give people the power to share and make the world more open and connected” — what is striking is the assumption that these are fundamentally positive outcomes. There’s no questioning of what the downsides of connecting everyone and enabling instant sharing of information among anyone might be.&lt;/p&gt;
+
+&lt;p&gt;Of course, both companies, and many others, have now had to grapple with the often unbounded downside risk of just wiring together billions of people with few guardrails. Reading the Senate Intelligence Committee reports on Russian infiltration of social networks in the 2016 election, what emerges is unsettling: in so many ways the Russians had a more accurate understanding of the users of these services than the product teams running them. In either case, much of the cost has been born not by the companies themselves but society. Companies benefit from the limitless upside of their models, so it’s not unreasonable to expect them to bear the costs, just as we expect corporations to bear the cost of polluting rivers with their factories. If we did, as Hunter Walk has noted, profit margins would be lower, but society and discourse might be healthier.&lt;/p&gt;
+
+&lt;p&gt;Contrary to some popular Twitter counsel, the problem is not that the leaders of these companies don’t have humanities degrees. But the solution also doesn’t lie in ignoring that humans are wired to pursue social capital. In fact, overlooking this fundamental aspect of human nature arguably landed us here, at the end of this first age of social network goliaths, wondering where it all went haywire. If we think of these networks as marketplaces trading only in information, and not in status, then we’re only seeing part of the machine. The menacing phone call has been coming from inside the house all along. Ben Thompson refers to this naivete from tech executives as the pollyannish assumption.&lt;/p&gt;
+
+&lt;p&gt;Having worked on multiple products in my career, I’m sympathetic to the fact that no product survives engagement with humans intact, But this first era of Status as a Service businesses is closing, and pleading ignorance won’t work moving forward. To do so is to come off like Captain Louis Renault in Casablanca.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/2b4zNJX.gif&quot; alt=&quot;image18&quot; /&gt;&lt;/p&gt;</content><author><name>Eugene Wei</name></author><summary type="html">“It is a truth universally acknowledged, that a person in possession of little fortune, must be in want of more social capital.” So wrote Jane Austen, or she would have, if she were chronicling our current age (instead we have Taylor Lorenz, and thank goodness for that).</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://i.imgur.com/nTmt0Vp.png" /><media:content medium="image" url="https://i.imgur.com/nTmt0Vp.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">香港興中會宣言</title><link href="https://agorahub.github.io/pen0/heros/1895-02-18-SunYatsen-a1_l-declaration-of-the-revive-china-association-in-hong-kong.html" rel="alternate" type="text/html" title="香港興中會宣言" /><published>1895-02-18T10:56:15+06:55</published><updated>1895-02-18T10:56:15+06:55</updated><id>https://agorahub.github.io/pen0/heros/SunYatsen-a1_l-declaration-of-the-revive-china-association-in-hong-kong</id><content type="html" xml:base="https://agorahub.github.io/pen0/heros/1895-02-18-SunYatsen-a1_l-declaration-of-the-revive-china-association-in-hong-kong.html">&lt;p&gt;中國積弱，至今極矣！上則因循茍且，粉飾虛張；下則蒙昧無知，鮮能遠慮。堂堂華國，不齒於列邦；濟濟衣冠，被輕於異族。有志之士能不痛心！&lt;!--more--&gt;夫以四百兆人民之眾，數萬里土地之饒，本可發奮為雄，無敵於天下。乃以政治不修，綱維敗壞，朝廷則鬻爵賣官，公行賄賂；官府則剝民刮地，暴過虎狼。盜賊橫行，饑饉交集，哀鴻遍野，民不聊生，嗚呼慘哉！方今強鄰環列。虎視鷹鄰，久垂涎我中華五金之富，物產之多，蠶食鯨吞，已見效於踵接；瓜分豆剖，實堪慮於目前。嗚呼危哉！有心者不禁大聲疾呼，亟拯斯民於水火，切扶大廈之將傾，庶我子子孫孫，或免奴隸於他族。用特集志士以興中，協賢豪而共濟，仰諸同志，盍自勉旃。謹訂章程，臚列如左：&lt;/p&gt;
+
+&lt;p&gt;一、會名宜正也本會名曰興中會，總會設在中國，分會散設各地。&lt;/p&gt;
+
+&lt;p&gt;二、本旨宜明也本會之設，專為聯絡中外有志華人，講求富強之學，以振興中華，維持團體起見。蓋中國今日，政治日非，綱維日壞，強鄰輕侮百姓。其原因皆由眾心不一，只圖目前之私，不顧長久大局。不思中國一旦為人分裂，則子子孫孫世為奴隸，身家性命，且不保乎！急莫急於此，私莫私於此；而舉國憒憒，無人悟之，無人挽之，此禍豈能倖免。&lt;/p&gt;
+
+&lt;p&gt;倘不及早維持，乘時發奮，則數千年聲名文物之邦，累世代冠裳禮義之族，從以淪亡，由茲泯滅，是誰之咎？識時賢者，能無責乎？故特聯絡四方賢才志士，切實講求當今富國強兵之學，化民成俗之經，力為推廣，曉諭愚蒙，務使舉國之人皆能通曉。聯智愚為一心，合遐爾為一德，群策群力，投大遺艱，則中國雖危，庶可挽救。所謂「民為邦本，本固邦寧」也。&lt;/p&gt;
+
+&lt;p&gt;三、志向宜定也本會擬辦之事，務須利國益民者方能行之。如設報館以開風氣，立學校以育人材，興大利以厚民生，除積弊以培國脈等事，皆當惟力是視，逐漸舉行，以期上匡國家以臻隆治，下維黎庶以絕苛殘，必使吾中國四百兆生民各得其所，方為滿志。倘有藉端舞弊，結黨行私，或畛域互分，彼此歧視，皆非本會志向，宜痛絕之，以昭大公而杜流弊。&lt;/p&gt;
+
+&lt;p&gt;四、人員宜得也本會按年公舉辦理員一次，務擇品學兼優，才能通達者。推一人為總辦，一人為幫辦，一人為管庫，一人為華文文案，一人為洋文文案，十人為董事，以司會中事務。凡舉辦一事，必齊集會員五人，董事十人，公議妥善，然後施行。&lt;/p&gt;
+
+&lt;p&gt;五、交友宜擇也本會收接會友，務要由舊會員二人薦引，經董事察其心地光明，確具忠義，有心愛戴中國，肯為其父母邦竭力，維持中國以臻強盛之地，然後由董事帶之入會，必要當眾自承其甘願入會，一心一德，矢信矢忠，共挽中國危局；親填名冊，並即繳會底銀五元，由總會發給懲照持執，以昭信守，是為會友。若各處支會，則由該處會員暫發收條，俟將會底銀繳報總會。取到恁照，然後交換。&lt;/p&gt;
+
+&lt;p&gt;六、支會宜廣也四方有志之士，皆可倣照章程，隨處自行立會。惟不能在一處地方分立兩會，無論會友多至幾何，皆須合而為一。又凡每處新立一會，至少須有會友十五人方算成會。其成會之初，所有繳底領照各事，必須託附老會，代為轉達總會，待總會給照認妥，然後該支會方能與總會互通消息。&lt;/p&gt;
+
+&lt;p&gt;七、人才宜集也本會需才孔亟，會友散處四方，自當隨時隨地，物色賢材。無論中外各國人士，倘有心益世，肯為中國盡力，皆得收入會中，待將來用人，各會可修書薦至總會，以資臂助。故今日廣為蒐集，乃為各會之職司也。&lt;/p&gt;
+
+&lt;p&gt;八、款項宜籌也本會所理各事，事體重大，需款浩繁。故特設銀會以集鉅資，用濟公家之急，兼為股友生財捷徑，一舉兩得，誠善舉也。各會友好義急公，自能惟力是視，集腋成裘，以助一臂。茲將辦法節略於後：每股科銀十元，認一股至萬股，皆隨各便。所科股銀，由各處總辦管庫代收，發給收條為據，將銀暫存銀行，待總會收股時，即匯寄至總會收入，給發收銀會股票，由各處總辦換交各友收存。開會之日，每股可收回本利百元。此於公私皆有裨益。各友鹹具愛國之誠，當踴躍從事，比之捐頂子，買翎枝，有去無還，洵隔天壤。且十可報百，萬可圖億，利莫大焉，機不可失也。&lt;/p&gt;
+
+&lt;p&gt;九、公所宜設也各處支會，當設一公所，為會員辦公之處，及便各友時到敘談，講求興中良法，討論當今時事，考究各國政治，各抒己見，互勉進益。不得在此博奕遊戲，暨行一切無益之事。其經費由會友按數捐支。&lt;/p&gt;
+
+&lt;p&gt;十、變通宜善也以上各款為本會開辦之大綱，各處支會自當倣照辦理。至於詳細節目，各有所宜，各處支會可隨地變通，別立規條，務臻妥善。&lt;/p&gt;
+
+&lt;p&gt;民前十七年一月二十四日（1895年2月18日香港&lt;/p&gt;</content><author><name>孫文</name></author><summary type="html">中國積弱，至今極矣！上則因循茍且，粉飾虛張；下則蒙昧無知，鮮能遠慮。堂堂華國，不齒於列邦；濟濟衣冠，被輕於異族。有志之士能不痛心！</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://i.imgur.com/AJJgNsh.jpeg" /><media:content medium="image" url="https://i.imgur.com/AJJgNsh.jpeg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">巴枯宁瑞士演讲・二</title><link href="https://agorahub.github.io/pen0/heros/1871-05-02-MikhailBakunin-a1_r-bakunins-speech-in-switzerland-2.html" rel="alternate" type="text/html" title="巴枯宁瑞士演讲・二" /><published>1871-05-02T10:56:15+06:55</published><updated>1871-05-02T10:56:15+06:55</updated><id>https://agorahub.github.io/pen0/heros/MikhailBakunin-a1_r-bakunins-speech-in-switzerland-2</id><content type="html" xml:base="https://agorahub.github.io/pen0/heros/1871-05-02-MikhailBakunin-a1_r-bakunins-speech-in-switzerland-2.html">&lt;p&gt;亲爱的同志们，上次说两种历史大事件构成了中产阶级的权力，第一种是十六世纪以“宗教改革”为名的宗教革命，第二种是十八世纪的政治大革命。&lt;/p&gt;
 
 &lt;!--more--&gt;
 
-&lt;p&gt;我们号称“近代的”世界或中产阶级文明的世界是由两种历史的事实，两种深可纪念的革命所构成。第一种名为宗教改革，于十六世纪之初破坏了封建制度的根基——教会的无上权，我们都知道封建领主的独立的几乎绝对的权力是建筑在教会上受教会祝福，得教会保护的。他们当时权力之大乎与一般国王等，或且超而过之他们要人相信他们的权力是直接来自上帝的恩宠，现在受宗教改革的影响，教会的无上权既被破坏了，他们的末日也就肇端与此了。在宗教革命之前的二世纪中，欧洲的中产阶级皆不断地缓和地在预备着他们自己自己的解放，地方自由的连续的扩展，同时为共必然的结果与情景的工商业也继之而发达，待宗教改革那颗爆裂弹一爆发，他们就得到了一种新的活力。&lt;/p&gt;
+&lt;p&gt;我又会说，这后者的革命不错，是由平民之力所完成的，而领导与创造之力却不可不归中产阶级。现在我要向你们证明，得此种革命之益的，也就只有中产阶级。&lt;/p&gt;
 
-&lt;p&gt;以后从这种革命中跃出了一种新的权力，可不是有产阶级的，却是国家的。因为有产阶级在此时还没有到飞黄腾达的时期，而英国君主的立宪的贵族的国家，与欧洲大陆的君主的独裁的，贵族的，军阀的，官僚的国家就是这种新的权力的代表，另外还有瑞士与荷兰的两个小共和国不记在内。&lt;/p&gt;
+&lt;p&gt;然而此种革命起初像煞是很广大的。“自由、平等、博爱”这三个名词不是包括着人类于现在即将来所祈求所想实现的一切吗？试问革命后，有一点实现吗？只不过供野心家利用去了罢。开始好像很广大的革命，结果，怎么会那样不幸地，仅为一阶级的狭窄与特殊的解放，而致千百万劳动者于绝境，使其今日受这阶级不公道与无良财富的蹂躏呢？&lt;/p&gt;
 
-&lt;p&gt;我们请将这两个共和国放在一边，专门来考察各君主国罢。宗教改革后，各国的阶级关系与社会及政治的情况如何呢？让我们仔细来研究一下。&lt;/p&gt;
+&lt;p&gt;唉！这是因为此种革命只是一种政治的革命呀！它虽然大胆地将一切政治的暴政与藩篱推翻了，但是它对社会的经济基础——一切政治与社会的不平等的主要原因，过去与现在宗教愚行的最悠久根源——依然丝毫无损地让其存在，甚至宣告其神圣不可侵犯。它会宣告个人与全体皆有自由，或好一点，个人与全体皆有自由之权。可是，它没有实实在在地给予人们以实行这种自由的方法，只是让地主、资本家与人们坐享其利而已。&lt;/p&gt;
 
-&lt;p&gt;俗话说得好：“擒贼先擒王。”那么我们就从为当时权力主宰的教士着手罢，我之所谓教士不但指旧的教士言，而一切以神的祭祀为生活，整批或零碎地向我们做“上帝生意”的新教士也在此例。至于使他们彼此分离的神学上的差异，既然是那么微细而无稽，我们于此不必白费功夫。&lt;/p&gt;
+&lt;p&gt;“贫困，这就是奴隶制咧！”&lt;/p&gt;
 
-&lt;p&gt;宗教改革以前，教会与教士及其为首的教皇是地上真正的领主。就教会的教义说，世界各地有时间性的权力，最有势力的君主，国王或皇帝，若不得教会的承认允许，他们是不能行使其统治权的。人们都知道，中古后期二世纪是冠冕的国王与无上的教皇，万能的国家与万能以上的教会作剧烈的争斗，前者愈战愈兴奋，后者愈战愈退却。最后宗教改革运动宣告了国家的独立权，于此种争斗期以终止。教会承认君主的权利是从上帝直接所赋予，与教皇或任何教士没有关系，于是君主因此有此种完全“神的”来历，就成为世上独一无二的至尊至贵的统治者了。君主的暴政根基就这样的筑于教会的废墟之上，因此教会自主妇退而成为国家侍婢，成为寡头君主手中的统治之工具。&lt;/p&gt;
+&lt;p&gt;看呐，亲爱的同志和朋友们，这句可怕的话，是由我们的朋友克莱蒙（Clément）以他同情的声调，从经验与心坎中喊出来，并时常复述的，而我却有幸从几天前与你们相处之后才听见哩。&lt;/p&gt;
 
-&lt;p&gt;君主被认为教会之首，不但在新教的国家，如英吉利等国是如此，就是在旧教的国家，如西班牙等也不在例外。罗马教会的威权受到宗教改革的可怕打击后，没有外助再也不能单独维持下去了。于是想保持它的生命，非得求助于各国有时间性的君主不可。但是，人们都知道君主不是好惹的，他们的援助无时不想得报酬。他们，除开他们的权力与他们的财政——二者通常相依为命——的崇拜外，别无所谓宗教。所以想要买得他们的一臂之助，教会只有对他们表明此后一定能够并愿意替他们效劳。宗教改革以前，教会往往搧动平民反抗君主。宗教改革以后，它就成为各地——瑞士也在内——君主的联盟者，助政府反抗平民，成为国家人物或统治阶级手中的黑警卫，它所负责的使命是教民众要安分守己、忍耐，无论如何都要服从君主并要求民众拒绝地上的财产与享乐，理由是说平民应地上一切好处让给地上的幸福者，使来世可以得到天堂的宝库。你们都知道的，就在今日，一切的基督教会，无论是新的或旧的，仍在继续不断地宣传这种教义。所幸它的听众渐渐地减少了下去。我们可以预料不久的将来，它因缺少信徒，换言之缺少被欺骗的呆子而不得不关闭它的传道院。&lt;/p&gt;
+&lt;p&gt;是的，贫困就是奴隶制，这就是必须拍卖你的劳动与身体给资本家，使资本家赐你以生存的方法，使你不至于因饥饿而死。只有甘心听中产阶级的先生们说诳语，并有中产阶级倾向的人才敢说劳动群众的政治自由咧！压迫劳动于资本的专断之下，以饥饿强逼劳动者服从资本家的意志呵！这是多么巧妙的自由啦！亲爱的朋友们，你们都是从很长很苦的经验上，认识劳动之贫苦的人，所以你们一定用不着我来向你们说明：只要有劳动留在一边，资本留在另一边的情景存在，劳动总是资本的奴隶，劳动者总是中产阶级先生的苦役，他们嘲弄地予以政治的一切权利及自由的外表，而真正的自由却仍留为己有。&lt;/p&gt;
 
-&lt;p&gt;现在我们再来看看宗教改革以后的贵族与封建阶级中所发生的变化罢。封建阶级虽然经历了此次暴风烈雨，但仍为土地的特权几乎唯一的领有者，可是他们已经失去了政治的独立权。在宗教改革以前他们与教会是一样的，都是国家的敌人，或势均力敌的竞争者。经过了此次革命，他们也与教会一样，成为了国家侍婢，且是宠幸的侍婢。国家一切军事与民事的重要职务皆操与他们之手。欧洲无论大小君主的宫廷皆为他们所充塞。昔时那么倨傲，那么独立的，最大的封建领主，现在都成为国王的，有头衔的侍从。他们虽然丧失了他们倨傲与独立，可是他们的傲气却依然保守着，不但保守着，而且有增无已，所以可以说傲气是一般当奴隶的人的特具之病。他们在国君之前，虽然是奴颜奴膝卑鄙到十二分，可是对于中产者与平民却更加目空一切，更残暴傲慢，却仍无稍改他们此时劫掠敲诈虽不用神权或他们本有的名义了，可是在国家的利益，与君主神圣的托词下，却依然以人民为鬣狗。&lt;/p&gt;
+&lt;p&gt;所谓自由权，若没有实现的方法，则只是一种幻像罢了。我们是太爱自由了，是不是？我们决不以幻象为满足，我们要真真实实的自由。但是自由的积极条件与现实的基础是由什么东西形成的呢？这就是个人的体、智、德三能的完全发展与尽量的享受。故使个人皆有一切生存所需的物质方法为第一，其次就是学习与教育。想活动不能活动的人，被贫困钳制的人每日迫于饥寒，眼见他所爱的一切人苦痛而不能予以援助的人，不是一个自由的人，而是一个奴隶，假如他行起参政权来，——你们可以无疑地确信——无论如何，结果总是反对自己，为其主人与垄断者谋福利的。&lt;/p&gt;
 
-&lt;p&gt;贵族的此种性质与特别的情景今日几乎完全保存于德国，德国真是一种奇异的国家啊！梦想最美最高尚的事物，好像它是特具之才，可是结果只是最丑最卑鄙的实行。不信，看最后的一次战争之无耻残暴与野蛮的行为，可怕的，残暴的日耳曼帝国之构成，诚为欧洲各国自由的一大恫吓，以那个宪兵式的同时是嗜血好战的皇帝的暴政，佐以流氓式贵族的愚蠢与野蛮，统治着日耳曼，无异于全人类以可怕的挑衅哩。&lt;/p&gt;
+&lt;p&gt;自由的消极条件是这样的，谁都不服从谁，各个人类的行为皆由个人的自我意志与信心来决定的，别人绝无干涉之权，然后才可谓真正的自由。至于因饥饿而以最低的代价，卖其劳动与身体给资本家的人，因自己的粗野与无知，而仰聪明的垄断者之鼻息的人，将必然而且永远是一个牛马不如的奴隶。&lt;/p&gt;
 
-&lt;p&gt;中产阶级因有宗教改革，完全从独立的，个人的强盗，或劫贼式的封建领主的劫掠与暴政中解放出来，然而不久他们又觉得重陷与新的暴政与劫掠中，封建领主改变了面目，不似以前那么杀人越货，但是成为国家的忠仆或国家合法的强盗与劫贼，以国家的经常税的名义吸吮人民的脂膏。这种由无秩序乱来的封建劫掠变为比较有秩序合法劫掠的国家劫掠，起初似乎颇得中产阶级的欢心。然而，正如俗语所说的“食则味来”，开始是能轻微易纳的国家赋税，以后就一年一年的高涨起来了，虽然没有涨到我们今日那些君主国中那么可怕的程度，然而在当时已经足以使人们日夜不安了。为什么赋税涨得那么厉害呢？&lt;/p&gt;
+&lt;p&gt;于此尤其需要加以申述，就是各个人的自由并不是一个人的事情，而是一种集体的事物与产物。若没有全人类社会的协助，谁也不能自由。一般个人主义者或我们与一切工人大会中所受攻击的同床异梦的“伪朋友”，与那些中产阶级的道德学家与政治学家一个鼻孔出气，说什么个人离了社会也能自由，因为——他们说——社会就是由生来就自由的人的自由契约所构成的。&lt;/p&gt;
 
-&lt;p&gt;一，因为战争需要钱，自从宗教改革直至1789年革命的长时期中，已成独断的君主，几乎年年以国际均势的名义在从事战事，二，因为维持常备军需要钱，常备军成为此后国家最重要的基础，三，因为君主的宫廷中需要钱，君主之下集合着无数有头衔树雉鸡毛的侍从者，人人要他们的主人给予恩宠，于是宫廷的生活皆趋向于穷奢极侈，流氓似的贵族挥金如土，哪里晓得钱得来源，四，因为国家的各机关，如军事的最高机关、行政公署、警察等等，无一不需要钱，于是国家的费用浩大，非得借助于赋税不可。负缴纳赋税之责的第一当然是平民，其次就是中产阶级，因为中产阶级直至法兰西大革命，差不多于平民处于同一地位，生来就为供给国王与其不知数的臣妾之费用，另外宗教改革虽然予中产阶级比较安全，但他们的自由却又加倍的损失。宗教改革以前，国王要反抗教会与封建领主，常与中产阶级为同盟，借其金钱维持争斗，而中产阶级也乐得趁机享受些独立与自由。自从教会与封建领主要服从国家之后，一般国王因用不着中产阶级了，于是就渐渐地剥削他们以前所获得的一切自由。&lt;/p&gt;
+&lt;p&gt;此种理由由卢骚创始，卢骚正是过去一世纪中最险恶的著作家，使中产阶级革命党最受感应的诡辩者，他的学理无论对自然或历史，都是无知的表现。我们并不是在“过去”或“现在”寻觅群众的自由，我们要在将来，最近的将来：我们自己以思想，意志及两臂的毅力，去创造起来。我们背后从未有过自由的契约，我们背后只有野蛮与愚蠢，不公道和暴力，就在今日，你们也知道这号称自由的契约，只是吞噬我们，压迫我们的，少数人借以迫害我们，使我们受饥饿与奴隶之苦的保证书罢了。&lt;/p&gt;
 
-&lt;p&gt;宗教改革后，中产阶级的情况既然如此，那么一般的民众，乡下的平民与城市的工人的情况如何，我们可不言而喻了。欧洲中部如德国、荷兰以及瑞士的一部分于十六世纪之初，正当宗教改革开始的时候，大声呼出了“与宫室战，与茅舍和”的口号，做过自谋解放的伟大运动。人们都知道此种是为中产阶级所卖，继为中产阶级宗教改革家首领路德与梅兰雪东（Mèlanchthon）所诅咒的运动，终于沉没于数万暴动的农民的血河中。此后农民更为奴隶的枷锁所缚，非但在权利上是奴隶，在事实上也是奴隶，终身为地主的牛马，法国直至1793年的革命，普鲁士直至1870年，而德意志各部分直至1848年方才获得解放。就在今日，德国北部还有些地方，最著者如梅克伦堡（Mcklenbung）农奴制还照样存在着，反倒不及俄国已经被废除了。&lt;/p&gt;
+&lt;p&gt;并且，自由契约在学理上在自然界的观点上说，也是错了的。人类并不是有意创造社会，他们是无心地产生出来的，他们是极好的社会的动物。人之所以为人，换言之人之所以能想，能爱，能欲，皆赖于有社会。你们试将赋有极大天赋的人从幼小的时期。置于人类社会之外或沙漠之中罢。他十之八九是可怜地死去，既不然也将与猿猴无异，不能言语于思想，因为言语与思想是离不开的，没有言语，谁都不能思想。或者说，就是使你一个人独于另一个人留在这里你想要什么东西必然要用到言语，你脑中或者能有代替事物的想象，但是你要思想就非要用到言语不可，因为只有言语能确定思想予以想象与本能，以思想的性质。思想并不先于言语，言语也并不先于思想，这种人类头脑的同一行为的两种方式是同时产生的，所以没有言语就绝无思想。但是言语是什么呢？就是一个人与别的许多人往来、会谈的的工具。动物的人之所以能成为人的，换言之成为有思想的人——就必须有这言语——就在这言语的奇妙中。所以，他的个性，所谓人的个性及自由都是群体的产物。&lt;/p&gt;
 
-&lt;p&gt;另一方面，城市的无产阶级也不怎么样，不比农民自由。他们中自分两类，一类是入了“同业公会”的工人，另一类是毫无组织的无产者。第一类受同业工头与雇主的各类章程的压迫，无论在行动或生产上都处处不自由被束缚，第二类更不用说，一切权力既被剥夺，自然是受一切人的压迫与垄断了。而赋税的最大部分，与任何时代一样，也必然是民众负担的。&lt;/p&gt;
+&lt;p&gt;人之所以能战胜自然界残暴的压力，就是因为赖有群体的工作，因为个人的工作无能的，空劳无功的，永远战不胜自然界的。人类生产的工作，创造一切社会财富的工作于我们的一切文明都是一种社会与群体工作的表现，不过这些东西自古迄今，皆被少数人以不公道的方法，不顾多数人的死活给强占罢了。即如今发展人类才能的教育这种中产阶级的先生们引以为傲，拼命不使民众的教育也是全社会的产物呢。民众的劳动与思想的本能创造了教育，可是时至今日却只有利于中产阶级各个人。所以，这又是没有权力，使生产品为其专利的少数人垄断群体工作之一种表现。&lt;/p&gt;
 
-&lt;p&gt;无产群众之所以有这种普遍的破产与被压迫及中产阶级有一部分的破产被压迫，为的只是君主的、贵族的、官僚的、军阀的国家之伟大强盛与光荣，在国家在众人的崇拜中，替代了教会的地位，国家现在已经成为神的制度了。于是有所谓国家道德，与个人道德完全不同或相反，其而统御着社会。在未被宗教教条腐化的个人道德中，有一种多少为人类社会所了解，所承认，实行过的根基，此种根基非他，即人道与人格及一切人的自由权利的遵从。遵从一切人，这就是各人的义务，爱一切人并鼓励一切人，这就是美德的，反之强奸一切人的权利与自由，这就是罪恶的。但是国家的道德与此种“人的”道德相反，国家对于它的一切臣民，自认为最高的目的。以一切可能或不可能的方法，背反一切人道的法则与人类的利益，为它的强盛与伟大而效劳，这就是它的所谓美德。因为一切助长国家的强盛与扩展的，就是善的，反之，在人类的观点上无论如何高尚的有道德的行为，是恶的。一般国家的忠仆，如外交大臣、内阁阁员等之所以为什么要常用罪恶、欺骗等无耻与不道德的行为去报效国家。为国家进行卑鄙龌龊的工作，乃是可歌可颂扬名后世的善行。那就是国家的道德，完全是与人的道德背道而驰的。&lt;/p&gt;
+&lt;p&gt;人类中一切人的东西，——尤其是高出一切的自由，是社会与群体的产物，在绝对孤立能自由的话，只是一般神学家与形而上学者荒缪绝伦的无稽之谈，他们欲以他们的幻象，他们的上帝替代人类的社会。他们说各个人在上帝之前，在绝对空虚之前，是自由的。而此种自由不用说是空虚的自由或自由之空虚——奴隶制遍实行了。上帝，人们所虚构的上帝即是历史上一切压迫者的道德——其实并不道德——的原因。&lt;/p&gt;
 
-&lt;p&gt;就照国家本身的观念来说，也含有不可掩饰的矛盾。天下一家的国家永不会实现的，所谓国家是有一定的地域与人民，其范围皆由限制。无限的人类皆留于各个国家的范围之外，全人类即被分为或大或小或不大不小的无数国家，每个国家无论怎样小的，皆宣告并自认为是全人类的代表，或是某种至高无上的东西。于是凡是在它的范围之外的各国及其人民与人民的财产皆被视为毫无权利与存在的理由。故以一切可能的方法与强力向别的国家攻击，侵占，戕杀抢劫，即为各个国家固有的权利。亲爱的同志们，你们都知道所谓国际公法是永远不会成立的，之所以不能成立的理由是因为在国家的观点上说，凡是自己国家之外的，一概没有权利。只要一个国家对另一个国家宣战，其国的人们对于敌国的人民什么罪恶的行为都在允可之列，都在奖励之列：屠杀啦，强奸啦，盗窃啦，破坏啦，放火啦，抢劫啦，这种都可以得到基督教的上帝祝福。最可笑的是，交战各国没有一个不以为上帝是站在自己这一边，——这样一来，真要把我们这巧妙的可怜的上帝给难住了，毕竟站在哪一边为是呢！而各国就以这样可怜的上帝之名义，继续不断地在地上作最残酷的罪恶行为。我们之所以为什么要做这可怜的上帝之敌人，是因为我们认为这种神的妄想与幻影是祸害人类的最重要恶根之一。我们之所以为什么又要做国家，一切国家最激烈的大敌。是因为只要有国家就将没有人类，只要有国家，战争的可怕罪恶，与破产之相连的，人民的贫困就会不可避免地接踵而至，永远不灭。&lt;/p&gt;
+&lt;p&gt;至于我们，我们既不愿意幻想，也不愿意空虚，我们愿意活泼的，人的现实，我们承认人只能在别的许多人中能觉得自由，能知道自由，总言之，是能实行自由。我想要自由，我就需要别的许多自由的人围绕着我承认我如此。当我的人格在围绕着我的一切人的同样自由的意识中，如在镜中一样的明晰地反应出来，我才能称自己是自由的，我能得一切人的承认，我的自由才可称得上是真实的。众人的自由，非但不是我的自由之限制，如一般个人个人主义者所说的那样，反之亦然，这是我的自由之肯定，实现与无限的扩展。愿意一切人都有人的品格与自由，看见并察觉到我的自由，得到一切人一致的肯定承认，与无限量的扩展，看哪，这就是无上的幸福，地上的天堂。&lt;/p&gt;
 
-&lt;p&gt;只要有国家，一般民众——即在最“民主”的共和国中——也即将成为事实上的奴隶，因为他们并不是为自己的幸福与财富工作，是为国家的强盛与而空劳，而卖力的。然而国家到底是什么？人们说，国家是众人自由权利、财产实益的实行与表现。但是说这些话的人与说的人与那些说可怜的上帝是众人保护者的人一样的，是欺骗我们。自从有了神这种幻象在人类脑筋中盘旋之后，上帝，一切上帝，尤其是基督教的上帝，时常站在富者于强者一边，反抗无知贫困的民众。强者与富者最可憎的特权与最无耻的压迫与垄断，皆为他的代表，即教士所祝福。&lt;/p&gt;
+&lt;p&gt;但是此种自由只有籍平等才有可能，如果地上有一个比我更自由的人，则我不得不做他的奴隶，否则，如果我比他更自由，则他也必然做了我的奴隶。所以平等是自由的必须条件。&lt;/p&gt;
 
-&lt;p&gt;一样的，国家也只不过是祸害大多数人而恩宠少数特权者的一切垄断的保镖罢了。它利用众人集合之力去保证几个人的特权、旺盛与幸福，而不顾一切人的人权。国家好比打铁店，少数人尽了铁锤的职务而多数人则成为被击打的铁砧。中产阶级直至法兰西大革命时，自由程度虽然比一般平民高一点，也为铁砧的一部分，故他们当时也是革命的。&lt;/p&gt;
+&lt;p&gt;1793年中产阶级的革命党人很懂得逻辑的必须。你看他们革命的方式，“自由、平等、博爱”中以平等二字列为第二项，就可见他们的用意了。但是什么平等呢？法律平等，参政权平等，公民平等，却不是人的平等，因为国家不认得了，它只认得公民。依国家说，人之存在要看他是否能实行使其参政权。一个被强制的劳动饥饿与贫困压迫的人，一个在社会上被欺侮，在经济上被垄断被剥夺，终日沉于忧云苦海中的人在国家看来是不存在的，国家不晓他的苦痛，国家不晓他社会的和经济的奴隶制，而真实的奴隶情况即隐藏于欺骗的政治自由的外表之内向。所以这只是政治的平等，并不是社会的平等。&lt;/p&gt;
 
-&lt;p&gt;是的，他们当时也是革命的。他们当时胆敢反抗神与人的一切强权，使人们怀疑上帝、国王与教皇这三大头，他们何等有魄力。他们尤其憎恨贵族，因为贵族占据国家中他们所急切欲取而代之的位置。但是，我不愿以私意度人，以致成为不公道者，我绝对不会说他们反抗神与人的暴政那种豪壮的举动是出诸私利的思想，由私利的思想所引导的。事物的力量或好说，他们的特殊组织的本质就要他们不以为然地去夺取政权。然而，当他们没有意识到他们与他们所垄断的工人阶级中间所隔阂的鸿沟时候，当无产阶级本身也没有觉悟到此种意识的时候，中产阶级以他们高尚的精神与伟大的气概，努力与教会和国家斗争的，的确相信他们自己是为一切人的解放而工作的。&lt;/p&gt;
+&lt;p&gt;我亲爱的同志们，你们大家在经验上，都知道此种并非以经济、社会的平等为基础的政治平等是如何欺骗人们哩。例如在一个比较宽大的民主国家中，凡人到成年时期，若没有犯过罪，都有权利，甚且人们说——都有义务去行使参政权，并担负他同国人所托付的一切义务。就是平民中最贫穷，最无知的人也能，而且也应该行使这一切的权利与担负这一切的义务，如此说来，人们还能想出一种更广大的平等么？是的，在法律说他应有此种权利与义务，但按其实际却又不可能的。在此种权利对于民众队伍中的人都是空的，可有可无的，要想他们在事实上行使起来，除非将社会的经济基础根本改造过，——直接点说非得实行社会革命不可。否则，这些假仁假义的参政权对于平民而言只是一种虚构的幻象而已。&lt;/p&gt;
 
-&lt;p&gt;自宗教改革至法兰西大革命这两世纪是中产阶级的英雄时代。他们因有财富与知识就渐渐地强大起来，终于大胆地攻击为国家教会所尊崇的一切制度。他们起初以文学与哲学的批评，推翻一切，然后再以公开的反抗，颠覆了一切旧的根基。1789年与1793年的革命是他们做成功的。虽然他们没有民众的力量无能为力，可是也要他们有组织此种力量，领导此种力量去反抗教会、王政与贵族的才能。当时只有他们有思想，民众所实行的一切运动都是他们创意的。中产阶级有自信力，他们知道有民众在他们背后与他们一道，他们就察觉到自己强而有力，可与敌人争斗了。&lt;/p&gt;
+&lt;p&gt;我们不愿见这一切宗教或政治的幻象了，平民也不再以妄想与寓言为食品了，因为这种食品没有滋养的质料。今日他们要求的是现实，于是，我们请看他们行使参政权所获得的东西到底是什么吧！&lt;/p&gt;
 
-&lt;p&gt;假如我们将十八世纪从中产阶级中出来的思想与行动的真正伟大的巨人，与今日我们所眼见的代表此种阶级而最享盛名的狂大的矮子一比，我们就会相信他们已至衰败之期，不久就要灭亡了。在十八世纪，他们是聪明的，勇敢的，英雄的，时至今日，他们已经露出怯弱、卑鄙与愚蠢的丑态了。那时他们满腔自信力，什么都敢，什么都能够做，今日他们已被怀疑入侵，因他们的不义之行，他们的意志力也渐渐地灰败了，他们的情景也一天一天的堕落了，他们此时只能将一副最可耻、无能的画图呈现于我们面前。&lt;/p&gt;
+&lt;p&gt;要相当地担负职务，尤其是国家的最高职务，人们就必须有的教育程度。但是平民却绝对没有此种程度，这难道是他们的过错吗？不是，这是现存制度本身的缺陷。一切真正的“民主”的国家最大任务就是尽量地普及教育，使平民个个皆有知识。但是世间有一个国家做过这种工作吗？我们姑且将钳制教育，有意散步基督教之毒于群众，与实行其愚民政策的君主国撇开，拿共和的，民主的国家，如北美合众国与瑞士来说罢。不错，这两个国家在平民教育上说，若与别的国家比较起来，确有特出之处，我们也是承认的。但是他们达到他们预定的目的了么？他们善意地向前努力是否落空了呢？他们能否毫无区别地，给予一切生于其中间的儿童同样的教育呢？不，这是不可能的。现在的高等教育为中产阶级儿童的专利品，而平民的子女却只有初等教育，即中等的亦很少有享受的机会。为什么会有此种差别呢？很简单，理由就是平民——城市与乡下的劳动者，没有办法维持他们子女求学时衣食住行。要想求得一种科学的知识，求学的时期就必须延展至二十一岁，甚至二十五岁。我问你们，什么工人能这样久地维持他们子女的生活呢？这种牺牲是出于他们能力之外的，他们即无资本，又无财产，他们每天只有微薄的工资，来养活一个人口众多的家庭，这已经是十分勉强的了。&lt;/p&gt;
 
-&lt;p&gt;法国最近所发生的事情很可以证明我所说的话的的真确，中产阶级不能解救法国的真相已完全显露出来了。他们宁可欢迎普鲁士人的的入寇而不愿借用唯一能救法国的平民大革命，他们从他们的虚弱的手中丢下人类进步世界解放的旗帜，巴黎的无产阶级今日已经向我们证明此后只有劳动者才能举起这面大旗。&lt;/p&gt;
+&lt;p&gt;我亲爱的同志们，我还须对你们说，你们是山间的劳动者，你们的职业还没有被资本家的生产制——换言之，被大资本的垄断所吞并去，你们比较上，还是十分幸福的么？你们在工厂里做工人数极少，甚且，往往你们自己家里，即几百人合于一处的大工厂里的人们也没有你们那样多地收入。你们的工作是聪明的，艺术的，又非厌人愚人的机械工作。你们的技巧，你们的聪明才智皆可应用于你们的劳动上，那些一成不变的工作哪可比你们的有趣味呢？此外，你们的闲暇时间比较多，又有相当的自由，所以你们比较任何劳动者都要自由、幸福都有知识咧。&lt;/p&gt;
 
-&lt;p&gt;这点我下次再来加以说明。&lt;/p&gt;</content><author><name>米哈伊尔·巴枯宁</name></author><summary type="html">同志们，自从1789～1793年大革命以来，欧洲各国继续发生的大事，没有一件有如今日以巴黎为舞台的那种壮剧那么伟大与重要。</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://i.imgur.com/0qOG1vp.jpeg" /><media:content medium="image" url="https://i.imgur.com/0qOG1vp.jpeg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
+&lt;p&gt;在那些广大的以大资本建造，由大资本指挥与垄断的工厂中，人已经失了作用，重要的任务皆以机器为主宰了，于是工人就必然地成为可怜的奴隶，可怜到那样的程度，往往他们要为几个铜子的获得而送其不满八岁的孩子到工厂去，每天作十二至十四小时或十六小时的苦工。他们并非因贪婪而糟蹋他们的子女，其实是出于不得已啊！不然就不能维持他们一家人的生活。&lt;/p&gt;
+
+&lt;p&gt;看呐，这就是那些共和国所能给予他们的教育。亲爱的同志们，你们从经验上都很清楚的知道，只要平民不是为自己而为财产与资本的领有者的财富而工作时，他们的子女所能受到的教育将永远不可限量地低于中产阶级的子弟，对这点，我想，再也不容我来饶舌了。&lt;/p&gt;
+
+&lt;p&gt;所以你们看，极大的可悲恨的社会之不平等就在国家组织的基础上：现在的人类一边是必然无知的群众，另一边是特权的少数者，后者即不很聪明，至少也比前者有知识。这样的结论是很容易得到的。有知识的少数者将永远地统治着无知的群众。&lt;/p&gt;
+
+&lt;p&gt;这不止是各个人的自然的不平等问题，自然的不平等我们也当然的承认的。某人的身体可能比其他个人有更健壮的组织，某个人生来就有智的才能，而其意志比其他人强，这都是可能的事。但是我却要补充一句话说这些差别并不如人们所常说的那么大。即就自然的观点而言，凡是人，大概都是平等的，长处或短处，各个人都是相似的。与此种自然平等的法则相抵触的只有两种例外：这就是天才者与笨伯。但是，例外不可作为通则，普通，我们可以说，凡人都是差不多的，至于现社会中各个人之间有极大的差别，其原因在于教育或环境的可怕的不平等中，这与自然没有关系。&lt;/p&gt;
+
+&lt;p&gt;儿童生在穷人家里，生在籍每日都辛苦劳动而苟活的劳动者家里，即生来就有天大的才能，也将沦为无知者，非但不能发展他的才能，甚且因为贫困所戕害：他长大起来势必做一个普通的工人，成为中产阶级中比他愚蠢的人们的奴隶与生活的供养者。至于中产阶级或富豪的子弟就大不相同，他生来无论如何愚蠢，总有享受教育的机会，他的贫弱得可怜的才华也有发展的可能：他长大起来势必做一个劳动者的垄断者，奴隶的主人，工厂的业主，立法者，统治者——一个“先生”，即使他再愚蠢，他也将替平民或反对平民制出法律来，行使其统治的职权。&lt;/p&gt;
+
+&lt;p&gt;有人或者说，在一个民主国家中，平民可以选善人为其代表。但是他们怎样去认识善人呢？他们既无相当的学识用于区别别人的善恶，又无空闲时间去请那些要他们选举的人们，他们去哪里找善人呢？他们的生活与要他们选举的人的生活相隔不啻天壤，虽然在选举的时期他们大受欢迎，被称为至高无上的主宰者，但选举一过，鬼也不理他们了。并且生活于特权阶级的人，无论他们在本阶级的家庭或社会中是如何善良的人，对于平民总是残酷的，因为他们要巩固他们的社会地位，势必要保存那些构成社会地位的特权，而使平民永沦于奴隶制中，终生为其牛马。&lt;/p&gt;
+
+&lt;p&gt;然而平民为什么不选自己的人，本阶级的人到立法会议与政府中去呢？第一，因为平民中间的，人要靠两手维生，没有功夫去从事政治，又因为知识浅薄不懂今人所研究的政治与经济各种高深的问题，于是只好受中产阶级的律师与政客欺骗了。次之，因为有些时候，即平民出身的人若一进入政府的范围，就会变成中产阶级的忠仆与中产阶级同一鼻孔出气，甚且更残酷，更可恶于出身自中产阶级者。&lt;/p&gt;
+
+&lt;p&gt;于是，你们大概都已经明白政治的平等即使是在最民主的国家，也是一种妄想。至于政治上的平等，所谓法律之前的平等也是一样，法律是由中产阶级而有的，那么，它实施起来，为中产阶级利益服务而损害平民也是当然的。所以我要说国家与表现国家的法律只为奴役平民，保守中产阶级利益而存在。&lt;/p&gt;
+
+&lt;p&gt;此外你们也都知道，当你们利益与幸福受损害时，你们想向法庭起诉，你们就必须既刻想你们是否有付得起诉讼费的能力，换言之，你们要起诉就必须有钱。如果你们没有，那你们就不能起诉。但是平民，大多数劳动者，他们有钱交给法庭吗？十有八九是没有的。于是富人就可以任意攻击你们，侮辱你们，政府从来不加以干涉，因为对平民是没有正义的。&lt;/p&gt;
+
+&lt;p&gt;所以，社会上只有一日没有经济与社会的平等，少数人只要能不劳而获，籍继承权而成为富人，地主或资本家，政治的平等将永远是一种妄想。你们懂得继承财产的真正释意么？它的意思就是垄断平民的集体工作与压迫群众服从的永继不绝的权能。&lt;/p&gt;
+
+&lt;p&gt;看呐，这就是一七九三年最伟大的英雄，如丹东、罗伯斯庇尔、圣茹斯特所不懂的。他们只要政治的自由平等，而不知经济与社会的自由平等更为重要。所以，由他们构成的自由平等，使中产阶级统治平民的权力成立于新的基础上。&lt;/p&gt;
+
+&lt;p&gt;他们又想以他们的革命纲领的第三项“博爱”，遮蔽他们的矛盾。但这又是一种欺骗！试问垄断者与被垄断者，压迫者与被压迫者中间，博爱是可能的么？唉！我白天使你们辛苦，使你们流汗，——夜里，我将你们的辛苦与流汗收来，留一小撮给你们生活，换言之，使你们明天重新去替我辛苦与流汗，夜里，我对你们说，我们接吻罢，我们是同胞呀！这是多么滑稽呀！&lt;/p&gt;
+
+&lt;p&gt;这就是中产阶级革命的所谓博爱。&lt;/p&gt;
+
+&lt;p&gt;我亲爱的朋友们，我们也愿意高尚的自由，光荣的平等，和神圣的博爱的！但是我们愿意的这些东西，这些伟大的事物停止起幻象与欺骗的形态，而成为真真确确的现实。&lt;/p&gt;
+
+&lt;p&gt;这就是我们所称为社会革命的意义与目的。&lt;/p&gt;
+
+&lt;p&gt;社会革命可以以极简单的言语表面，如下：它愿意或我们愿意一切生活于这地上的人，在“人”一字最完全的意义上，成为真正的人，他们非但有发展其一切才能，在平等中，以博爱享受自由幸福的权利，而且有一切必须的方法！看呐，这就是我们大家所愿意的，我们大家预备以死去贯彻的目的。&lt;/p&gt;
+
+&lt;p&gt;朋友们，最后，我请求你们再开一次会，使我可以在下次演讲中再来补充我未讲完的意思。&lt;/p&gt;</content><author><name>米哈伊尔·巴枯宁</name></author><summary type="html">亲爱的同志们，上次说两种历史大事件构成了中产阶级的权力，第一种是十六世纪以“宗教改革”为名的宗教革命，第二种是十八世纪的政治大革命。</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://i.imgur.com/0qOG1vp.jpeg" /><media:content medium="image" url="https://i.imgur.com/0qOG1vp.jpeg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
