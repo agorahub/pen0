@@ -1,3 +1,6 @@
+- name: VOL.45
+  repo: https://gitlab.com/agora0/pen/0x2d
+  site: https://agora0.gitlab.io/pen/0x2d
 - name: VOL.44
   repo: https://gitlab.com/agora0/pen/0x2c
   site: https://agora0.gitlab.io/pen/0x2c
