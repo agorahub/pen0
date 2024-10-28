@@ -1,4 +1,313 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://agorahub.github.io/pen0/hkers.xml" rel="self" type="application/atom+xml" /><link href="https://agorahub.github.io/pen0/" rel="alternate" type="text/html" /><updated>2024-10-26T10:20:44+08:00</updated><id>https://agorahub.github.io/pen0/hkers.xml</id><title type="html">The Republic of Agora | Hkers</title><subtitle>UNITE THE PUBLIC ♢ VOL.46 © MMXXIV</subtitle><entry><title type="html">Moldova’s Energy Future</title><link href="https://agorahub.github.io/pen0/hkers/2024-10-11-moldovas-energy-future.html" rel="alternate" type="text/html" title="Moldova’s Energy Future" /><published>2024-10-11T12:00:00+08:00</published><updated>2024-10-11T12:00:00+08:00</updated><id>https://agorahub.github.io/pen0/hkers/moldovas-energy-future</id><content type="html" xml:base="https://agorahub.github.io/pen0/hkers/2024-10-11-moldovas-energy-future.html">&lt;p&gt;&lt;em&gt;Russia has attempted to exert influence over Moldova through manipulating or threatening to manipulate energy prices and flows, and until recently, Moldova’s long-standing efforts to develop and reform its energy sector have produced minimal results.&lt;/em&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://agorahub.github.io/pen0/hkers.xml" rel="self" type="application/atom+xml" /><link href="https://agorahub.github.io/pen0/" rel="alternate" type="text/html" /><updated>2024-10-28T15:30:48+08:00</updated><id>https://agorahub.github.io/pen0/hkers.xml</id><title type="html">The Republic of Agora | Hkers</title><subtitle>UNITE THE PUBLIC ♢ VOL.46 © MMXXIV</subtitle><entry><title type="html">Force Protection From UAS</title><link href="https://agorahub.github.io/pen0/hkers/2024-10-15-force-protection-from-uncrewed-aerial-systems.html" rel="alternate" type="text/html" title="Force Protection From UAS" /><published>2024-10-15T12:00:00+08:00</published><updated>2024-10-15T12:00:00+08:00</updated><id>https://agorahub.github.io/pen0/hkers/force-protection-from-uncrewed-aerial-systems</id><content type="html" xml:base="https://agorahub.github.io/pen0/hkers/2024-10-15-force-protection-from-uncrewed-aerial-systems.html">&lt;p&gt;&lt;em&gt;This paper outlines the core tasks and capabilities required by NATO members to provide coherent, layered protection from uncrewed aerial systems.&lt;/em&gt;&lt;/p&gt;
+
+&lt;excerpt /&gt;
+
+&lt;p&gt;The impact of uncrewed aerial systems (UAS) on land operations has been a subject of extensive discussion, from the war in Nagorno-Karabakh in 2020 to Russia’s full-scale invasion of Ukraine beginning in 2022. The corollary to the importance of armies fielding UAS is that effective, layered and efficient counter-UAS (C-UAS) capabilities are neither a luxury nor a concept to be explored as part of an abstract “future force”. They are a basic requirement for a land force to be suitable for operations on the modern battlefield. Without C-UAS capabilities, a force will be seen first, engaged more accurately, and ultimately defeated by an opposing force that successfully fields UAS and C-UAS capabilities at scale. For NATO members, the aiming mark set by the Alliance’s senior leadership is to be ready to deter Russia by 2028. Fielding C-UAS capabilities, which are absent in any structured sense from the British Army and from most other NATO land force elements, is therefore an urgent operational requirement.&lt;/p&gt;
+
+&lt;p&gt;There is a risk that in attempting to fill this critical gap, NATO members purchase a range of C-UAS capabilities that are overly specialised in dealing with specific threat systems, are not integrated effectively across the force, and cannot keep pace with the threat as UAS continue to rapidly evolve. This paper outlines the core tasks and capabilities required to provide coherent, layered C-UAS protection. The paper then explores how to integrate layered C-UAS protection across land forces without overburdening units and thus preventing them from performing their primary tasks.&lt;/p&gt;
+
+&lt;p&gt;The paper concludes that:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Software solutions are as important as hardware to enable accurate detection, classification and identification of UAS, and the allocation of appropriate effects to efficiently defeat UAS. Software can also reduce the bandwidth requirements for the networking of sensors. In most cases, the necessary data to field robust machine-based filtering is already available in Ukraine, so there should be little difficulty in obtaining libraries of signature data.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;There are multiple active and passive sensor techniques, and a wide range of soft- and hard-kill techniques exist for engaging and either providing a mission kill or physically destroying UAS, but none are a universally applicable solution, and they must be employed together across the force to provide effective and efficient coverage.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;All platoons must have the ability to detect the presence of UAS and have electronic countermeasures to protect themselves from them.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Across the force, remote weapon stations and other existing platforms should be updated to be able to engage UAS with direct fire.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;At the company level, it is necessary to have dedicated passive sensor arrays capable of detecting, classifying and identifying UAS.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Battalions should have a dedicated counter-reconnaissance capability with hard-kill C-UAS systems, fielding both self-propelled anti-aircraft artillery and UAS interceptors. An electronic warfare section is also necessary, to update and orchestrate the electronic protection suites at subordinate echelons that provide a soft-kill layer that attacks UAS command links and navigational systems.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;The brigade should have independent C-UAS platoons that can be pushed to support the efforts of company groups, or to close key axes to hostile UAS.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;The brigade should field directed energy systems to efficiently defeat medium-level ISTAR UAS overflying its area of responsibility.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;The brigade should have the responsibility for electromagnetic spectrum command and control (C2) and deconfliction.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;The division should fuse lower-echelon C-UAS capabilities with the common air defence picture and orchestrate a distributed defence in depth of the airspace to avoid local saturation of C-UAS systems at critical sites.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;The point defence role for critical sites such as airbases should see C-UAS capabilities integrated into the wider integrated air and missile defence system at the national, theatre and Alliance levels.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;It is vital that the permissions on training areas allow these capabilities – both soft and hard kill – to be used in combination, alongside the rest of the force’s communications and C2 systems. This is to familiarise commanders with the use of C-UAS capabilities and the deconfliction procedures necessary, and to ensure that systems do not commit fratricide. Where it is not possible to train with these capabilities in live exercises, they should be made available in a synthetic training environment.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;introduction&quot;&gt;Introduction&lt;/h3&gt;
+
+&lt;p&gt;The pervasive threat from uncrewed aerial systems (UAS) on the modern battlefield, as demonstrated in Ukraine since 2022, Nagorno-Karabakh in 2020 and Syria since 2015, means that land forces and installations must be protected from the threat from persistent observation and strikes. The counter-UAS (C-UAS) mission, however, poses challenges to systems designed for traditional air and missile defence. One example of this mismatch in capability has been the relatively frequent shooting down of small UAS with multi-million-dollar air defence interceptors, such as when Israel was forced to down a UAS with a Patriot missile in 2017, or the use of Sea Viper/Aster 15 missiles to shoot down Houthi drones in the Red Sea in late 2023.&lt;/p&gt;
+
+&lt;p&gt;The number of intermingled friendly and hostile UAS in any given area of operations, and the diversity of their forms and mission sets, means that acquiring C-UAS systems that can engage the full range of threat types and deploying them at all tactical echelons risks being cost prohibitive. However, each echelon of land forces must be protected. As Ukrainian air defence interceptors have become depleted to the point that the Armed Forces of Ukraine (AFU) could no longer afford to routinely use them to engage Russian reconnaissance UAS, the costs of not protecting each echelon have been illustrated by a great increase in Russian reconnaissance-strike activity throughout Ukraine’s operational depth. This has enabled extensive Russian targeting with ballistic missile and artillery strikes against critical Ukrainian assets, from aviation to artillery and (ironically) air defence systems, resulting in unsustainable attrition of those assets and materially worsening Ukraine’s operational position. The question for Western land forces, which this paper aims to address, is how to extend C-UAS coverage across the relevant tactical echelons within a manageable cost and personnel burden, and in a short period of time. C-UAS defence is a minimum requirement to operate sustainably on the battlefield today; it is a problem that cannot be left to be dealt with as part of an abstract “future force” concept.&lt;/p&gt;
+
+&lt;p&gt;This paper aims to set out an approach for providing a C-UAS capability across a deployed ground force. The need for a force-wide approach is not because destroying any particular UAS is difficult, but because optimising against this task comes at a significant cost in efficiency against other tasks within tactical formations. If a platoon, for example, must field both hard- and soft-kill C-UAS capabilities, it must expand in size, or its core vehicles will become significantly more expensive and complex to operate. This paper outlines the various detection, classification and engagement tools available, and an approach that allows C-UAS tasks to be federated at appropriate echelons so that any capabilities added to the force can be integrated efficiently in the context of operations against a peer adversary.&lt;/p&gt;
+
+&lt;p&gt;In developing the C-UAS approach hereafter outlined, this paper draws on the authors’ direct observations of the operation of all classes of UAS under exercise conditions, and a considerable proportion of UAS types under operational conditions in Ukraine and elsewhere. The authors have also spent time physically examining UAS and their resilience to electronic warfare (EW) and other C-UAS techniques. It was also necessary to observe the functioning and operation of a range of air defence systems, and to interview air defenders with experience of engaging UAS in a range of conflict zones, from Ukraine to Israel and Iraq. The authors also spoke to teams which had employed novel weapons technologies, such as directed energy weapons, on exercise and operations, to discuss the limitations and challenges of using these tools, and also the opportunities they offer.&lt;/p&gt;
+
+&lt;p&gt;This is the second in a series of three papers examining the impact of UAS on modern operations. The first considered how land forces can best employ mass precision strike complexes using UAS. This paper focuses on countering the threat posed by these capabilities. The third will look at the impact of UAS on joint air-ground interactions.&lt;/p&gt;
+
+&lt;p&gt;This paper has three chapters. Chapter I examines the challenges of detecting and classifying UAS and sharing this information as required among various elements. Chapter II explores the strengths and weaknesses of the various available categories of engagement and defeat mechanisms for UAS, to provide an overview of potential approaches. Chapter III examines what is likely to be needed to deploy a C-UAS complex across military echelons, to map at what echelon capabilities might be best integrated. The paper concludes with recommendations for the UK, as a typical NATO armed force, based on the analysis presented.&lt;/p&gt;
+
+&lt;p&gt;It is necessary to briefly discuss definitions. UAS are also often referred to as drones, UAVs, remotely piloted air systems (RPAS), first person views ( FPVs), one way attacks (OWAs) and various other acronyms and designations that are used to refer to the same or sub-categories of capability. FPV relates to a navigational technique: specifically, one that requires active human control. OWA refers to a mission profile. UAV refers to the aircraft. RPAS and UAS both refer to systems: aircraft and their associated command-and-control (C2) systems and other enabling functions. Of these terms, UAS is the most widely recognised, and so this paper uses this term.&lt;/p&gt;
+
+&lt;p&gt;Although this paper concludes that the established categories of UAS “groups” are operationally unhelpful, the paper is largely concerned with UAS that fall between Group 1 and Group 3, that is from FPVs and small quad-/multi-copters up to lightweight fixed-wing uncrewed aircraft such as the Russian Orlan-10 (see Table 1), or heavier delta-wing Shahed-136 drones. The paper does not deal with larger medium-altitude long-endurance (MALE) Group 4–5 UAS such as the MQ-9 Reaper or the RQ-4 Global Hawk. This is because, by dint of their speed, missions and operating altitude, these are targets for traditional air defence systems, rather than dedicated C-UAS assets. The cost of MALE UAS makes engagement by traditional air defence cost competitive in any case, such that they present a fundamentally different problem from the one explored in this paper.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/SPHDYyr.png&quot; alt=&quot;image01&quot; /&gt;
+&lt;em&gt;&lt;strong&gt;Table 1: UAS Groups.&lt;/strong&gt; Source: &lt;a href=&quot;https://www.jcs.mil/Portals/36/Documents/Doctrine/pubs/jp3_30.pdf?ver=2019-09-04-142255-657&quot;&gt;US Department of Defense, “Joint Publication 3-30: Joint Air Operations”, 25 July 2021, validated 17 September 2021&lt;/a&gt;, Figure III-14, p. III-31.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;This paper focuses on land forces and to some extent also on the defence of installations of concern to air forces. Unmanned combat aerial vehicles and other such capabilities designed specifically for air combat are not covered, while uncrewed systems in the context of maritime operations present a substantively different problem, and so are also not covered by this paper.&lt;/p&gt;
+
+&lt;p&gt;Finally, the AFU has found that it is useful to draw a clear doctrinal distinction between the defence of forces and the defence of territory, when it comes to C-UAS. Partly as a consequence, the AFU tends to consider countering enemy reconnaissance UAS as an entirely different function from countering long-range one-way-attack UAS. These distinctions make sense in relation to the problems confronting Ukraine. However, for a country like the UK, which must assume that it is operating in an expeditionary capacity, the force must be able to address all of these threats. Furthermore, there are critical pieces of territory to enable an expeditionary force that blur the Ukrainian distinction between protection of forces and territory. Finally, the distinctions between the UAS employed for these missions may converge over time, as is already occurring in the Middle East. For these reasons, this paper considers these issues as one problem set, even though this does not reflect current practice.&lt;/p&gt;
+
+&lt;h3 id=&quot;i-detect-and-identify&quot;&gt;I. Detect and Identify&lt;/h3&gt;
+
+&lt;p&gt;The primary challenge that UAS present to traditional surface-to-air missile (SAM) systems is that as targets they are small, often slow, numerous, relatively cheap, and often operate at low altitude. Moreover, for a traditional target acquisition or fire control radar, opening the doppler gates to be able to see slow-moving UAS with small radar cross sections leads to a very cluttered display with a large number of false positive returns, greatly increasing the workload of the air defence crew. Furthermore, due to the short acquisition ranges possible against many small, low-flying UAS, the number of traditional radar systems needed to provide C-UAS coverage over any significant frontage makes relying on traditional active radar systems cost prohibitive, while proximity to the enemy would likely see these emitters destroyed in unsustainable numbers. Therefore, this chapter focuses on the first set of challenges in defeating UAS: how to affordably identify and classify them, how to discriminate friendly UAS from hostile ones, and how to distribute this information.&lt;/p&gt;
+
+&lt;h4 id=&quot;detection&quot;&gt;Detection&lt;/h4&gt;
+
+&lt;p&gt;The first requirement for C-UAS capability is to ensure that multiple echelons within land forces, and force protection elements at fixed bases, have the capability to detect and track UAS. There are four primary methods for doing this:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Active and passive radar systems that are specifically tailored for C-UAS detection and tracking.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Passive acoustic systems that are optimised for detecting the sound signatures of UAS propulsion systems and their flight.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Passive radio frequency (RF) analysers that search for radio control signals and analyse them once isolated to provide an identification and location of the UAS and potentially the antennae of the UAS control station.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Passive electro-optical (EO)/infra-red (IR) search-and-track systems that scan the sky for the visible shape and contrast signature of UAS.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Each of these detection and tracking approaches has its own advantages and drawbacks, such that forces will need a combination of them to reliably detect UAS. For any of them to be effective it is also necessary to have software able to process the relevant sensor returns.&lt;/p&gt;
+
+&lt;p&gt;Active radar systems designed for C-UAS detection and tracking often operate in relatively high-frequency parts of the radar spectrum such as the X, Ku or even Ka-bands to ensure high resolution and rapid acquisition of small targets, but in some cases may operate in the somewhat lower frequency S-band to improve range performance for a given power output level. The flipside of detection range performance is the range at which enemy forces will be able to detect and conduct triangulation against the position of a C-UAS radar, with most active-radar systems being detectable by hostile sensors at 50% greater distances than their own functional detection range. A system designed for very short-range coverage that operates in the high-frequency bands will be difficult to detect for enemy systems that are not themselves close to the C-UAS radar in question. However, for longer-range systems, a core limitation of active radar as a primary sensor for C-UAS detection and tracking capability is the inherent requirement to transmit to perform their function. Crucially, this will often be at odds with the requirement to maintain emissions control (EMCON) to avoid giving away a unit’s position and inviting strikes cued in by hostile EW direction-finding and -ranging systems. For defending fixed sites such as airbases far from the frontlines, EMCON concerns will be more focused on electromagnetic deconfliction with other systems, rather than avoiding hostile detection and triangulation. Nevertheless, the operational lesson is that for C-UAS operations, active radar are better for fire control than for target acquisition, as the former requires short periods of illumination.&lt;/p&gt;
+
+&lt;p&gt;Passive radar systems rely on detecting the energy reflected off targets from background sources of electromagnetic emissions such as television, WiFi or third-party active radar. To be effective they rely on accurate electromagnetic spectrum (EMS) surveys of the operating environment, although space-based EMS surveying renders this less of a challenge than has historically been the case. Modern techniques such as passive coherent location allow relatively high-resolution ranging and track information to be gathered, while remaining entirely passive and thus covert. Indeed, in an electromagnetically contested environment, passive systems have often been found to provide more reliable returns than active systems. These systems are likely to have limited capability in environments where there is comparatively little background “noise” in terms of emissions, such as in the Arctic, where population density is very low. However, in most scenarios, as demonstrated on exercise and operations, there is more than enough background emissions activity to ensure that passive radar systems can form a valuable part of C-UAS detection and tracking suites.&lt;/p&gt;
+
+&lt;p&gt;Passive acoustic sensors rely on identifying the distinctive sound signature created by a UAS’s propulsion system and the interaction between its surfaces and the air. Although useable data can be obtained using cheap microphones, using this data requires the capacity to filter out false-positive detections and other background noise. Modern sound software makes the processing straightforward, but having a library of acoustic signatures and an algorithm that can distinguish between them is valuable intellectual property that is harder to generate and obtain. Major improvements in machine learning-enabled post-processing capabilities in recent years have driven a corresponding improvement in passive acoustic detection and limited tracking capabilities. The main limitations of acoustic sensors are the lack of ranging capability, since a single microphone can only provide bearing to a target; and that they have comparatively short range compared with radar and RF detection, or against targets with significant signature reduction features. As with RF capabilities, ranging can be achieved through multi-static triangulation. Acoustic sensors generally provide 2D tracking with too great a latency to guide fire control, but are incredibly cost efficient and reliable for target acquisition. The primary advantages of acoustic sensors are that they are completely passive and thus covert, requiring comparatively little electrical power and cooling capacity to operate, and that they can also provide additional capabilities such as shot detection and bearing for ground units.&lt;/p&gt;
+
+&lt;p&gt;Passive RF analysers are highly effective at detecting the presence of most reconnaissance and tactical UAS, because most classes of UAS receive or transmit data in one direction to perform their functions. For example, automatic navigation and target-recognition algorithms might enable a UAS to conduct ISTAR flights without the need for a real-time command-and-control signal from operators, but the UAS must still transmit to pass its ISTAR data back to ground stations, otherwise it cannot provide a real-time or close to real-time ISTAR function. With modern machine learning-enabled signal processing and analysis techniques, there are many RF analysis sensor solutions that can provide forces with a reliable means of at least detecting the presence of, and possibly also identifying or even locating, UAS within a tactical area.&lt;/p&gt;
+
+&lt;p&gt;EO/IR scan and track systems rely on cameras searching the sky for points of contrast created by small UAS. Like acoustic sensors, they generally rely on powerful post-processing techniques to filter out false positives, both from lighting artefacts and from other flying objects, such as birds. They also rely on direct line of sight, although the same can be said of most of the other techniques here. The primary drawback of optical scan and track sensors is their comparatively short range and their vulnerability to rapid degradation in adverse weather conditions, such as fog, rain or dust, although UAS also perform poorly under these conditions. The benefits are that they are passive, consume limited power and cooling capacity, and can also incorporate ranging capabilities with an inbuilt laser that can be slewed on once a target has been detected. They can also support a weapons system to be slewed to engage a target and offer passive fire control.&lt;/p&gt;
+
+&lt;h4 id=&quot;classification&quot;&gt;Classification&lt;/h4&gt;
+
+&lt;p&gt;Detecting that a UAV is present is a prerequisite for taking countermeasures, but it is insufficient for ensuring that the countermeasures adopted are appropriate. The appropriate response to the detection of a quadcopter that is conducting observation is different from the response required when a short-range loitering munition-type UAV, such as a Lancet-3M, is detected. Nor is the appropriate response to detecting the overflight of a long-range reconnaissance UAV, such as an Orlan-10, the same as detecting the overflight of a long-range OWA UAV, such as a Shahed-136. Classifying the activity being conducted and thus the threat posed is a vital step in any C-UAS capability.&lt;/p&gt;
+
+&lt;p&gt;For hostile aircraft, the traditional primary air defence approach involves first determining the type of aircraft, to infer the threat posed. An Su-35 Flanker, an Su-34 Fullback or an Il-22 Coot can be relatively safely assumed to be conducting certain mission sets based on their inherent capabilities, limitations and role within enemy doctrinal structures. Second, analysis of the aircraft’s detected heading, altitude and routing are also likely to provide a good indication of its current task. An Su-35 Flanker-M pair flying a racetrack pattern at high altitude inside their own airspace, for example, are likely to be conducting a defensive counter air patrol.&lt;/p&gt;
+
+&lt;p&gt;By contrast, this type- and flight pattern-based approach is not nearly as reliable when seeking to classify the threat posed by UAS, and is likely to become less reliable as their employment proliferates. This is because the task performed by many types of UAS is variable, depending on the modules they carry, while their external form factors often are both relatively generic and also change frequently. Current approaches to classification within militaries tend to focus on the size, speed and altitude of the UAS, but this is problematic because these variables alone do not necessarily distinguish their mission or, therefore, the threat they pose. It is, in some cases, easy to associate airframe with task, but for many classes of UAS it is not a safe assumption. Classification needs, therefore, to be determined by comparing a wider range of characteristics, including a UAS’s electronic emissions, flight profile and silhouette. One of the most important classification criteria is to identify a UAS’s method for determining its location, or “self-localisation”. This is a particularly useful characteristic to assess because it provides not only insight into the likely mission of the UAS, but also data on how that mission can be disrupted.&lt;/p&gt;
+
+&lt;p&gt;Emissions include the receipt of signals from a ground control station, the sending of signals to a ground control station or offboarding of data to a command post, or the emissions of sensors including radar, laser, light detection and ranging (LIDAR), and other sensor types. In most cases emissions can be monitored with a spectrum analyser. In combination with a flight profile, such emissions can confirm what a particular UAS is doing. For example, a UAS that is emitting consistently and is flying either at medium altitude or hovering in place for a sustained period is probably conducting ISR. A UAS that is emitting constantly but is flying on a determined course at low altitude is probably an FPV flying towards an identified target. A UAS that is not consistently emitting and is flying quickly at low or medium altitude with a consistent course is probably a OWA UAS flying to a pre-designated position. Some categories, such as autonomously guided OWA munitions, may not emit in this way, but in these cases they will generally fly in straight lines, turning at programmed waypoints – thus distinguishing them from a short-range reconnaissance UAV – and they may emit from the sensors necessary for their autonomous functioning. Flight profile can be determined by optical observation or acoustic or radar tracking to build up a picture of altitude, bearing and speed over time. Machine-learning algorithms can be used to build a library of recognised profiles and accelerate precise classification.&lt;/p&gt;
+
+&lt;p&gt;Silhouette is best determined with EO/IR observation. In many cases the exact silhouette of a UAS can be compared against a database of previously observed UAS to determine its type. Where the exact type of UAS cannot be determined, the shape of the body and wing can often reveal its task. Designs such as the Russian Lancet 3 or the Iranian Missile 358, for example, have cylindrical fuselages like a missile, with multiple control surfaces that also provide lift in place of standard wings. This means that they can (and indeed, must) cruise at relatively high speeds and are very agile, but the configuration produces considerable drag, which limits their range and endurance for a given size.&lt;/p&gt;
+
+&lt;p&gt;These designs are, therefore, typically associated with short-range strike tasks with some loiter time, rather than missions that require endurance, such as ISR. By contrast, long, high aspect ratio wings are much more appropriate for ISR, due to high cruising efficiency at slower speeds. A delta wing format is in some ways a middle ground that produces enough lift to enable more fuel and heavier warheads to be carried for a given airframe size, but at the cost of higher drag during cruise. This makes it the configuration of choice for many OWA UAVs, such as the Shahed 136. Quad- and multicopter designs are slightly more ambiguous in terms of the mission they are likely performing, although the silhouette of their payload is usually clear as it is carried externally, and so the threat they pose may be deducible by observation.&lt;/p&gt;
+
+&lt;p&gt;Sound signatures are also a means of classifying specific UAS. The combination of the power unit, the propulsion system and the interaction of a UAS’s airframe with the air it displaces, all produce distinct sounds that when combined can produce a sufficiently unique pattern to allow accurate classification of a UAS. While automation of classification requires an extensive library and effective algorithm, human operators can often distinguish specific UAS types with limited training. Classification by sound has proven highly reliable. Where a new class or variation in build of UAS is detected, these features can also provide clear signals as to its task and thus the threat presented.&lt;/p&gt;
+
+&lt;p&gt;The methods UAS use for self-localising include Radio Frequency Line of Sight, paired Global Positioning and Inertial (GNSS/Inertial), and Beyond Visual Line of Sight radio and optical navigation, including simultaneous localisation and mapping, optical flow or visual odometry. Each of these navigational methods is optimised for different ranges and functions and is compatible with different tasks, aiding classification, but is also a critical dependency for the UAS in executing the task, meaning that if the navigational logic can be confirmed, an effective defeat mechanism can be paired with the target.&lt;/p&gt;
+
+&lt;p&gt;The sensors necessary to determine these considerations are generally the same as those required to detect the presence of a UAS. However, unlike detection, classification often requires the comparison of the returns from two or three sensors and the application of either judgement by the operator or, if automated, a logic engine attuned to prioritise threats to the force from objects according to their task once classified. This information is necessary to enable an appropriate defeat mechanism to be applied to each threat, and for threats to be engaged at both the appropriate echelon and in the right order. Where insufficient defeat mechanisms may be available, classification also provides the information to assess which threats from enemy UAS can be mitigated by passive measures, and which enemy UAS must be defeated, given that the threat they pose cannot be mitigated.&lt;/p&gt;
+
+&lt;h4 id=&quot;discrimination&quot;&gt;Discrimination&lt;/h4&gt;
+
+&lt;p&gt;One of the most prevalent challenges in C-UAS operations is the risk of fratricide. This can be fratricide of friendly communications and other capabilities. For example, during one exercise observed by the authors, a C-UAS system classified all personal radios worn by friendly troops in its area of regard as UAS and promptly collapsed all squadron communications. C-UAS capabilities are also very liable to destroy friendly UAS. During an operation observed by the authors, electronic protection from UAS similarly collapsed blue-force tracking across a divisional frontage, driving troops to have to revert to map-based navigation for a protracted period. In Israel, one of the authors observed how Israel Defense Forces had taken to shooting down both friendly and enemy UAS that flew over their units. Ukrainian and Russian air defences, meanwhile, have each accounted for a large proportion of their own larger UAS losses. Conversely, the Islamic Revolutionary Guard Corps used the flight path of American UAS returning to a base in Jordan to fly a strike UAS to attack the base, with US air defenders presuming it to be friendly. The same method – following a known international flight path – enabled a UAS strike by the Houthis on Tel Aviv. The underlying problem is discrimination. The problems with discrimination of UAS arise from three causes:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;There are too many UAS launched by too many separate units to enable precise blue-force tracking of them. This makes centralised deconfliction impracticable.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;UAS are sufficiently varied in shape and function, and simultaneously similar enough in silhouette and flight profile, to be difficult to differentiate in terms of who launched them.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;The threat UAS may pose to those beneath them, either via direct strikes or observation leading to precision artillery strikes, leaves little time to discriminate.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;The solution to this problem should be federated by altitude, and by the type of UAS under discussion. For fixed-wing ISR UAS intended to operate at medium altitude, the fact that they fly above the range of most lower-echelon organic C-UAS effectors means that they do not need to be discriminated by those echelons. At the same time, these UAS are large enough and have enough power to be able to carry an encrypted transponder, which emits a pre-programmed signal when it receives a pre-programmed interrogative message. In this way, a system optimised for defeating these targets should be able to carry a capability to interrogate the target and, on receiving the appropriate electronic handshake, desist from targeting the system. Once a UAS has been shot down over enemy territory, there is a significant risk that the transponder will be captured. For this reason, the IFF (identification, friend or foe) signature would need to be updated to prevent hostile UAS from replicating it to avoid being intercepted, probably on a 24-hour basis. This approach is consistent with what is typically done with crewed aircraft.&lt;/p&gt;
+
+&lt;p&gt;Such a solution is not viable for quadcopters and tactical UAS because most lack the payload and/or power storage to be fitted with an IFF transponder, and most of the capabilities that would passively detect and target them would not have an ability to interrogate a transponder. Here tactics, techniques and procedures (TTPs) must be used to avoid fratricide. For the company group, organically attached UAS can likely be protected by being controlled through the company mobile ad hoc network (MANET) that bears its tactical communications. Thus, UAS generated from within the company group would appear on blue-force tracking. Since these UAS would fly from and return to the company’s area of responsibility, this would present little problem. The challenge emerges when a battalion or UAS attached at battalion, or to support arms, flies UAS over company battlespace, since these capabilities will not be part of the company MANET and would saturate the capacity of the network if their integration was attempted.&lt;/p&gt;
+
+&lt;p&gt;For OWA capabilities, the indication to friendly forces on their route of advance as to their time and course should allow for C-UAS teams to accurately discriminate. For ISR UAS, the problem with such an approach is that they must also overfly friendly positions en route back from a mission, and if subjected to jamming, may endeavour to autonomously return to the base station on an unplanned route. For these capabilities, it may make sense for the flight plan to include a point at which it traverses the Forward Line of Own Troops (FLOT)/Forward Line of Enemy Troops. On the outbound portion, deconfliction can be by warning to the unit occupying the battlespace. For the return portion, it may make sense for the UAS to emit a signal once it has crossed the FLOT – with the appropriate signal being determined by the sensors available to C-UAS systems – to indicate that it is friendly. As these emissions would likely be detectable by the enemy, they would need to be updated regularly, likely with a predistributed schedule of emissions given once per day, with a new signal per hour. Since the UAS would not have the schedule but would have the signal relevant to when they are flying, if the enemy captured one or monitored the signal, they could not then use it on their own UAS within the period of that signal being relevant. This would not be an entirely reliable system, but it would reduce friendly shoot-downs.&lt;/p&gt;
+
+&lt;h4 id=&quot;distribution-and-cueing&quot;&gt;Distribution and Cueing&lt;/h4&gt;
+
+&lt;p&gt;Once a UAS has been detected and identified as hostile, the next stages required for any C-UAS effect are to communicate that information to other assets within and potentially beyond the unit in the affected area of operations. This is primarily important for cueing C-UAS effectors and/or additional sensors onto the detected threat if that is required to obtain a weapons-grade track. It is also important to pass the information to the rest of the unit(s) in the vicinity to allow them to adjust activity according to the category of UAS threat detected. This is a critical requirement to minimise risk to the force and buy time for C-UAS effectors to be brought to bear.&lt;/p&gt;
+
+&lt;p&gt;The communication of information to effectors for cueing can be simple or complex depending on the way that the C-UAS capability has been integrated into the force. If the sensors and effectors are concentrated on dedicated vehicles, hand-off between initial detection, track and discrimination sensors and systems to effectors can potentially take place on the same vehicle or at least within a small subset of those within a given unit. On the other hand, if detection relies on a distributed array of sensors such as multi-static passive radar arrays or acoustic sensor arrays mounted on multiple vehicles throughout a unit, then the communications links between them and any effector will need to be complex, resilient and low latency.&lt;/p&gt;
+
+&lt;p&gt;For passive sensors that cannot produce high-resolution track data, which includes acoustic, some passive radar and most RF analysers, producing a track suitable for weapon guidance will require cueing on a secondary sensor that can generate the required track resolution. For most relatively short-range C-UAS tasks, the simplest solution is to use the azimuth data provided by passive sensors to cue on a sensor ball with a high-resolution EO/IR camera and integral laser rangefinder. Non-dedicated C-UAS optics, such as those found in sensor balls on remote weapon stations (RWS) or turret-mounted optical suites, should be able to relatively easily acquire UAS within several kilometres once provided with an accurate bearing to search, and ideally a rough range and speed of travel.&lt;/p&gt;
+
+&lt;p&gt;Alternatively, active fire control radar systems such as those that provide ranging, speed and bearing data for self-propelled anti-aircraft guns (SPAAGs) or for missile cueing and guidance for SAM systems can be cued onto targets detected by wide area systems. The information that needs to be passed for cueing such systems does not need to be track-quality high-resolution data, but merely enough to enable those SPAAG and SAM systems to engage with minimal radar illumination times by only having to search a limited scan volume to acquire the target.&lt;/p&gt;
+
+&lt;h3 id=&quot;ii-engagement-and-defeat&quot;&gt;II. Engagement and Defeat&lt;/h3&gt;
+
+&lt;p&gt;Once a UAS has been detected, classified and identified, the force must apply the appropriate countermeasure to defeat it. Understanding the options and their various advantages and dependencies allows a force to field an appropriate array of options for protecting itself from UAS. This chapter therefore explores how UAS can be defeated in their mission through the targeting of their sensors, communications and navigation, and their enablers, or by physically destroying them.&lt;/p&gt;
+
+&lt;h4 id=&quot;sensor-defeat&quot;&gt;Sensor Defeat&lt;/h4&gt;
+
+&lt;p&gt;With the exception of GNSS-guided OWA systems, almost all UAS require functional sensors to pose a threat to forces or installations. Thus, one of the core approaches that can be taken as part of C-UAS defence is to temporarily or permanently degrade the sensors used by UAS that are operating in the vicinity of friendly assets.&lt;/p&gt;
+
+&lt;p&gt;Success is heavily contingent on being able to accurately determine the activity that a given UAS is conducting, and thus on what sensors it is likely to rely. As discussed in Chapter I, there are multiple potential methods that can be used, but the critical thing for the success of any sensor defeat effector is that the effector in question receives the data as quickly as possible.&lt;/p&gt;
+
+&lt;p&gt;Since a substantial proportion of hostile UAS activity will be either ISTAR-type missions or FPV attack missions, the capability to blind optical sensor suites is critical for C-UAS approaches that rely on sensor defeat. Retroreflector technology using lasers to detect the reflected returns from lenses has seen extensive use in recent conflicts, including in Ukraine, and offers the potential to rapidly pinpoint and then dazzle or even permanently damage hostile optics. While this has until recently primarily been used to counter snipers and anti-tank guided missile teams and to degrade vehicle optics on the ground, if cued by an appropriate detection system, such technology can be used in the C-UAS role. Furthermore, the power requirements for a laser capable of dazzling sensitive optics are far lower than for more ambitious laser C-UAS systems, which aim to shoot down UAVs. This means that systems with retroreflector and laser dazzle capacity can be much smaller and relatively cheap, and have a much greater magazine depth for a given space, weight and power installation. This in turn means that optical sensor defeat capabilities are more feasible than many other C-UAS effector solutions for use by forward forces at low echelons close to the frontlines. This approach has a proven track record on defensive counter-aid suites for crewed platforms. However, if a system does not have sufficient power to permanently damage the optics of a hostile UAS, its sensor-defeat capacity will only last for as long as the operator can maintain direct line of sight to the target. Thus, for lower-powered systems, it would be necessary to have numerous effectors across the frontage held by a unit to ensure effective coverage, whereas for more powerful systems, a smaller number might be sufficiently effective. Another issue with relying on this capability in isolation is that cameras can be protected from retroreflective detection.&lt;/p&gt;
+
+&lt;p&gt;Passive defeat approaches are also important to consider. For example, against FPV-type direct attack UAS or loitering munitions, such as Lancet-3M, which use either EO or IR sensors for terminal guidance, using smoke as an obscurant can be highly effective if the unit being targeted can be warned promptly about the presence and likely category of incoming threat. Even for future systems that are likely to use AI and/or machine learning, and enabled automatic target selection and terminal guidance to avoid the need for a vulnerable connection to a human operator, the use of obscurants should remain highly effective if triggered in time. “Hot smoke” compounds that give a sufficient thermal signature and can effectively blind IR sensors as well as EO ones are an obvious choice given the versatility they offer against multiple types of hostile UAS/munitions. Smoke launchers are already a core component of the defensive systems on most main battle tanks, and given the increasing prevalence of UAS and loitering munition threats, could and probably should be mounted on a wider range of vehicles throughout most formations. The critical determinant of whether such systems can form a reliable part of sensor-defeat C-UAS approaches will be the communications architecture to enable the detect, track and classify functions of the sensor and processing layers to pass real-time and accurate warnings to the forward elements under attack with a sufficiently low false-positive rate. Finally, UAS can have their effectiveness reduced using multispectral camouflage and overhead protection on fighting positions, such that it requires much longer times on target to locate units and distinguish targets.&lt;/p&gt;
+
+&lt;h4 id=&quot;soft-kill&quot;&gt;Soft Kill&lt;/h4&gt;
+
+&lt;p&gt;For ISR UAS there is a requirement to offboard sensor data for them to achieve their mission, whether they are remotely piloted or autonomous systems. There is also usually a requirement for them to receive intermittent commands to fly to or orientate their sensors towards and orbit points of interest. There can be significant levels of automation in flight, but periodic receipt of data is generally necessary. The prevention of an ISR UAS from receiving such instructions can in many cases drastically limit its utility. If the data it is gathering cannot be offboarded, this is even more problematic, as the latency introduced if the data can only be recovered upon landing means that its value is greatly diminished. The easiest method for preventing an ISR UAS from achieving its mission therefore is simply to apply jamming against the receiver to sever its ability to receive instructions. In many cases this will cause the UAS to return to its base station and therefore end its mission. A similar approach can be effective against short-range FPVs. Jammers, however, are vulnerable to direction finding and strike, such that jammers cannot be used continuously unless the effect is passed between several that have been distributed.&lt;/p&gt;
+
+&lt;p&gt;Autonomously navigating UAS, either because they have lost contact with a control station or because they are strike systems following a pre-programmed route, must still have a method for accurately tracking their own position during flight. The same is true for future UAS systems with much greater levels of autonomy leveraging AI. This can be done through GNSS, sensors such as LIDAR or optical terrain contour-matching, inertial navigation, simultaneous localisation and mapping, optical flow or visual odometry. Usually, it will be a combination. Localised jamming or spoofing of GNSS signals can often achieve a soft kill against simpler systems, as can damage or interference with the onboard sensors of UAS through electronic attack. For example, if the navigation system of a UAS can be spoofed to indicate that it is flying above its actual altitude, it can be induced to execute a controlled flight into terrain. If a UAS is forced by the denial of GNSS to rely on inertial navigation for a sustained period, it can be brought significantly off target over time through drift. Even a relatively limited positional error induced in hostile ISTAR UAS, in particular, can lead to them passing inaccurate target coordinates to long-range strike systems, protecting the observed formation and wasting enemy precision munitions.&lt;/p&gt;
+
+&lt;p&gt;There are more specialised forms of soft kill. If encryption keys for a UAS have been identified, either from captured UAS or from poor drills for key distribution by the enemy, or if a UAS receives data via certain channels, it becomes possible to conduct either a protocol-based electronic attack or cyber attack against the system. This can, for example, alter what is shown on a video feed to push false information back to the base station. Alternatively, it could hijack the UAS and force it to land somewhere harmless, enabling recovery and exploitation. These capabilities are more specialised than routine jamming and require dedicated operators with access to intelligence. These techniques are also opportunistically available, rather than persistently dependable.&lt;/p&gt;
+
+&lt;p&gt;None of the forms of soft kill outlined above are guaranteed methods for defeating a UAS. One way to make jamming data transfer difficult, for example, is for a UAS to communicate on two non-adjacent frequencies, which hop, and to compare the message received on each. If one differs from the other, a third frequency is used and compared to the existing frequences to determine which is genuine, and then the false one is closed off. If the frequencies can be hopped quickly, it requires a very capable jammer to reliably track and defeat the signal. Similarly, a UAS that has an eight-element antenna for GNSS can receive signals on multiple navigational frequencies and compare them, and can compare the alignment of received signals, such that effectively denying GNSS requires specialised equipment and operators. While such specialised capabilities can be fielded, they cannot be available across all echelons and so where such bespoke jamming is held must be carefully prioritised.&lt;/p&gt;
+
+&lt;p&gt;That soft kill can be overcome across much of the front does not mean that it lacks utility. What the proliferation of soft kill capabilities achieves is that it significantly raises the sophistication and quality requirements for hostile UAS to enable them to successfully prosecute missions. This reduces the frequency and volume of the threat and requires the enemy to be more careful to avoid losing their UAS. UAS that have been designed with more costly and capable features to make them resistant to soft kill techniques are not necessarily any more survivable against hard kill approaches. By reducing the number that must be intercepted, soft kill capabilities make it more economical to conduct hard kill defence and reduce the risk of hard kill systems being saturated. Soft kill defences can also be more easily made persistent and can have a wide-area effect. Historically, the need for dedicated EW systems to deliver soft kill made it difficult to have such capabilities available across all echelons. However, today, the emergence of software-defined systems means that with the right programming and the right antenna, most tactical communications systems can be repurposed to deliver EW effects. Thus, it can be characterised as an opportunity, rather than an opportunity cost, to equip the force with useful soft kill C-UAS capabilities.&lt;/p&gt;
+
+&lt;h4 id=&quot;hard-kill&quot;&gt;Hard Kill&lt;/h4&gt;
+
+&lt;p&gt;Physical destruction of UAS can be achieved via various means, each of which has implications in terms of efficiency, cost and enablement. The three broad means of destruction are gunfire, manoeuvring interceptors and directed energy.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Gunfire&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;For most military forces, adapted existing small- and medium-calibre cannon mounted on vehicles represent the most obvious potentially available distributed C-UAS effectors. While it is a near-universal response of troops who observe UAS to shoot at them with whatever weapons are available, the fact is that UAS represent a difficult target set. Most are small and can move erratically in three dimensions, and accurately estimating their range from a shooter is difficult to do visually. Effectiveness even with standard rifles can be improved by providing some soldiers with specialist C-UAS sights that help calculate distance and speed and provide an aiming cue for the shooter. Shotguns have also had limited success as a last-ditch defence against Lancet series loitering munitions and FPV attacks in Ukraine. However, relying on soldiers as a significant layer in C-UAS defence is a terrible strategy because of the inherently low probability of kill, and the fact that soldiers have other important tasks to carry out.&lt;/p&gt;
+
+&lt;p&gt;As a rule, the base requirement for more reliable gunfire-based C-UAS effects is a system with either optics containing a laser rangefinder or a fire control radar system that can provide an accurate slant range and speed estimate for a precise firing solution. RWS can and should be used for this task. Dedicated anti-aircraft systems, such as the highly effective German-made Gepard SPAAG, also feature the capability to programme each shell to detonate as it reaches the target vicinity. This enables specialist anti-aircraft cannon ammunition to provide a blast-fragmentation effect to greatly increase the likelihood of critical damage to UAS and even cruise missiles with only short bursts of fire. The effectiveness of .50 BMG and 12.7-mm or 14.5-mm systems could also be improved with specialist ammunition, though even with standard ball, appropriately modified RWS can achieve kills against UAS with single shots. The major downside of dedicated SPAAGs as C-UAS effectors is that they are relatively expensive and specialised vehicles that represent a significant opportunity cost to acquire, and an additional logistical burden on units to which they are assigned.&lt;/p&gt;
+
+&lt;p&gt;However, the upside is that not only can they be equipped with heavier calibre cannon with a greater rate of fire than other medium-armoured vehicles, but they also generally come equipped with their own dedicated detect/classify/discrimination sensor suite to cue on their weapons. They can also provide devastating firepower against dismounted enemy infantry and lightly armoured vehicles in a ground-support role, and are much more capable against hostile aircraft, missiles and attack aviation than many other dedicated C-UAS effectors.&lt;/p&gt;
+
+&lt;p&gt;Most modern general purpose armoured fighting vehicle (AFV) designs also include the option for a gyrostabilised 25–40 mm rapid firing cannon armament, mounted either in a turret or in an RWS, with EO/IR optics, laser range finding and programmable ammunition. Thus, if provided with suitable air burst ammunition, and specified with the requisite elevation for the gun, there is clear potential to adapt regular AFVs relatively easily to provide a significant degree of C-UAS effector capacity for land formations in a package that otherwise retains its full utility as a regular AFV. Without specialised sensor suites for detecting and classifying UAS themselves, regular AFVs with suitably specified turret/RWS armament would still need to have their optics cued onto a rough target bearing by offboard detection systems.&lt;/p&gt;
+
+&lt;p&gt;Two significant drawbacks of cannon-based C-UAS effectors are ammunition consumption and limited range. Both are linked to the calibre of the system chosen. Higher calibre guns will be able to engage UAS out to longer ranges and at higher altitudes, but will also be able to carry fewer ready rounds within each vehicle, and rounds will be more expensive and bulky to transport from a sustainment point of view. Even relatively large calibre rapid-fire cannon such as the British Army’s 40-mm Cased Telescope Armament System would still be unable to reliably engage ISR UAVs, such as the Russian Orlan-10, at maximum cruising altitudes of 16,000 ft. In other words, while cannon-based effectors can provide a significant volume of effective close-range C-UAS capability if provided with the correct cueing, specialist ammunition and sensors, the requirement to also have a missile, directed-energy or interceptor-UAS system to cover the medium-altitude ISTAR part of the UAV threat spectrum would not be removed.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Interceptors&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;The most common currently fielded form of manoeuvrable interceptors for C-UAS tasks are shoulder-fired man-portable air defence systems (MANPADS) such as the FIM-92 Stinger, which employ an IR/UV (heat-seeking) passive head to acquire and guide the weapon in on the hotter engine components of larger UAS. There are three core drawbacks to such systems for C-UAS defence. First, they have limited effective range, which prevents them from engaging medium-altitude ISTAR UAVs, such as Orlan-10. Second, they are much more expensive than small UAS or even than many medium-sized UAS, and so are not necessarily a sustainable answer to massed threats. Third, they are not suitable for engaging small UAS and FPV attack drones, as these electrically powered systems are too small and do not produce a viable heat signature to gain a lock.&lt;/p&gt;
+
+&lt;p&gt;Traditional SAM systems designed for anti-aircraft or missile defence tasks are also not well suited for C-UAS work, primarily because they are generally too large, expensive and overstretched relative to air and missile defence requirements to be sustainably used to engage even medium-sized UAVs. Second, radar-guided SAM systems use Doppler gates to filter out returns from static or slow-moving objects to reduce clutter, which also means that many systems struggle to reliably detect and track UAS that are hovering or moving at slow speeds. However, the upside of SAM systems compared with cannon or EW-based effectors is range, and therefore defensive coverage potential. If cued in by connected sensors, a launcher can also potentially engage UAVs that are beyond line of sight, further increasing the area that can be protected by a given number of launch systems.&lt;/p&gt;
+
+&lt;p&gt;Due to the far lower travel speed of UAVs compared with the aircraft and missiles that SAM systems are typically designed to engage, the ideal size of a C-UAS SAM is significantly smaller and can thus be cheaper and carried in larger numbers for a given volume. One promising option for SAM systems that are better suited to engaging ISTAR UAVs is the adaptation for ground launch of existing missiles designed for within-visual-range combat for air forces. One example is the British AIM-132 Advanced Short Range Air-to-Air Missile (ASRAAM), designed for use on RAF Typhoon fighters, which has successfully been adapted for cueing and launch by ground vehicles in the C-UAS role in Ukraine. While the range achievable will be significantly shorter than when launched from a fighter aircraft, when intercepting slow flying UAVs at medium altitudes, it is still significant. Existing short-range air-to-air missiles also offer the prospect of reduced cost per munition due to commonality across services, and the potential to use weapons in a ground role that have run out of airframe carriage hours but are otherwise still fully functional.&lt;/p&gt;
+
+&lt;p&gt;One emerging subtype of interceptor for C-UAS work are systems such as the Iranian–Houthi 358 Saqr [Missile] or the growing range of interceptor UAS fielded by Ukrainian and Russian forces. The 358 Saqr is a two-stage SAM which uses an initial rocket booster to launch the main turbojet-powered section to high altitude and high subsonic speed, where it can then loiter for some time and intercept even high-end UAVs such as MQ-9 Reapers. Anduril has proposed the Roadrunner: a single-stage canister-launched system powered by dual micro turbojets that can launch and, if unsuccessful, land itself vertically, and is designed to intercept hostile UAS by direct impact and destroy them with an integral warhead. Roadrunner is not yet an effective capability, but Ukrainian units have achieved significant results with experimental versions of the concept, albeit using propeller-driven solutions. The critical element in making this capability cost effective is to have an offboard sensor provide guidance, preferably electro-optical or a laser which can be seen by a sensor in the nose of the UAS. Alternatively an interceptor can be guided by a radar. Such systems offer significant potential area coverage against ISTAR UAVs if cued in by an appropriate sensor layer. With utility against helicopters and potentially against ground targets, this class of system is likely to proliferate.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Directed Energy&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;There are two primary classes of directed-energy effectors for C-UAS: high-powered microwave (HPM) systems and high-energy laser (HEL) systems. HPM systems emit energy in a narrow cone-shaped beam, and so can potentially provide effects against multiple UAS at once if they are operating close to one another. On the other hand, it is much harder to control for potential electronic fratricide and collateral damage due to the wider area of effect of the weapon compared to HEL systems. HELs are precise due to the inherent nature of a focused laser beam, but as a result can only engage a single UAS at once and may require a significant dwell time on each target to achieve destructive effect. The energy also potentially goes a long way beyond the target and may also refract unpredictably in certain atmospheric conditions, making clearing arcs of fire potentially more complex than for cannon or missile-based systems. The higher the power output of a HEL system, the lower the dwell time required on a given target, and the greater effective range it can have, especially in inclement weather conditions. However, higher power outputs also require more power generation capacity, larger banks of capacitors to store charge for “shots”, and greater cooling capacity, so mobile installations become less practical, and costs increase significantly.&lt;/p&gt;
+
+&lt;p&gt;One of the issues that has hampered the development and fielding of practical HEL systems for wider short-ranged air defence (SHORAD) tasks is that most systems have been required to potentially deal with a wide variety of threats, including incoming mortar rounds and missiles, to enable them to replace traditional cannon systems such as Phalanx. Successfully engaging incoming munitions, many of which travel at high subsonic or supersonic speeds and so present a short engagement window, demands high power levels. However, if HEL systems were to be procured specifically for C-UAS functions, they could be functional with far more modest power outputs, as UAS tend to be relatively slow and relatively lightly built.&lt;/p&gt;
+
+&lt;p&gt;HPM and HEL systems also tend to be rather more expensive to procure than comparable missile or cannon systems, but far cheaper per engagement and with a greater potential magazine depth. The effectiveness of HEL systems also tends to drop substantially in heavy rain, fog or very dusty environmental conditions due to increased atmospheric refractive disruption and attenuation. However, many UAS are also not particularly effective in such conditions due to airframe or sensor limitations.&lt;/p&gt;
+
+&lt;h4 id=&quot;offensive-c-uas&quot;&gt;Offensive C-UAS&lt;/h4&gt;
+
+&lt;p&gt;The measures discussed above involve hard- or soft-kill effectors that aim to defeat enemy UAS in flight. However, C-UAS effects can also be achieved by targeting ground control stations and other enabling assets embedded within hostile ground forces. Even future strike UAS that may operate with a significant degree of autonomy will still need to be launched and monitored by a unit on the ground, while ISTAR UAS must transmit data back to ground control stations, and in many cases receive instructions or mission updates while in flight from teams of ground-based operators. These ground teams and control stations are an important potential attack surface against which C-UAS detection and effector capabilities can and should be optimised. In Chapter I, widespread distribution of RF analysers was discussed as one of the key approaches for detection of hostile UAS. These analysers will not only detect UAS, but as they would be spread out across a unit’s frontage, could also be used to triangulate emissions from hostile UAS ground control stations.&lt;/p&gt;
+
+&lt;p&gt;Exploiting this information can be done in several ways. If the triangulation or raw data is shared to the battalion or brigade headquarters, various methods could be used to decrease the effectiveness of ongoing hostile UAS operations. In the first instance, a brigade might allocate electronic attack capabilities to jam frequencies over the control station, thus achieving a similar effect to a soft kill directly against each UAS. Against a system with a dual-frequency communications link, as described in previous sections, simultaneous jamming of the base station and the UAS can be particularly effective. While the range necessary to jam a ground control station behind the enemy frontlines will require significant power and thus a dedicated EW system, limiting the duration such an effect can be applied, targeted use of such capabilities could be sufficient to disrupt, for example, a large-scale loitering munition strike wave.&lt;/p&gt;
+
+&lt;p&gt;The ground control station can be subjected to physical fires. Optimally, this results in the death or wounding of the UAS operators, and thus not only the defeat of the UAS they are controlling at the time, but also a diminution of specialist adversary expertise. However, even if strikes fail to hit the operators, they may damage the antennae being used to send signals and thus sever the ability to regain control of the UAS. The value is that, unlike soft-kill methods, kinetic damage against either operators or control equipment not only achieves defeat of the UAS in its mission, but also creates persistent, rather than time-bound, degradation.&lt;/p&gt;
+
+&lt;p&gt;Alongside direction-finding location of hostile ground control sites, the other function of spectrum analysers being distributed across the front is an ability to collect large volumes of signals traffic. Decryption of such signals and/or sustained collection for pattern-of-life analysis may allow the identification of launch points, indicators of when the enemy is moving to them, and mapping of the support structure for enemy UAS complexes. These can then be pre-emptively targeted, to try to strike UAS and their crews on the ground while they are preparing to launch.&lt;/p&gt;
+
+&lt;h3 id=&quot;iii-deploying-a-c-uas-complex&quot;&gt;III. Deploying a C-UAS Complex&lt;/h3&gt;
+
+&lt;p&gt;Having explored the means available for detecting, classifying, identifying and tracking a UAS, and how it can be defeated, this chapter considers how the force can integrate these capabilities to provide the relevant density of protection to enable it to operate. The chapter is in three parts. The first considers how C-UAS capabilities should be distributed across a force for its own protection. The second examines the protection of critical targets. The third discusses the C2 required to coordinate these capabilities.&lt;/p&gt;
+
+&lt;h4 id=&quot;defining-requirements-at-echelon&quot;&gt;Defining Requirements at Echelon&lt;/h4&gt;
+
+&lt;p&gt;As described in Chapter I, the foundational C-UAS capability is situational awareness through the ability to detect UAS. This capability is required at all echelons because without it, no countermeasures can be initiated. The simplest means for detecting UAS at the FLOT is a spectrum analyser. The addition of acoustic sensors, which today can be vehicle mounted or man-packable, is also exceedingly useful for passive sensing of UAS and other threats. Acoustic sensors on vehicles also allow UAS to be tracked over time as they overfly units.&lt;/p&gt;
+
+&lt;p&gt;In terms of self-defence against UAS organic to platoon, it is possible for a software-defined radio with an appropriate antenna to be mounted on a vehicle and programmed for electronic attack. Having such a jammer within a platoon of vehicles would not allow complex jamming to be carried out by the vehicle crew, who would likely lack the expertise to programme bespoke attacks. However, as EW specialists build bespoke attacks for specific classes of UAS, it could become possible for this library to be pushed to these radios, so that if an emissions pattern has been classified it can be effectively engaged. This platoon EW could also be used to deny GNSS over its position to protect it from precision strike, although this would require the antenna, a generator and the software-defined radio to be offset from the vehicles when static, and so dismountable, to avoid drawing fire. The use of directional jamming could also be used to reduce the signature of the platoon emissions. While not able to craft attacks, the platoon would need to be conversant with when and how to employ the capability, analogous to how platoons manage electronic countermeasures to protect themselves from IEDs. Furthermore, with the advent of non-cooperative swarming in Ukraine, and cooperative swarming around the corner, increasing investment in the “detect/identify/track” phases of the C-UAS cycle is critical. Increasing capability and distributing sensors ensures expensive and bespoke C-UAS capabilities are not overwhelmed and attrited.&lt;/p&gt;
+
+&lt;p&gt;The ability of platoons to self-defend will be constrained by the fact that they lack enough platforms to be able to dedicate any to C-UAS functions. However, it may be possible to modify some capabilities to have a C-UAS capability. Laser rangefinders on vehicles, for example, if they can pivot upwards, could be programmed to dazzle UAS, as discussed in Chapter II. RWS can also be programmed to track UAS electro-optically and to engage them to defeat OWA UAS and low-level reconnaissance UAS with significant efficiency.&lt;/p&gt;
+
+&lt;p&gt;A company group would lack the capacity to support significantly increased numbers of vehicles dedicated to C-UAS tasks within its organic order of battle. Nevertheless, it would make sense for a pair of vehicles to have dedicated search and classification capabilities. This could be achieved with a light vehicle carrying a mast with passive sensors cueing an electro-optical sensor. In combination with the ability to distribute the sensors at platoon level, this would allow a company commander to have a detailed detection and classification ability over their assigned battlespace. As most tactical actions are ultimately actions by company groups, it follows that it would be necessary for a more dedicated C-UAS capability to support a company operation. Holding these organically within the company would likely overburden it, but having them attached to the company group from higher echelon would be viable.&lt;/p&gt;
+
+&lt;p&gt;The battalion is likely the lowest echelon with a sufficient logistics and sustainment capability to support dedicated C-UAS platforms, which would need to be assigned to support subordinate companies. Critically, at this echelon, C-UAS should not simply be thought of as a defensive activity, but rather as a counter-reconnaissance mission: to offensively degrade the enemy’s sensor picture by hunting and destroying their UAS. Counter-reconnaissance has a defensive benefit, but in assigning missions to the battalion assets, the mindset of these troops should be offensive.&lt;/p&gt;
+
+&lt;p&gt;There are two obvious requirements at battalion: an EW section and a C-UAS platoon. The EW section could run its own baselines, but as software-defined radios become pervasive, the expertise of these personnel might better be employed to first gather, monitor and interpret data recovered from the distributed antennae across the battalion’s companies. Second, this section can use software updates, pushed to the dedicated software-defined radios across the battalion, to deliver more specialised EW effects, and to update effects so that they keep pace with adversary adaptation. Third, these personnel provide the picture of the EMS within the battalion’s area of responsibility necessary to inform electromagnetic battlespace management and thus reduce fratricide.&lt;/p&gt;
+
+&lt;p&gt;The C-UAS platoon would be an augmentation to the battalion support company. The most immediately relevant capability for this platoon is a SPAAG system, cued by the subordinate sensors, but with its own ability to interrogate targets. This capability could be distributed to support company lines of effort so that there is interlocking coverage across the battalion’s frontage while on the defensive. Additional SPAAG platoons could then be added to support the battalion if committed to offensive operations, held at brigade. It is also eminently feasible for the turrets of SPAAGs to hold launch canisters. In the first instance, these can hold MANPADS, allowing engagement of helicopters, cruise missiles and some classes of UAS. However, canisters could also hold interceptor UAS, guided by the electro-optical sensor of the SPAAG. These capabilities can engage aviation but are optimised for economically striking UAS at medium altitude. If a SPAAG has four canisters on its turret, there is no technical reason why it cannot have both MANPADS and interceptor UAS ready to fire. For light forces, interceptor UAS can be mounted in canisters on a light vehicle and guided either electro-optically or with a radar mounted on the vehicle.&lt;/p&gt;
+
+&lt;p&gt;The brigade is the echelon at which there is the ability to have standalone C-UAS capabilities. As the echelon at which EW deconfliction and management is likely best placed, the brigade should have the ability to conduct bespoke and dedicated electronic attack, using an EW company with large and specialised antennae. With regard to hard kill, the brigade can hold independent SPAAG units of action to protect key sites and distribute to reinforce battalion lines of effort. But the brigade is also the echelon with the requirement to be able to provide area defence for a sustained period against medium-altitude ISR UAS, and it has the opportunity for sufficient access to the common air picture to control such capabilities. The most efficient systems in this role are likely truck-mounted directed-energy weapons, but given the limitations of these systems in various weather conditions, it also makes sense for the brigade to have access to a missile or interceptor UAS able to engage targets at medium altitude. This should be employed as a secondary capability.&lt;/p&gt;
+
+&lt;p&gt;Just as the brigade should hold independent SPAAG platoons to allocate to its subordinate battalions, so too should the division have independent C-UAS batteries that it can use to defend critical sites, or else field in support of brigades. The considerations for these divisional units of action, however, intended to protect sites from loitering munitions and OWA munitions, should be optimised against a slightly different target set than those intended to knock down ISR UAVs. Ultimately, divisional C-UAS units must be able to defeat salvos, and this is therefore considered next.&lt;/p&gt;
+
+&lt;h4 id=&quot;c-uas-defence-of-critical-targets&quot;&gt;C-UAS Defence of Critical Targets&lt;/h4&gt;
+
+&lt;p&gt;The requirements for C-UAS defences around fixed points such as logistics hubs, airbases and ports differ in several important ways from the requirements to defend land forces on the battlefield. First, unless they are near the frontlines, the primary threat to such bases and installations is likely to come from cruise and ballistic missile attacks, but augmented by salvos of OWA UAS. This means that the C-UAS task is to protect not only the installations in question, but also the SAM systems, such as Sky Sabre or Patriot, which provide the primary means of defence against attack from above. Any attempt to provide C-UAS defences at every location that might be attacked throughout a given country, let alone across NATO, would be cost and personnel prohibitive. However, given the limited range and slow transit speeds of most classes of UAS, C-UAS coverage for point defence tasks can be prioritised around installations closer to likely conflict zones, such as RAF Akrotiri in the Eastern Mediterranean or Tallinn Airport as an airhead location in Estonia.&lt;/p&gt;
+
+&lt;p&gt;Here, adversary OWA systems such as Shahed-136 could cause major problems at relatively short notice, especially if equipped with anti-radiation seeker heads to threaten traditional air-defence radars that are emitting to defend against simultaneous cruise and/or ballistic missile strikes. Even though systems such as Sky Sabre, NASAMS (National Advanced Surface-to-Air Missile System) or Patriot can engage the size of UAS that can travel hundreds of kilometres, this would risk rapidly and unsustainably depleting their ammunition. In other words, C-UAS defence capabilities are likely to become increasingly critical to ensuring that higher-end integrated air and missile defence systems can sustainably operate at locations within range of hostile UAS attacks.&lt;/p&gt;
+
+&lt;p&gt;The best way to avoid saturation of point defences at a site is to defeat a salvo over a significant distance, using dispersed capabilities. The efficacy of this approach may be seen in Israel’s defeat of a large complex strike from Iran, in which most of the UAS and cruise missiles were defeated by aircraft before they reached Israel. This is also the approach adopted by Ukraine’s mobile defence groups. A point defence system cannot have command over a dispersed set of effectors, but it should be emphasised that if the land force has the range and depth of effectors described in the previous section of this chapter, a major salvo should be significantly attrited before it reaches key targets, as reserves and land force elements in the rear can manoeuvre their C-UAS capabilities to provide a distributed defence in depth. In Ukraine, this defence in depth approach relies on around 50,000 personnel, operating in mobile groups with SHORAD weaponry to achieve a high rate of intercept. At the same time, this dispersed defence, while reducing the risk of saturation of a point defence, does not obviate the need for point defences or for protection of critical SAM systems responsible for protecting sites from ballistic missiles that cannot be defeated in depth.&lt;/p&gt;
+
+&lt;p&gt;Compared to the C-UAS detection, classification and engagement systems that might be suitable for integrating into mobile land forces for defensive or offensive tasks at various echelons, systems explicitly designed for point defence can be significantly larger and heavier and consume more power. C-UAS operators will need to be able to be part of the recognised air picture being used to coordinate IAMD activities, and this could help with cueing fire control systems and effectors onto incoming threats in addition to dedicated organic C-UAS sensor layers. In some ways, the point defence task could be considered ideal for HEL- or HPM-type directed-energy-based effectors, since higher power outputs and sufficient capacitors and cooling for a deep magazine are easier than in mobile installations. However, depending on the location of the base or installation in question and the equipment being used on and around it, guarding against collateral damage may still be a complex task, especially for HPM effectors. For cannon- or missile-based defence systems, there is likely to be a greater emphasis on effectiveness against salvo attacks than on the ability to deal with sustained attack by many small systems, the significant distance from the frontlines meaning that most very small and cheap hostile systems will lack the range to reach them unless inserted covertly for single salvos.&lt;/p&gt;
+
+&lt;p&gt;That said, the use of any kind of kinetic or EW effector around an airbase, for example, is likely to require careful coordination and deconfliction with both military and civilian traffic. For that reason, any missile-, cannon- or EW-based effector designed for point defence at installations and bases will require robust communications links and coordination TTPs between them, military and civil air traffic control and any IAMD recognised air picture. However, given the relatively specialised nature of many of the C-UAS detection and threat classification sensors discussed in the first section of this chapter, it may be worth deploying and operating such sensors alongside those designed to feed into larger IAMD systems, rather than attempting to rely on the latter to cue in the C-UAS effectors deployed. In terms of the force planning assumptions, although the actual requirement for any given piece of terrain will be bespoke, providing a minimum viable point defence would likely need somewhere between a platoon (three to four platforms) and a company (9–12 platforms).&lt;/p&gt;
+
+&lt;h4 id=&quot;c2-for-the-c-uas-fight&quot;&gt;C2 for the C-UAS Fight&lt;/h4&gt;
+
+&lt;p&gt;For a distributed array of comparatively short-ranged systems to be effective, it is necessary for them to be efficiently coordinated. Furthermore, since a range of the C-UAS techniques described can disrupt other C2 systems, it is important that the architecture for battlespace management is correct. Based on the functions at echelon described earlier in this chapter, a rational series of C2 relationships can be sketched out.&lt;/p&gt;
+
+&lt;p&gt;First, within the company, the ability to have a warning indicator for the presence of UAS as a flag raised and distributed via the company MANET would allow for all personnel to make informed judgements about their diligence in managing their signature and profile, or to determine that a threat justified being engaged by them. This simply requires the presence of the acoustic signature of rotors, silhouette or radio-control frequencies of a recognised UAS to be detected on a company platform associated with the company net, and for the fact of this detection to be shared. This could be done autonomously, with a human on the loop, to accelerate the process and free up cognitive capacity within the platoon from monitoring systems.&lt;/p&gt;
+
+&lt;p&gt;Second, the sensor that detected the UAS should collect the assessed characteristics, bearing and azimuth of the detection and hold this data available to be pulled by anyone requesting it. The most likely pull for this data would come from the platoon and company commanders, needing to make a decision about whether to apply or withhold electronic countermeasures, and from the dedicated C-UAS reconnaissance capability – which should pull the data automatically upon a flag being raised on the company MANET – intending to compare returns from multiple sensors, or to interrogate with their own, to classify the UAS. Another interested party would be the battalion EW team, who would want to gather directional data from multiple points to achieve triangulation and potentially to begin using their own baselines, or other sensors, to look for the enemy control station. Again, much of this could be automated, with the EW specialists on the loop to intervene if required.&lt;/p&gt;
+
+&lt;p&gt;From this point, several additional C2 links become relevant. First, if the decision by the platoon or company commander is to apply countermeasures, those in the vehicles with this capability will need to be directed to activate their electronic protection capability. Second, the fact that this has been done will need to be communicated to the battalion EW team and thence to the brigade headquarters for the purposes of electromagnetic battlespace management. This could be automated by sending an alert as a function of turning on the electronic protection suite.&lt;/p&gt;
+
+&lt;p&gt;Another line of communications will need to pass the telemetry data, alongside the classification data, from the C-UAS reconnaissance teams to the battalion C-UAS and brigade command post. This is because the UAS could be interested in targets outside the company area of responsibility, and therefore capabilities need to be cued at higher echelon to be orientated and positioned to intercept. In this way, the subordinate companies become a distributed sensor net that allows limited C-UAS assets to be positioned to achieve hard kill against threats as they cross into the rear of the fighting echelon. As each echelon will have companies in reserve, which will also have their laydown of passive sensors, this creates a dense belt of sensors that can not only report the initial contact with a UAS but also, in fact, provide a track of its passage over time, without the need for dedicated communications architectures comparable to the air defence C2 infrastructure, which is too expensive and onerous to be kept at platoon level. Such a C2 structure would, however, require the dedicated hard kill C-UAS capabilities to be able to take the general plot of a UAS’s progress and to then achieve a track-quality solution using organic sensors, as well as the ability to interrogate the target. The SPAAG and dedicated C-UAS systems at brigade would need to fall under the air defence command or at least have access to the common air picture to avoid fratricide, as they have the capability, but should not be primarily tasked, to engage a wider range of threats.&lt;/p&gt;
+
+&lt;p&gt;If such a system is to function on the standard tactical communications channels, it is important that raw data is not routinely moved from the sensors to a centralised point, but is instead interrogated on the platform so that the facts can be distributed in small data packets of text. The use of a structured language to conduct this reporting would make these reports usable by other C2 systems. This requires some analytical capacity to sit on the software-defined radios supporting the sensors. In principle, this is fairly straightforward. For classification, the onboard processing at the base of the sensor mast of the dedicated C-UAS ISR vehicles would be critical, as these would hold multiple sensors and thus the ability to achieve high-confidence classification of targets, which could then be distributed as text. If the raw data were needed, it could be routed through an offset satellite communications link or other method, and thereby uploaded to a common portal from which higher echelon systems could pull it for analysis. One function of this pooling would be to create a library of signatures over time, which could then be used to refine both the software providing the classifications and the EW effects programmed into the distributed electronic attack antennae. This would therefore allow EW specialists at brigade to also upload software updates onto the same portal to be downloaded when the tactical situation allowed and thereby be distributed to the company’s sensors.&lt;/p&gt;
+
+&lt;h3 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h3&gt;
+
+&lt;p&gt;Effective, layered and efficient C-UAS capabilities are not a luxury or a concept to be explored as part of an abstract “future force”. They are basic elements of a land force that is suitable for operations today. Without C-UAS capabilities, a force will be seen first, engaged more accurately, and ultimately defeated by an opposing force that fields UAS and has the ability to counter them. For NATO members, the aiming mark set by the Alliance’s senior leadership is to be ready to deter Russia by 2028. This does not leave time to design and develop new capabilities from scratch. Fielding C-UAS capabilities – which are absent in any structured sense from most NATO land force elements – is therefore an urgent operational requirement.&lt;/p&gt;
+
+&lt;p&gt;At the same time, simply procuring expensive and standalone C-UAS systems will not lead to an efficient or coordinated system for protecting the force. At best it will provide limited protection against specific classes of UAS, which will rapidly become obsolete as the threat evolves. This paper has sought to outline the balance of capabilities needed at echelon to provide effective and enduring protection. The following recommendations endeavour to translate this into specific capabilities needed by the British Army. The capability mix articulated may be said to be generalisable to all NATO militaries, but its articulation in terms of specific systems and programmes requires reference to a particular force, and so the British Army is used here as a reference force.&lt;/p&gt;
+
+&lt;h4 id=&quot;recommendations&quot;&gt;Recommendations&lt;/h4&gt;
+
+&lt;p&gt;First, the British Army needs to mount EW antennae and software-defined electronic protection suites, passive radar and acoustic sensing across its vehicle fleets. The electronic protection suites should be capable of both directional RF and GNSS jamming. Where systems already exist – as with the acoustic sensors on Ajax – software updates must allow them to be used to accurately detect UAS, drawing on available libraries of data from Ukraine. The software solution should be common across the force, rather than separate for each platform or sensor type.&lt;/p&gt;
+
+&lt;p&gt;Second, the British Army should develop a passive multi-sensor mast with a software solution that allows its sensor returns to be cross examined to classify objects. These should be mounted as a modular unit on existing fleets of vehicles, optimised for Jackal and Cayote, and procured in sufficient density to have two per company group. Dismounted light infantry should receive the mast as a deployable kit, since the sensors themselves are largely man-packable and can be connected to a buried generator or a light tactical vehicle to be powered. If this is to be done by 2028, the Army will need to risk existing trials processes for its integration on vehicles. The current process of assurance will drive delays and cost up to the point of mission failure.&lt;/p&gt;
+
+&lt;p&gt;Third, the British Army must field hard-kill C-UAS capabilities. Software updates to existing RWS on British vehicles should be used to enable them to engage UAS. More importantly, the effective C-UAS interceptors developed and fielded in Ukraine should have their production scaled through the international drone coalition, which the UK leads. This is beneficial to Ukraine now. But the scale of production should also be used to equip British forces at the same unit price as Ukrainian forces are equipped. These interceptors should be given to British support weapons companies.&lt;/p&gt;
+
+&lt;p&gt;The acquisition of a SPAAG system for the UK to provide dedicated hard-kill C-UAS coverage at battalion level does require a more deliberate acquisition programme. However, the new Labour government has previously suggested that strengthening Anglo-German defence and industrial collaboration is a priority. The acquisition of a SPAAG turret module for the Anglo-German Boxer would be a possible area for such cooperation, given proven German expertise in SPAAG design. An important consideration for the UK is that using the wheeled Boxer for ground manoeuvre alongside armour will require troops to dismount off the objective and advance on foot, rather than fighting, like a tracked infantry fighting vehicle, onto the objective. In this context, however, a suitable cannon with high elevation angles could allow Boxers to hold back and provide both direct suppressive fire against ground targets with the vehicle hull down, and C-UAS protection over troops moving forward. This is probably the fastest and most plausible route to regenerating a sufficient density of C-UAS/SHORAD systems in the relevant timeframe, and would fit well within Boxer’s inherent capabilities and limitations.&lt;/p&gt;
+
+&lt;p&gt;For brigade and point defence C-UAS capability, the fielding of directed-energy weapons appears to be an increasingly practical proposition. The translation of a capability such as Dragonfire onto a land platform should be a priority. Integration of such a system is, however, likely to take time. In the meantime, a more immediate solution would be the acquisition of Supacat HMT vehicles carrying AIM-132 ASRAAM for UK forces. Tried and tested in Ukraine, this is a cheap option, not so much because of the cost of the ASRAAM missiles, but because increasing the stockpile of these missiles is of direct benefit to the RAF, which uses the ASRAAM as its primary within-visual-range air-to-air missile for Typhoon and F-35B. Therefore, investment in additional missile procurement tranches as a C-UAS stopgap will not be wasted if/when the British Army ultimately pivots away from the platform towards a more mature future SHORAD and medium-range air defence (MRAD) capability. The Supacat HMT is also a vehicle that can have a range of useful roles within the army beyond the utilisation of that particular weapons system. The deliberate development of a low-cost interceptor to augment higher-performance anti-aircraft missiles on a future deployable MRAD system should be a longer-term priority.&lt;/p&gt;
+
+&lt;p&gt;For higher-echelon EW, the highest payoff area of priority is likely to be localisation defeat, or the ability to determine a UAS’s self-localisation process and disrupt it. The equipment and effects involved in this are not the primary bottleneck. The most significant bottleneck will be personnel with appropriate training and expertise. The priority, therefore, should be to expand the number of personnel in this field.&lt;/p&gt;
+
+&lt;p&gt;Finally, fielding any significant C-UAS capability – and in particular the EW effects necessary to protect the force – depends on realistic training. The inability to use EW effects on exercise areas is a major impediment to the readiness of the army. The MoD should aim to establish areas where EW capabilities can be experimented with during live exercises, and if this cannot be done in physical training, it should be replicated in a synthetic environment. It is especially important that formations practise and understand how to use and deconflict their sensors, communications and EW without saturating their own frequencies. Although the need to confront commanders with EMS deconfliction and balance-of-risk judgements between connectivity and electronic protection is something that can be trained in simulators to some extent, the practical testing of all relevant systems at echelon requires live exercises.&lt;/p&gt;
+
+&lt;p&gt;An effective C-UAS capability across the force is a non-discretionary requirement to be able to sustainably operate on the modern battlefield. A force that has not prepared for this challenge risks finding itself in the position of the Armenians in 2020 – unable to resupply, rotate units, concentrate forces for manoeuvre or achieve operational surprise without taking unsustainable casualties. Defeating current and likely future classes of battlefield UAS, including those with high levels of autonomy, is not intrinsically complex, nor is it difficult compared with developing ballistic missile defences or space capabilities; the requisite sensors, effectors and TTPs all exist and are mostly available off the shelf. There is no justification for complacency, or delay.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;Jack Watling&lt;/strong&gt; is the Senior Research Fellow for Land Warfare at RUSI. He works closely with the British military on the development of concepts of operation and assessments of the future operating environment, and conducts operational analysis of contemporary conflicts. Jack’s PhD examined the evolution of Britain’s policy responses to civil war in the early 20th century. Jack has worked extensively on Ukraine, Iraq, Yemen, Mali, Rwanda and further afield. He is a Global Fellow at the Wilson Center in Washington, DC.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Justin Bronk&lt;/strong&gt; is the Senior Research Fellow for Airpower and Technology in the Military Sciences research group at RUSI, and Editor of the RUSI Defence Systems online journal. Justin holds a Professor II position at the Royal Norwegian Air Force Academy and is a member of the Editorial Board of the scientific and technical journal Weapons and Equipment at the Central Scientific Research Institute of Arms and Military Equipment of the Armed Forces of Ukraine.&lt;/p&gt;</content><author><name>Jack Watling and Justin Bronk</name></author><summary type="html">This paper outlines the core tasks and capabilities required by NATO members to provide coherent, layered protection from uncrewed aerial systems.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://i.imgur.com/V1hqYfm.jpeg" /><media:content medium="image" url="https://i.imgur.com/V1hqYfm.jpeg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Moldova’s Energy Future</title><link href="https://agorahub.github.io/pen0/hkers/2024-10-11-moldovas-energy-future.html" rel="alternate" type="text/html" title="Moldova’s Energy Future" /><published>2024-10-11T12:00:00+08:00</published><updated>2024-10-11T12:00:00+08:00</updated><id>https://agorahub.github.io/pen0/hkers/moldovas-energy-future</id><content type="html" xml:base="https://agorahub.github.io/pen0/hkers/2024-10-11-moldovas-energy-future.html">&lt;p&gt;&lt;em&gt;Russia has attempted to exert influence over Moldova through manipulating or threatening to manipulate energy prices and flows, and until recently, Moldova’s long-standing efforts to develop and reform its energy sector have produced minimal results.&lt;/em&gt;&lt;/p&gt;
 
 &lt;excerpt /&gt;
 
@@ -982,7 +1291,56 @@
 
 &lt;p&gt;&lt;strong&gt;Bonny Lin&lt;/strong&gt; is a senior fellow for Asian security and director of the China Power Project at CSIS.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Jasper Verschuur&lt;/strong&gt;.&lt;/p&gt;</content><author><name>Matthew P. Funaiole, et al.</name></author><summary type="html">This report provides an unprecedented look at the Taiwan Strait’s role in global trade, revealing that over one-fifth of all maritime commerce passes through this vital waterway. China possesses a range of non-kinetic options it may employ to coerce Taiwan, which could significantly disrupt this trade.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://i.imgur.com/XrGJbqI.png" /><media:content medium="image" url="https://i.imgur.com/XrGJbqI.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Imec</title><link href="https://agorahub.github.io/pen0/hkers/2024-10-08-imec.html" rel="alternate" type="text/html" title="Imec" /><published>2024-10-08T12:00:00+08:00</published><updated>2024-10-08T12:00:00+08:00</updated><id>https://agorahub.github.io/pen0/hkers/imec</id><content type="html" xml:base="https://agorahub.github.io/pen0/hkers/2024-10-08-imec.html">&lt;p&gt;&lt;em&gt;Imec attracts and retains leading companies to cooperatively develop cutting-edge semiconductor technologies in a fiercely competitive and unforgiving industry. It is an opportunity for the United States National Semiconductor Technology Center and its nonprofit purpose-built operator, Natcast to learn from and collaborate with imec to accelerate the U.S. research and industry.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Jasper Verschuur&lt;/strong&gt;.&lt;/p&gt;</content><author><name>Matthew P. Funaiole, et al.</name></author><summary type="html">This report provides an unprecedented look at the Taiwan Strait’s role in global trade, revealing that over one-fifth of all maritime commerce passes through this vital waterway. China possesses a range of non-kinetic options it may employ to coerce Taiwan, which could significantly disrupt this trade.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://i.imgur.com/XrGJbqI.png" /><media:content medium="image" url="https://i.imgur.com/XrGJbqI.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Uncertainty For Russian Army</title><link href="https://agorahub.github.io/pen0/hkers/2024-10-09-uncertainty-for-russian-army.html" rel="alternate" type="text/html" title="Uncertainty For Russian Army" /><published>2024-10-09T12:00:00+08:00</published><updated>2024-10-09T12:00:00+08:00</updated><id>https://agorahub.github.io/pen0/hkers/uncertainty-for-russian-army</id><content type="html" xml:base="https://agorahub.github.io/pen0/hkers/2024-10-09-uncertainty-for-russian-army.html">&lt;p&gt;&lt;em&gt;The Russian Army in Ukraine performed poorly as a result of degraded unit quality due to attrition and operational failures, but has adapted by improving electronic warfare, air defense, and drone integration, making it more lethal and survivable.&lt;/em&gt;&lt;/p&gt;
+
+&lt;excerpt /&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/f3J44OO.jpeg&quot; alt=&quot;image01&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Despite setbacks with Battalion Tactical Groups (BTGs), Russia could reconstitute its military capabilities post-war, potentially focusing on more effective combined arms formations. Institutional corruption and neglect of personnel remain significant barriers to modernization, but some military leaders are pushing for reforms.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Russia’s military future depends on addressing these deep-rooted issues while adjusting its doctrine and force structure.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;how-russias-army-may-rebuild-and-evolve-after-the-war-in-ukraine&quot;&gt;How Russia’s Army May Rebuild and Evolve After the War in Ukraine&lt;/h3&gt;
+
+&lt;p&gt;The full-scale invasion of Ukraine has been a bruising debacle for Russia’s ground forces. Despite staving off outright defeat in 2022 and 2023, the quality of its units degraded due to attrition.&lt;/p&gt;
+
+&lt;p&gt;Nevertheless, the institution has adapted by varying degrees, and how it reconstitutes itself and modernizes after the current high-intensity period of the war ends is worth considering, for this will shape the threat that Russia poses in the future.&lt;/p&gt;
+
+&lt;p&gt;The Russian Army bogged down in the Donbas and the Kursk Oblast, is currently absorbed with recruiting, training, arming, and equipping personnel to replace those it is hemorrhaging through battlefield losses. Operationally, it is for the most part holding ground while exerting pressure along Ukraine’s extended front line. This appears to be taking up the majority of the planning capacity of its senior leadership, and bureaucratic and logistical apparatus.&lt;/p&gt;
+
+&lt;p&gt;Despite periodic discussions of the possibility of the Russian state collapsing, the resilience of the war economy and Putin regime has been notable. More likely is that Russia is eventually forced to scale back or cease current high-intensity operations, and must return to other methods of undermining Ukraine. Bar the unlikely possibility that internal problems topple the government, Russia’s conventional forces will restructure and rebuild their capabilities.&lt;/p&gt;
+
+&lt;p&gt;It is impossible to predict with any certainty what direction the Russian Army might take. Nevertheless, a necessary question that might shed light on this is what the Russian Army perceives its most important lessons learned to be.&lt;/p&gt;
+
+&lt;p&gt;What changes have already taken place are likely to be here to stay. Russia has the benefit of optimizing for a single, clearly understood task, trench warfare, which has shaped its operational force structure and decisions of what new capabilities to invest in, but many of these are either transferable or have obvious and broad utility.&lt;/p&gt;
+
+&lt;p&gt;Advances in electronic warfare for force protection, their robust air defense network, the integration of new sensors into a more-developed targeting cycle, and the way that uncrewed aircraft systems (UAS) such as Lancet, Orlan, and Shahid are employed have made Russian ground forces more survivable and lethal and have created a deeper and more dangerous battlespace for any enemy facing them.&lt;/p&gt;
+
+&lt;p&gt;At a higher level, structural changes such as the split of the Western Military District into the Moscow and Leningrad military districts indicate re-posturing towards a potential war in the Baltic region, a longer-term change in posture indicative of a more confrontational approach to NATO.&lt;/p&gt;
+
+&lt;p&gt;More questionable is the shape of future Russian formations. Battalion Tactical Groups (BTGs) were essentially abandoned due to ineffectiveness and replaced by a more traditional, hierarchical military structure. Aside from suffering from a shortage of infantry, an essential component for any combined arms formation, Russia’s logistics system had not been adjusted in line with the BTG concept and was not able to support the large number of small and complicated formations that were initially deployed.&lt;/p&gt;
+
+&lt;p&gt;The increasing use of assault detachments fit within a long-standing practice of concentrating better-trained and equipped personnel into sub-units dedicated to maneuver and assault while setting low standards and expectations for most of the infantry. Yet the way they are currently used does not scale well, while useful for local tactical actions, they do not help ground forces conduct larger-scale offensive maneuvers.&lt;/p&gt;
+
+&lt;p&gt;Likewise, armored forces are not currently competitive against the mix of precise lethal systems that are fielded by both sides in Ukraine, tanks can be held in reserve for fire support and to blunt enemy breakthroughs, but suffer when brought closer to the front line.&lt;/p&gt;
+
+&lt;p&gt;Therefore, a future development to watch for is what kind of combined arms formation the Russians design and build once they have sufficient breathing space. This may be a return to a better implementation of the BTG concept, with logistics issues resolved and the balance of capabilities adjusted, or may focus on rebuilding Russia’s brigades.&lt;/p&gt;
+
+&lt;p&gt;Russian doctrine is conceptually viable as a way of war. However, due to Russia’s military culture and comprehensive neglect of its personnel, operations are at best unwieldy and more often simply unimplementable with the force available. Nevertheless, it is unclear whether Russia’s military leadership recognizes the need for cultural change in this area.&lt;/p&gt;
+
+&lt;p&gt;Where there have been changes are in making corruption and systemic dishonesty less acceptable. These are deep-rooted issues and are also a necessity of a system that forces officers to obfuscate their unit’s readiness assessments. Some within Russia’s military leadership are attempting and this could pave the way for a more effective force in the future, though it faces a great deal of institutional inertia and may be worsened by repression.&lt;/p&gt;
+
+&lt;p&gt;These are perhaps the greatest barriers to change and will be the key dynamics to watch when assessing future modernization efforts regardless of what Russia’s senior leaders unveil on paper or in military displays in Moscow.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;Nick Reynolds&lt;/strong&gt; is the Research Fellow for Land Warfare at the Royal United Services Institute (RUSI).&lt;/p&gt;</content><author><name>Nick Reynolds</name></author><summary type="html">The Russian Army in Ukraine performed poorly as a result of degraded unit quality due to attrition and operational failures, but has adapted by improving electronic warfare, air defense, and drone integration, making it more lethal and survivable.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://i.imgur.com/QQVaKLr.jpeg" /><media:content medium="image" url="https://i.imgur.com/QQVaKLr.jpeg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Imec</title><link href="https://agorahub.github.io/pen0/hkers/2024-10-08-imec.html" rel="alternate" type="text/html" title="Imec" /><published>2024-10-08T12:00:00+08:00</published><updated>2024-10-08T12:00:00+08:00</updated><id>https://agorahub.github.io/pen0/hkers/imec</id><content type="html" xml:base="https://agorahub.github.io/pen0/hkers/2024-10-08-imec.html">&lt;p&gt;&lt;em&gt;Imec attracts and retains leading companies to cooperatively develop cutting-edge semiconductor technologies in a fiercely competitive and unforgiving industry. It is an opportunity for the United States National Semiconductor Technology Center and its nonprofit purpose-built operator, Natcast to learn from and collaborate with imec to accelerate the U.S. research and industry.&lt;/em&gt;&lt;/p&gt;
 
 &lt;excerpt /&gt;
 
@@ -3052,7 +3410,63 @@
 
 &lt;p&gt;&lt;strong&gt;Matthew Schleich&lt;/strong&gt; is a former research assistant with the CSIS Scholl Chair in International Business. He currently works as a foreign affairs officer in the U.S. Department of State’s Bureau of International Security and Nonproliferation.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;William Alan Reinsch&lt;/strong&gt; holds the Scholl Chair in International Business at CSIS. He is also an adjunct assistant professor at the University of Maryland School of Public Policy, teaching a course in trade policy and politics.&lt;/p&gt;</content><author><name>Jack Whitney, et al.</name></author><summary type="html">U.S. policymakers are increasingly leveraging export controls on advanced semiconductors and related technologies to constrain China’s development of military and dual-use capabilities.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://i.imgur.com/9pDmf5H.jpeg" /><media:content medium="image" url="https://i.imgur.com/9pDmf5H.jpeg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Escalating To All-Out War</title><link href="https://agorahub.github.io/pen0/hkers/2024-10-04-escalating-to-all-out-war.html" rel="alternate" type="text/html" title="Escalating To All-Out War" /><published>2024-10-04T12:00:00+08:00</published><updated>2024-10-04T12:00:00+08:00</updated><id>https://agorahub.github.io/pen0/hkers/escalating-to-all-out-war</id><content type="html" xml:base="https://agorahub.github.io/pen0/hkers/2024-10-04-escalating-to-all-out-war.html">&lt;p&gt;&lt;em&gt;There is a serious risk of all-out war between Israel, Hezbollah, and Iran.&lt;/em&gt; &lt;excerpt&gt;&lt;/excerpt&gt; &lt;em&gt;According to new CSIS analysis, both the scale and geographic scope of violence have dramatically increased. The number of violent incidents related to the Israel-Hezbollah conflict increased 4.5 times in the last week of September from the weekly average between October 7, 2023, and August 31, 2024. In addition, the attacks are targeting a much larger geographic area. Israeli and Hezbollah attacks struck an average of 27–28 km from the Blue Line in the last week of September, up from an average of about 3–4 km between October 7, 2023, and August 31, 2024. The number of strikes and the geography of the conflict are likely to grow and include a larger swath of Lebanon and Israel as well as potentially Iran, Syria, Iraq, and Yemen.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;William Alan Reinsch&lt;/strong&gt; holds the Scholl Chair in International Business at CSIS. He is also an adjunct assistant professor at the University of Maryland School of Public Policy, teaching a course in trade policy and politics.&lt;/p&gt;</content><author><name>Jack Whitney, et al.</name></author><summary type="html">U.S. policymakers are increasingly leveraging export controls on advanced semiconductors and related technologies to constrain China’s development of military and dual-use capabilities.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://i.imgur.com/9pDmf5H.jpeg" /><media:content medium="image" url="https://i.imgur.com/9pDmf5H.jpeg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Japan’s New Security</title><link href="https://agorahub.github.io/pen0/hkers/2024-10-04-japans-new-security.html" rel="alternate" type="text/html" title="Japan’s New Security" /><published>2024-10-04T12:00:00+08:00</published><updated>2024-10-04T12:00:00+08:00</updated><id>https://agorahub.github.io/pen0/hkers/japans-new-security</id><content type="html" xml:base="https://agorahub.github.io/pen0/hkers/2024-10-04-japans-new-security.html">&lt;p&gt;&lt;em&gt;Taking over as Japan’s new prime minister after narrowly winning the Liberal Democratic Party leadership, Shigeru Ishiba’s approach to foreign and security policy is likely to include several strategic adjustments.&lt;/em&gt;&lt;/p&gt;
+
+&lt;excerpt /&gt;
+
+&lt;p&gt;Shigeru Ishiba has succeeded in his long-standing ambition of leading Japan, becoming the new prime minister after winning the Liberal Democratic Party (LDP) leadership following five attempts. The 67-year-old narrowly beat conservative rival Sanae Takaichi in a tightly contested race of nine candidates. Winning by just 21 votes, Ishiba’s victory signals a shift in Japanese politics, ushering in a new era.&lt;/p&gt;
+
+&lt;h3 id=&quot;the-road-to-victory-a-narrow-margin&quot;&gt;The Road to Victory: A Narrow Margin&lt;/h3&gt;
+
+&lt;p&gt;The LDP leadership election was a fierce contest between Ishiba, Takaichi and Shinjiro Koizumi. In the first round, Takaichi led the vote, with Ishiba close behind. It was the runoff, however, combining 367 parliamentary and 47 prefectural votes (totalling 414), that tipped the scales in Ishiba’s favour. Ishiba secured 215 votes to Takaichi’s 194, thanks largely to support from the faction of former Prime Minister Fumio Kishida. While Takaichi appealed to the conservative base, her hardline stance worried many who thought it could hurt the LDP in the general election and strain relations with neighbouring countries. These concerns led to the perception that her leadership might complicate diplomacy, which played in Ishiba’s favour.&lt;/p&gt;
+
+&lt;p&gt;Ishiba has spent decades at the centre of Japanese politics, holding key positions including Minister of Defence; Minister of Agriculture, Forestry and Fisheries; and Minister for Regional Revitalisation. Known for his deep understanding of security and agricultural issues and his pragmatic leadership, Ishiba is regarded as a steady hand in times of uncertainty. One notable proposal is to establish a Ministry of Disaster Prevention and introduce nuclear shelters nationwide, reflecting his focus on enhancing national resilience against natural disasters and geopolitical threats.&lt;/p&gt;
+
+&lt;p&gt;Despite his experience, Ishiba faces major challenges within the LDP. Unlike some of his predecessors, he does not command a strong faction in the party. Hence, his success will largely depend on uniting the various LDP factions.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Ishiba’s track record suggests a willingness to take a more assertive stance on key issues while fostering greater multilateral cooperation&lt;/code&gt;&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;He appears to have skilfully managed his relationship with the influential Aso faction, once seen as an obstacle. To strengthen party cohesion, Ishiba appointed former Prime Minister Yoshihide Suga as the LDP’s vice president and Taro Aso as the party’s supreme advisor. By including several Aso faction members in key Cabinet positions, he has smoothed over potential friction. These strategic appointments have reassured international policymakers about the stability and continuity of Japan’s leadership.&lt;/p&gt;
+
+&lt;h3 id=&quot;foreign-policy-outlook-continuity-and-pragmatism&quot;&gt;Foreign Policy Outlook: Continuity and Pragmatism&lt;/h3&gt;
+
+&lt;p&gt;Despite the change in leadership, the “Free and Open Indo-Pacific” initiative will continue to serve as the guiding framework. Yet Ishiba’s approach to foreign policy is likely to include several strategic adjustments. His track record suggests a willingness to take a more assertive stance on key issues while fostering greater multilateral cooperation. A key test will be managing Japan’s delicate relationships with China, South Korea and the US.&lt;/p&gt;
+
+&lt;p&gt;China: Ishiba’s firm stance on China is evident in his calls to remove Chinese buoys around the disputed Senkaku Islands, signalling a tough approach to territorial disputes. His August visit to Taiwan, where he met President Lai Ching-te and other senior ministers, underlined his concern over regional security amid rising tensions in the Taiwan Strait. While his support for Taiwan has drawn criticism from Beijing, Ishiba recognises the need to balance deterrence with diplomacy, as economic ties with China remain vital.&lt;/p&gt;
+
+&lt;p&gt;South Korea: Perhaps the country most relieved by Ishiba’s victory is South Korea. Had Takaichi become prime minister, relations might have worsened due to her hawkish stance, whereas Ishiba holds moderate views on historical issues, reducing the likelihood of friction over past disputes. His approach offers an opportunity to improve bilateral relations and strengthen cooperation on shared security concerns, such as North Korea.&lt;/p&gt;
+
+&lt;p&gt;The US: Strengthening the Japan–US alliance while advocating for a more equal partnership is a priority for Ishiba. He has called for a review of the Status of Forces Agreement (SOFA) to pursue joint management of US military bases in Japan, enhancing sovereignty over these facilities. Additionally, he proposes establishing training bases for the Ground and Air Self-Defense Forces (SDF) on US soil. Japan lacks sufficient space for full-scale training; utilising the US’s vastness would enhance the SDF’s proficiency. Ishiba suggests this arrangement would elevate mutual trust and grant Japan greater operational control. These measures aim to put the alliance on a more equal footing.&lt;/p&gt;
+
+&lt;p&gt;However, revising SOFA would affect other US allies and require US Congress approval, making it complex regardless of the next US administration. Historically, SOFA issues have been addressed through operational changes or supplementary provisions rather than formal revisions. Ishiba’s proposals may require delicate negotiations to align with US policies and address domestic sensitivities. However, his initiatives could reshape the alliance’s dynamics, promoting shared responsibilities and deeper military integration.&lt;/p&gt;
+
+&lt;h3 id=&quot;rethinking-regional-security-beyond-asian-nato&quot;&gt;Rethinking Regional Security: Beyond “Asian NATO”&lt;/h3&gt;
+
+&lt;p&gt;One of Ishiba’s more ambitious policies is creating an “Asian NATO”. He believes frameworks like the Japan–US alliance, the US–South Korea alliance and the ANZUS Treaty can be organically combined. While this concept seeks to integrate existing alliances, it faces significant challenges because Asia’s geopolitical landscape differs vastly from Europe’s, where NATO has been successful. The diversity of strategic interests and conflicting security priorities among Asian countries makes establishing a NATO-like collective defence system difficult. This will be compounded if Ishiba conflates “collective defence” – mutual defence against aggression – with “collective security”, a broader framework not targeting specific adversaries. Such distinctions, together with historical barriers, make the realisation of his vision unlikely.&lt;/p&gt;
+
+&lt;p&gt;Furthermore, Ishiba has suggested that revisiting Japan’s Three Non-Nuclear Principles – particularly the principle of “not allowing the introduction of nuclear weapons” – may be necessary to strengthen Japan’s deterrence posture and participate more fully in regional security arrangements. He proposes exploring nuclear sharing with the US modelled after NATO’s nuclear policy. However, questions remain about the practicality of such an idea. The air-launched cruise missiles carried by US B-52 bombers with ranges of around 3,000 km can be effectively launched from US bases, making their deployment to Japan unnecessary. Additionally, the B-61 tactical nuclear bombs used in NATO’s sharing arrangements are designed for aerial delivery, but do not align well with Japan’s strategic environment or geography. Without specific details on the types of nuclear weapons to be introduced, Ishiba’s proposal remains speculative and raises more questions than it answers. Moreover, such a move would be highly controversial domestically and could exacerbate regional tensions, making its implementation challenging.&lt;/p&gt;
+
+&lt;p&gt;A more viable alternative may lie in enhancing the latticework of alliances and partnerships gradually emerging in the Indo-Pacific. This framework builds on existing minilateral arrangements – such as the Quad, AUKUS and the Camp David Principles – to create flexible, issue-specific partnerships. The latticework model allows for cooperation on specific security concerns, like maritime security or cyber defence, without the rigid structure of a formal military bloc.&lt;/p&gt;
+
+&lt;p&gt;Despite these challenges, there are reasons to believe that Japan’s security policy will move in a stable direction. Ishiba has appointed key figures with substantial expertise in defence and security, including the new foreign minister, defence minister and Special Advisor for National Security, all of whom possess a strong understanding of defence issues. This knowledgeable leadership at the helm of Japan’s defence policy provides reassurance that the country will pursue a pragmatic and stable approach as it navigates complex geopolitical dynamics.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;As global dynamics evolve, Ishiba’s leadership presents an opportunity for Japan to redefine its international role, embracing traditional values while strategically adapting to new realities&lt;/code&gt;&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Both Ishiba’s nuclear sharing proposal and his idea for an “Asian NATO” appear to be aimed largely at a domestic audience. While these bold proposals resonate with national security concerns in Japan, they are unlikely to be pushed aggressively on the international stage. In a recent interview, Ishiba acknowledged the need for careful pre-coordination with allies like the US before raising such issues at high-level meetings, signalling a pragmatic understanding of the complexities involved.&lt;/p&gt;
+
+&lt;h3 id=&quot;conclusion-navigating-japans-future-amid-global-uncertainties&quot;&gt;Conclusion: Navigating Japan’s Future Amid Global Uncertainties&lt;/h3&gt;
+
+&lt;p&gt;Ishiba’s ascent to prime minister marks a pivotal moment for Japan, potentially reshaping domestic governance and security policy. With 38 years of political experience and deep expertise in the defence arena, he is well-prepared to address the country’s complex challenges amid an uncertain global landscape.&lt;/p&gt;
+
+&lt;p&gt;Ishiba’s success hinges on balancing continuity with innovation. While ambitious proposals like an “Asian NATO” and nuclear sharing attract attention, their practicality is limited by Indo-Pacific geopolitical realities. Focusing on enhancing existing alliances and cultivating flexible partnerships may offer a more sustainable path, strengthening Japan’s security posture without the complications of rigid alliances.&lt;/p&gt;
+
+&lt;p&gt;Domestically, unifying the LDP is crucial. By incorporating diverse viewpoints and fostering collaboration between factions, Ishiba can build a cohesive government capable of effective policy implementation.&lt;/p&gt;
+
+&lt;p&gt;Ultimately, his tenure will be defined internationally by his ability to balance assertiveness with diplomacy. Steering Japan through internal challenges and external pressures will determine the country’s role in promoting stability and security in the Indo-Pacific. As global dynamics evolve, Ishiba’s leadership presents an opportunity for Japan to redefine its international role, embracing traditional values while strategically adapting to new realities.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;Daisuke Kawai&lt;/strong&gt; is a Project Assistant Professor and the Deputy Director of the Economic Security Programme at RCAST, The University of Tokyo. He also serves as an Asia Fellow at the Center for International Private Enterprise (CIPE), and Senior Advisor for Quad Strategic Planning to the Quad Investors Network (QUIN).&lt;/p&gt;</content><author><name>Daisuke Kawai</name></author><summary type="html">Taking over as Japan’s new prime minister after narrowly winning the Liberal Democratic Party leadership, Shigeru Ishiba’s approach to foreign and security policy is likely to include several strategic adjustments.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://i.imgur.com/SEDU8qi.jpeg" /><media:content medium="image" url="https://i.imgur.com/SEDU8qi.jpeg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Escalating To All-Out War</title><link href="https://agorahub.github.io/pen0/hkers/2024-10-04-escalating-to-all-out-war.html" rel="alternate" type="text/html" title="Escalating To All-Out War" /><published>2024-10-04T12:00:00+08:00</published><updated>2024-10-04T12:00:00+08:00</updated><id>https://agorahub.github.io/pen0/hkers/escalating-to-all-out-war</id><content type="html" xml:base="https://agorahub.github.io/pen0/hkers/2024-10-04-escalating-to-all-out-war.html">&lt;p&gt;&lt;em&gt;There is a serious risk of all-out war between Israel, Hezbollah, and Iran.&lt;/em&gt; &lt;excerpt&gt;&lt;/excerpt&gt; &lt;em&gt;According to new CSIS analysis, both the scale and geographic scope of violence have dramatically increased. The number of violent incidents related to the Israel-Hezbollah conflict increased 4.5 times in the last week of September from the weekly average between October 7, 2023, and August 31, 2024. In addition, the attacks are targeting a much larger geographic area. Israeli and Hezbollah attacks struck an average of 27–28 km from the Blue Line in the last week of September, up from an average of about 3–4 km between October 7, 2023, and August 31, 2024. The number of strikes and the geography of the conflict are likely to grow and include a larger swath of Lebanon and Israel as well as potentially Iran, Syria, Iraq, and Yemen.&lt;/em&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;introduction&quot;&gt;Introduction&lt;/h3&gt;
 
@@ -10617,462 +11031,4 @@
 
 &lt;hr /&gt;
 
-&lt;p&gt;&lt;strong&gt;Sidharth Kaushal&lt;/strong&gt; is Research Fellow for Sea Power at RUSI. His research at RUSI covers the impact of technology on maritime doctrine in the 21st century, and the role of sea power in a state’s grand strategy.&lt;/p&gt;</content><author><name>Sidharth Kaushal</name></author><summary type="html">With the growing threat posed by Russia’s Northern Fleet and increased demand in the Indo-Pacific, the Royal Navy must overcome its submarine challenges to remain relevant.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://i.imgur.com/Km43Xij.jpeg" /><media:content medium="image" url="https://i.imgur.com/Km43Xij.jpeg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">【勇武7人案・審訊第 81 日】</title><link href="https://agorahub.github.io/pen0/hkers/2024-08-27-trial-of-hk-valiant-conspiracy-day-81.html" rel="alternate" type="text/html" title="【勇武7人案・審訊第 81 日】" /><published>2024-08-27T12:00:00+08:00</published><updated>2024-08-27T12:00:00+08:00</updated><id>https://agorahub.github.io/pen0/hkers/trial-of-hk-valiant-conspiracy-day-81</id><content type="html" xml:base="https://agorahub.github.io/pen0/hkers/2024-08-27-trial-of-hk-valiant-conspiracy-day-81.html">&lt;ul&gt;
-  &lt;li&gt;3男6女陪審團今早開始退庭商議&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;excerpt /&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/GIGMWFr.png&quot; alt=&quot;image01&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;【獨媒報導】2019年12月，「屠龍小隊」成員與另一勇武小隊涉計劃遊行期間放炸彈及開槍殺警。律政司首度以《聯合國（反恐怖主義措施）條例》起訴。6男1女否認「串謀謀殺」及「串謀犯對訂明標的之爆炸」等罪，今（27日）踏入第81日審訊。法官張慧玲已完成引導陪審團，3男6女陪審團今早約11時起退庭商議。張官指，陪審團需達至9比0或8比1或7比2的裁決；若達至6比3或5比4，並非法例上可接受的大比數，屆時她會作進一步指引。&lt;/p&gt;
-
-&lt;h4 id=&quot;官有人在串謀之後退出亦非答辯理由&quot;&gt;官：有人在串謀之後退出，亦非答辯理由&lt;/h4&gt;
-
-&lt;p&gt;法官張慧玲第七日引導陪審團。她提及本案控罪的罪行元素。就「串謀犯對訂明標的之爆炸」罪，「訂明標的」是指公用場所，即開放予公眾人士的地方，而本案目標地點為灣仔軒尼詩道，符合公用場所的定義。她又指，本案控罪屬串謀，控方需要證明兩人或以上達成非法協議，意圖用爆炸性裝置導致他人死亡或遭受身體嚴重傷害。至於串謀者可以用身體語言、手勢、姿勢或行動達成協議，不一定要用書面形式。當協議達成後，串謀就已經完成；若串謀者仍然維持至少兩人，串謀就繼續存在。如有人在串謀之後退出，亦非答辯理由。&lt;/p&gt;
-
-&lt;h4 id=&quot;官控方需證明有意圖加入協議並打算付諸實行&quot;&gt;官：控方需證明有意圖加入協議、並打算付諸實行&lt;/h4&gt;
-
-&lt;p&gt;張官表示，控方需要證明被告有意圖與控罪所指的串謀者加入協議，並打算由被告本人或其他串謀者付諸實行，但毋須最終有實行。張官重申，以下3個情況並不屬串謀一份子，包括：對協議不知情、知情但無意加入、假裝加入。&lt;/p&gt;
-
-&lt;p&gt;張官提到，吳智鴻為串謀的策劃者（Mastermind），他有最大的知情度。而根據控方立場，「屠龍」等成員則較遲加入，但張官表示毋須證明各被告在同一時間知道串謀，亦毋須證明各被告均曾接觸過所有串謀者，因此「屠龍」成員可以不認識吳智鴻一方的人，亦可以沒有互相聯絡。&lt;/p&gt;
-
-&lt;p&gt;至於屬交替控罪的「串謀導致相當可能會危害生命或對財產造成嚴重損害的爆炸」罪，張官指如果「串謀犯對訂明標的之爆炸」罪不成立，陪審團就要考慮此罪是否成立。此罪主要涉及非法及惡意地，串謀藉爆炸品導致爆炸。&lt;/p&gt;
-
-&lt;p&gt;就「串謀謀殺」罪，張官指需要證明串謀者有意圖殺害他人，只是令對象身體受嚴重傷害並不足夠。就李家田被控的「意圖危害生命而管有槍械及彈藥」罪，張官認為陪審團需考慮李的招認口供，即提及自己曾經管有手槍，是否在警方威逼利誘之下作出。&lt;/p&gt;
-
-&lt;h4 id=&quot;官控方立場指投擲汽油彈亦屬恐怖主義行為&quot;&gt;官：控方立場指投擲汽油彈亦屬恐怖主義行為&lt;/h4&gt;
-
-&lt;p&gt;最後就劉佩凝被控的「串謀提供或籌集財產以作出恐怖主義行為」罪，張官指需要證明被告提供或籌集財產是作恐怖主義行為，但毋須證明財產是否實際上被如此使用。而控方立場是投擲汽油彈亦屬恐怖主義行為。控方另指，劉負責在用作眾籌的「育龍」頻道上，發布「屠龍」的示威精華片段，她亦知道部分款項會給予負責用汽油彈的「魔法仔女」。&lt;/p&gt;
-
-&lt;h4 id=&quot;官需達9比0或8比1或7比2裁決&quot;&gt;官：需達9比0或8比1或7比2裁決&lt;/h4&gt;
-
-&lt;p&gt;張官最後提醒，控方需要證明被告有罪，而被告則毋須證明自己無犯罪。她又指，陪審團需要達至9比0或8比1或7比2的裁決；若達至6比3或5比4，並非法例上可接受的大比數，屆時張官會作進一步指引。張官另指，若陪審團在退庭商議期間有疑問，可以書面形式交給她，她會與律師商討後回答問題。&lt;/p&gt;
-
-&lt;p&gt;陪審團退庭商議8小時後，仍未有結果，明早9時繼續。&lt;/p&gt;
-
-&lt;p&gt;本案共7名被告，其中6男即張俊富、張銘裕、嚴文謙、李家田、賴振邦及許湛榮，均否認《聯合國（反恐怖主義措施）條例》下的「串謀犯對訂明標的之爆炸」罪、作為交替控罪的「串謀導致相當可能會危害生命或對財產造成嚴重損害的爆炸罪」；以及「串謀謀殺」罪，對象為警務人員。李家田另否認「意圖危害生命而管有槍械及彈藥」罪。女子劉佩凝則否認「串謀提供或籌集財產以作出恐怖主義行為」罪。&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;案件編號：HCCC164/2022、255/2023&lt;/p&gt;</content><author><name>獨媒報導</name></author><summary type="html">3男6女陪審團今早開始退庭商議</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://i.imgur.com/aKa9Cy8.jpeg" /><media:content medium="image" url="https://i.imgur.com/aKa9Cy8.jpeg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">【初選47人案・求情第九日】</title><link href="https://agorahub.github.io/pen0/hkers/2024-08-27-trial-of-hk-democrat-primary-elections-mitigation-day-9.html" rel="alternate" type="text/html" title="【初選47人案・求情第九日】" /><published>2024-08-27T12:00:00+08:00</published><updated>2024-08-27T12:00:00+08:00</updated><id>https://agorahub.github.io/pen0/hkers/trial-of-hk-democrat-primary-elections-mitigation-day-9</id><content type="html" xml:base="https://agorahub.github.io/pen0/hkers/2024-08-27-trial-of-hk-democrat-primary-elections-mitigation-day-9.html">&lt;ul&gt;
-  &lt;li&gt;多年戰友、義工排隊旁聽撐長毛 雷玉蓮：唔好令佢覺得孤單&lt;/li&gt;
-  &lt;li&gt;罪脫李予信再凌晨排隊旁聽：正視眼前現實發生嘅情況&lt;/li&gt;
-  &lt;li&gt;林進指伍健偉已坦然面對：佢仲好有意志&lt;/li&gt;
-  &lt;li&gt;多名前職工盟成員旁聽 盼告訴吳敏兒「與你常在」&lt;/li&gt;
-  &lt;li&gt;還柙期間兒子出生 張可森求情稱會以家庭為中心、與妻協力養育兒子成人&lt;/li&gt;
-  &lt;li&gt;長毛陳情堅信權力歸於人民 願港人莫失莫忘爭取民主&lt;/li&gt;
-  &lt;li&gt;伍健偉親自陳情確認無悔意 選擇留港兌現承諾 與港人齊上齊落&lt;/li&gt;
-  &lt;li&gt;尹兆堅郭家麒獲前高官撰求情信讚和平理性 官不認同郭犯案與性格不符&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;excerpt /&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/X6q0Iej.png&quot; alt=&quot;image01&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;【獨媒報導】民主派初選47人案今早繼續進行求情，包括新界西、新界東共8名被告。多年戰友「女長毛」雷玉蓮昨晚才知悉，便急忙請假前來西九龍裁判法院：「唔好令佢覺得孤單，等佢知我哋到咗。」蓮姐表示，長毛即使身陷囹圄，仍多次喚她要多探望戰友古思堯：「長毛撐得住！佢喺獄中都尚且記掛戰友。」&lt;/p&gt;
-
-&lt;h4 id=&quot;憶昔日行動-念長毛總為戰友行先&quot;&gt;憶昔日行動 念長毛總為戰友行先&lt;/h4&gt;
-
-&lt;p&gt;除了一共參選新西的被告，根據司法網頁顯示，參與新東初選的梁國雄、柯耀林亦由今日起一併作求情。雷玉蓮今早便請假到法院支持戰友，她早前曾探望長毛，形容對方「撐得住」，並引用蘇東坡的詩句送予長毛：「稽首天中天，毫光放大千，八風吹不動，端坐紫金蓮，佢就係一個咁樣嘅人，無嘢打動得到佢。」她身穿印有蓮花的外衣，寓意47人出於污泥而不染：「所以我要著呢件衫支持佢哋。」&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/YEwEVIo.png&quot; alt=&quot;image02&quot; /&gt;
-▲ 蓮姐&lt;/p&gt;
-
-&lt;p&gt;蓮姐對記者談到一件事，多年前與長毛到位於中環下亞厘畢道的舊政府總部抗議，那年頭衝擊鐵馬「正常不過」：「嗰陣時吳恭劭都仲喺度⋯⋯嗰次好多警察，好危險，我哋最後無衝，我哋同警察鬥企。長毛將示威物品掛咗喺度就算，佢想確保所有人都安心。長毛好多時都諗咗人哋先，先諗自己。」&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/w7CbBZe.png&quot; alt=&quot;image03&quot; /&gt;
-▲ 蓮姐&lt;/p&gt;
-
-&lt;h4 id=&quot;盼47人大步檻過-嘆舊日較少合照&quot;&gt;盼47人大步檻過 嘆舊日較少合照&lt;/h4&gt;
-
-&lt;p&gt;談到47人案的求情即將進入尾聲，蓮姐最希望他們能大步檻過：「最緊要佢哋出到嚟，咩是是非非都唔重要。有啲人求情講甚麼東西，其他人講甚麼東西，每個人處境都唔同，我一個人食得幾多？但當你有家庭、有顧慮嘅時候，你諗嘅嘢都會多咗，你唔會自己都要為佢哋。」&lt;/p&gt;
-
-&lt;p&gt;此外，蓮姐有點感慨地說，過往較少與梁國雄、古思堯合照，才發現「影相係咁重要」：「當長毛同阿古入咗去嘅時候，我睇返我哋好少合照，好似一張合照，因為以前成日見到，但世事無常。」&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/s8PRQx6.png&quot; alt=&quot;image04&quot; /&gt;
-▲ 盧先生&lt;/p&gt;
-
-&lt;h4 id=&quot;社民連義工坐頭班車-讚長毛很照顧他人&quot;&gt;社民連義工坐頭班車 讚長毛很照顧他人&lt;/h4&gt;
-
-&lt;p&gt;除了多年戰友，亦有社民連義工特地來支持長毛。盧先生今早乘坐頭班車，排隊等候進入法院，前來支持長毛。他表示自2012年接觸長毛，留意到社民連的理念與自己接近，便一直為社民連助選：「左翼、幫弱勢，又係為公義發聲，所以開始幫佢。」&lt;/p&gt;
-
-&lt;p&gt;談到與長毛相處最深刻的一件事，盧先生稱「好平常㗎咋喎」：「有一次喺中聯辦門口，警察噴胡椒噴霧，有個義工嘅，後生嘅，長毛一手攬佢埋嚟，用件褸遮住個頭。個義工無事，佢自己兜口兜面食影晒。」他形容長毛其實溫柔，並很照顧他人，而且亦講道理：「唔係出邊話佢市井，其實佢好博學，睇好多書。」&lt;/p&gt;
-
-&lt;p&gt;行政會議召集人葉劉淑儀早前接受外媒訪問，稱香港民主20年來的實驗失敗，相信在《基本法》第23條立法後，反對派將長時間不會重臨，更點名「長毛」和「癲狗」黃毓民之流不會再回來立法會。&lt;/p&gt;
-
-&lt;h4 id=&quot;知悉長毛獄中有情緒病-盼保重撐住&quot;&gt;知悉長毛獄中有情緒病 盼保重撐住&lt;/h4&gt;
-
-&lt;p&gt;盧先生笑言政治一日都嫌長：「佢無錯嘅，可以將來見到嘅形勢都係咁，唔知㗎呢啲。黎智英都可能會出返嚟，佢講得太早。我哋梗係希望，你應承我哋嘅雙普選，2008年就應該有，你應該兌現，做到真正港人治港。」&lt;/p&gt;
-
-&lt;p&gt;另外，盧先生表示知悉長毛在獄中有情緒病，而且頭部生瘡，「佢上庭成日𢲷個頭」：「保重、撐住，平安呀！嗯，入邊嘅人都係講呢啲。但我哋講啲咩說話對佢無作用，係要靠佢自己意志。」&lt;/p&gt;
-
-&lt;p&gt;柯耀林亦被安排在今日起作求情，去年曾任柯耀林mentee的阿偲，指與柯交流時，感覺他不太開心，嘆很多朋友已不在港，而柯初罪成還柙後仍「有講有笑」、鼓勵她，不過近來情況變差，「多咗亂諗嘢」。阿偲指，到場旁聽望給予柯耀林支持：「畀佢覺得，無論咩時候都有人陪住佢、撐住佢。」&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/RkUzuNG.png&quot; alt=&quot;image05&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;【獨媒報導】初選47人案今（26日）處理第五批、新界西8名被告及經定罪的梁國雄、柯耀林求情。西九龍裁判法院外再現排隊人龍，獲裁定罪脱、曾參與超區初選的李予信，繼上月旁聽第四批被告求情後，今日凌晨再次排隊入席旁聽，他分享最近正在閱讀心理學、韌性培養的書籍，認為社會需要這樣的質素，學習如何正面處理逆境和創傷的感受，「我諗好多人都經歷緊呢樣嘢」；又指需要正視眼前情況和回應過往經歷，「咁樣我哋先至有更加強韌嘅心態繼續喺未來走落去」。&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/HBNFPZX.png&quot; alt=&quot;image06&quot; /&gt;
-▲ 李予信&lt;/p&gt;
-
-&lt;h4 id=&quot;李予信清晨五時半排隊旁聽&quot;&gt;李予信清晨五時半排隊旁聽&lt;/h4&gt;
-
-&lt;p&gt;清晨6時，西九龍裁判法院外已有逾40人排隊輪候旁聽，當中不乏攜折凳、戴口罩列隊的年長者。李予信凌晨5點半已帶備椅子、手提電腦到場，排在隊伍約第30位。與上次約凌晨1時到場相比，依舊戴棒球帽、身穿純白上衣的李予信今次較遲到達，他稱這次有了經驗，「知道排隊黨嘅時間大概係幾多」，便預計時間在排隊黨全部出現前到場。&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/hZ5Y3pM.png&quot; alt=&quot;image07&quot; /&gt;
-▲ 李予信&lt;/p&gt;
-
-&lt;h4 id=&quot;我諗好多人都經歷緊呢樣嘢&quot;&gt;「我諗好多人都經歷緊呢樣嘢」&lt;/h4&gt;
-
-&lt;p&gt;與上次凌晨時分專注電腦中足球賽事轉播、偶爾傳出歡呼聲相比，這次李予信自到場後便戴上耳機，神色凝重、沉默不語。&lt;/p&gt;
-
-&lt;p&gt;李予信分享最近的消遣讀物，指自己正在閱讀心理學相關、關於韌性培養的書籍，認為社會需要這樣的質素，學習如何正面處理逆境和創傷的感受，「我諗好多人都經歷緊呢樣嘢」。&lt;/p&gt;
-
-&lt;p&gt;李亦形容旁聽原因就像看這些書一樣，「我覺得係一個好重要嘅經歷嚟，好需要去正視我哋眼前現實發生嘅情況，同時間都要好好去回應過往嘅經歷，咁樣我哋先至有更加強韌嘅心態繼續喺未來走落去。」&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/zONm5Yv.png&quot; alt=&quot;image08&quot; /&gt;
-▲ 李予信&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/RU1MhDo.png&quot; alt=&quot;image09&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;【獨媒報導】民主派初選47人案今早繼續作求情，被告之一伍健偉預料將親自求情。前元朗區議員林進今早繼續排隊，希望進入庭內旁聽。談到伍健偉的情況，林進對《獨媒》表示，對方還柙初時的狀態不太好，過去半年則「成功肥到」，心態上已有所調節，現已坦然面對困境：「佢話咪10年囉。我自己評估都係，要發生都發生咗，怨天尤人都改變唔到啲咩。」&lt;/p&gt;
-
-&lt;p&gt;在去年10月，伍健偉選擇在案件開審前認罪，並表明會親自求情，他當時表示「希望我自己嘅人生由我自己掌握」。林進亦強調，伍健偉對於案件的裁決、刑期已有準備，沒有任何樂觀的猜想：「反而諗得差啲，個差啲都接受到嘅時候，就無乜嘢接受唔到。」&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/xmJ7qnG.png&quot; alt=&quot;image10&quot; /&gt;
-▲ 林進&lt;/p&gt;
-
-&lt;p&gt;自三年前被捕還押後，伍健偉每次出庭應訊，林進都會到場旁聽，又會到獄中探望對方。林進表示，每次探監都沒有傾談太多日常生活，反而是伍健偉關心朋友的近況：「嗰15分鐘都係講朋友嘅多，內容都係好實在，無咩閒話家常。」不過，林進指伍健偉仍然很關心香港，很關心朋友：「佢仲好有意志。」&lt;/p&gt;
-
-&lt;p&gt;林進提到，伍健偉即使面對漫長的審訊，意志仍然非常堅定，稍後寸情的時候出「有說話想對香港人講」：「咁漫長嘅審訊，正常人坐監，意志都好容易磨蝕。」&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/p1RIzzT.png&quot; alt=&quot;image11&quot; /&gt;
-▲ 王逸戰&lt;/p&gt;
-
-&lt;h4 id=&quot;憶伍健偉比樂觀仲樂觀-王逸戰到場旁聽仲喺度&quot;&gt;憶伍健偉「比樂觀仲樂觀」 王逸戰到場旁聽：仲喺度&lt;/h4&gt;
-
-&lt;p&gt;前「賢學思政」召集人王逸戰亦有到場，他指自己是新界西選民，初選時曾與張可森、伍健偉、黃子悅擺街站，因較欣賞他們理念、望令更多人認識，王今亦特意到庭支持三人。&lt;/p&gt;
-
-&lt;p&gt;王逸戰苦笑，2020年與伍健偉擺街站，翌年伍因本案被捕還柙，至2022年自己也因煽動顛覆國家政權案入獄，在獄中與伍「玉帛相見」，至今天自己已出獄，伍「仍然喺入面」還柙候判。認識四年，王形容，伍是「比樂觀仲樂觀」、「真誠地樂觀」的人，每次見面也「笑笑口」，與四年前相比「冇乜改變」，「棱角、樂觀都仲喺度」。他又指，伍會很坦誠表達自己想法，覺得「既然行得呢一步，我有嘢想講就去講」，但王補充，伍不是魯莽，而是勇敢，會「三思而後行」，自己在外要做決定時，也會問伍的意見，認為可從他學習，伍會叫他小心。&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/cSiRx2q.png&quot; alt=&quot;image12&quot; /&gt;
-▲ 王逸戰&lt;/p&gt;
-
-&lt;p&gt;至於張可森，王形容他幽默、有才華，笑言初次見面邀他拍攝搞笑片段，張也願意配合，比新聞上所見有血有肉、很真誠。張可森太太在他還柙期間誕下兒子，王嘆張無法如普通父親與孩子相處很可惜，亦不懂怎樣安慰，但覺得能到庭與張見面已是最好的表現。王亦很佩服黃子悅，指她「望落嬌滴滴」，但蘊藏的能量比他想像更大。&lt;/p&gt;
-
-&lt;p&gt;被問有什麼想跟三人說，王坦言「依一刻唔知可以講啲咩」，只想說：「仲喺度」。他說，今天到場主要望聽到被告的陳情，「我覺得我聽到已經心滿意足，我見到佢哋、出現喺呢個地方已經夠」。被告求情陳詞或有不同考量，王說作為過來人，明白他們的處境，會尊重他們說的話。&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/Zb3UB8Q.png&quot; alt=&quot;image13&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;【獨媒報導】民主派初選47人案今早進行求情，包括多名新界西、新界東的被告。多名前職工盟成員今早到西九龍法院排隊，希望進入正庭陪伴被告之一的前職工盟主席吳敏兒。前執委吳惠靈對《獨媒》表示上星期曾到羅湖懲教所探望吳敏兒，指對方精神不錯：「佢有盼望嘅。好多嘢想同佢講，但探嘅時間有限，我成日話俾佢聽，見唔到我哋唔等如我哋唔喺度，太多人入唔到正庭，我哋會喺附近與你常在，大家都喺度。」&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/2NmAm5o.png&quot; alt=&quot;image14&quot; /&gt;
-▲ 初選47人案被告、前職工盟主席吳敏兒（林若勤攝）&lt;/p&gt;
-
-&lt;p&gt;吳惠靈曾任職工盟屬會學校非教員工會主席，但在參與屬會營後才認識吳敏兒更多，到出任執委後有更多合作：「佢好硬淨，由同英航flight，到今日一直都無變過。佢一直面對好多困難，包括工作上，家庭上嘅壓力，都係堅持做正確嘅嘢。」&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/rz4hH5q.png&quot; alt=&quot;image15&quot; /&gt;
-▲ 吳惠靈&lt;/p&gt;
-
-&lt;p&gt;除此之外，吳惠靈曾兩度參選區議會選舉，她指吳敏兒曾攜同子女為其助選，十分熱心。她認為吳敏兒基層出身，為人細心、包容，在職工盟同事出現分歧的時候，亦會耐心地解釋，及與同事商討：「佢做主席係好恰當，有堅強嘅一面，亦都有人對人包容，每個層面都好理解。」&lt;/p&gt;
-
-&lt;p&gt;陳先生則是工黨兼前職工盟成員，同已認識吳敏兒多年。他今早6時到西九龍法院排隊，希望可以入庭旁聽，為吳敏兒送上支持：「點解嚟？佢正直囉，如果佢唔正直，我今日都唔坐喺度啦，仲坐幾個鐘頭？」&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/nI609BQ.png&quot; alt=&quot;image16&quot; /&gt;
-▲ 陳先生&lt;/p&gt;
-
-&lt;p&gt;另外，陳先生早前到羅湖懲教所探望吳敏兒：「有咩好講呀，宜家都唔需要啦，最緊要保重身體。」他透露吳敏兒狀態不錯，但對方在獲悉涉及國安法的案件，或未獲扣減三分一刑期：「聽到無得減三分一情緒低落啲，呢個肯定。健康各方面無問題。」&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/yPBDlIT.png&quot; alt=&quot;image17&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;【獨媒報導】47名民主派被控「串謀顛覆國家政權」案，今（27日）處理第五批共10名被告求情，包括參選新西的8人，以及參選新東的梁國雄和柯耀林。代表張可森的大律師伍頴珊指，張屬「積極參加者」，現正於獄中修讀博士學位，他還柙期間父親離世，兒子亦出生、現時接近3歲，張對未能與妻子和兒子相處感到悲痛。&lt;/p&gt;
-
-&lt;p&gt;庭上又讀出張親撰的求情信，提及在獄中的30歲生日作深刻反省，認為審議預算案是立法會議員的責任，關乎廣大市民生活，不應作為政治工具及藉此危害國安。張盼能盡快完成博士學位，不負家人期盼：「當事情告一段落後，我將會以家庭作為人生中心，投入全副精神照顧高堂，並且一如我妻愛我般愛我妻，與她協力養育兒子成人。」至於朱凱廸、梁國雄及黃子悅一方均採納書面陳詞，辯方指黃屬「積極參加者」，正就暴動案服刑，望法庭考慮整體量刑原則，部分刑期分期執行。&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/R1IIUrL.png&quot; alt=&quot;image18&quot; /&gt;
-▲ 張可森妻子（灰裙）（資料圖片）&lt;/p&gt;
-
-&lt;h4 id=&quot;各被告精神不俗-郭家麒向旁聽席飛吻&quot;&gt;各被告精神不俗 郭家麒向旁聽席飛吻&lt;/h4&gt;
-
-&lt;p&gt;今處理求情的10名被告，包括參選新西的朱凱廸、張可森、黃子悅、尹兆堅、郭家麒、吳敏兒、譚凱邦、伍健偉；及參選新東、經審訊後罪成的梁國雄和柯耀林。&lt;/p&gt;
-
-&lt;p&gt;案件由3名國安法指定法官陳慶偉、李運騰及陳仲衡審理，控方代表為副刑事檢控專員萬德豪、周天行、助理刑事檢控專員羅天瑋。&lt;/p&gt;
-
-&lt;p&gt;各被告於約10時步入法庭，男女被告分成上下兩排，由6名懲教看管。此前獲保釋、其後被裁罪成的柯耀林，戴眼鏡、穿淺綠色中袖裇衫，口袋服筆；去年主動撤銷保釋、正就理大暴動案服刑的黃子悅，去年剪的短髮已留長並紮成馬尾，她戴黑框眼鏡、穿黃綠色上衣，不時望向旁聽席。&lt;/p&gt;
-
-&lt;p&gt;至於其餘被告均還柙近3年半，吳敏兒戴眼鏡、紮馬尾，穿粉紅色上衣和黑色外套，微笑向旁聽席點頭。一頭灰白頭髮、穿黑色西裝和打呔的郭家麒，精神不俗，頻向旁聽和律師席揮手和飛吻。尹兆堅穿黑色棒球外套，面形比還柙前略瘦，手指向旁聽席點頭、揮手。&lt;/p&gt;
-
-&lt;p&gt;張可森穿灰色間條裇衫、黑色外套，向旁聽席點頭，身型和面型較還柙前胖。梁國雄身穿黑色哲古華拉上衣，一頭灰白短髮，不時低頭摸頭髮。朱凱廸穿藍色裇衫、黑色外套，譚凱邦穿間條白裇衫，沒有律師代表的伍健偉則穿灰色西裝外套、白色上衣，向旁聽席揮手。&lt;/p&gt;
-
-&lt;p&gt;罪脫的李予信、前荃灣區議員陳劍琴、前「天水連線」成員林進、「女長毛」雷玉蓮、前立法會議員劉慧卿、社民連陳寶瑩及黃浩銘等均有到庭旁聽。&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/D9Q7TzS.png&quot; alt=&quot;image19&quot; /&gt;
-▲ 前荃灣區議員 陳劍琴&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/3Lzz79Q.png&quot; alt=&quot;image20&quot; /&gt;
-▲ 前民陣召集人 陳皓桓&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/YXL9xLu.png&quot; alt=&quot;image21&quot; /&gt;
-▲ 社民連 黃浩銘&lt;/p&gt;
-
-&lt;h4 id=&quot;梁國雄朱凱廸採納書面陳詞&quot;&gt;梁國雄、朱凱廸採納書面陳詞&lt;/h4&gt;
-
-&lt;p&gt;代表梁國雄的資深大律師潘熙指採納書面陳詞，亦相信法庭對梁的背景頗為熟悉，沒有補充。代表朱凱廸的大律師宗銘誠同樣採納書面陳詞。法官陳仲衡關注朱的案底，辯方指他涉2020六四「明知而參與未經批准集結」傳票案，至於2020七一涉煽惑、組織及明知而參與未經批准集結罪，則於2020年12月才被捕，故朱凱廸並非在法庭保釋期間干犯本案。&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/2u7O2vl.png&quot; alt=&quot;image22&quot; /&gt;
-▲ 初選47人案被告 朱凱廸（林若勤攝）&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/xXQxY9a.png&quot; alt=&quot;image23&quot; /&gt;
-▲ 初選47人案被告 梁國雄（資料圖片）&lt;/p&gt;
-
-&lt;h4 id=&quot;辯方張可森屬積極參加者還柙期間父離世&quot;&gt;辯方：張可森屬「積極參加者」、還柙期間父離世&lt;/h4&gt;
-
-&lt;p&gt;代表張可森的大律師伍頴珊認為，《國安法》22條下的刑期分級制並不適用於串謀罪，但法庭可作參考，並認為張屬刑期3至10年的「積極參加者」。&lt;/p&gt;
-
-&lt;p&gt;伍指，張還柙期間父親離世，張的兒子亦出生，現時接近3歲。伍指，張小時候父親經常不在，他難以見到父親，現在張自己也成為人父，他對未能與妻子和兒子相處感到悲痛（devastated），很希望能陪伴兒子，對於父親離世亦感到加倍後悔和悲傷。法官陳仲衡指，張父不幸離世在判刑考慮的比重不多，法庭較關注張的悔意。&lt;/p&gt;
-
-&lt;h4 id=&quot;張撰求情信盼與妻養育兒子成人&quot;&gt;張撰求情信盼與妻養育兒子成人&lt;/h4&gt;
-
-&lt;p&gt;伍續讀出張撰寫的求情信，提及：「在獄中的30歲生日，讓我得以冷靜思過，整理過去，理清思緒，如今的我明白到案中計劃一旦實行到底所衍生的嚴重性，並就此深刻反省。審議財政預算案，是基本法賦與立法會議員的責任，關乎廣大市民生活，不應作為政治工具，亦不應藉此危害國家安全。我也明白到當下的情況及懲處，是我必須學會承擔的後果，未來我希望能盡快完成博士學位，不負家人期盼，尤其是我妻。當事情告一段落後，我將會以家庭作為人生中心，投入全副精神照顧高堂，並且一如我妻愛我般愛我妻，與她協力養育兒子成人。」&lt;/p&gt;
-
-&lt;p&gt;伍又指，張於2024年7月8日已取得博士候選人的資格，將會在還柙期間認真完成畢業論文，取得博士學位。據悉張正修讀香港中文大學文化研究博士學位。張伍又呈上多封求情信，張的大學老師對他有很高評價，其妻子、家人亦望法庭能輕判。伍指張沒有案底，重犯機會為零，望法庭能考慮其良好品格和悔意，減刑三分一。&lt;/p&gt;
-
-&lt;h4 id=&quot;辯方指黃子悅屬積極參加-望考慮另涉暴動案減刑&quot;&gt;辯方指黃子悅屬「積極參加」 望考慮另涉暴動案減刑&lt;/h4&gt;
-
-&lt;p&gt;代表黃子悅的大律師潘志明亦採納書面陳詞，指黃是本案最年輕的被告，屬刑期3至10年的「積極參加者」。潘續指，雖然黃在理大暴動案保釋期間犯案、兩案性質不同，但兩案均在2019至2020年期間發生，望法庭考慮「整體量刑原則（totality principle）」，部分刑期分期執行。潘又指，黃並非刻意干犯本案，她案發時曾稱否決是《基本法》下的合法權利，「35+」計劃亦由法律專業人士提倡，黃當時真誠誤信為合法，望法庭不要因此加刑太多。庭上並透露，黃就暴動案最快於2025年3月服刑完畢。&lt;/p&gt;
-
-&lt;p&gt;根據《國安法》第22條，一旦顛覆國家政權罪成，「首要分子或罪行重大」可判處10年以上至終身監禁；「積極參加者」可判監3至10年；「其他參加者」則判監3年以下、拘役或者管制。&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/UIgvccM.png&quot; alt=&quot;image24&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;【獨媒報導】47名民主派被控「串謀顛覆國家政權」案，今早處理新界西、新界東的8名候選人被告的求情。參選新界東、前立法會議員「長毛」梁國雄在陳情書中重申「權力歸於人民」，指這不但是其終生信守的理念，亦是從政的基礎，更是《中國憲法》對人民的莊嚴承諾。長毛表示，今天雖然成為階下囚，但絕無怨言，重申「堅信人民大於國家，人權高於政權」，並希望港人莫失莫忘、爭取民主及守護公義。&lt;/p&gt;
-
-&lt;p&gt;初選案原定今日起處理第五批，即參選新界西的8名被告求情。司法機構網頁昨日顯示，將一併處理參選新界東梁國雄、柯耀林的求情。梁國雄向法庭呈交陳情書，表示自70年代起參與政治運動和社會抗爭，是源於改變社會不公的願望，而爭取民主自由、實現社會主義，亦從沒放棄。他表示一路走來近50年，從黑髮變成白頭，長毛成為短毛，自由人淪為階下囚，均秉持該理念行事。&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/AyBnGtd.png&quot; alt=&quot;image25&quot; /&gt;
-▲ 2016年，梁國雄就職宣誓無效，喪失立法會議員資格。（資料圖片）&lt;/p&gt;
-
-&lt;h4 id=&quot;議會內外均進行抗爭-憾未能爭取全民退休保障&quot;&gt;議會內外均進行抗爭 憾未能爭取「全民退休保障」&lt;/h4&gt;
-
-&lt;p&gt;自2004年起，梁國雄曾連續四屆當選立法會議員，他表示無論是一介草民仰或議員，都是當仁不讓，透過制度內外進行各種抗爭，由示威遊行、議會拉布、司法抗爭，到五區總辭變相公投等，爭取政制民主和社會公義。&lt;/p&gt;
-
-&lt;p&gt;長毛憶述在任立法會議員期間，已多次反對政府的《財政預算案》，以抗議當局重富輕貧，賤視貧苦大眾。他亦不忘重提爭取多年的「全民退休保障」，指政府在財政充裕、社會日漸高齡化時，卻拒絕在預算案中撥款設立，對未能推動當局改革，辜負全港160多萬長者，一直深以為憾。&lt;/p&gt;
-
-&lt;p&gt;在陳情書中，長毛稱參與初選是因為多年切身體驗，明白必須在立法會中與志同道合者取得過半數議席，才能有足夠壓力令政府推行惠及民生的社會政策；而「五大訴求」中的實行行政長官及立法會雙普選，更是其多年身體力行的目標。&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/ERm51hL.png&quot; alt=&quot;image26&quot; /&gt;
-▲ 2019年818流水式集會（資料圖片）&lt;/p&gt;
-
-&lt;h4 id=&quot;長毛最重要是持續弘揚抗爭不息的精神&quot;&gt;長毛：最重要是持續弘揚抗爭不息的精神&lt;/h4&gt;
-
-&lt;p&gt;長毛重申無論是「35+」或「35-」，即議會過半與否，「我們不必寄望議會過半就能翻天覆地，亦不要因未能過半而感到灰心絕望」，認為最重要是持續弘揚抗爭不息的精神，爭取香港人最大的動員，共同改變不公不義的社會現狀。&lt;/p&gt;
-
-&lt;p&gt;在陳情書尾聲，長毛表示已知悉法庭判其有罪的理由，但再次重申立法會議員否決《預算案》乃屬《基本法》早已訂明的憲制權力，《基本法》亦有處理「憲制危機」的程序，讓行政長官、政府官員和立法會議員一齊面對選民壓力，彼此作出適當的舉措和互動解決爭議。&lt;/p&gt;
-
-&lt;h4 id=&quot;反問為何不在首次否決時便改革-多名社民連成員旁聽支持&quot;&gt;反問為何不在首次否決時便改革 多名社民連成員旁聽支持&lt;/h4&gt;
-
-&lt;p&gt;長毛認為，議員兩次行使否決權不但是民意依歸，更只是彰顯200萬遊行市民的民意，順從60萬初選投票者的民願。他認為，行政長官面臨下台的憲制危機，必須經歷兩次立法會選舉的民意授權，而既然否決《財政預算案》具全體人民授意，便反問行政長官：「為何不在立法會首度否決時順應民意，推行改革？」他最後強調，權力歸於人民是其終生信守的理念、從政的基礎，更是《中國憲法》對人民的莊嚴承諾。&lt;/p&gt;
-
-&lt;p&gt;另外，社民連主席兼長毛妻子陳寶瑩，成員黃浩銘、曾健成及陳皓桓等，今早亦有到庭旁聽支持。&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/vb9StCk.png&quot; alt=&quot;image27&quot; /&gt;
-▲ 長毛妻子 陳寶瑩&lt;/p&gt;
-
-&lt;h4 id=&quot;陳情書全文&quot;&gt;陳情書全文：&lt;/h4&gt;
-
-&lt;p&gt;　　從我在70年代開始參與政治運動和社會抗爭，是一種出於改變社會不公的願望，爭取民主自由、實現社會主義，從沒放棄。一路走來近50年，黑髮變白頭，長毛成短毛，自由人淪為階下囚，我都是秉持這個理念行事。無論是一介草民還是立法會議員，我都是當仁不讓，透過制度內外各種抗爭，由示威遊行、議會拉布、司法抗爭，到五區總辭變相公投等，爭取政制民主和社會公義。&lt;/p&gt;
-
-&lt;p&gt;　　我就任立法會議員時，已經多次反對政府的《財政預算案》，抗議政府重富輕貧，賤視貧苦大眾，尤其在財政充裕，社會日漸高齡化時，拒絕在《預算案》中撥款設立「全民退休保障制度」。我未能推動政府改革，辜負全港160多萬長者，一直深以為憾！&lt;/p&gt;
-
-&lt;p&gt;　　我參與35+初選計劃，就是因為多年切身體驗，明白必須在立法會中與志同道合者取得過半數議席，才能有足夠壓力令政府推行惠及民生的社會政策。「五大訴求」中的實行行政長官及立法會雙普選，更是多年身體力行的目標；正如我所屬的組織社會民主連線在2020年6月的《決議文》所言：「我們不必寄望議會過半就能翻天覆地，亦不要因未能過半而感到灰心絕望」，無論是「35+」還是「35-」，最重要是持續弘揚抗爭不息的精神，爭取香港人最大的動員，共同改變不公不義的社會現狀。&lt;/p&gt;
-
-&lt;p&gt;　　我現在知悉法庭判我有罪的理由，我當初認為立法會議員否決《預算案》乃屬《基本法》早已訂明的憲制權力，《基本法》亦有處理「憲制危機」的程序，讓行政長官、政府官員和立法會議員一齊面對選民壓力，彼此作出適當的舉措和互動解決爭議。行政長官面臨下台的憲制危機，必須經歷兩次立法會選舉的民意授權，缺一不可！既然否決《預算案》有全體人民授意，行政長官為何不在立法會首度否決時順應民意，推行改革？若行政長官執迷不悟，仍然需要多一次人民授權，才會面對下台困局。因此，議員兩次行使否決權是民意依歸，只是彰顯200萬遊行市民民意，順從60萬初選投票者民願。&lt;/p&gt;
-
-&lt;p&gt;　　「權力歸於人民」是我終生信守的理念，從政的基礎，更是《中國憲法》對人民的莊嚴承諾！今天我雖然成為階下囚，但我毋怨。我堅信人民大於國家，人權高於政權，惟願港人莫失莫忘，爭取民主，守護公義！&lt;/p&gt;
-
-&lt;p&gt;梁國雄
-二零二四年七月十五日&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/ckiuhvB.png&quot; alt=&quot;image28&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;【獨媒報導】47名民主派被控「串謀顛覆國家政權」案，今（27日）處理參選新西的8人，及梁國雄、柯耀林的求情。其中前元朗區議員伍健偉沒有法律代表，親自陳情。他指暴動是人民無被聽見的聲音，高壓統治和嚴刑峻法只能收一時之效，他參與初選非為私利，而是不希望有人受傷、被捕，甚至犧牲生命。伍又指，初選手段「和平理性非暴力」，「五大訴求」亦合情合理、無被法庭裁定違法，政府是「不為」而非「不能」，惟法官打斷指並非表達政見場合。伍續指，他無打算離開香港，亦願為個人過去一切言行負責，但他不會為與選民所共享的信念和價值道歉，不可辜負人民信任。&lt;/p&gt;
-
-&lt;p&gt;法官李運騰問，伍健偉是否沒有悔意？伍答「無錯」，指作為政治人物，期許自己要有承擔、竭盡所能，留守到最後一刻，「所以我並唔後悔，我選擇留喺香港，我需要兌現我莊嚴嘅承諾，同香港人齊上齊落」。伍指未來打算放低政治人物身分，但仍望貢獻香港社會，認為港人只要抱持自救互助精神，活在真實的當下，理想定會實現，「長夜終盡，黎明將至，民主終將再次得勝。」法官陳慶偉最後指，由於伍較遲認罪和沒有悔意，減刑折扣明顯會較他人少，伍表示完全明白。&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/OuOYhR1.png&quot; alt=&quot;image29&quot; /&gt;
-▲ 初選47人案被告、前元朗區議員 伍健偉&lt;/p&gt;
-
-&lt;h4 id=&quot;伍健偉自行陳詞-感激律師社會及愛我嘅人&quot;&gt;伍健偉自行陳詞 感激律師、社會及「愛我嘅人」&lt;/h4&gt;
-
-&lt;p&gt;沒有律師代表的伍健偉自行陳詞，他身穿灰色西裝外套、白色襯衫，捧着文件走到被告欄前方，以咪高峰發言。伍先表示，已向法庭提交兩份手寫陳詞，並指：「喺我正式陳詞前，我想向之前代表我嘅資深大律師、大律師及律師團隊，感謝佢哋熱心同埋專業嘅服務。另外，我感恩社會各界對我哋嘅關心同埋支持。最後，我感激每一個愛我嘅人，對我嘅付出同埋犧牲，我祝福各位平安、健康。」說罷轉身向着旁聽席鞠躬。&lt;/p&gt;
-
-&lt;h4 id=&quot;伍初選陽光下進行逾61萬人投票-被告非為私利犯案&quot;&gt;伍：初選陽光下進行、逾61萬人投票 被告非為私利犯案&lt;/h4&gt;
-
-&lt;p&gt;伍健偉先就法律原則陳詞，他認為自己於本案屬刑期3至10年的「積極參加者」，但就控方對刑期10年以上的「首要分子或罪行重大」的詮釋，望提出數點讓法庭考慮。伍先指，「35+計劃」是在陽光底下進行、眾所周知的計劃，當中的手段和目的均清晰、明確和為人熟知。伍指，要達致進入立法會無差別否決財政預算案，「單靠我哋47個被告係冇可能完成」，他們要成為立法會議員，「係需要廣大嘅香港市民向我哋授權。」&lt;/p&gt;
-
-&lt;p&gt;伍續指，2020年7月《國安法》實施後，有超過61萬香港市民參與初選投票，他指毫無疑問，當時「唔係一個絕對唔違法嘅情況」，故61萬市民「係冒住犯上法律嘅風險」進行投票。伍續指，作為民意代表，除了有責任遵守法律義務，「我嘅首要責任，係為選民去爭取佢哋嘅合理訴求。作為一個代議士，我哋有責任去保護支持我哋嘅香港市民」，望法官考慮各被告犯下本案的原因，「並唔係出於個人嘅利益同埋私利。」&lt;/p&gt;
-
-&lt;h4 id=&quot;同意可引致憲政危機但非憲政災難&quot;&gt;同意可引致憲政危機、但非憲政災難&lt;/h4&gt;
-
-&lt;p&gt;伍表示，他同意本案所造成的後果可引致「憲政危機」，但不同意是「憲政災難」，因《基本法》第50至52條已預計相關情況出現，法律授權政府如何處理。雖然無可避免嚴重干預政府施政效率，但他認為各被告充其量只是干犯《國安法》第22條第3項，即嚴重干擾、阻撓、破壞特區政權機關依法履行職能。&lt;/p&gt;
-
-&lt;h4 id=&quot;伍稱五大訴求合情合理政府不為非不能-官打斷促勿發政見&quot;&gt;伍稱五大訴求合情合理、政府「不為非不能」 官打斷促勿發政見&lt;/h4&gt;
-
-&lt;p&gt;伍續說，五大訴求「係一個合情、合理、無被法庭裁定違法嘅訴求」，「五大訴求對於特區政府係不為也，而非不能為也」，因至少撤回逃犯條訂條例一項早於2020年7月前已滿足。伍望法庭考慮，「我哋唔係追求緊一個虛無飄渺、海市蜃樓嘅願望，香港市民就住五大訴求嘅每一個訴求⋯⋯」&lt;/p&gt;
-
-&lt;p&gt;此時法官陳慶偉打斷，指今天是求情聆訊，「並不是讓你表達政見的場合」，他又指，從伍提交的信可理解其立場，「如任何人想發表政治陳述，隨便，但不是在我的法庭內。」&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/IkiypfD.png&quot; alt=&quot;image30&quot; /&gt;
-▲ 2020年7月12日，初選投票日。（資料圖片）&lt;/p&gt;
-
-&lt;h4 id=&quot;伍稱被捕後始知計劃違法&quot;&gt;伍稱被捕後始知計劃違法&lt;/h4&gt;
-
-&lt;p&gt;伍微笑說「明白法官你嘅立場嘅」，續就性質是否「罪行重大」陳詞。法官陳仲衡指伍自視為「積極參加者」，無需就此陳詞，伍回應「雖然我自己定位係積極參與者啫」，但如法庭不同意，仍望作回應。&lt;/p&gt;
-
-&lt;p&gt;伍續指，案發時的背景，是街頭激烈衝突已持續非常長時間，「我唔希望有人受傷，唔希望有人被捕，更加唔希望再有人因為政治事件而犧牲佢哋嘅生命，所以我選擇參與35+初選計劃，因為至少呢個手段雖然係違法，但呢個手段係和平、理性、非暴力。」&lt;/p&gt;
-
-&lt;p&gt;法官李運騰問，伍何時意識到計劃是違法？伍指是「2021年1月6號我被拘捕嘅時候」。李運騰追問，伍曾稱當時作為代議士只能繼續，是否代表案發時已知道計劃可能違法？伍同意，補充初選投票後，政府官員、中聯辦及港澳辦發聲明指初選可能違法。李運騰指，政府是於初選前已發聲明，又指時任政制及內地事務局局長曾國衞僅稱「可能」違法，因為是由法庭而非他裁定是否違法，曾最多只能說「可能」。&lt;/p&gt;
-
-&lt;p&gt;伍回應，作為市民，有理由相信政府不會任由罪案發生，「如果呢件事係一個咁明確嘅違法罪行，我有理由相信政府嘅執法部門唔會容許成件事發生，發生完咗之後半年都冇進行任何嘅執法。」李運騰指，警方執法程序非法庭考慮，法庭只關注案發時伍是否得知協議違法。伍再回應，當時對否決預算案「我並無得知，甚至認為有可能係違法」，法官陳仲衡指控罪非僅否決、而是無差別否決，伍指明白，但「不過都一樣」。&lt;/p&gt;
-
-&lt;h4 id=&quot;伍暴動是人民無被聽見的聲音嚴刑峻法只能收一時之效&quot;&gt;伍：暴動是人民無被聽見的聲音、嚴刑峻法只能收一時之效&lt;/h4&gt;
-
-&lt;p&gt;伍於小休後，續就個人背景陳詞。他以右手拿着手寫的求情信，表示現年28歲，正修讀都會大學榮譽學士課程，未婚，「係一個恨嫁嘅男人」，有被告和旁聽人士發笑。伍指，他被捕前沒有案底，2020年當選為元朗區議員，並於本案承認控罪：「法官閣下，我承認串謀顛覆國家政權，我為我個人過去一切嘅言行而負責」，而他欲交代犯案原因，望法官給予一定耐性及包容。&lt;/p&gt;
-
-&lt;p&gt;伍續指，他於1995年出生，自1997年以來，香港涉社運被檢控的罪名及刑罰「拾級而上、越發嚴苛」，但及後社運的參與人數、時間、規模及激烈程度仍逐步擴大。伍認為，「每一場暴動都係人民無被聽見的聲音」，如香港人民訴求持續被漠視，矛盾和衝突必然接腫而來，「高壓統治、嚴刑峻法，充其量只能夠收一時之效」，深層次矛盾必須尋求解決之道，社會才可能復和邁進、穩定繁榮，「否則難言長治久安，更加枉論由治及興。」&lt;/p&gt;
-
-&lt;h4 id=&quot;伍參選因恐懼自由被侵蝕對離世生命沉重悲痛&quot;&gt;伍：參選因恐懼自由被侵蝕、對離世生命沉重悲痛&lt;/h4&gt;
-
-&lt;p&gt;伍指，參與初選有遠因和近因，遠因是源於其個人信念，「相信政府係人民嘅僕人，而唔係統治者」，「作為一個香港人，我有一個理想，我認為大家應該擁有、亦都值得擁有自由、平等、包容嘅社會，有效維護人權、法治、公義嘅民主制度。」&lt;/p&gt;
-
-&lt;p&gt;伍續指，參選近因是2019年，當時他恐懼自由被侵蝕，對政府傲慢感不滿，而最令他動容的原因，是他「對離世生命嘅沉重悲痛」。伍指，他完全不希望有人受傷、被捕，更難以忍受有人犧牲生命，自己卻無動於衷、毫不作為。作為普通市民，他無能力起死回生，亦無法阻止他們付出自由和生命的代價，「但係我有義務去繼承佢哋嘅信念」，他認為參與社會運動、地區服務、投身政治，是可為社會貢獻的行動。&lt;/p&gt;
-
-&lt;h4 id=&quot;伍代議士責任爭取選民訴求願承擔風險尋求破局機會&quot;&gt;伍：代議士責任爭取選民訴求、願承擔風險尋求破局機會&lt;/h4&gt;
-
-&lt;p&gt;伍健偉指，他在2019年憑4,371名選民信任成為元朗區議員，初選亦憑20,525位港人支持勝出，如2020年立法會選舉順利舉辦，當天的結果「可能會係我人生之中最榮幸收到嘅生日禮物」。伍續指，成為一個代議士、一個香港民意的代表，「我期許我自己嘅首要責任，係為民發聲、為民請命，我有責任去捍衛人民嘅權利同埋自由，努力爭取選民合情合理嘅訴求得以實現，即使機會係渺茫，即使我個人對於喺建制上尋求改革毫無信心，但我仍然會選擇承擔風險，尋求打破局面嘅機會。」&lt;/p&gt;
-
-&lt;p&gt;法官李運騰問是什麼風險，伍指正如信中下一段所說，在被捕前，「我實在冇諗過會因為本案而入獄」，但不等於他認為成為代議士不會犯《國安法》——即使他無成為立法會議員，但在《國安法》下繼續參與政治或社運，也有很大風險犯法。&lt;/p&gt;
-
-&lt;h4 id=&quot;伍指無一刻打算離港-確認沒有悔意&quot;&gt;伍指無一刻打算離港 確認沒有悔意&lt;/h4&gt;
-
-&lt;p&gt;伍繼續陳詞，表示被捕前，「我冇任何一刻打算離開香港，我願意為我嘅行為負責，但係我唔會為我同選民所共享嘅信念同埋價值而道歉，我唔可以辜負人民嘅信任。」法官李運騰問，是否可理解伍健偉是對所作的事沒有悔意？伍沉默片刻，凝重說：「正如我所講，我為我嘅所有言行而負責，我會承擔一切嘅代價。」&lt;/p&gt;
-
-&lt;p&gt;法官李運騰指那並非他的問題，再問伍對所作的事是否沒有悔意？伍直視法官說：「無錯。」伍續說：「作為一個政治人物，我期許我要有承擔，竭盡我所能，留守到最後一刻，所以我並唔後悔，我選擇留喺香港，我需要兌現我莊嚴嘅承諾，同香港人齊上齊落。」&lt;/p&gt;
-
-&lt;h4 id=&quot;伍稱打算放低政治人物身分-但仍望貢獻香港社會&quot;&gt;伍稱打算放低政治人物身分 但仍望貢獻香港社會&lt;/h4&gt;
-
-&lt;p&gt;伍續說展望將來，他作為民意代表的任期已完結，「我打算放低政治人物嘅身分，但我仍然希望，盡力留喺香港貢獻社會」，即使已預視到困難重重。法官李運騰打斷，指伍的說法可有不同解讀，他關注伍的重犯風險，望伍澄清「貢獻」的意思。&lt;/p&gt;
-
-&lt;p&gt;伍指將會講到，並先指一如時任終審法官包致金所言，「There is no reason to leave if things are good, and if things are bad, there are more reasons to stay.」，「我認為香港人同我只要抱持自救互助嘅精神，理性嘅思考，行公義、好憐憫，存謙卑嘅心，記錄過去嘅真相，活在真實嘅當下，為未來做好真誠嘅準備，香港嘅未來，將會重拾光明，而香港人嘅理想，一定會實現。」&lt;/p&gt;
-
-&lt;h4 id=&quot;伍絕對權力必帶來絕對腐敗-信民主終再得勝&quot;&gt;伍：絕對權力必帶來絕對腐敗 信民主終再得勝&lt;/h4&gt;
-
-&lt;p&gt;伍最後指，二十世紀完結，人們向蘇聯和納粹作告別，「失去足夠制衡嘅權力必然會自我膨脹，絕對嘅權力必定帶來絕對嘅腐敗，長夜終盡，黎明將至，民主終將再次得勝。我感謝三位法官嘅包容同埋忍耐，本人謹此作結。」&lt;/p&gt;
-
-&lt;h4 id=&quot;官稱因無悔意-認罪扣減會較他人少&quot;&gt;官稱因無悔意 認罪扣減會較他人少&lt;/h4&gt;
-
-&lt;p&gt;就伍健偉認罪的日期，羅天瑋助理刑事檢控專員羅天瑋指，2022年10月伍健偉的律師代表去信表示擬認罪，伍於11月3日案件管理聆訊上再次確認，至2023年2月6日案件開審首天，伍於庭上認罪，並於同年10月5日聽取承認案情，確認伍是於案件交付高院後認罪、審訊訂定之前改認罪。法官李運騰指根據案例，最多只可獲25%減刑，法官陳慶偉並指，由於伍較遲認罪和沒有悔意，其認罪扣減會明顯比其他人為少（significantly less than other），問他有沒有話想說。伍回應：「冇嘅，法官，我完全明白嘅。」&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/2QPFiX4.png&quot; alt=&quot;image31&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;【獨媒報導】47名民主派被控「串謀顛覆國家政權」案，今（27日）處理參選新西的8人，及梁國雄、柯耀林的求情。尹兆堅一方指他投身公共服務近20年，曾成功爭取殘疾人士2元乘車優惠和長者生活津貼等，出獄後打算於國際人權組織「世界中央廚房」任職，亦獲3名前高官蕭偉強、羅致光及張炳良撰求情信，指他和平理性。惟法官關注尹過往有4次定罪紀錄，就其良好品格的求情理由能否「循環再用」。&lt;/p&gt;
-
-&lt;p&gt;郭家麒一方亦指郭和平理性，獲前高官邱誠武及前議員石禮謙和張超雄撰求情信，張提到郭曾阻止示威者七一衝擊立法會大樓。辯方又指，郭在公民黨解散前已退黨，出獄後望繼續行醫，退出政治，沒有重犯機會，望法庭考慮他犯案完全與性格不符，採納「積極參加者」的較低量刑起點。法官質疑，本案串謀持續多月，郭必然對參選作詳細考慮，不認同他犯案是與性格不符。&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/9cqP7Bd.png&quot; alt=&quot;image32&quot; /&gt;
-▲ 2019年7月1日，反修例示威者衝擊立法會大樓。（資料圖片）&lt;/p&gt;
-
-&lt;h4 id=&quot;辯方指尹投身公共服務近廿年-官關注求情理由能否循環再用&quot;&gt;辯方指尹投身公共服務近廿年 官關注求情理由能否「循環再用」&lt;/h4&gt;
-
-&lt;p&gt;前立法會議員尹兆堅由大律師莫彥婷代表，莫指尹投身公共服務近20年，他於1994年成為註冊社工，自2004年起四度當選區議員，並於2016年當選立法會議員，服務不同公職。其中尹自2002年起設立殘疾人士爭取交通半費優惠聯席，10年後成功爭取殘疾人士2元乘車優惠，亦成功爭取長者生活津貼和拆除臨時房屋。&lt;/p&gt;
-
-&lt;p&gt;法官陳仲衡指，得悉尹的貢獻，但他曾有4次定罪紀錄，該些案件均已考慮其良好品格；法官李運騰亦關注，若其他案件已因尹的公共服務和良好品格而減刑，法庭是否能將相關理由「循環再用」。莫指，相關案件並未考慮尹的公共服務往績，明日會向法庭補充詳情。&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/vWj9k6J.png&quot; alt=&quot;image33&quot; /&gt;
-▲ 前勞福局局長羅致光&lt;/p&gt;
-
-&lt;h4 id=&quot;尹獲3前高官撰求情信-讚和平理性&quot;&gt;尹獲3前高官撰求情信 讚和平理性&lt;/h4&gt;
-
-&lt;p&gt;尹兆堅亦獲兩名前勞工及福利局局長蕭偉強、羅致光，以及前運輸及房屋局局長張炳良撰求情信，蕭指尹熱心幫助弱勢，保障貧窮和殘疾人士等權益，雖然未必在所有議題上有共識，但對其可信及有禮印象深刻，相信他會兌現承諾。前黨友羅致光亦指，尹推動社會政策表現和平理性，二人就勞工福利政策有良好有效的交流。辯方指，求情信可顯示尹除公共服務外，為人和平，為政府提供建設性意見，望法庭作進一步扣減。&lt;/p&gt;
-
-&lt;p&gt;辯方又指，尹是出色的廚師，打算在出獄後，將烹飪技術應用在國際人權組織「世界廚房（World Kitchen）」。就案情而言，辯方指尹沒有簽署「墨落無悔」，沒有出席任何選舉論壇，作為民主動員委員，亦不曾參與任何會議。&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/McUceor.png&quot; alt=&quot;image34&quot; /&gt;
-▲ 前運輸及房屋局局長張炳良&lt;/p&gt;
-
-&lt;h4 id=&quot;郭家麒撰求情信提公共服務經歷-官質疑無提就本案反思&quot;&gt;郭家麒撰求情信提公共服務經歷 官質疑無提就本案反思&lt;/h4&gt;
-
-&lt;p&gt;前立法會議員郭家麒由資深大律師蔡維邦代表，蔡求情指，郭於2021年9月已表示擬認罪，是最早一批表示認罪的被告，亦不爭議案情，顯示他具悔意。蔡又指，郭是有原則、願意奉獻、具同理心的人，「我做求情近25年，我可以說他是一個具良好品格的人而不面紅」。&lt;/p&gt;
-
-&lt;p&gt;蔡續讀出郭親撰的求情信，提到他出身草根家庭，八十年代成為醫生，任學生期間目睹多人因工業意外受傷，因而籌辦活動保障工人健康，並成立香港工人健康中心。辯方指，即使郭任職醫生，仍奉獻空餘時間促進弱勢的福祉，他自1994年至2007年任中西區區議員，2004年當選立法會議員，並獲委任為醫管局成員，沙士期間作出貢獻，並與不同官員合作，改善醫療服務。辯方又引郭指，他從無考慮「攬炒」，亦不支持「香港獨立」，任議員多年，目標是確保最邊緣社群獲得足夠資源和照顧。&lt;/p&gt;
-
-&lt;p&gt;法官陳仲衡指，郭的長篇求情信提及其行醫和公共服務經歷，但沒有提及對本案行為的反思。蔡維邦指，對任何還柙超過3年的人來說，當然私下有反省，而郭在最早階段認罪亦反映他具備高度悔意，只是沒有在信中直接表達，不認為法庭應將折扣減少。&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/kaJ076a.png&quot; alt=&quot;image35&quot; /&gt;
-▲ 前立法會議員石禮謙&lt;/p&gt;
-
-&lt;h4 id=&quot;獲邱誠武石禮謙張超雄撰求情信-稱七一曾阻示威者衝立法會&quot;&gt;獲邱誠武、石禮謙、張超雄撰求情信 稱七一曾阻示威者衝立法會&lt;/h4&gt;
-
-&lt;p&gt;蔡維邦又呈上多封求情信，包括兩名曾受助於郭的市民，有女士提到兒子患罕見面顎變形，需進行手術，等候十年卻被醫院取消，無助之際獲郭幫助和申請資助，成功進行手術；有女士亦指，曾因醫療事故失去初生女兒，郭積極跟進院方調查，堅定尋求公義，形容郭具同情心、毅力和尋求問責。&lt;/p&gt;
-
-&lt;p&gt;郭亦獲前運輸及房屋局副局長邱誠武、前立法會議員石禮謙及張超雄撰求情信，邱指二人常就房屋及交通等政策討論，郭一向是弱勢權益的捍衛者，雖與政府意見並非經常一致，但尊重他向政府問責，且二人在改善房屋、工業安全等議題上意見也一致。&lt;/p&gt;
-
-&lt;p&gt;蔡續指，2019年時，郭曾站出來着群眾冷靜，以避免進一步暴力發生，例如曾協助救護車進入警總，以幫助有醫療需要的人。張超雄亦指郭主張和平，在2019至2020年是調停者，例如七一立法會曾站在玻璃門前阻止示威者衝擊大樓，亦因而受傷；8月機場內時任環球時報記者付國豪被示威者綑綁和襲女十水手時，郭和張亦趕到現場阻止，被示威者數度推開。郭於11月理大被圍時，亦曾與一群校長進入學校，嘗試令年輕示威者冷靜，獲該些校長撰求情信。&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/w0De9dA.png&quot; alt=&quot;image37&quot; /&gt;
-▲ 2019年7月28日（資料圖片）&lt;/p&gt;
-
-&lt;h4 id=&quot;辯方指郭已退黨無重犯機會-屬積極參加者較低程度&quot;&gt;辯方指郭已退黨、無重犯機會 屬「積極參加者」較低程度&lt;/h4&gt;
-
-&lt;p&gt;辯方強調，郭為人和平理性，他於公民黨解散前已退黨，並決定退出政治，沒有重犯機會，服刑完畢後如獲醫務委員會允許，預期會繼續行醫，繼續幫助有需要病人。&lt;/p&gt;
-
-&lt;p&gt;辯方又認為，郭屬「積極參加者」，望法庭考慮他犯案完全與性格不符（out of character），具良好品格和公共服務，以刑期3至10年的較低程度為量刑起點。&lt;/p&gt;
-
-&lt;h4 id=&quot;辯方望考慮犯案與性格不符-官質疑&quot;&gt;辯方望考慮犯案與性格不符 官質疑&lt;/h4&gt;
-
-&lt;p&gt;法官陳慶偉指，郭必然對初選和如何當選作出詳細考慮，不認同郭犯案是與性格不符。辯方重申，郭的行為與他過往多年作為理性政治人物的行徑不同，又指就郭於2020年3月公民黨記者會的言論，當時其行為不可能是違法，不應因此加刑。&lt;/p&gt;
-
-&lt;p&gt;法官李運騰亦質疑，與性格不符通常是一時衝動、受刺激而犯案，但本案串謀持續多月，被告有多次機會反思其行為，難以被說服此情況下，被告的參與是與性格不符，而且涉案串謀對香港穩定和安全性有很大影響。蔡同意，但重申郭行為與過往紀錄不符，望法庭考慮。&lt;/p&gt;
-
-&lt;p&gt;郭家麒一方求情完畢，案件明早續，將處理餘下兩名新西被告吳敏兒、譚凱邦，以及參選新東的柯耀林求情。&lt;/p&gt;
-
-&lt;p&gt;辯方為郭家麒申請明日不到庭獲批，散庭時，張可森舉手，並走近被告欄咪高峰，表示想申請明天毋須出席聆訊，梁國雄亦說：「我都係，我都係申請唔嚟」。&lt;/p&gt;
-
-&lt;p&gt;散庭時，郭家麒向旁聽席飛吻，又單手放頭上做心形手勢，並頻頻向旁聽席和律師致意和鞠躬。黃子悅亦向丈夫飛吻。&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;案件編號：HCCC69-70/2022&lt;/p&gt;</content><author><name>獨媒報導</name></author><summary type="html">多年戰友、義工排隊旁聽撐長毛 雷玉蓮：唔好令佢覺得孤單 罪脫李予信再凌晨排隊旁聽：正視眼前現實發生嘅情況 林進指伍健偉已坦然面對：佢仲好有意志 多名前職工盟成員旁聽 盼告訴吳敏兒「與你常在」 還柙期間兒子出生 張可森求情稱會以家庭為中心、與妻協力養育兒子成人 長毛陳情堅信權力歸於人民 願港人莫失莫忘爭取民主 伍健偉親自陳情確認無悔意 選擇留港兌現承諾 與港人齊上齊落 尹兆堅郭家麒獲前高官撰求情信讚和平理性 官不認同郭犯案與性格不符</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://i.imgur.com/cu04ZjQ.jpg" /><media:content medium="image" url="https://i.imgur.com/cu04ZjQ.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">【勇武7人案・審訊第 80 日】</title><link href="https://agorahub.github.io/pen0/hkers/2024-08-26-trial-of-hk-valiant-conspiracy-day-80.html" rel="alternate" type="text/html" title="【勇武7人案・審訊第 80 日】" /><published>2024-08-26T12:00:00+08:00</published><updated>2024-08-26T12:00:00+08:00</updated><id>https://agorahub.github.io/pen0/hkers/trial-of-hk-valiant-conspiracy-day-80</id><content type="html" xml:base="https://agorahub.github.io/pen0/hkers/2024-08-26-trial-of-hk-valiant-conspiracy-day-80.html">&lt;ul&gt;
-  &lt;li&gt;法官引導陪審團：不能撇開2019年反修例運動背景&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;excerpt /&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/XDcpJaL.png&quot; alt=&quot;image01&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;【獨媒報導】2019年12月，「屠龍小隊」成員等涉計劃放炸彈及開槍殺警。6男1女否認「串謀謀殺」及「串謀犯對訂明標的之爆炸」等罪，今（26日）踏入第80日審訊，法官張慧玲第六日引導陪審團。張官指，控方沒有直接的證供可證明各被告達成協議，並屬串謀者，大部分是依賴環境證供。而陪審團需要小心考慮環境證供，不能單憑推斷或臆測。控方於結案陳詞指，陪審團可考慮2019年的社會氛圍狀況，以推論本案的串謀；辯方卻不同意這個做法。張官今表示，不可能完全不考慮2019年的社會事件作為背景，反而要考慮相關背景，不能將其撇開，當時串謀者打算趁民陣遊行期間執行計劃，而「唔係就咁擺個炸彈喺街」。張官預計明天可讓陪審團退庭商議。&lt;/p&gt;
-
-&lt;h4 id=&quot;官無直接證供證明被告達成協議主要依賴環境證供&quot;&gt;官：無直接證供證明被告達成協議、主要依賴環境證供&lt;/h4&gt;
-
-&lt;p&gt;法官張慧玲第六日引導陪審團。她指，控方沒有直接的證供可證明各被告達成協議，並屬串謀者，大部分是依賴環境證供。在處理環境證供時，陪審團需要先考慮控方能否證明控罪的元素，之後再考慮各被告的情況。張官將上述兩項比喻為兩條線，陪審團需要考慮將他們加在一起後，能否成為一條有足夠力量的繩去支撐。張官同時提醒，需要小心謹慎考慮環境證供，不能單憑推斷或臆測。&lt;/p&gt;
-
-&lt;h4 id=&quot;官引辯方指-單憑tg訊息不能證明被告參與串謀&quot;&gt;官引辯方指 單憑TG訊息不能證明被告參與串謀&lt;/h4&gt;
-
-&lt;p&gt;張官引述辯方立場指，沒有直接證供顯示各被告與串謀有關，實際上「屠龍」隊員並不知道行動內容及詳情，單憑 Telegram 訊息並不能證明他們為串謀一份子。張官亦指，陪審團需要小心衡量，污點證人黃振強是否如辯方所指，有動機虛構證供並冤枉其他被告。&lt;/p&gt;
-
-&lt;p&gt;至於控方依賴的「共同串謀者原則」，張官指部分證據為 Telegram 的群組及私訊的訊息，雖然被告並不在場，但陪審團要考慮被告的發言，是否為了令計劃可以付諸實行。&lt;/p&gt;
-
-&lt;h4 id=&quot;官需考慮2019年反修例運動作為背景&quot;&gt;官：需考慮2019年反修例運動作為背景&lt;/h4&gt;
-
-&lt;p&gt;控方曾於結案陳詞指，陪審團可考慮2019年的社會氛圍狀況，以推論本案的串謀；辯方卻不同意這個做法。張官今表示，不可能完全不考慮2019年的社會事件作為背景，反而需要考慮相關背景，不能將其撇開而憑空思考。她解釋指當時有很多人因反修例運動上街，這屬事實，而污點證人黃振強亦提及自己有參與示威。因此，張官認為不能用現時的社會情況去考慮，因必定與當時的環境有差別，當時串謀者打算趁民陣遊行期間執行計劃，而「唔係就咁擺個炸彈喺街」。&lt;/p&gt;
-
-&lt;p&gt;至於「串謀提供或籌集財產以作出恐怖主義行為」罪，張官指陪審團需要考慮控方所指向警方投擲汽油彈的行為，是否符合法例中的「恐怖主義行為」定義。控方主要依賴劉知悉「屠龍」的示威精華片段，並知道籌款是用作購買「火魔法」，即汽油彈。&lt;/p&gt;
-
-&lt;p&gt;張官尚未完成引導，案件明（27日）續審，預計明天將會讓陪審團退庭商議。&lt;/p&gt;
-
-&lt;p&gt;本案共7名被告，其中6男即張俊富、張銘裕、嚴文謙、李家田、賴振邦及許湛榮，均否認《聯合國（反恐怖主義措施）條例》下的「串謀犯對訂明標的之爆炸」罪、作為交替控罪的「串謀導致相當可能會危害生命或對財產造成嚴重損害的爆炸罪」；以及「串謀謀殺」罪，對象為警務人員。李家田另否認「意圖危害生命而管有槍械及彈藥」罪。女子劉佩凝則否認「串謀提供或籌集財產以作出恐怖主義行為」罪。&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;案件編號：HCCC164/2022、255/2023&lt;/p&gt;</content><author><name>獨媒報導</name></author><summary type="html">法官引導陪審團：不能撇開2019年反修例運動背景</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://i.imgur.com/aKa9Cy8.jpeg" /><media:content medium="image" url="https://i.imgur.com/aKa9Cy8.jpeg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
+&lt;p&gt;&lt;strong&gt;Sidharth Kaushal&lt;/strong&gt; is Research Fellow for Sea Power at RUSI. His research at RUSI covers the impact of technology on maritime doctrine in the 21st century, and the role of sea power in a state’s grand strategy.&lt;/p&gt;</content><author><name>Sidharth Kaushal</name></author><summary type="html">With the growing threat posed by Russia’s Northern Fleet and increased demand in the Indo-Pacific, the Royal Navy must overcome its submarine challenges to remain relevant.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://i.imgur.com/Km43Xij.jpeg" /><media:content medium="image" url="https://i.imgur.com/Km43Xij.jpeg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
