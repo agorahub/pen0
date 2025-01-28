@@ -1,0 +1,69 @@
+---
+layout: post
+title : The Future Of Syria’s Kurds
+author: Burcu Ozcelik
+date  : 2024-12-17 12:00:00 +0800
+image : https://i.imgur.com/OSdUo34.jpeg
+#image_caption: ""
+description: ""
+excerpt_separator: <excerpt/>
+---
+
+_As Syrians celebrate the end of the tyrannical regime of Bashar al-Assad, the war-weary Syrian state faces a combustible set of challenges to its governance. How the Hayat Tahrir al-Sham (HTS) and the Kurdish Syrian Democratic Forces (SDF) navigate their divergent interests and goals will shape Syria’s future political map._
+
+<excerpt/>
+
+In the days following the collapse of regime-held Damascus, as the HTS and its cohort of allies swept down from their stronghold in Idlib in northwest Syria, the SDF experienced a dizzying round of setbacks delivered by the Syrian National Army (SNA), a local coalition of Arab militia supported by Turkey. The SDF abandoned the oil-rich city of Deir al-Zour, lost ground in Tal Rifaat, withdrew from Manbij (thirty kilometers west of the Euphrates River), and retreated further east of the Euphrates. Manbij is predominantly Arab, while Kurds, Turkmen, Circassians, and Chechens make up minorities. Despite a U.S.-brokered ceasefire to quell fighting in Manbij and the Tishreen Dam, the SDF now fears a possible offensive on Kobani to the northeast, a symbolic and strategic city for the Kurds. This would be a high-risk move for the SNA and likely ensnare them in a protracted conflict.
+
+The SDF’s military deterrence against Turkey and the SNA has diminished. It likely will contract to Kurdish-majority areas in Syria’s northeastern tip—a more limited territory than the contiguous and ethnically heterogeneous zone it once aspired to rule across northern Syria. It also has less leverage over HTS, which has been steadily toiling since 2017 in Idlib, where it ruled over a population of roughly 2 million, to emerge as the chief rule-maker in post-Assad Syria.
+
+The United States maintains a force of 900 troops in northeastern Syria and has been supporting the SDF since 2015 to combat what remains of the Islamic State. With incoming President Donald Trump rallying for the withdrawal of U.S. forces, the SDF may face an existential threat. Its leader, General Mazloum Abdi, has warned that Syria may head into a “bloody civil war” unless the new government is representative of all groups in Syria.
+
+During the Assad regime, HTS and the SDF were locked in an uneasy balance of power, preoccupied with group survival and resistance to regime forces and their Russian and Iranian patrons. HTS is a Sunni jihadi organization that has its origins in the Syria branch of Al Qaeda, with its rank of commanders and fighters hailing from a range of jihadi affiliations. It professes to have moderated its extreme views in recent years and is now tolerant of women’s rights and minorities.
+
+It is still very much questionable whether and to what extent hardened, jihadi-inspired, and pro-Sharia leaders and newly emboldened rank-and-file fighters can change their stripes. On the other hand, the SDF is led by the People’s Protection Units (YPG), the Syrian affiliate of the Kurdistan Workers’ Party (PKK), which the United States, UK, and other Western allies designate as a terrorist organization. The SDF’s governance blueprint and ideology derive from the PKK and track along leftist-secular lines. The fact that it is part of an international Kurdish movement has historically complicated the SDF’s claim to be an indigenous Syrian group.
+
+Under the Assad regime, the Kurds in Syria were effectively “stateless” and denied basic rights to citizenship and political representation—this must not happen again. The political wing of the SDF claims to redress historical injustice against the Kurds and that autonomy is necessary for the Syrian Kurds to confront the exclusionary practices of the centralized Assad regime. However, its own track record of governance, particularly in non-Kurdish majority towns and cities, has been mixed.
+
+
+### Echoes Of Iraq?
+
+The Kurds in Iraq achieved political legitimacy and consolidated gains made since the 1991 Gulf War under the Coalition Provisional Authority (CPA) in the post-Saddam transition period. Under Operation Provide Comfort after the First Gulf War, U.S.-led forces established a no-fly zone north of the thirty-sixth parallel in northern Iraq, paving the way for the creation of a Kurdish semi-autonomous region. The Iraqi Kurds had imperfect but practical experience with the rule of law, political institutions, and civil society. The Iraqi Constitution, adopted on October 15, 2005, established the Kurdistan Region as a federal entity, recognized the Kurds, along with the Arabs, as constituent peoples of Iraq, and institutionalized arrangements for power-sharing in the federal state.
+
+Comparisons with the hand that the Iraqi Kurds were dealt in post-2003 Iraq do not go very far in offering predictions for the SDF-dominated enclave in Syria now. For one thing, certain distinctions need to be made. The Kurds in Syria and Iraq are not a homogenous movement under the same banner. The Kurdish political groups in northern Iraq are not one and the same as the PKK, just as the SDF-YPG is a military-political dominant group in Syria but cannot claim to be the sole representative of the Syrian Kurds.
+
+Iraq was under occupation by a U.S.-led coalition that privileged the Iraqi Kurds as a bulwark and mediator between Arab Shia and Sunni factions within a larger ethnosectarian political order. The balance of power in Syria is more fragmented, with a patchwork of rival armed groups with divergent political visions that heed different external interests. The United States is both less interested and able to assert influence over Damascus. For now, Syria is being shaped by the HTS-led armed opposition without direct foreign military intervention. While Turkey wields influence over the HTS, the Syrian transition government is seen as Syrian-led.
+
+
+### HTS And SDF
+
+HTS engaged in extensive diplomatic engagement during its first week as the new custodians of Syria, including discussions with an SDF delegation dispatched to Damascus. HTS officials have so far adopted a conciliatory tone regarding the Kurds, signaling openness to a negotiated political settlement. When the HTS took over Aleppo, it allowed the SDF to maintain its control of Kurdish-majority neighborhoods, mainly Sheikh Maqsood. The SDF administration raised the new three-starred flag of Syria, previously used by the opposition, saying that it represents an inclusive Syrian Republic and not the Arab ethnonationalist flag of the Assad regime.
+
+HTS leader Ahmed Al-Sharaa, known by the nom de guerre, Abu Mohammad al-Jolani, stated that Kurds are “part of the homeland” and “there will be no injustice” against them. However, competing worldviews and Turkey’s sway over Jolani make it difficult to imagine a consensus around SDF’s claims to territory and unilateral rights over the lucrative oil and gas fields in the east and northeast of Syria. As it strives to assert its longevity beyond the interim Syrian Salvation Government that was established on December 9, the HTS may eventually seek to downgrade the SDF as a nominal subregional actor.
+
+So far, there have been mixed messages. For example, the spokesman for the HTS-run Department of Political Affairs, Obaida Arnaout, was reported to say, “We do not accept that any part of the country is out of the control of the Damascus government.” Jolani was also reported to have said that “all factions will be dissolved, and there will be no weapons except in the hands of the state.” Whether this extends to the SDF is unclear, but it suggests a situation in considerable flux.
+
+Moreover, if the Turkey-backed SNA advances further into SDF areas in the northeast, including Kobani and as far as Hasakeh, the HTS may be compelled to intervene as its centralizing political and military role is challenged and mobilize its own armed factions as a counterweight. Unless the United States actively intervenes on its behalf, the SDF forces will struggle against a professionalized and better-equipped HTS military offensive.
+
+Jolani and the interim government will seek to balance the interests of powerful external actors, namely the United States, Turkey, and even Israel. The HTS is a legitimacy-seeking actor that wishes to shed its terrorist designation and lift the web of U.S. Caesar Act sanctions that will dampen Syria’s economic reconstruction. Therefore, HTS will likely try to telegraph a message it believes Washington wants to hear—and possibly avoid engaging in direct military confrontation with the SDF.
+
+
+### What Does Turkey Want?
+
+Turkey’s view is that the YPG-led SDF is synonymous with the PKK, an armed group that has been fighting the Turkish state since 1984. Prominent Turkish military strategists and nationalists view Washington’s support for PKK-aligned actors near Turkey’s borders with suspicion. A particularly striking conspiracy theory posits that American neoconservatives, in coordination with Israel’s Far Right, aim to establish a corridor stretching from Sulaymaniyah in northern Iraq through Syria and into Israel, securing access to the Mediterranean. This prospect raises strategic and national security concerns in Ankara. Ankara sees Israel’s recent expansion inside the Golan Heights and its capture of the strategic Mount Hermon as possibly part of this chain of events.
+
+Turkey’s overriding concern seems clear: the YPG-PKK must neither be part of the equation nor retain control over any territory. Hakan Fidan, Turkish foreign minister, said the PKK/YPG should either dissolve itself or face elimination. In a recent interview, he said that, in the first stage, the foreign international terrorist fighters within the ranks of the YPG/PKK in Syria must leave the country as soon as possible. In the second stage, Fidan stressed that the entire YPG command structure, including Syrian members, must also leave the country. He further stated that non-PKK-affiliated fighters should lay down their arms in coordination with the new Syrian administration and return to civilian life, effectively a disarmament, demobilization, and reintegration (DDR) process. It is difficult to imagine Ankara convincing the SDF to accept its maximalist demands. If the Turks push too hard, they may hasten Kurdish demands for federalism.
+
+The altered modus operandi in Syria presents an opportunity for the United States and its allies to rethink their Syria policy. Washington and Ankara shared some overlapping interests. The defeat of Iranian and Iran-aligned militia influence in Syria is a strategic win. Ankara’s influence over the HTS could, in theory, act as a moderating force as the group transitions from an armed jihadi movement to a political one. Ankara regretted seeing its influence wane in post-war Iraq as Iran rose to dominance and did not want to repeat the mistakes of the past. The SDF holds several thousand Islamic State fighters in detention camps. Turkey has long held that as a NATO member, it is a credible counterterrorism ally. Still, if this is to work, Turkey must be prepared to take on an expanded role to fulfill this commitment against the threat of IS activity.
+
+Two main obstacles stand in the way of a territorially coherent Syria and will pose challenges for American and British policy engagement. The first relates to the formal status of the SDF and a YPG-controlled autonomous administration. The enclave will come under pressure under Turkish influence in Damascus and the northern belt controlled by the Turkey-backed SNA. By privileging its relationship with the SDF, the United States and its Western allies may inadvertently constrain their options and limit their strategic flexibility, especially if the HTS is able to consolidate political and military power at the center of the state.
+
+This will not mean abandoning the Kurds but rather reassessing the military alignment with the YPG militia and promoting a broad-based range of Kurdish opposition parties, most under the Kurdish National Council (ENKS/KNC) umbrella—an admittedly fragmented coalition with ties to the former president of Iraqi Kurdistan, Masoud Barzani. The KNC recently called for Kurdish unity ahead of future talks with the HTS government and the implementation of UNSC Resolution 2254, laying out a political timetable for elections in Syria.
+
+The second challenge is the expansion of Israeli settlements in the Golan Heights and its occupation of a UN buffer zone. Recently, Israel approved a plan for the expansion of settlements there. This could lead to the eventual “cantonization” of the Syrian state—a scenario that Turkey seeks to avoid and one that the new guardians of Damascus will struggle to contain. Ultimately, the latter can do little about it until it rebuilds a functioning administrative state. Both scenarios, unfolding at different paces, will have far-reaching consequences and constitute a hard-to-reverse territorial re-arrangement that must ultimately be left to the Syrian people to decide through a transparent constitutional process.
+
+Unless Turkey extends credible assurances—and backs it up with action on the ground—that it supports the rights of the Syrian Kurdish population to equal citizenship and political representation in the new Syria, it will struggle to persuade its partners that its fight is with the YPG-PKK and not the Syrian Kurds. This will not be easy, and previous efforts have failed. But this is a new Syria in the making, and there is a strategic window of opportunity to reset Turkey’s terms of engagement while supporting a Syrian-authored process.
+
+---
+
+__Burcu Ozcelik__ is a Senior Research Fellow for Middle East Security at the Royal United Services Institute.
