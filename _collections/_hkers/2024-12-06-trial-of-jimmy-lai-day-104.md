@@ -13,13 +13,13 @@ excerpt_separator: <excerpt/>
 
 <excerpt/>
 
-![iamge01](https://i.imgur.com/MnmIHNL.png)
+![image01](https://i.imgur.com/MnmIHNL.png)
 
 【獨媒報導】壹傳媒創辦人黎智英及3間蘋果公司被控串謀勾結外國勢力及串謀刊印煽動刊物等罪，今（6日）於高院（移師西九龍法院）踏入第104日審訊，黎智英第12日作供。辯方圍繞黎的意圖提問，開始進入國安法生效之後的7月1日。黎當日早上向數名泛民及員工傳送訊息，指國安法條文「辣到離譜」、「香港將無法治無自由，政府行政無法無天，我們寸步難移，動彈不得」，形容「香港已死」。黎稱知道國安法生效之後，呼籲制裁變了刑事罪行，他否認有繼續相關行為，「這樣做是自殺式的（It’s suicidal to do so）。」
 
 訊息紀錄顯示，黎曾向其教父兼《華爾街日報》編輯 Bill McGurn 提交文章「來自香港監獄的信（Letter from a Hong Kong Jail）」，一旦入獄後供外媒發布，但其後改變主意。信件有兩段談及黎向美國人說的話、希望美國人不要忘記香港人，惟黎否認請求外國制裁、封鎖或敵對行為。
 
-![iamge02](https://i.imgur.com/0Db558V.png)
+![image02](https://i.imgur.com/0Db558V.png)
 ▲ （資料圖片）
 
 #### 國安法生效後李兆富退出管理Twitter 黎否認立法後呼籲制裁
@@ -32,7 +32,7 @@ excerpt_separator: <excerpt/>
 
 辯方展出黎與Mark Simon之間的訊息，Mark Simon 指，因李替黎管理Twitter一事被曝光，李感到不開心。黎則向Mark Simon 坦承是他告訴別人，因為想將功勞歸予李。
 
-![iamge03](https://i.imgur.com/pfICVov.png)
+![image03](https://i.imgur.com/pfICVov.png)
 ▲ 黎智英
 
 #### 黎向多名泛民傳送訊息指國安法非常嚴厲 「香港已死」
@@ -47,7 +47,7 @@ excerpt_separator: <excerpt/>
 
 黎也有向陳沛敏傳送訊息：「沛敏，看了國安法細節嚇了一跳，辣到離譜，香港將無法治和自由，政府行政無法無天，泛民寸步難移，動彈不得，先要想好策略對付，不容魯莽。」
 
-![iamge04](https://i.imgur.com/iVcdaM4.png)
+![image04](https://i.imgur.com/iVcdaM4.png)
 ▲ 陳沛敏
 
 #### 黎指管理層對國安法很小心 相信有研究條文

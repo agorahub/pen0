@@ -13,7 +13,7 @@ excerpt_separator: <excerpt/>
 
 <excerpt/>
 
-![iamge01](https://i.imgur.com/WvKNzVr.png)
+![image01](https://i.imgur.com/WvKNzVr.png)
 
 【獨媒報導】壹傳媒創辦人黎智英及3間蘋果公司被控串謀勾結外國勢力及串謀刊印煽動刊物等罪，今（17日）於高院（移師西九龍法院）踏入第111日審訊，黎智英第19日作供。辯方圍繞《國安法》生效之後黎的意圖提問，提及2020年8月18日至9月3日的事件。警方於同年8月分別上門拘捕民主黨林卓廷等16人，指他們涉嫌參與7.21元朗站暴動，翌日黎在網上對談節目中指稱《國安法》破壞法治，形容香港未來會很可怕，「沒有法治、沒有事實。沒有黑白之分，沒有對錯之分。」法官質疑黎不在現場，怎樣知道林當晚保護市民，又指林涉暴動而非涉《國安法》被捕，質疑黎為何會基於林被捕而說「《國安法》破壞法治」。黎回應指《國安法》生效之後，政府在運用法律方面變得非常嚴厲，他並堅稱：「其實他們不是在暴動，他們是在保護自己。」黎亦認為至少警方在扭曲事實。
 
@@ -59,7 +59,7 @@ excerpt_separator: <excerpt/>
 
 黎其後向群組傳送《蘋果》英文新聞連結〈Republicans say Biden ‘Good for Iran and ISIS. Great for China’（共和黨指拜登對伊朗和伊斯蘭國而言是好、對中國而言是棒）〉，並問馮偉光（筆名盧峯）《蘋果》是否需要這類與中國無關、而其他英文報紙亦已報導過的新聞。馮則回應，作為一個全面（full fledge）的新聞頻道，他認為有需要提供重要的新聞給讀者，以及增加新聞內容的多樣性。惟黎說：「我不認為這類新聞有需要，因為當地的媒體理應已有報導。我反而認為我們應該集中於中國新聞，以及使別人知道我們集中於中國新聞。（“I don’t think this kind of news is needed since wherever they come their local news media should have covered it. I rather think that we should focus on Chinese news and be known for it without dilution.”）」馮回覆：「好吧，由今天起停止做國際新聞。」
 
-![iamge02](https://i.imgur.com/d1oZQ5a.png)
+![image02](https://i.imgur.com/d1oZQ5a.png)
 ▲ 前《蘋果日報》主筆 馮偉光
 
 法官李運騰問，黎上述訊息是否在新聞選材方面是一種「指示」？黎認同就選材方面是指示，但是整體而言，他並非在新聞倫理上給予指示。他稱可以理解為一個管理上的指示，因英文版資源有限。辯方問英文版是否有一個清晰的目標，黎同意。李官追問，該目標是否由黎決定？黎同意，並指相關目標在2020年5月31日英文版面世之前已訂立。
