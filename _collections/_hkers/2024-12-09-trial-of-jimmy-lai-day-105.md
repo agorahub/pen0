@@ -13,7 +13,7 @@ excerpt_separator: <excerpt/>
 
 <excerpt/>
 
-![iamge01](https://i.imgur.com/WlLh14D.png)
+![image01](https://i.imgur.com/WlLh14D.png)
 
 【獨媒報導】壹傳媒創辦人黎智英及3間蘋果公司被控串謀勾結外國勢力及串謀刊印煽動刊物等罪，今（9日）於高院（移師西九龍法院）踏入第105日審訊，黎智英第13日作供。辯方圍繞國安法生效之後黎的意圖提問。黎供稱，其私人助手 Mark Simon 可能有一刻猶豫，黎應否繼續接受訪問，但黎回覆稱「我們應該要接受訪問」。訊息紀錄亦顯示，黎曾向民主黨何俊仁表示暫時不接受訪問，「但同老婆商量過後決定再接受訪問，老婆不怕我就不用太謹慎。」何接著提醒黎，重點是發言內容的界線，相信黎會掌握「怎樣可留在相對安全的範圍。」黎庭上稱，何與他的想法一致，認為需「避免自己犯法」。黎曾與劉細良對談期間，說國安法之下人們要某程度上隱藏自己正在做的事，不讓別人知道，或假裝在做其他事情，惟黎否認在國安法生效之後，以間接的形式提倡制裁，反問：「你如何將制裁隱藏為其他事情呢？」
 
@@ -35,7 +35,7 @@ excerpt_separator: <excerpt/>
 
 2020年7月2日黎向陳沛敏表示，知道陳有用 Signal，提議她以後用 Signal 溝通（“So you’re on Signal. We can Signal if you like from now on. Cheers, Jimmy”）。辯方引述陳沛敏早前的證供，她跟黎曾有一段時間使用 Signal，但之後改用 WhatsApp。黎確認，但不記得陳何時沒有再用 Signal。
 
-![iamge02](https://i.imgur.com/FtNw5so.png)
+![image02](https://i.imgur.com/FtNw5so.png)
 ▲ 前《蘋果日報》執行總編輯 林文宗（左）、前《蘋果日報》副社長 陳沛敏（右）
 
 #### 庭上播對談片段 黎指國安法下市民面對「利劍高懸」 猶如活在「無形監獄」
@@ -78,7 +78,7 @@ excerpt_separator: <excerpt/>
 
 辯方指，羅偉光向黎傳送擬於「李八方」刊登的草稿。黎指羅之後修訂文字，使它更易閱讀。辯方遂展示羅向黎傳送的修訂版本：「惡法臨城，喺《蘋果》寫專欄15年嘅利世民（李兆富）決定封筆，肥佬黎話，睇到 Simon 封筆，唔好意思要 Simon 再處理佢個 Twitter 嘅事，雖然 po 文係肥佬黎畀 Simon 嘅，但都唔想連累 Simon 受無妄之災。國安震懾之下找個人處理 Twitter 都難，肥佬黎都幾大鑊。」
 
-![iamge03](https://i.imgur.com/b8opPH4.png)
+![image03](https://i.imgur.com/b8opPH4.png)
 ▲ 前《蘋果日報》總編輯 羅偉光
 
 黎庭上確認李兆富停止替《蘋果》撰寫專欄，但是李繼續替他管理 Twitter，直至找到人頂替李為止，相信李和 Mark Simon 均有嘗試尋找人選。

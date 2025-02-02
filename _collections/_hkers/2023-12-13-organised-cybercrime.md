@@ -70,7 +70,7 @@ The future trajectory of ransomware is not clear. Arguably, this form of organis
 
 In this context, further growth and evolution of this threat should be anticipated. While it is not possible to speculate precisely on how ransomware will evolve, the UK and like-minded partners should anticipate turbulence, continue to raise their cyber resilience, and focus on ways to make life much more difficult for the criminals that perpetuate it.
 
-![iamge01](https://i.imgur.com/jIN7CBT.png)
+![image01](https://i.imgur.com/jIN7CBT.png)
 
 ---
 
