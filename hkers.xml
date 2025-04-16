@@ -1,4 +1,163 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://agorahub.github.io/pen0/hkers.xml" rel="self" type="application/atom+xml" /><link href="https://agorahub.github.io/pen0/" rel="alternate" type="text/html" /><updated>2025-04-12T22:41:08+08:00</updated><id>https://agorahub.github.io/pen0/hkers.xml</id><title type="html">The Republic of Agora | Hkers</title><subtitle>UNITE THE PUBLIC ♢ VOL.51 © MMXXV</subtitle><entry><title type="html">【黎智英案・審訊第 141 日】</title><link href="https://agorahub.github.io/pen0/hkers/2025-02-28-trial-of-jimmy-lai-day-141.html" rel="alternate" type="text/html" title="【黎智英案・審訊第 141 日】" /><published>2025-02-28T12:00:00+08:00</published><updated>2025-02-28T12:00:00+08:00</updated><id>https://agorahub.github.io/pen0/hkers/trial-of-jimmy-lai-day-141</id><content type="html" xml:base="https://agorahub.github.io/pen0/hkers/2025-02-28-trial-of-jimmy-lai-day-141.html">&lt;ul&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://agorahub.github.io/pen0/hkers.xml" rel="self" type="application/atom+xml" /><link href="https://agorahub.github.io/pen0/" rel="alternate" type="text/html" /><updated>2025-04-16T12:16:51+08:00</updated><id>https://agorahub.github.io/pen0/hkers.xml</id><title type="html">The Republic of Agora | Hkers</title><subtitle>UNITE THE PUBLIC ♢ VOL.51 © MMXXV</subtitle><entry><title type="html">The AI Power Surge</title><link href="https://agorahub.github.io/pen0/hkers/2025-03-03-the-ai-power-surge.html" rel="alternate" type="text/html" title="The AI Power Surge" /><published>2025-03-03T12:00:00+08:00</published><updated>2025-03-03T12:00:00+08:00</updated><id>https://agorahub.github.io/pen0/hkers/the-ai-power-surge</id><content type="html" xml:base="https://agorahub.github.io/pen0/hkers/2025-03-03-the-ai-power-surge.html">&lt;p&gt;&lt;em&gt;This paper examines the feasibility and constraints of sustained growth in generative AI infrastructure.&lt;/em&gt; &lt;excerpt&gt;&lt;/excerpt&gt; &lt;em&gt;Using a novel modeling approach, we analyze three growth scenarios based on historical technological adoptions: an eight-or-more year “Second Industrial Revolution” scenario, a five-year “PC Explosion” scenario, and a two-year “Dot-Com Boom” scenario.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Our findings indicate that cumulative capital spending in the most aggressive scenario could reach $2.35 trillion by 2030, with compute deployment reaching 7.0E+30 total floating-point operations (FLOP) and power demands adding 83.7 gigawatts (GWs) to the U.S. grid. While financing appears manageable with U.S. capital markets, and graphics processing unit (GPU) production constraints seem surmountable through technological advancement, the unprecedented scale of electrical power demands—equivalent to adding a new state the size of Texas to the grid—poses significant infrastructure and policy challenges.&lt;/p&gt;
+
+&lt;h3 id=&quot;introduction&quot;&gt;Introduction&lt;/h3&gt;
+
+&lt;p&gt;Generative artificial intelligence (genAI) rapidly became the focus of technology sector investment after the release of ChatGPT 3.5 in November of 2022. Since then, genAI has consistently captured the attention and resources of industry leaders, solidifying its place as a transformative technology.&lt;/p&gt;
+
+&lt;p&gt;The projections for genAI investment are staggering. Sam Altman, CEO of the leading genAI provider OpenAI, has reportedly discussed creating a $7 trillion fund for genAI investment before 2030. Such an enormous number underscores industry leaders’ confidence in the transformative potential of genAI for the technology sector and the global economy. Nvidia, the leading producer of GPUs that provide compute for genAI, saw its revenue grow from $5 billion in the last quarter of fiscal year 2021 to $35 billion in the final quarter of FY 2024. This growth has been fueled by the increasing demand for advanced computational hardware capable of handling the exponential increase in genAI workloads.&lt;/p&gt;
+
+&lt;p&gt;Parallel to the rapid increase in investment in GPUs, the electricity sector has seen a jump in power demand. Like factories or refineries, data centers attempt to maximize the return on capital by operating 24 hours a day, seven days a week, as close to full capacity as possible. A new data center can demand as much as one GW of constant power, and the genAI industry plans to increase the scale and quantity of new data centers added every year. As of 2024, the additional demand from data centers has already reversed a six-decade-long trend of falling growth. Estimates of future demand have been revised sharply upwards.&lt;/p&gt;
+
+&lt;p&gt;The debut of DeepSeek’s R1 model introduced a significant shift in the genAI landscape. When delivering cutting-edge performance at a fraction of the computational cost compared to frontier models, R1 has fueled speculation that hyperscale data centers may no longer be the limiting factor in genAI progress. Some argue that the trillion-dollar arms race in genAI infrastructure could prove unnecessary if leading models can be trained and deployed with dramatically lower resource requirements. Yet, among industry leaders, there is little indication that infrastructure investment plans are being scaled back. Rather than being viewed as a cap to genAI’s expansion, DeepSeek’s efficiency gains are understood as a catalyst for even more aggressive genAI deployment. Moreover, lower costs do not imply diminishing demand; instead, they further extend the frontier of what is economically viable, broadening genAI’s reach across industries and accelerating its integration into the global economy.&lt;/p&gt;
+
+&lt;p&gt;The newly announced Stargate Project, a $500 billion investment led by OpenAI in partnership with SoftBank and Oracle, reinforces this interpretation. Stargate represents the largest genAI infrastructure initiative to date, with plans for a vast network of hyperscale data centers across the United States. If DeepSeek’s breakthrough demonstrated that state-of-the-art genAI can be achieved more efficiently, Stargate underscores that the response from key players is to expand investment, not to temper it. The fundamental premise remains unchanged: No matter how rapidly genAI efficiency improves, the demand for compute continues to scale beyond prior projections. Far from reducing the need for capital expenditure, cost declines in training and inference are expected to unlock new applications, driving even more infrastructure buildout.&lt;/p&gt;
+
+&lt;p&gt;Securing dominance in genAI has emerged as a focus for U.S. policymakers, who see it as vital for maintaining economic leadership and safeguarding national security. Achieving such dominance requires capitalizing on the transformative benefits of genAI and ensuring that the United States can train and deploy the most advanced genAI models in the world.&lt;/p&gt;
+
+&lt;p&gt;In this paper, we describe a model designed to explore the following questions: Will the recent acceleration in genAI growth continue over the short, medium, and long term, and, if so, does the United States have the economic capacity and infrastructure to support that growth?&lt;/p&gt;
+
+&lt;h3 id=&quot;background&quot;&gt;Background&lt;/h3&gt;
+
+&lt;p&gt;Our model connects three possible constraints on the growth of the U.S. genAI industry:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Financing:&lt;/strong&gt; Could the sheer cost of capital hinder genAI development and deployment?&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Hardware:&lt;/strong&gt; Could the production and supply of specialized genAI hardware, particularly GPUs, create bottlenecks?&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Electric Power:&lt;/strong&gt; Could the energy demands of genAI models and supporting infrastructure outpace available resources?&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Three illustrative scenarios represent different durations over which the post-ChatGPT acceleration in genAI growth might last:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Second Industrial Revolution:&lt;/strong&gt; eight or more years&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;The PC Explosion:&lt;/strong&gt; five years&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;The Dot-Com Boom:&lt;/strong&gt; two years&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The most aggressive scenario is modeled after the growth experienced during the Second Industrial Revolution—between 1870 and 1914—when electricity, Bessemer steel, and internal combustion engines fundamentally altered the nature of production. If genAI facilitates this level of economic transformation, we expect the investment in genAI to continue at its present rate over the next decade and beyond.&lt;/p&gt;
+
+&lt;p&gt;It is worth noting that leading AI labs are raising hundreds of billions of dollars in capital based on an anticipated transformation of this magnitude. We include two additional scenarios because market expectations have been thwarted in the past.&lt;/p&gt;
+
+&lt;p&gt;The first alternative scenario is modeled after the PC revolution. The development of personal computers revolutionized the business sector and radically altered the nature of clerical work but did not dramatically transform the US economy. A similar path for genAI might mean that industries like software development and media are completely overhauled, but the rest of the economy sees only modest adjustments. In that case, we would expect the period of rapid genAI investment that began in 2023 to continue until 2028 before petering out.&lt;/p&gt;
+
+&lt;p&gt;The second alternative scenario is modeled after the dot-com boom. While interest in internet-centric companies began in 1995, the lion’s share of venture capital investment occurred between the last two quarters of 1999 and the first two quarters of 2021. If AI takes a similar trajectory, the surge in investment that began in late 2023 is now coming to a close. This scenario defies most conventional wisdom but is crucial as a robustness check.&lt;/p&gt;
+
+&lt;h3 id=&quot;scenario-results&quot;&gt;Scenario Results&lt;/h3&gt;
+
+&lt;p&gt;We offer some representative top-line results from our model below. Table 1 displays cumulative totals relative to 2022 for each scenario. The three categories of capital spending, compute deployed in total FLOP, and GWs added are the aggregate demand metrics for each of the three enablers, respectively.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/XP1WcWh.png&quot; alt=&quot;image01&quot; /&gt;
+&lt;em&gt;▲ Table 1: Key Metrics in 2030&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;The three categories of Capital Spending, Compute Deployed in total Flops, and GWs added are our aggregate demand metrics for each of our three enablers, respectively.&lt;/p&gt;
+
+&lt;p&gt;We began by projecting recent investment trends using census data from 2014 to 2024 to create coherent scenarios across these three metrics. We then used trends in the decline in GPU prices to estimate the number of GPUs purchased annually consistent with that projection. Finally, we employed trends in power efficiency to calculate the additional power required by our projection of yearly GPU growth.&lt;/p&gt;
+
+&lt;p&gt;This gave us a mathematical relationship linking investment, GPUs, and power at the macro level. Because individual data centers are rated by their power usage, we were able to use proprietary microdata provided by Semianalysis to calibrate our macro-level relationship to actual fine-grained deployments.&lt;/p&gt;
+
+&lt;h4 id=&quot;financing&quot;&gt;Financing&lt;/h4&gt;
+
+&lt;p&gt;Capital availability has been robust, with major players such as tech giants, venture capitalists, and governments prioritizing genAI investments. However, some analysts are concerned that genAI’s revenue generation will not be sufficient to sustain the large profit margins technology companies have had to this point.&lt;/p&gt;
+
+&lt;p&gt;A proprietary analysis of greenfield projects indicates that the six firms currently leading in genAI investment collectively expect growth to continue at this pace in the foreseeable future. This is consistent with public statements made by the CEOs of those companies.&lt;/p&gt;
+
+&lt;p&gt;We want to evaluate whether this growth is financially sustainable by treating financing data centers like industrial investments. Datacenter creation involves a sizable industrial investment in physical chips and infrastructure. Interest and depreciation will govern the overall cost of such an investment. Additionally, the power needs of data centers will be operational costs.&lt;/p&gt;
+
+&lt;p&gt;Carrying costs are what an industrial firm expects to pay yearly to maintain its physical plant, machines, and other equipment. These types of expenses are dominated by the interest payments on the original construction and the loss of worn-out and obsolete physical structures, machines, and equipment.&lt;/p&gt;
+
+&lt;p&gt;Using a five-year straight-line depreciation schedule and a financial cost of 300 basis points over the ten-year treasury, we find that, assuming present trends continue, the total carrying cost of capital would rise from roughly $30 billion in 2024 to $430 billion in 2030 in the most optimistic scenarios for genAI development.&lt;/p&gt;
+
+&lt;p&gt;$430 billion is an eye-popping number, but it must be considered in context. In 2023, U.S. businesses spent $5.2 trillion on interest and depreciation alone. The long-term, economy-wide interest and depreciation growth trend is 5 percent per year. Assuming this trend holds, that number will reach $7.3 trillion in 2030, a gain of $2.1 trillion in six years. Adding the $430 billion genAI will cost would increase that change by less than 20 percent to $2.5 trillion, a substantial, but not impossible, boost. Looking at it another way, accommodating the genAI increase would require spending on depreciation and interest to grow by 6.4 percent a year rather than 5 percent. For comparison, that is roughly equal to the growth rate in interest and depreciation from $1.27 trillion in 1993 to $1.97 trillion in 2000.&lt;/p&gt;
+
+&lt;p&gt;Therefore, there is little indication that the carrying cost of genAI will be an unbearable strain on U.S. capital markets. Although a complete analysis of whether the industry-specific gains from that investment outweigh the costs is well beyond the scope of this paper, we can provide some benchmarks for realism.&lt;/p&gt;
+
+&lt;p&gt;So far, productivity gains from genAI seem promising in software engineering. This may be because genAI firms tailor their models specifically to be helpful to themselves, which may suggest that tailoring for other industries could produce widespread gains over time. Assuming the current pattern holds, how much productivity gain would software engineering have to see to “pay for” the depreciation and interest on computing facilities?&lt;/p&gt;
+
+&lt;p&gt;Estimates from the Bureau of Labor Statistics suggest that by 2030, the total wage bill of software engineers in the United States will exceed $1 trillion. These estimates are based on historical numbers and do not include the effects of genAI. With this estimated wage bill, genAI would need to increase the productivity of the average software engineer by 42 percent to cover the cost of depreciation and interest. Put simply, if in 2030, genAI could allow U.S. companies to hire 40 percent fewer software engineers and produce the same output, that alone could justify the cost of depreciation and interest for the entire genAI industry. As a last heuristic, if genAI is used primarily for entertainment, and roughly 20 percent of residents in the developed world signed up for a genAI streaming service, then the cost of capital would amount to approximately $160 a month per subscription. GenAI would have to be roughly as appealing as cable television to justify depreciation and interest costs.&lt;/p&gt;
+
+&lt;h4 id=&quot;gpu-availability&quot;&gt;GPU Availability&lt;/h4&gt;
+
+&lt;p&gt;To analyze the potential problems posed by GPU production, we took our baseline capital expenditure estimates and calculated how much chip production would be implied. This required several steps.&lt;/p&gt;
+
+&lt;p&gt;Today, the state-of-the-art GPU is the H100, produced by Nvidia. We define an H100 equivalent as a hypothetical GPU in any given year that produces the same compute as a current H100 using state-of-the-art technology for that year. Thus, we expect the cost of H100 equivalents to decline precipitously over time.&lt;/p&gt;
+
+&lt;p&gt;The speed of that decline is a matter of contention. Nvidia’s CEO points out that GPU performance nearly doubles every year. However, critics say that this ignores the fact that Nvidia’s chips have become larger over time, thus representing more silicon and higher production costs.&lt;/p&gt;
+
+&lt;p&gt;Epoch AI estimates that the cost per FLOP (a technical metric of GPU performance) halves every 2.5 years. However, this estimate does not include the effect of algorithmic efficiency. Essentially, better genAI algorithms reduce the hardware cost of each computation, thus boosting the total computations that any GPU can perform within a given period.&lt;/p&gt;
+
+&lt;p&gt;Tim Fist and Arnab Datta at the Institute for Progress estimate that performance per dollar triples roughly every two years using hardware and algorithmic computing. This metric is consistent with our field reading and is the basis for our model H100 equivalents. Consequently, we assume that the cost per H100 equivalent will drop by 48 percent per year.&lt;/p&gt;
+
+&lt;p&gt;Based on Semianlaysis and Census Bureau data, we estimate that the GPU’s cost is two to three times the full cost, including facilities, installation, cooling, etc. Moreover, the non-GPU costs depend on how many megawatts (MWs) of power are used. Therefore, in order to arrive at a consistent figure over time, we must determine how watts per H100 equivalent evolve.&lt;/p&gt;
+
+&lt;p&gt;To that end, we turned to data from researchers at Northeastern University, which suggest that energy efficiency per square millimeter of silicon falls by 28 percent annually. Since our H100 equivalent has a fixed amount of silicon, we can use 28 percent as our energy efficiency trend.&lt;/p&gt;
+
+&lt;p&gt;Using that rate of efficiency decline, we multiply the H100 equivalent per MW times the H100 equivalent price to find the GPU energy cost for a single MW facility. This allows us to match the energy cost for facilities and GPUs in any given year. We then calculate the gross MWs added in any given year as capital spending divided by the price per MW.&lt;/p&gt;
+
+&lt;p&gt;Our baseline capital spending estimates show that gross MWs increased from 3,000 in 2024 to 39,000 in 2030. We use that figure to calculate the number of H100 equivalents, estimating that the wattage per H100 equivalent will have fallen from 1,400 in 2024 to 249 in 2030. Thus, the total H100 equivalents should climb from 2.9 million in 2024 to 159 million in 2030.&lt;/p&gt;
+
+&lt;p&gt;To validate our estimate, we turn to a brief analysis of semiconductor manufacturing. The Taiwan Semiconductor Manufacturing Company (TSMC) has a 90 percent market share in state-of-the-art GPUs. Although there is substantial evidence that other microchip manufacturers are ramping up GPU production capabilities to match the sharply increasing demand, we focus solely on TSMC’s capacity to be conservative.&lt;/p&gt;
+
+&lt;p&gt;Epoch AI projects that TSMC’s total silicon wafer production will reach 300–900 million H100 equivalents by 2030. Based on our projection of capital spending on H100 equivalents, the genAI industry must use between 15 and 50 percent of TSMC’s total capacity.&lt;/p&gt;
+
+&lt;p&gt;The numbers are significant but entirely plausible, given that TSMC is a state-of-the-art manufacturer and genAI is a state-of-the-art application. In the worst-case scenario, most of TSMC’s non-AI customers will be priced out and forced to depend on less advanced producers.&lt;/p&gt;
+
+&lt;p&gt;Our analysis has one large caveat: It does not account for a severe non-economic bottleneck—specifically, warfare on the island of Taiwan. Identifying the military and diplomatic options available to prevent or mitigate such an outcome is beyond the scope of this paper. Still, it’s important to note that the conclusions of this study depend on the continued supply of Taiwanese semiconductors.&lt;/p&gt;
+
+&lt;h4 id=&quot;electric-power&quot;&gt;Electric Power&lt;/h4&gt;
+
+&lt;p&gt;Now that the number of H100 equivalents installed in any given year has been determined, calculating the power requirement is simple. The depreciation of GPUs eliminates the power demand that would have come from worn-out, unusable chips. With the same 5-year straight-line depreciation used above to calculate MWs, the total power requirement rises from 4,000 MW in 2024 to 84,000 MW in 2030.&lt;/p&gt;
+
+&lt;p&gt;This figure implies unprecedented growth for the data center industry and a profound change in the overall growth trajectory for the U.S. electric power sector. In 2024, the peak electricity demand in the United States was 745 GW, which has not changed significantly in over a decade. For context, the electricity demand for genAI technology will exceed that of most states: peak demand for New York is about 33 GW (summer 2023), and the all-time peak for CAISO, the California power grid, is 52 GW (September 2022). In 2024, the primary grid operator in Texas, ERCOT, hit its peak production at 85 GW.&lt;/p&gt;
+
+&lt;p&gt;Our model’s demand estimates are roughly in line with forecasts generated by other research teams. A 2024 study by LBNL, which takes a detailed “bottom-up” approach estimating the energy usage of GPUs and other IT infrastructure, shows that total U.S. data center demand could grow from a base of roughly 40 GW in 2024 to 74–132 GW by 2028, that is, an increase in demand of 34–92 GWs in four years.&lt;/p&gt;
+
+&lt;p&gt;Notably for policymakers, this model’s 80 GW production excludes any additional drivers of electric demand growth, such as enterprise, cloud service computation, and crypto mining, each seeing growth, albeit at a slower rate than genAI. Other considerable sources of demand growth include the expansion of electricity-intensive industries—e.g., semiconductor fabrication and battery manufacturing—and the slow but sure increase in electric vehicles. Together, these demand drivers could easily contribute an additional 50-plus GWs of peak load to the grid by 2035.&lt;/p&gt;
+
+&lt;p&gt;The most significant sources of uncertainty for our projections are whether the electricity supply and the requisite grid infrastructure can be deployed quickly enough to meet this increased demand. The reliability imperative retains ultimate priority in the power sector, so utilities and grid operators across the United States will only connect and serve demand resources they can reliably supply. This energy supply constraint is present in the data center development sector as well, where “speed-to-power”—how fast a site can receive energy—has rapidly emerged as the most critical factor driving siting and investment decisions.&lt;/p&gt;
+
+&lt;p&gt;A host of well-documented factors constrain the rapid scaling of supply in the power sector, including heavily backlogged generation interconnection queues, median wait times for new projects reaching over five years in 2023, persistent hurdles to the crucial high-voltage transmission expansion necessary to support new generation and demand, and the poor permitting environment for infrastructure of all types. In addition, crucial equipment like transformers and gas turbines are increasingly on multi-year backorders, further increasing project delays and costs.&lt;/p&gt;
+
+&lt;p&gt;Since the mid-1970s, all U.S. electric power sector aspects—commercial, policy, and regulatory—have adapted to slowing growth rates. Over the last two decades, moreover, growth has been effectively zero. However, with the crucial national security loads of genAI at the forefront, the new paradigm of surging electric demand growth requires a new model of ambitious policymaking at both the state and federal levels.&lt;/p&gt;
+
+&lt;p&gt;Major policy questions include addressing back-logged interconnection queues, accelerating transmission system expansion, streamlining the permitting environment, resolving the thorny issue of gas-electric coordination, and expanding the federal government’s role in unlocking new nuclear construction.&lt;/p&gt;
+
+&lt;h3 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h3&gt;
+
+&lt;p&gt;Our analysis suggests that the recent acceleration in genAI growth could continue through 2030, but with significant infrastructure challenges that must be addressed. Examining three potential constraints—financing, hardware availability, and electric power demands—we find that while the first two obstacles appear surmountable, the unprecedented scale of electrical power requirements poses the most serious challenge to sustained growth.&lt;/p&gt;
+
+&lt;p&gt;From a financing perspective, even our most aggressive scenario, requiring $2.35 trillion in cumulative capital spending by 2030, appears manageable within U.S. capital markets. The projected annual carrying costs of $430 billion by 2030 would represent less than 20 percent of the expected growth in economy-wide interest and depreciation. Moreover, our analysis suggests that relatively modest productivity gains in the software engineering sector alone could justify these capital costs, with a 42 percent increase in productivity sufficient to cover the industry’s depreciation and interest expenses.&lt;/p&gt;
+
+&lt;p&gt;Hardware constraints, particularly GPU availability, also appear manageable given expected technological advances and manufacturing capacity. Our projections indicate that the genAI industry would require between 15 percent and 50 percent of TSMC’s total manufacturing capacity by 2030—a substantial but feasible share. However, this assessment assumes continued access to Taiwanese semiconductor manufacturing, highlighting a critical geopolitical vulnerability in the supply chain.&lt;/p&gt;
+
+&lt;p&gt;The most significant challenge to sustained genAI growth lies in meeting its unprecedented electrical power demands. Our model projects that genAI technology will require approximately 84 GW of power by 2030—equivalent to adding another Texas to the U.S. grid. This dramatic increase in power demand, combined with other growing sectors such as electric vehicles and semiconductor manufacturing, will require a fundamental transformation of the U.S. power sector, which has been oriented toward minimal growth since the 1970s.&lt;/p&gt;
+
+&lt;p&gt;Critical infrastructure bottlenecks threaten to impede this necessary scaling of power capacity. Addressing these challenges will require coordinated policy action at both state and federal levels, including reforms to permitting processes, transmission planning, and nuclear power development.&lt;/p&gt;
+
+&lt;p&gt;In conclusion, while the United States possesses the economic capacity to support continued genAI growth through 2030, realizing this potential will require unprecedented coordination between industry and government to modernize and expand critical infrastructure, particularly in the power sector. The success of this endeavor will likely determine whether the United States can maintain its leadership position in genAI development and deployment. Future research should focus on detailed policy frameworks for accelerating power sector transformation while maintaining grid reliability and security.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;Karl Smith&lt;/strong&gt; is an economic policy consultant specializing in AI.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Joseph Majkut&lt;/strong&gt; is director of the Energy Security and Climate Change Program at the Center for Strategic and International Studies (CSIS).&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Cy McGeady&lt;/strong&gt; is a fellow with the Energy Security and Climate Change Program at CSIS.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Barath Harithas&lt;/strong&gt; is a senior fellow in the Economics Program and Scholl Chair in International Business at CSIS.&lt;/p&gt;</content><author><name>Karl Smith, et al.</name></author><summary type="html">This paper examines the feasibility and constraints of sustained growth in generative AI infrastructure.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://i.imgur.com/4udtW5w.jpeg" /><media:content medium="image" url="https://i.imgur.com/4udtW5w.jpeg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">【黎智英案・審訊第 141 日】</title><link href="https://agorahub.github.io/pen0/hkers/2025-02-28-trial-of-jimmy-lai-day-141.html" rel="alternate" type="text/html" title="【黎智英案・審訊第 141 日】" /><published>2025-02-28T12:00:00+08:00</published><updated>2025-02-28T12:00:00+08:00</updated><id>https://agorahub.github.io/pen0/hkers/trial-of-jimmy-lai-day-141</id><content type="html" xml:base="https://agorahub.github.io/pen0/hkers/2025-02-28-trial-of-jimmy-lai-day-141.html">&lt;ul&gt;
   &lt;li&gt;黎智英：不認為跟外國人談話構成勾結，但會冒險 官問：為何不遠離紅線？&lt;/li&gt;
 &lt;/ul&gt;
 
@@ -413,7 +572,172 @@
 
 &lt;hr /&gt;
 
-&lt;p&gt;&lt;strong&gt;Justin Bronk&lt;/strong&gt; is the Senior Research Fellow for Airpower and Technology in the Military Sciences team at RUSI, and Editor of RUSI Defence Systems. Justin has particular expertise on the modern combat air environment, Russian and Chinese ground-based air defences and fast jet capabilities, the air war during the Russian invasion of Ukraine, uncrewed combat aerial vehicles and novel weapons technology.&lt;/p&gt;</content><author><name>Justin Bronk</name></author><summary type="html">This paper argues for greater mission specialisation among NATO’s European air forces to effectively deter and defeat potential Russian aggression.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://i.imgur.com/MUHnSZT.jpeg" /><media:content medium="image" url="https://i.imgur.com/MUHnSZT.jpeg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">【黎智英案・審訊第 139 日】</title><link href="https://agorahub.github.io/pen0/hkers/2025-02-26-trial-of-jimmy-lai-day-139.html" rel="alternate" type="text/html" title="【黎智英案・審訊第 139 日】" /><published>2025-02-26T12:00:00+08:00</published><updated>2025-02-26T12:00:00+08:00</updated><id>https://agorahub.github.io/pen0/hkers/trial-of-jimmy-lai-day-139</id><content type="html" xml:base="https://agorahub.github.io/pen0/hkers/2025-02-26-trial-of-jimmy-lai-day-139.html">&lt;ul&gt;
+&lt;p&gt;&lt;strong&gt;Justin Bronk&lt;/strong&gt; is the Senior Research Fellow for Airpower and Technology in the Military Sciences team at RUSI, and Editor of RUSI Defence Systems. Justin has particular expertise on the modern combat air environment, Russian and Chinese ground-based air defences and fast jet capabilities, the air war during the Russian invasion of Ukraine, uncrewed combat aerial vehicles and novel weapons technology.&lt;/p&gt;</content><author><name>Justin Bronk</name></author><summary type="html">This paper argues for greater mission specialisation among NATO’s European air forces to effectively deter and defeat potential Russian aggression.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://i.imgur.com/MUHnSZT.jpeg" /><media:content medium="image" url="https://i.imgur.com/MUHnSZT.jpeg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Peace Scenarios In Ukraine</title><link href="https://agorahub.github.io/pen0/hkers/2025-02-27-peace-scenarios-in-ukraine.html" rel="alternate" type="text/html" title="Peace Scenarios In Ukraine" /><published>2025-02-27T12:00:00+08:00</published><updated>2025-02-27T12:00:00+08:00</updated><id>https://agorahub.github.io/pen0/hkers/peace-scenarios-in-ukraine</id><content type="html" xml:base="https://agorahub.github.io/pen0/hkers/2025-02-27-peace-scenarios-in-ukraine.html">&lt;p&gt;&lt;em&gt;The application of generative AI, contextually relevant data, and expert prompting to peace negotiation analysis reveals strategic insights for ending the Russia-Ukraine conflict.&lt;/em&gt;&lt;/p&gt;
+
+&lt;excerpt /&gt;
+
+&lt;h3 id=&quot;introduction&quot;&gt;Introduction&lt;/h3&gt;
+
+&lt;p&gt;Talks to end the war in Ukraine are in motion. As the Trump administration seeks to keep its promise to end the war in Ukraine, negotiators must consider long-standing research on war termination and peace negotiations. Despite calls for a swift ceasefire, this body of work shows that peace talks tend to take longer than initially anticipated. War is an extension of politics, and negotiations are shaped by a broad range of factors beyond simply tallying battlefield successes or assessing when combatants will exhaust their resources.&lt;/p&gt;
+
+&lt;p&gt;A report from the Center for Strategic and International Studies (CSIS), drawing on data from the Uppsala Conflict Data Program (UCDP), found that 60 percent of all wars conclude through some form of compromise. While wars can end in various ways, a negotiated settlement remains a distinct option for Ukraine. Therefore, identifying the factors that influence the complex process of war termination is essential for understanding how negotiations between the United States, Russia, Ukraine, other key states in Europe, and the broader international community may unfold.&lt;/p&gt;
+
+&lt;p&gt;War negotiations are inherently complex, marked by uncertainty, competing interests, and shifting variables. While artificial intelligence (AI) can help navigate this complexity, its effectiveness depends on proper application. Large language models (LLMs) are generalists, but their outputs can be refined using techniques such as retrieval-augmented generation (RAG), few-shot learning, and chain-of-thought reasoning. The key lies not only in the model itself but in the quality of the data and the sequencing of questions. By curating datasets focused on historical peace negotiations and structuring prompts to reflect real-world decisionmaking, AI moves beyond simple summarization to become a tool for systematically analyzing war termination and the challenging path toward a negotiated settlement in Ukraine.&lt;/p&gt;
+
+&lt;p&gt;This report leverages AI to explore possible pathways to peace between Russia and Ukraine. Researchers at the CSIS Futures Lab applied foundational literature on peace negotiations in international relations (IR) to curate datasets and refine their approach to prompt engineering, incorporating techniques such as few-shot learning, in-context learning, and chain-of-thought reasoning. The study demonstrates that AI techniques like RAG can be effectively used to rapidly understand and summarize key documents related to a potential peace agreement in Ukraine.&lt;/p&gt;
+
+&lt;p&gt;The LLM’s outputs provide key recommendations for policymakers and analysts assessing possible pathways to peace. First, territorial control and security guarantees will be central to any agreement. Both the AI-driven analysis using RAG and recent peace discussions in Munich and Riyadh highlight the significance of these factors. The findings of this report indicate that lasting peace requires a transparent, fair, and inclusive negotiation process—one that fully engages Ukraine and European states. This stands in contrast to emerging proposals that prioritize negotiations between Moscow and Washington while pressuring Ukraine into immediate elections and resource concessions. The real challenge isn’t merely bringing parties to the negotiating table but navigating the complex technical details that will shape long-term stability. Key issues include territorial arrangements, security guarantees, demilitarized zones, and verification mechanisms. The most difficult work in diplomacy lies ahead.&lt;/p&gt;
+
+&lt;p&gt;Second, negotiators must identify clear trade-offs. Not all peace agreements follow the same blueprint. While historical precedent and AI-driven analysis emphasize the importance of postwar justice, economic recovery, and social welfare in achieving lasting peace, political realities will ultimately determine what is negotiable. Russia has hardened its demands rather than offering concessions, making prosecutions for war crimes—however justified—highly unlikely. Negotiators will have to balance upholding international norms with the imperative of ending the war. One area where leverage remains is economic reparations; if the international community is willing, frozen Russian assets could be seized to aid Ukraine’s reconstruction.&lt;/p&gt;
+
+&lt;p&gt;Third, a lasting peace won’t be shaped solely by Ukraine and Russia—it will require sustained international involvement. Both historical research and AI-driven analysis confirm that third-party mediation, security guarantees, and enforcement mechanisms are essential to durable agreements. This dynamic is already unfolding, with Saudi Arabia emerging as a mediator between the United States and Russia. However, beyond facilitating talks, global actors must assume responsibility for monitoring, verifying, and enforcing postwar stability. The United States, in particular, faces a strategic decision: provide Ukraine with unconditional security support or risk long-term instability by demanding economic concessions in exchange for assistance. How Washington and its allies navigate this moment will not only determine the outcome of the war but also shape the credibility of future peace efforts worldwide.&lt;/p&gt;
+
+&lt;p&gt;Finally, generative AI presents a powerful tool for foreign policy and national security, but it must be used wisely. Policymakers should experiment with AI for brainstorming and strategic analysis, but always in conjunction with expert judgment. The technology has clear limitations—without proper benchmarking and access to tailored, up-to-date data, LLMs cannot reliably generate accurate insights. To maximize effectiveness, policymakers must customize AI models for specific use cases, ensuring outputs align with real-world conditions and the broader bodies of knowledge that inform policy analysis. Ultimately, AI can process historical data and help structure policy discussions; however, it cannot replace the human decisionmaking that determines war and peace.&lt;/p&gt;
+
+&lt;p&gt;The report begins by reviewing IR scholarship on war termination and peace processes, highlighting key drivers and roadblocks to achieving lasting peace. It then examines common techniques for working with generative AI, specifically RAG, to refine the performance of LLMs and improve model output. The third section applies the RAG approach to analyze peace agreement data and generate potential peace deals. The final section presents key takeaways and recommendations.&lt;/p&gt;
+
+&lt;h3 id=&quot;what-do-we-know-about-war-termination-and-peace-processes&quot;&gt;What Do We Know About War Termination and Peace Processes?&lt;/h3&gt;
+
+&lt;p&gt;How wars start and end are central topics in IR. Scholars have identified numerous factors that influence peace negotiations and the terms of any eventual agreement. A key framework for understanding war termination is bargaining theory, which suggests that conflicts end when the perceived benefits of peace outweigh the costs of continued fighting. In this context, information plays a critical role, as combatants continually reassess their capabilities relative to those of their adversary. War, therefore, is not merely a failure of diplomacy but rather an extension of negotiations between belligerents in which coercion and force play a role. Accordingly, states are typically conceptualized as being able to rationally assess their position vis-à-vis a rival because the conflict’s progress provides information about what sort of negotiated settlement reflects—at least in a capabilities-focused conception of bargaining—the broader power differential between the belligerents.&lt;/p&gt;
+
+&lt;p&gt;Other dynamics, however, such as domestic political factors, will likely shape any peace negotiations. Scholars have highlighted how domestic political coalitions influence leaders’ calculations of the domestic political costs of defeat. Furthermore, shifts in domestic political coalitions can accelerate war termination by facilitating more effective reassessments of likely outcomes. However, domestic political factions have been shown to protect their interests in any international agreement, potentially complicating the route to a more “rational” negotiation outcome. In the case of a Ukraine-Russia peace deal, domestic “spoilers”—groups who seek to sabotage any peace process due to their own interests—could obstruct progress, making a mutually acceptable outcome more difficult to achieve.&lt;/p&gt;
+
+&lt;p&gt;Scholarship has also demonstrated that more durable peace agreements often include civil society actors, such as local religious organizations or human rights groups. However, the question of who gets a “seat at the table” in peacemaking is influenced by both practical and normative considerations. Additionally, some form of justice—whether through post-conflict trials, truth commissions, or reparations—can, in certain cases, contribute to the durability of peace agreements. These factors, however, add further complications to the already challenging task of achieving successful peace negotiations and ensuring their subsequent implementation.&lt;/p&gt;
+
+&lt;p&gt;Furthermore, the international community is likely to play a crucial role in conflict termination through mediation efforts. Research indicates that “non-coercive” third-party mediation, whether conducted by states or international institutions, can play a role in “softening up” belligerents’ war aims, facilitating a cessation of hostilities. Beyond mediation, the international community can help ensure the long-term viability of peace agreements by providing monitoring and verification of the terms, as well as offering security guarantees. This role is particularly significant in the case of Ukraine, where international oversight may be necessary to prevent Russia from exploiting any cessation in hostilities to rebuild, rearm, and resume its pursuit of war aims.&lt;/p&gt;
+
+&lt;p&gt;Many of the aforementioned factors are likely to shape any negotiated peace settlement between Ukraine and all involved parties. For instance, years of war have provided information into both sides’ combat capabilities; however, uncertainty remains regarding the long-term military commitment of the United States and European states, as well as the financial resources available for Ukraine’s reconstruction. Moreover, as suggested in the literature on peace negotiations, domestic political factions, civil society actors, questions of justice, and the role of the international community could all shape the process. Any peace negotiations will, therefore, be highly complex, with numerous variables at play. To explore ways to creatively navigate this complexity, the CSIS Futures Lab employed AI-enabled tools to analyze historical peace agreements as well as current discussions aimed at ending the Russia-Ukraine war. The research team sought to generate possible parameters for an eventual settlement and to conceptualize different versions of a potential peace agreement.&lt;/p&gt;
+
+&lt;h3 id=&quot;applying-ai-to-analyze-war-and-peace&quot;&gt;Applying AI to Analyze War and Peace&lt;/h3&gt;
+
+&lt;p&gt;As part of the CSIS Futures Lab’s ongoing efforts to engage in data-driven analysis and experiment with AI-enabled technology, the research team took a creative approach to addressing the complex question of a potential peace agreement related to Russia’s ongoing invasion of Ukraine. To do so, the Futures Lab leveraged specifically tailored data sources, Scale AI’s Donovan platform (an AI-enabled data analysis tool), and a data query method known as RAG.&lt;/p&gt;
+
+&lt;p&gt;While off-the-shelf LLMs can generate responses or summarize text across a wide range of domains, their accuracy—particularly in “knowledge-intensive tasks”—can be inconsistent. RAG enhances LLM performance by directing models to leverage specific data sources when generating outputs. This approach relies on two key elements: a “retriever,” which queries relevant documents from a specified data source, and a “generator,” which synthesizes and summarizes the retrieved information. By structuring AI outputs in this way, RAG helps mitigate model “hallucinations,” or the tendency of LLMs to produce false or misleading information. The result is a more precise, reliable, and contextually informed response tailored to specific user queries.&lt;/p&gt;
+
+&lt;p&gt;RAG is just one of several techniques that can enhance LLM outputs for domain-specific tasks. For example, “few-shot learning”—the practice of providing models with a small example set of demonstrations within a specific context—has been shown to improve model performance. This approach works by incorporating specific data examples and correct labeling within a model prompt. Further research suggests that combining multiple contextual prompts can enhance the effectiveness of in-context few-shot learning. In general, the goal is for models to use these examples to better understand the fundamental structure of a task. Additionally, chain-of-thought prompting—which involves breaking down each step in a task when prompting models and instructing them to decompose responses into intermediate steps—has demonstrated improvements in model outputs.&lt;/p&gt;
+
+&lt;p&gt;For data, the research team leveraged two primary sources. The first was the full text of peace agreements compiled by the UCDP. The second was a collection of published articles curated by CSIS scholars, analyzing possible pathways to peace between Russia and Ukraine. These data sources were then uploaded to the Donovan platform to implement the RAG approach using commercially available LLMs. Donovan enabled the research team to better optimize search vectors from RAG across larger datasets—a key capability for employing LLMs to explore complex, high-context research areas such as peace negotiations.&lt;/p&gt;
+
+&lt;p&gt;The research team incorporated key elements of chain-of-thought prompting to support step-by-step reasoning. The prompting strategy began by first ensuring that the LLM, consistent with few-shot and in-context learning, properly understood the dataset. Next, the researchers directed the LLM to analyze peace agreements in general before narrowing the focus to Ukraine and the specific factors likely to shape the negotiation process. Finally, the model was tasked with exploring possible peace scenarios. This structured approach ensured a logical progression, establishing key analytical steps before prompting the LLM to generate sample peace agreements. In other words, sequencing the right questions is a deliberate strategy when employing LLMs to support foreign policy decisionmaking. Asking a vague or overly simplistic question yields a correspondingly simplistic response. However, posing a series of logically connected questions, grounded in a broader analytical framework, increases the likelihood of generating a well-calibrated and insightful response.&lt;/p&gt;
+
+&lt;h3 id=&quot;key-negotiation-factors-and-challenges-in-the-case-of-ukraine-and-russia&quot;&gt;Key Negotiation Factors and Challenges in the Case of Ukraine and Russia&lt;/h3&gt;
+
+&lt;p&gt;As described above, effectively employing AI to analyze complex, high-context tasks requires both gathering the right data and developing a tailored approach to prompting. When applied to generating possible peace agreements for Ukraine, this process necessitates collecting data on peace agreements in general, as well as ongoing, reputable accounts of negotiations. To that end, the research team created two datasets. The first dataset consisted of 333 peace agreements from between 1989 and 2018, compiled by the UCDP. Each entry contained the full text of the respective treaty. The second dataset, developed in collaboration with Ukrainian researchers, included 79 articles from major news outlets discussing potential peace talks. This effort built on the earlier CSIS Futures Lab series, Strategic Headwinds, which analyzed key factors shaping negotiations.&lt;/p&gt;
+
+&lt;p&gt;The figure below outlines the prompting strategy. First, the CSIS Futures Lab ensured that the model used historical peace agreements as an anchor for analyzing Ukraine. Second, the research team integrated current factors influencing peace negotiations in Ukraine. Third, the questions shifted toward identifying potential spoilers and roadblocks that could obstruct the peace process—an approach designed to mitigate confirmation bias and integrate red teaming techniques. With this contextual foundation, the research team then tasked the model with generating possible scenarios.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/TimuKb0.png&quot; alt=&quot;image01&quot; /&gt;
+&lt;em&gt;▲ Figure 1: Major Logical Categories for RAG Prompting and Chain-of-Thought Reasoning&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;The initial prompt asked the model to analyze the peace treaties in the UCDP dataset and identify common negotiation parameters. The model’s output highlights several key considerations that have shaped historical peace agreements. These include establishing a clear agenda and methodology for negotiations on specific issue areas, as well as creating timelines and processes for conducting negotiations. Security guarantees and shared principles—such as territorial integrity—emerge as common factors across agreements. Moreover, the analysis indicates that monitoring and evaluation mechanisms are frequent features in historical peace agreements. Finally, the output suggests that economic factors and social welfare issues, including land access, economic development, and human rights, have played a role in shaping historical peace outcomes.&lt;/p&gt;
+
+&lt;p&gt;According to the model’s analysis, historical trends indicate that, over time, peace agreements have increasingly emphasized human rights and economic cooperation, and they tend to be more comprehensive while also involving the international community to a greater extent. These findings align with IR scholarship on war termination and peace agreements, which highlights the importance of security guarantees and addressing considerations such as human rights abuses that may have occurred during a conflict. Additionally, studies have shown that peace negotiations placed greater emphasis on human rights in the first decade of the 2000s compared to the previous decade. However, since 2010, there has been growing pessimism about incorporating human rights stipulations into peace mediation efforts. Consequently, these nuances suggest that a model’s empirical claims should always be validated through ongoing research.&lt;/p&gt;
+
+&lt;p&gt;With a better understanding of the general parameters of the historical peace agreements, the research team next prompted the model to summarize the main points of the collected articles discussing possible peace processes between Ukraine and Russia.&lt;/p&gt;
+
+&lt;p&gt;The model’s output for this second prompt indicates that security guarantees—particularly Ukraine’s relationship with NATO—will be crucial for maintaining Ukraine’s territorial integrity. However, this could conflict with Russia’s interest in ensuring Ukraine remains neutral. Similarly, territorial disputes, including the status of areas currently occupied by Russian forces, are likely to be central to any negotiation. Additionally, Russia would likely demand assurances regarding sanctions relief. Beyond NATO, Ukraine’s potential membership in international organizations, such as the European Union, is also expected to shape negotiation parameters. Finally, the model’s analysis suggests that ceasefire agreements and monitoring mechanisms will be essential for ensuring the durability of any settlement. As with the first prompt, the model’s output aligns with key considerations identified in IR research on war termination. These include the role of the international community in monitoring agreements and the divergent interests surrounding Ukraine’s postwar status—particularly its aspirations to join NATO and the European Union. In the context of a bargaining model of war termination, such factors are likely to be central points of negotiation.&lt;/p&gt;
+
+&lt;p&gt;The research team also wanted to ascertain whether the RAG methodology could help identify potential roadblocks to successful negotiations. To this end, the model was prompted to generate possible obstructions to a peace deal. The model’s output suggests that power imbalances between Ukraine and Russia, as well as divergent views on territorial control in regions such as Crimea, could hinder an agreement. Additionally, while Ukraine is likely to want robust security guarantees and possibly NATO membership, this remains a major sticking point for Russia. These factors highlight the ongoing competing interests and strategic priorities of both states in the war. Model analysis also underscores possible domestic factors, such as public opinion, political factions favoring a more hardline approach, and spoiler groups that could undermine the negotiation process. Furthermore, a lack of trust between the belligerents could reduce the likelihood of an agreement and complicate effective monitoring and verification. Here, the conclusions of IR research are particularly relevant. For example, existing models recognize the role of domestic actors and spoiler groups as potential barriers to achieving a lasting peace. Moreover, the balance of power has long been a central theoretical consideration in assessing outcomes in international affairs.&lt;/p&gt;
+
+&lt;p&gt;As a final stage, the research team tested if this approach could generate different versions of peace agreements to assist analysts in thinking through alternative negotiated settlements. To achieve this, the model was prompted to generate three peace agreements, each with distinct parameters. The first agreement was a minimalist agreement, representing the least stringent version of a peace settlement generated by the model. Its key provisions include an immediate ceasefire and the withdrawal of Russian forces from Ukraine. However, it does not provide security guarantees for Ukraine, address competing territorial claims, or consider Ukraine’s potential NATO membership. Additionally, under this version of the deal, the international community would not offer technical assistance, monitoring, or support during the implementation phase.1&lt;/p&gt;
+
+&lt;p&gt;The second agreement was a moderate agreement, which also includes an immediate ceasefire and the withdrawal of Russian troops from Ukrainian territory. Additionally, it calls for the establishment of a buffer zone, along with international monitoring and verification. Beyond these measures, it introduces limited security guarantees through a nonaggression pact between the belligerents. While Ukraine would regain some of its internationally recognized territory, it would not recover all prewar land. Furthermore, Ukraine would agree to neutrality while expanding economic ties in trade and the energy sector. This agreement envisions a more substantial role for the international community, including the provision of technical assistance and support throughout the implementation process.&lt;/p&gt;
+
+&lt;p&gt;Finally, the third agreement was a comprehensive and ambitious agreement. This version incorporates all the components outlined in the previous two agreements. However, it also includes security guarantees that may be unappealing from a U.S./European perspective and within the current Ukrainian domestic political landscape. Specifically, it proposes a mutual defense pact between Ukraine and Russia. Moreover, the agreement stipulates Ukrainian-Russian cooperation on economic and security issues, including counterterrorism and nonproliferation efforts. In return, Russia agrees to withdraw all troops from disputed territories and formally recognize Ukrainian sovereignty over its internationally recognized land. Additionally, this version of the deal includes provisions for reconciliation and accountability, addressing human rights violations and war crimes committed during the conflict.&lt;/p&gt;
+
+&lt;p&gt;However, even in the above output, the comprehensive agreement produces parameters that some may deem unfavorable to Ukraine. To account for this, the research team prompted the model to generate an alternative deal that aligns more closely with Ukrainian interests.&lt;/p&gt;
+
+&lt;p&gt;This version of the agreement closely resembles the comprehensive agreement discussed above, particularly on issues related to Ukrainian territorial claims and addressing human rights violations and war crimes. However, one key difference is that this version does not include a Ukrainian-Russian defense pact. Instead, it grants Ukraine the autonomy to join NATO in the future. There is, however, a slight inconsistency in the agreement’s parameters. In this version, Ukraine agrees to maintain its “nonaligned” status, with the option to join organizations such as NATO at a later stage. It is unclear how agreeing to maintain a nonaligned status is compatible with any eventual plan to join the NATO alliance.&lt;/p&gt;
+
+&lt;p&gt;In summary, outputs leveraging RAG highlight several notable points. First, in the general analysis of the UCDP data and Ukrainian peace agreement articles, model outputs identified many agreement parameters consistent with those acknowledged in the IR literature. These include the importance of security guarantees, a role for the international community, and considerations of domestic political factors. These findings suggest that LLMs are capable of recognizing broader trends in data, which can be useful for reflecting core topics of discussion in the field of IR.&lt;/p&gt;
+
+&lt;p&gt;Second, in terms of themes across the data specific to a Ukrainian peace deal, model output illustrates that issues of territorial integrity and Ukrainian neutrality emerge as key points of concern. For example, the model identifies that difficulties in negotiations between Ukraine and Russia are likely to center around each country’s competing territorial claims and how territory currently occupied by Russian forces will be divided among the belligerents. Additionally, Ukraine’s relationship with NATO is a point of contention. Model outputs indicate discussions of Russian desires for Ukrainian neutrality within the articles in the dataset. However, due to long-term security concerns, the data suggests that Ukraine would likely prefer to join NATO to help guarantee that Russia will not take advantage of a ceasefire to rearm for a new stage in the conflict down the line.&lt;/p&gt;
+
+&lt;p&gt;Third, as instructed, the approach of using RAG linked to specified data sources was able to generate alternatives for a peace deal, with each proposal varying in the level of comprehensiveness. The model-generated output was able to recognize many crucial points of discussion that are likely to shape any real-world negotiations. However, initial output demonstrated inconsistencies in how variations of a peace deal addressed territorial disputes between Ukraine and Russia. This required tweaking initial prompts to achieve improved results and logically consistent treaty parameters.&lt;/p&gt;
+
+&lt;p&gt;Moreover, and problematic from a Ukrainian and U.S./European strategic viewpoint, the most comprehensive version of a deal generated by the model resulted in a Ukrainian-Russian mutual defense agreement, rather than Ukraine joining NATO. Considering Ukraine’s stated desire to join NATO and concerns that Russia may restart hostilities from a more advantageous position following any pause in the conflict, such an outcome diverges from the preferences of many Western states. Therefore, generating a deal more desirable to Ukraine using RAG required specific prompting to direct the model to create a deal more favorable to Ukrainian interests. In this version of the deal, Ukraine is directed to initially retain its neutrality but has the freedom to join international organizations, such as NATO, in the future.&lt;/p&gt;
+
+&lt;h3 id=&quot;from-ai-to-policy-and-parameters-of-a-future-deal&quot;&gt;From AI to Policy and Parameters of a Future Deal&lt;/h3&gt;
+
+&lt;p&gt;This report’s analysis, combining historical research and AI-driven modeling, identifies four core takeaways for policymakers navigating ongoing peace negotiations:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Territorial control and security guarantees will define any deal.&lt;/strong&gt; Ukraine’s future relationship with NATO and its territorial integrity remain the central issues in negotiations. While full NATO membership may face obstacles, alternative security guarantees from Europe or the United States could provide a viable path forward. However, Ukraine must be an active participant in negotiations—excluding Kyiv and focusing talks solely between Moscow and Washington risks backfiring.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Political realities will constrain peace terms.&lt;/strong&gt; While postwar justice, economic recovery, and social welfare are ideal components of durable agreements, Russia’s hardline stance makes concessions on war crimes trials unlikely. Negotiators must weigh international norms against the need for a practical settlement. One area where leverage remains is economic reparations—seizing frozen Russian assets could support Ukraine’s reconstruction.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;The international community will determine whether peace holds.&lt;/strong&gt; Third-party mediation, security guarantees, and long-term enforcement mechanisms will be critical. Recent diplomacy, such as Saudi Arabia’s role in talks, highlights the need for global engagement. However, without credible monitoring and enforcement, a ceasefire could become a temporary pause before renewed conflict. The United States must also balance its security commitments with the reputational risks of demanding economic concessions from Ukraine in exchange for aid.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;AI can support negotiations, but it won’t replace strategic judgment.&lt;/strong&gt; Generative AI can help analyze historical agreements, structure policy discussions, and generate alternative scenarios. However, tailored data and expert oversight are essential—AI is a tool for analysis, not a substitute for political decisionmaking.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;First, the analysis demonstrates that issues of territorial claims between the two belligerents, as well as security guarantees for Ukraine, will be core factors shaping any peace negotiations. In all variations of the deal generated by RAG, these issues emerged as key points of dialogue. Moreover, the findings align with ongoing political developments, as discussions of peace underscore the prominence of these themes. Model analysis of the collected texts indicates significant barriers to Ukraine’s NATO accession. However, this may not be the case for Ukraine attaining post-conflict security guarantees from Europe or the United States. The importance of these factors has been driven home by the recent discussions of a peace deal in both Munich and Saudi Arabia. Within these contexts, European states have proposed stationing forces in Ukraine for peacekeeping purposes, while Russia has demanded a retraction of the 2008 promise to allow Ukraine to join NATO at a future date.&lt;/p&gt;
+
+&lt;p&gt;That said, making progress in these areas will require Ukrainian involvement. Notably, Ukrainian President Volodymyr Zelensky postponed a planned trip to Saudi Arabia in hopes of diminishing the legitimacy of the recent talks between the United States and Russia. Policymakers must recognize that Ukraine retains the agency to accept or reject any deal, even amid an increasingly precarious military situation. This report’s analysis of historical peace agreements suggests that establishing a clear agenda and methodology for negotiations is important for achieving success. Future negotiations must acknowledge that this framework needs to include key political actors, such as Ukraine and Europe, to ensure a durable peace. Zelensky himself has emphasized this necessity, stating, “For the war to end with a reliable and lasting peace, no mistakes must be allowed. This is possible only when negotiations are fair, and guarantees are developed with the participation of all those who are truly capable of providing them.” Excluding Ukraine and Europe from the negotiation process could, therefore, have detrimental consequences. While the Trump administration may perceive direct talks with Moscow as the most expedient path to an agreement, such an approach risks undermining the legitimacy and sustainability of any potential settlement if key players are not involved. The fact is, research indicates that successful peace negotiations should not prioritize expediency at the expense of exclusivity, as agreements that exclude critical parties are less likely to endure.&lt;/p&gt;
+
+&lt;p&gt;Second, in terms of themes across the data specific to a Ukrainian peace deal, model output illustrates that issues of territorial integrity and Ukrainian neutrality emerge as key points of concern. For example, the model identifies that difficulties in negotiations between Ukraine and Russia are likely to center around each country’s competing territorial claims and how territory currently occupied by Russian forces will be divided among the belligerents. Additionally, Ukraine’s relationship with NATO is a point of contention. Model outputs indicate discussions of Russian desires for Ukrainian neutrality within the articles in the dataset. However, due to long-term security concerns, the data suggests that Ukraine would likely prefer to join NATO to help guarantee that Russia will not take advantage of a ceasefire to rearm for a new stage in the conflict down the line.&lt;/p&gt;
+
+&lt;p&gt;Third, as instructed, the approach of using RAG linked to specified data sources was able to generate alternatives for a peace deal, with each proposal varying in the level of comprehensiveness. The model-generated output was able to recognize many crucial points of discussion that are likely to shape any real-world negotiations. However, initial output demonstrated inconsistencies in how variations of a peace deal addressed territorial disputes between Ukraine and Russia. This required tweaking initial prompts to achieve improved results and logically consistent treaty parameters.&lt;/p&gt;
+
+&lt;p&gt;Moreover, and problematic from a Ukrainian and U.S./European strategic viewpoint, the most comprehensive version of a deal generated by the model resulted in a Ukrainian-Russian mutual defense agreement, rather than Ukraine joining NATO. Considering Ukraine’s stated desire to join NATO and concerns that Russia may restart hostilities from a more advantageous position following any pause in the conflict, such an outcome diverges from the preferences of many Western states. Therefore, generating a deal more desirable to Ukraine using RAG required specific prompting to direct the model to create a deal more favorable to Ukrainian interests. In this version of the deal, Ukraine is directed to initially retain its neutrality but has the freedom to join international organizations, such as NATO, in the future.&lt;/p&gt;
+
+&lt;h3 id=&quot;from-ai-to-policy-and-parameters-of-a-future-deal-1&quot;&gt;From AI to Policy and Parameters of a Future Deal&lt;/h3&gt;
+
+&lt;p&gt;This report’s analysis, combining historical research and AI-driven modeling, identifies four core takeaways for policymakers navigating ongoing peace negotiations:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Territorial control and security guarantees will define any deal.&lt;/strong&gt; Ukraine’s future relationship with NATO and its territorial integrity remain the central issues in negotiations. While full NATO membership may face obstacles, alternative security guarantees from Europe or the United States could provide a viable path forward. However, Ukraine must be an active participant in negotiations—excluding Kyiv and focusing talks solely between Moscow and Washington risks backfiring.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Political realities will constrain peace terms.&lt;/strong&gt; While postwar justice, economic recovery, and social welfare are ideal components of durable agreements, Russia’s hardline stance makes concessions on war crimes trials unlikely. Negotiators must weigh international norms against the need for a practical settlement. One area where leverage remains is economic reparations—seizing frozen Russian assets could support Ukraine’s reconstruction.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;The international community will determine whether peace holds.&lt;/strong&gt; Third-party mediation, security guarantees, and long-term enforcement mechanisms will be critical. Recent diplomacy, such as Saudi Arabia’s role in talks, highlights the need for global engagement. However, without credible monitoring and enforcement, a ceasefire could become a temporary pause before renewed conflict. The United States must also balance its security commitments with the reputational risks of demanding economic concessions from Ukraine in exchange for aid.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;AI can support negotiations, but it won’t replace strategic judgment.&lt;/strong&gt; Generative AI can help analyze historical agreements, structure policy discussions, and generate alternative scenarios. However, tailored data and expert oversight are essential—AI is a tool for analysis, not a substitute for political decisionmaking.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;First, the analysis demonstrates that issues of territorial claims between the two belligerents, as well as security guarantees for Ukraine, will be core factors shaping any peace negotiations. In all variations of the deal generated by RAG, these issues emerged as key points of dialogue. Moreover, the findings align with ongoing political developments, as discussions of peace underscore the prominence of these themes. Model analysis of the collected texts indicates significant barriers to Ukraine’s NATO accession. However, this may not be the case for Ukraine attaining post-conflict security guarantees from Europe or the United States. The importance of these factors has been driven home by the recent discussions of a peace deal in both Munich and Saudi Arabia. Within these contexts, European states have proposed stationing forces in Ukraine for peacekeeping purposes, while Russia has demanded a retraction of the 2008 promise to allow Ukraine to join NATO at a future date.&lt;/p&gt;
+
+&lt;p&gt;That said, making progress in these areas will require Ukrainian involvement. Notably, Ukrainian President Volodymyr Zelensky postponed a planned trip to Saudi Arabia in hopes of diminishing the legitimacy of the recent talks between the United States and Russia. Policymakers must recognize that Ukraine retains the agency to accept or reject any deal, even amid an increasingly precarious military situation. This report’s analysis of historical peace agreements suggests that establishing a clear agenda and methodology for negotiations is important for achieving success. Future negotiations must acknowledge that this framework needs to include key political actors, such as Ukraine and Europe, to ensure a durable peace. Zelensky himself has emphasized this necessity, stating, “For the war to end with a reliable and lasting peace, no mistakes must be allowed. This is possible only when negotiations are fair, and guarantees are developed with the participation of all those who are truly capable of providing them.” Excluding Ukraine and Europe from the negotiation process could, therefore, have detrimental consequences. While the Trump administration may perceive direct talks with Moscow as the most expedient path to an agreement, such an approach risks undermining the legitimacy and sustainability of any potential settlement if key players are not involved. The fact is, research indicates that successful peace negotiations should not prioritize expediency at the expense of exclusivity, as agreements that exclude critical parties are less likely to endure.&lt;/p&gt;
+
+&lt;p&gt;Fourth, generative AI, particularly techniques for refining LLM outputs like RAG and chain-of-thought prompting, can provide valuable insights for policymakers working toward a Ukraine-Russia peace settlement. When applied correctly, AI can summarize historical peace agreements, identify key negotiation patterns, and test alternative settlement scenarios. However, for AI to be effective in shaping the Ukraine peace process, it must be integrated thoughtfully alongside expert judgment and real-time intelligence. Policymakers should consider the following best practices:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Using AI for comparative analysis.&lt;/strong&gt; AI can assess past conflicts involving territorial disputes, security guarantees, and international mediation, offering insights into potential roadblocks and successful settlement strategies. When combined with basic data science and statistical methods, this approach provides a solid analytical foundation.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Applying structured prompting.&lt;/strong&gt; Logical, step-by-step questioning improves AI-generated outputs, ensuring they align with Ukraine’s core interests and avoid assumptions favoring Russian demands. Documenting the structure of the prompt sequence also enables alternative analyses, which are critical for complex policy issues like war termination and peace negotiations.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Incorporating expert validation.&lt;/strong&gt; AI-generated scenarios must be assessed by national security experts—from diplomats to military leaders—to determine their feasibility given current political and battlefield realities. This validation process can further refine model outputs through techniques like reinforcement learning with human feedback.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Customizing data inputs.&lt;/strong&gt; AI must be trained on the latest intelligence and negotiation positions, not just historical agreements, to ensure relevance in a fast-changing conflict. The challenge for analysts is how to weight current events in relation to the larger model and key concepts derived from techniques like graph theory and how models understand key relationships.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Leveraging AI for scenario planning.&lt;/strong&gt; By generating multiple versions of a peace agreement—from minimal ceasefire terms to comprehensive security frameworks—AI can help negotiators assess trade-offs and anticipate Russian counteroffers as counterfactuals. This type of analysis supports the identification of key negotiation positions that maximize U.S., Ukrainian, and European interests across the broadest range of possible outcomes.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Despite its strengths, AI is not a substitute for human negotiation, nor can it fully capture the complexity of war termination in the Russia-Ukraine conflict. The war’s evolving nature presents challenges that AI alone cannot resolve. AI struggles to adapt to rapid shifts in U.S., European, and Ukrainian political dynamics, as models trained on past agreements cannot account for these changes without constant data updates. Additionally, without precise prompting, AI-generated peace scenarios risk defaulting to compromises that align with neither the United States’ nor Ukraine’s national interests. While AI can highlight broad themes like territorial disputes and ceasefire terms, it lacks specificity on implementation details such as monitoring mechanisms, verification protocols, and postwar security guarantees.&lt;/p&gt;
+
+&lt;p&gt;These gaps underscore that policymakers must avoid treating AI as a shortcut to diplomacy. AI can help structure negotiations, but it can’t replace strategy. War termination is ultimately a political process, not a computational exercise. While AI-driven tools like RAG can surface insights from historical agreements and test potential settlement scenarios, peace is achieved through intelligence assessments, strategic trade-offs, and tough diplomatic engagement—not automated outputs alone. This analysis suggests that AI tools do not serve as a replacement for human judgment, expertise, and creativity. Nor can models independently align with the political and strategic goals of their users, nor account for human factors such as emotion or individual leadership characteristics that shape foreign policy outcomes. To make AI useful, policymakers must treat it as a force multiplier, not a decisionmaker. That requires constantly refining prompts, integrating the latest battlefield and political intelligence, and applying expert validation to ensure AI-generated insights align with Ukraine’s security needs and long-term stability. The key isn’t just using AI—it’s using it wisely, critically, and in service of strategic analysis.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;Benjamin Jensen&lt;/strong&gt; is a senior fellow with the Futures Lab at the Center for Strategic and International Studies (CSIS) in Washington, D.C.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Ian Reynolds&lt;/strong&gt; is a postdoctoral fellow with the CSIS Futures Lab.&lt;/p&gt;</content><author><name>Ian Reynolds and Benjamin Jensen</name></author><summary type="html">The application of generative AI, contextually relevant data, and expert prompting to peace negotiation analysis reveals strategic insights for ending the Russia-Ukraine conflict.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://i.imgur.com/84tmU94.jpeg" /><media:content medium="image" url="https://i.imgur.com/84tmU94.jpeg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">【黎智英案・審訊第 139 日】</title><link href="https://agorahub.github.io/pen0/hkers/2025-02-26-trial-of-jimmy-lai-day-139.html" rel="alternate" type="text/html" title="【黎智英案・審訊第 139 日】" /><published>2025-02-26T12:00:00+08:00</published><updated>2025-02-26T12:00:00+08:00</updated><id>https://agorahub.github.io/pen0/hkers/trial-of-jimmy-lai-day-139</id><content type="html" xml:base="https://agorahub.github.io/pen0/hkers/2025-02-26-trial-of-jimmy-lai-day-139.html">&lt;ul&gt;
   &lt;li&gt;黎智英：我是香港人、與中國無關 官：你是中國人、「你是黃皮膚嗎？」&lt;/li&gt;
 &lt;/ul&gt;
 
@@ -10591,203 +10915,4 @@
 
 &lt;p&gt;&lt;strong&gt;Edward Black&lt;/strong&gt;, Royal Navy Commander, is the First Sea Lord’s Visiting Fellow at RUSI. His research interests include Maritime Power and Defence Engagement. A Mine Clearance Diving Officer, in addition to time at sea he has served extensively abroad including Operational Tours in Afghanistan and Bahrain; Loan Service with the Royal Navy of Oman; as Defence Attaché in Mali and Deputy Defence Advisor in Kenya.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Sidharth Kaushal&lt;/strong&gt; is Senior Research Fellow, Sea Power at RUSI. His research covers the impact of technology on maritime doctrine in the 21st century and the role of sea power in a state’s grand strategy.&lt;/p&gt;</content><author><name>Edward Black and Sidharth Kaushal</name></author><summary type="html">A Chinese simulation admitting to a PLAN destroyer’s defeat by the US missiles hints at advanced electronic warfare capabilities while raising questions about the PLA transparency and messaging.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://i.imgur.com/qi0dLyg.jpeg" /><media:content medium="image" url="https://i.imgur.com/qi0dLyg.jpeg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">【黎智英案・審訊第 123 日】</title><link href="https://agorahub.github.io/pen0/hkers/2025-01-22-trial-of-jimmy-lai-day-123.html" rel="alternate" type="text/html" title="【黎智英案・審訊第 123 日】" /><published>2025-01-22T12:00:00+08:00</published><updated>2025-01-22T12:00:00+08:00</updated><id>https://agorahub.github.io/pen0/hkers/trial-of-jimmy-lai-day-123</id><content type="html" xml:base="https://agorahub.github.io/pen0/hkers/2025-01-22-trial-of-jimmy-lai-day-123.html">&lt;ul&gt;
-  &lt;li&gt;黎智英：若修例目的確實引渡逃犯 便不會有百萬人上街 官質疑可能因市民誤解&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;excerpt /&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/Klq1KxN.png&quot; alt=&quot;image01&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;【獨媒報導】壹傳媒創辦人黎智英及3間蘋果公司被控串謀勾結外國勢力及串謀刊印煽動刊物等罪，今（22日）於高院（移師西九龍法院）踏入第123日審訊，黎智英第31日作供，控方繼續盤問黎。2019年7月，黎與時任美國國務卿蓬佩奧見面後，翌日出席史丹福大學胡佛學院的公開講座對談，期間主持人稱香港政府提出修訂《逃犯條例》，意不在將謀殺犯引渡回香港，而是將北京眼中的異見者送回中國內地，黎聽罷稱：「對。」控方指出，黎聽到主持人的錯誤說法時，卻未有即場糾正，顯示他正在嘗試誤導觀眾。黎則否認誤導觀眾。黎認為政府聲稱為了引渡謀殺犯是一個藉口，並指如果這是修例的真正目的，便不會有超過百萬人上街遊行。控方和法官均指市民可能是在誤解之下上街。&lt;/p&gt;
-
-&lt;p&gt;此外，7.21元朗站白衣人襲擊事件之後，黎向 Mark Simon 表示希望邀請美國議員訪港，調查暴力，以制止建制派使用法外暴力打壓運動。當時得悉美議員正在到訪亞洲，因此嘗試經前美國駐港澳總領事郭明瀚接觸美議員，使他們更改行程提早來港。惟美議員最終在9至10月來港，黎智英確認在港會見了3名共和黨參議員。&lt;/p&gt;
-
-&lt;h4 id=&quot;控方指黎向蓬佩奧談及制裁-黎稱不記得&quot;&gt;控方指黎向蓬佩奧談及制裁 黎稱不記得&lt;/h4&gt;
-
-&lt;p&gt;昨日控方證據提到，黎於2019年7月9日赴美國與時任美國國務卿蓬佩奧見面。會面前一日，蓬佩奧助手 Mary Kissel 提供建議，提及制裁中共人員和香港官員子女的概念，亦提到將香港和台灣形容為冷戰時期的柏林會有好處。&lt;/p&gt;
-
-&lt;p&gt;控方代表、副刑事檢控專員周天行今提到，黎的確有在會見蓬佩奧期間提到制裁。黎一度反問：「我有說過制裁嗎？」控方指黎有，並且獲得報導，遂展示2019年7月25日的《蘋果》報導。當中指，黎在何俊仁主持的網上節目「細說中南海」中談及與蓬佩奧會面，蓬佩奧問黎：「美國可以怎樣做？」黎則回答美國可以實施制裁，讓中國官員知道其所作所為會有後果。惟黎庭上稱不記得自己如此向蓬佩奧說過，只記得自己在其他場合說過類似言論。&lt;/p&gt;
-
-&lt;h4 id=&quot;官質疑黎未有明言核武是比喻-黎反駁當你使用比喻時不會明言那是比喻&quot;&gt;官質疑黎未有明言「核武」是比喻 黎反駁：當你使用比喻時不會明言那是比喻&lt;/h4&gt;
-
-&lt;p&gt;控方指，2019年7月10日，即黎與蓬佩奧見面之後翌日，黎出席「保衛民主基金會」（Foundation for Defense of Democracies，簡稱 FDD）的公開講座對談，並向黎展示對談錄音謄本。黎形容中國與美國之間進入「新冷戰」，是關乎價值的鬥爭，而香港正在「前線」，又稱美國政府有「道德權威」（moral authority），其對香港的支持是「核武」。&lt;/p&gt;
-
-&lt;p&gt;法官李素蘭質疑：「當你談到核武的時候，別人怎樣知道那是一個比喻？」黎則重申他正在談論美國的道德權威。李素蘭反駁指：「你所想的與別人聽到的是不一樣」，問黎是否同意。黎僅稱：「OK，我同意。」&lt;/p&gt;
-
-&lt;p&gt;控方另引述黎在講座中稱「中國是敵人。」黎則否認，強調他是指價值方面，不代表他說中國是敵人。控方問黎，那麼中共是否敵人？黎則同意，但他否認憎恨中共，因為他沒有仇恨。&lt;/p&gt;
-
-&lt;p&gt;法官杜麗冰指，別人聽到黎的言論，可能會覺得黎正在與美國人共同作戰、反抗中國，黎又提到「核武」，「然而到結尾你未有明言那是一個比喻。」黎則反駁：「當你使用比喻時，你不會明言那是比喻。」他重申，他只是說香港人為美國一致的價值而戰鬥。&lt;/p&gt;
-
-&lt;h4 id=&quot;黎稱修例是藉口非為找出謀殺犯-控方質疑有意誤導&quot;&gt;黎稱修例是藉口非為找出謀殺犯 控方質疑有意誤導&lt;/h4&gt;
-
-&lt;p&gt;控方指，主持人在講座中提到，香港政府提出修訂《逃犯條例》，意不在將謀殺犯引渡回香港，而是將北京眼中的異見者送回中國內地，黎聽罷稱：「對。」&lt;/p&gt;
-
-&lt;p&gt;控方指，當時台灣發生一宗謀殺案，之後疑犯逃到香港，修例目的是為了將身處香港的疑犯引渡回台灣。黎在庭上稱，雖然將謀殺犯引渡回台灣是修例目的，但客觀效果（ramification）是可以將異見者送回中國內地。&lt;/p&gt;
-
-&lt;p&gt;控方指出，黎聽到主持人說修例不是意在引渡謀殺犯回港，然而黎並未有即場糾正其誤解，顯示他正在嘗試誤導觀眾。黎則否認誤導觀眾。&lt;/p&gt;
-
-&lt;p&gt;法官李運騰指，黎認為政府聲稱修例是為了引渡謀殺犯是一個藉口？黎同意，並指如果修例確是為了引渡謀殺犯的話，便不會有超過百萬人上街遊行。控方指，那可能是因為誤解。法官杜麗冰接著指，那百萬名市民可能是在誤解之下上街，正如黎般。李官亦指，那百萬名市民可能是因為黎的言論而產生誤解。黎僅回應：「我並不是那麼強大和具影響力。」&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/h3JUH6I.png&quot; alt=&quot;image02&quot; /&gt;&lt;/p&gt;
-
-&lt;h4 id=&quot;蓬佩奧助手曾提議將香港視為冷戰時期柏林-控方指黎一直銘記於心&quot;&gt;蓬佩奧助手曾提議將香港視為冷戰時期柏林 控方指黎一直銘記於心&lt;/h4&gt;
-
-&lt;p&gt;黎亦在講座中提到，當前美國總統甘迺廸到達柏林的時候，他說：「我是一個柏林人。」這給了當時的柏林人很大信心和希望，去面對蘇聯的威脅。法官李運騰問到，當黎提及柏林的時候，是否在借用 Mary Kissel 的主意。黎同意。法官李素蘭問，當黎與 Paul 討論時，是否再得到更多啟發。黎亦同意。&lt;/p&gt;
-
-&lt;p&gt;控方指，黎在2020年的網上節目「Live Chat with Jimmy Lai」，有好幾集均提及柏林面對蘇聯威脅，是因為黎將 Mary Kissel 的建議銘記在心。黎不同意，他稱在節目中將台灣比喻為柏林，是想說如果台灣失守的話，便會打擊西方的信譽。&lt;/p&gt;
-
-&lt;h4 id=&quot;黎撰寫文章初稿-提議美國拒絕向有份打壓香港的中港官員子女批出學生簽證&quot;&gt;黎撰寫文章初稿 提議美國拒絕向有份打壓香港的中港官員子女批出學生簽證&lt;/h4&gt;
-
-&lt;p&gt;控方指，黎於2019年8月8日向 Mark Simon 傳送一篇時評文章的草稿，並吩咐對方檢查和修改，以讓黎之後傳送給其教父兼《華爾街日報》編輯 Bill McGurn 。黎在庭上解釋，記憶中 Bill McGurn 提議他就胡佛對談的內容撰寫成文章，因此他撰寫了上述文章，打算傳送給 Bill McGurn 是因為 Bill 的英文比他更好，冀對方能修正他的英文。&lt;/p&gt;
-
-&lt;p&gt;黎的文章草稿籲美國人向當地的議員寫信，讓香港狀況維持在美國的政治議程之內，以及利用制裁來阻止中國侵害香港的自由，舉例指拒絕向有份打壓香港的中港官員子女批出學生簽證。文章最後一句說：「我們已經去除奴隸制度，為何不去除暴政！」（“We have eliminated slavery, why not tyranny!”）&lt;/p&gt;
-
-&lt;p&gt;法官李運騰一度關注文章有否在香港境內發布，並提到在訊息當日國安法尚未實施，可能衍生到法律爭議。控方則指訊息可以反映黎的心思意念，以及他在《國安法》前後繼續其行為的意圖。黎在庭上確認文章沒有在香港發表。&lt;/p&gt;
-
-&lt;p&gt;控方問黎，「我們已經去除奴隸制度，為何不去除暴政！」中的「暴政」是否指中國。黎僅指是「暴政」而不代表是中國。法官杜麗冰問「我們」是指誰人？黎指全世界的人。控方問：「包括你？」黎回答：「包括全世界的人。」控方則說：「不包括我。」&lt;/p&gt;
-
-&lt;h4 id=&quot;黎先後提出拒批和撤銷中港官員子女的學生簽證-控方提議一個比一個進取&quot;&gt;黎先後提出拒批和撤銷中港官員子女的學生簽證 控方：提議一個比一個進取&lt;/h4&gt;
-
-&lt;p&gt;控方接著展示2020年5月29日發布的文章「Do My Tweets Really Threaten China’s National Security?（我的推文真的威脅到中國的國家安全嗎？）」，當中提到：「There are other ways to retaliate against China for its repression of Hong Kong: Revoking student visas for the children of both Chinese Communist Party and Hong Kong officials, and increasing scrutiny of party corruption abroad, for example.（有很多報復中國打壓香港的方法：撤銷中共和香港官員子女的學生簽證，以及提高審視黨員在海外貪污情況，舉例來說。）」&lt;/p&gt;
-
-&lt;p&gt;黎庭上同意「撤銷中共和香港官員子女的學生簽證」屬一種制裁。黎亦解釋「充份審視黨員在海外貪污情況」的意思，因為很多貪污的錢都存放在美國的銀行帳戶之中。法官李運騰問，若然中國政府要求美國將貪污的錢歸還給中國的話，黎會否贊成？黎稱會贊成。李官接著問，黎贊成的話，那麼似乎是在提出中美之間司法互助，而不是提議制裁。黎則回應，他表示贊成是因為李官作出了假設。&lt;/p&gt;
-
-&lt;p&gt;控方指，黎實際上有提及凍結中共官員的銀行帳戶。黎同意。控方續指，黎在2019年8月提議美國拒絕向中港官員子女批出學生簽證，直至2020年5月，黎已提出撤銷中共和香港官員子女的學生簽證，可見黎的提議一個比一個進取。黎則表示在簽證方面同意。&lt;/p&gt;
-
-&lt;h4 id=&quot;黎要求張志偉報導博爾頓會面-否認屬編採指示&quot;&gt;黎要求張志偉報導博爾頓會面 否認屬編採指示&lt;/h4&gt;
-
-&lt;p&gt;2019年7月11日，黎向時任《蘋果》動新聞平台總監張志偉（Nick Cheung）傳送訊息，要求他報導黎與時任美國國家安全顧問博爾頓（John Bolton）會面。張志偉其後將新聞〈【逆權運動】晤美國國家安全顧問博爾頓 黎智英促請支持鼓勵香港年輕人〉傳送給黎，並表示已將新聞置頂和推送。&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/Mek8WV7.png&quot; alt=&quot;image03&quot; /&gt;
-▲ John Bolton（左）、Donald Trump（右）&lt;/p&gt;
-
-&lt;p&gt;黎庭上稱，他向博爾頓談及香港的反抗運動，呼籲美國以行動來支持香港。控方問黎口中的「行動」是否包括懲罰香港官員。黎稱他沒有這樣說過。&lt;/p&gt;
-
-&lt;p&gt;控方又指從報導截圖可見，黎在2019年7月的訪美之行除了會見蓬佩奧和博爾頓之外，還有會見不同議員，包括共和黨參議員克魯茲（Ted Cruz）、加德納（Cory Gardner）和斯科特（Rick Scott），目的是為了游說他們作出行動，包括制裁中港官員。黎堅稱他僅游說美國議員支持香港，作出鼓勵也是「行動」的一種，否認相關行動包括制裁，「這是你的用字，我沒有說過制裁。」&lt;/p&gt;
-
-&lt;p&gt;法官杜麗冰質疑，黎向張志偉要求報導，屬於下達編採指示。黎否認，強調他要求發表報導並不代表是指示，若果有一則具新聞價值的消息，他提供給對方，並不屬於「指示」；然而要求對方怎樣做，或者怎樣使用該新聞，才是屬於「指示」。&lt;/p&gt;
-
-&lt;p&gt;在法官的追問之下，黎稱：「如果你認為這是一個指示的話，我無法跟你爭辯」，但他強調任何人也可以向記者提供新聞。杜官反駁指黎是一名老闆、是一名高層。黎堅稱他只是叫張志偉處理新聞，不同意這是編採指示。&lt;/p&gt;
-
-&lt;h4 id=&quot;黎稱2019年7月渴望邀請美國議員來港調查暴力&quot;&gt;黎稱2019年7月渴望邀請美國議員來港調查暴力&lt;/h4&gt;
-
-&lt;p&gt;控方展示2019年7月21日，黎與 Mark Simon 之間的訊息，當中黎提到：「Let’s treat the trip of the senators and congressmen as a trip of fact-finding of violence of HK resistance movement.（讓我們視眾議員和國會議員的行程為一個調查香港反抗運動中的暴力的行程。）」黎亦提及邀請時任眾議院議長佩洛西（Nancy Pelosi）和共和黨議員盧比奧（Rubio）來港調查事實，黎並叫 Mark Simon 一起商討「有什麼游說工作可以做（“And what lobbying exercise we should do to accomplish it?”）」。&lt;/p&gt;
-
-&lt;p&gt;控方指，當時黎渴望邀請美國議員來港，調查反修例中的暴力。黎同意，惟他指佩洛西和盧比奧最終沒有來。控方指共和黨參議員克魯茲（Ted Cruz）和斯科特（Rick Scott）在2019年10或11月有來港。黎同意，但強調他們是主動來港，與上述提及的調查暴力行程不同。&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/VXqZwXR.png&quot; alt=&quot;image04&quot; /&gt;
-▲ 2019年7月21日（資料圖片）&lt;/p&gt;
-
-&lt;h4 id=&quot;721後黎擔心重演六四-冀邀請美議員來港介入以制止暴力&quot;&gt;7.21後黎擔心重演六四 冀邀請美議員來港介入以制止暴力&lt;/h4&gt;
-
-&lt;p&gt;控方續展示2019年7月23日的訊息，黎向 Mark Simon 說：「7.21元朗的黑社會暴力，必定是建制派陣營默許的，以製造恐懼制止反抗運動。這種想法預示了天安門屠殺會重演。我們要叫美國議員去調查暴力，不能再拖下去，以發出警告，去打破建制派打算使用法外暴力打壓運動。」黎又說：「讓我們使美國介入這種暴力，以制止它」，並吩咐 Mark Simon 與前白宮資深顧問惠頓商討，以組織一個訪港團。&lt;/p&gt;
-
-&lt;p&gt;同日，Mark Simon 告訴黎，7.21襲擊事件在美國國會山莊（Capitol Hill）上被討論，特朗普亦被傳媒問及7.21事件。Mark 續指，經他與惠頓數次商討後，得悉參議員克魯茲會連同美國參議員代表團，計劃在2019年10月到訪亞洲。Mark 稱前美國駐港澳總領事郭明瀚（James Cunningham）會協助經國務院接觸議員。&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/uSUIdki.png&quot; alt=&quot;image05&quot; /&gt;
-▲ James Cunningham 郭明瀚&lt;/p&gt;
-
-&lt;p&gt;黎回覆稱很好，形容美國議員愈快到訪香港的話，與便愈能扣連到事件，香港人便愈感受到支持，而建制派便會承受愈多恥辱。Mark Simon 提到有的代表正在前往台灣，「而我們正在嘗試騎劫（hijack）。」黎回覆：「他們可以到香港，之後到台灣，這樣能夠顯示港台兩地團結一致對抗中國。」&lt;/p&gt;
-
-&lt;p&gt;黎在庭上解釋，當時美國參議員準備前往亞洲或台灣，他們嘗試令該些議員更改行程，先前往香港。黎並同意當時希望美議員愈早訪港愈好。控方問，為何郭明瀚需要經國務院接觸議員？黎則稱不理解。&lt;/p&gt;
-
-&lt;p&gt;法官李素蘭問黎是否請求美國議員來訪香港？黎則指，他們本來已打算到訪亞洲，而香港是其中一站，他只是希望美議員能比原定計劃更早來到香港。&lt;/p&gt;
-
-&lt;h4 id=&quot;特朗普稱香港示威為暴動-黎同意部份示威是暴動-但大部份和平&quot;&gt;特朗普稱香港示威為「暴動」 黎：同意部份示威是暴動 但大部份和平&lt;/h4&gt;
-
-&lt;p&gt;控方續展示2019年8月2日的訊息，黎向 Mark Simon 傳送一則新聞，提到時任美國總統特朗普將香港示威稱為「暴動」，採用了中國的措辭。黎表示：「這出自特朗普口中，實在令人很失望。」Mark Simon 回覆指這是不好的，他已接觸博明（Matt Pottinger）及其他人，認為特朗普只是態度過於隨意。黎回覆：「好的，我們需要找出他的下屬發生了什麼事。」&lt;/p&gt;
-
-&lt;p&gt;控方問黎為什麼感到失望？黎表示忘記了當時前文後理。法官杜麗冰問黎是否同意特朗普稱呼香港示威為「暴動」？黎起初表示不同意，但是在連番追問下，黎表示「這某程度上可以被稱之為暴動」，因它不完全是暴動，有的人只將目光集中在部份年輕人，但是整體而言大部份示威都是和平的。控方追問黎是否同意特朗普的說法？黎回答：「對，有一部份是暴動。」控方追問，那為何黎會在訊息中表示「失望」？黎重申他不記得。&lt;/p&gt;
-
-&lt;p&gt;控方問及訊息中的博明（Matt Pottinger）。黎指博明是美國副國家安全顧問，又指他與 Mark Simon 互相認識，但是黎則不太認識他，因他不在香港，一直在美國工作。&lt;/p&gt;
-
-&lt;h4 id=&quot;美國眾議員去信蓬佩奧要求停售武器予香港警方&quot;&gt;美國眾議員去信蓬佩奧要求停售武器予香港警方&lt;/h4&gt;
-
-&lt;p&gt;2019年8月3日，Mark Simon 向黎傳送訊息，告知他美國眾議員 Chris Smith 和 James P. McGovern 已去信蓬佩奧等官員，促請美國停止向香港警隊出售武器和人群控制工具，亦要求蓬佩奧以最強烈的言辭，去反對特區政府將香港示威定性為「暴動」。Mark 又提到，特朗普因為「暴動」說法而被批評。（Trump is catching hell for “riots”…）黎回覆：「希望他找到方法去反駁它。（Hope he finds a way to repudiate it.）」&lt;/p&gt;
-
-&lt;p&gt;法官杜麗冰問黎，剛才黎說同意特朗普的「暴動」說法，為何又在訊息說希望他能反駁。黎稱他同意部份示威是暴動，因為有部份示威者是勇武年輕人。控方質疑黎未有明言希望特朗普反駁哪一部份。黎僅回答，他在訊息中只是說特朗普會找到方法反駁。&lt;/p&gt;
-
-&lt;h4 id=&quot;黎不同意-mark-simon-與美國政府關係密切&quot;&gt;黎不同意 Mark Simon 與美國政府關係密切&lt;/h4&gt;
-
-&lt;p&gt;2019年8月3日，黎向 Mark Simon 說：「在晚飯期間，只需要向他們報告議員的調查事實之行（fact-finding trip）及郭明瀚的角色，不要談及我或我的行程。」被問到為何不要談及他、「行程」是指什麼行程，黎表示不記得，也不知道 Mark 跟誰人晚膳。&lt;/p&gt;
-
-&lt;p&gt;至於郭明瀚的角色，黎指他有份協助推動調查事實之行。但黎同時提到郭明瀚是一名民主黨員，而當時想邀請的議員都是共和黨黨員，他不知道郭明瀚是否認識他們。法官李素蘭問到，雖然郭明瀚是民主黨黨員，但他亦獲特朗普政府提供工作機會，所以顯示他與共和黨的關係足以密切到獲得工作職位？黎則回應，郭明瀚是一個高級的外交人員，特朗普政府可以利用他這個特質。&lt;/p&gt;
-
-&lt;p&gt;控方又問，黎是否同意 Mark Simon 與美國政府有密切關係？黎不同意。控方質疑，從 Mark 的訊息可見，他向黎提供了很多內部消息。黎則指該些消息是從新聞報導得知，並非內部消息。&lt;/p&gt;
-
-&lt;p&gt;法官李素蘭問，Mark Simon 如何認識蓬佩奧助手 Mary Kissel 等人。黎指因為他與《華爾街日報》非常密切，而 Mary 等人是《華爾街日報》的時評寫手，所以認識他們，其後 Mark Simon 經黎認識了他們。控方又問黎是否與美國國務院關係密切？黎否認。&lt;/p&gt;
-
-&lt;h4 id=&quot;2019年9至10月美議員訪港-黎會見3名議員&quot;&gt;2019年9至10月美議員訪港 黎會見3名議員&lt;/h4&gt;
-
-&lt;p&gt;控方展示2019年9月10日的訊息，Mark Simon 向黎報告指，他們被要求將行程推至10月，以更接近「香港法案」有所實際行動的時候。黎同意當時他們正計劃在10月訪美，惟他不知道訊息中的「香港法案」是指什麼法案。黎確認當時一方面計劃邀請美國議員來港；另一方面正計劃在10月訪美。&lt;/p&gt;
-
-&lt;p&gt;控方指，Mark Simon 於2019年9月18日告知黎，一眾參議員將會訪港，而共和黨參議員克魯茲（Ted Cruz）亦會於10月上旬訪港。控方續指，黎於9月29日與共和黨參議員斯科特（Rick Scott）在香港見面；其後於10月12日與克魯茲見面；至10月14日，黎與共和黨參議員霍利（Joshua Hawley）見面。&lt;/p&gt;
-
-&lt;p&gt;被問到在會面時談論了什麼，黎表示事隔已久不記得。控方問是否談論香港狀況，或是游說美國實施制裁？黎表示不會揣測，重申已不記得會面內容。&lt;/p&gt;
-
-&lt;p&gt;案件明日續審。&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;案件編號：HCCC51/2022&lt;/p&gt;</content><author><name>獨媒報導</name></author><summary type="html">黎智英：若修例目的確實引渡逃犯 便不會有百萬人上街 官質疑可能因市民誤解</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://i.imgur.com/LciFH41.jpg" /><media:content medium="image" url="https://i.imgur.com/LciFH41.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">The Forgotten War</title><link href="https://agorahub.github.io/pen0/hkers/2025-01-22-the-forgotten-war.html" rel="alternate" type="text/html" title="The Forgotten War" /><published>2025-01-22T12:00:00+08:00</published><updated>2025-01-22T12:00:00+08:00</updated><id>https://agorahub.github.io/pen0/hkers/the-forgotten-war</id><content type="html" xml:base="https://agorahub.github.io/pen0/hkers/2025-01-22-the-forgotten-war.html">&lt;p&gt;&lt;em&gt;Scholars of cyber conflict have largely ignored the rise of ransomware as a national security threat. Counter-ransomware strategies would benefit from further interrogation from this community.&lt;/em&gt;&lt;/p&gt;
-
-&lt;excerpt /&gt;
-
-&lt;p&gt;Hostile cyberattacks on hospitals, energy infrastructure, and strategic ports. Retaliatory offensive cyber operations carried out by Five Eyes members. Ransomware bears many of the hallmarks of the kind of cyber conflict long imagined by academics, military planners, and policymakers, albeit one waged primarily by law enforcement agencies and financially motivated criminals rather than cyber commands. Indeed, the FBI recently announced that its agents have conducted over 30 disruption operations against ransomware criminals in 2024 alone, emphasising the importance of ransomware as a strategic challenge.&lt;/p&gt;
-
-&lt;p&gt;Despite this, scholars of cyber conflict largely overlook ransomware. This leaves policy debates about ransomware poorer. Given the increasing use of offensive cyber operations and other tools of statecraft in counter ransomware strategies, more scholars should seek to interrogate the assumptions and concepts that underpin their implementation.&lt;/p&gt;
-
-&lt;h3 id=&quot;ransomware-in-cyber-conflict-studies&quot;&gt;Ransomware in cyber conflict studies&lt;/h3&gt;
-
-&lt;p&gt;Historically, strategic studies has focused on cyber competition and conflict in interstate relations. Academics are split between framing cyber operations as an intelligence contest or using the US-driven lens of persistent engagement. This literature has successfully tempered inflated expectations about one-off, strategically decisive cyberattacks, and helped re-orient policymaking and the study of cyber conflict towards an approach focusing on the cumulative effects of campaigns. However, these debates remain narrowly tailored to state-centred dynamics.&lt;/p&gt;
-
-&lt;p&gt;To date, theorists on offensive cyber operations have not convincingly demonstrated how these frames – drawn upon to assess interstate cyber behaviour – can be applied to countering ransomware.&lt;/p&gt;
-
-&lt;p&gt;This disconnect is perhaps best illustrated in the widely influential cyber persistence theory, which maintains that the structural condition of interconnectedness, as well as continuous network exploitation below armed conflict, tacitly fosters an “agreed competition” between state adversaries. While proponents argue that “the strategic principle of initiative persistence remains valid against non-State actors”, there has been little sustained exploration of what value persistence can actually bring to countering ransomware actors.&lt;/p&gt;
-
-&lt;p&gt;This is despite repeated evidence that ransomware operators’ prioritisation of financial gain defies structured competition, not least in their frequent disregard of the risk calculations that otherwise shape geopolitically motivated state behaviour in cyberspace. Ransomware operators have brazenly disrupted US critical infrastructure – including hospitals, oil pipelines, and food production – at a tempo and scale that no state adversary has come close to.&lt;/p&gt;
-
-&lt;p&gt;Barring Max Smeets’ upcoming Ransom War book and a conference paper by legal researchers on the impact of Western cyber operations on the ransomware ecosystem, cybercrime and ransomware have been relegated to the periphery of strategic discussions on offensive cyber operations. Not a single prominent strategic studies or international relations journal has published an article focused on ransomware. Even when issues of cyber deterrence and non-state actors are raised, the focus of countermeasures has remained on traditional law enforcement levers like indictments and prosecutions.&lt;/p&gt;
-
-&lt;p&gt;In circles where states’ offensive cyber operations against ransomware actors have taken centre stage, US researchers have framed the discussion primarily around the question of authority. The debate has focused on whether such operations should fall within the purview of law enforcement or military action – of course with important implications for legal oversight and global cyber norms – rather than critically examining the strategic assumptions and efficacy of counter-ransomware cyber operations.&lt;/p&gt;
-
-&lt;h3 id=&quot;is-ransomware-boring&quot;&gt;Is ransomware boring?&lt;/h3&gt;
-
-&lt;p&gt;This lack of critical interrogation is symptomatic of a deeper issue: a cultural and strategic bias that downplays ransomware as less significant than state-sponsored cyber threats.&lt;/p&gt;
-
-&lt;p&gt;For many, ransomware lacks the geopolitical gravity and technical tradecraft typically associated with state-sponsored operations. As Ciaran Martin, former CEO of the UK National Cyber Security Centre, quipped earlier this year, ransomware may simply be “politically boring” in comparison to other cyber threats.&lt;/p&gt;
-
-&lt;p&gt;In a world preoccupied with great power rivalries, particularly US-China competition, researchers and policymakers have instead – to borrow the words of former US Cybersecurity and Infrastructure Security Agency director Chris Krebs – “fetishised” advanced persistent threats (APTs), state actors that conduct sustained campaigns.&lt;/p&gt;
-
-&lt;p&gt;This phenomenon goes beyond the study of cyber conflict. The cyber threat intelligence industry, with the exception of a few firms focused on cybercrime, has long prioritised reporting on advanced and persistent state actors. Although there are commercial incentives for this – as has been emphasised elsewhere – it also reflects the lived experiences and mindset of the ex-government and military intelligence professionals that dominate the industry. Given that theory-building in cyber conflict studies often relies on data-rich reports crafted by these vendors, the cyber threat intelligence industry’s preferences reinforce the academic emphasis on state activity.&lt;/p&gt;
-
-&lt;h3 id=&quot;interrogating-counter-ransomware-strategies&quot;&gt;Interrogating counter-ransomware strategies&lt;/h3&gt;
-
-&lt;p&gt;Why does the lack of strategic studies focus on ransomware matter? In the simplest terms, because ransomware policy would benefit from the same type of theory-building and debate that has informed the development of strategic and operational concepts for state activity in cyberspace. Strategies to counter ransomware go beyond a mere collection of rules and decisions; they are rooted in a broader set of beliefs and assumptions that shape how policymakers define problems, interpret information, and choose solutions.&lt;/p&gt;
-
-&lt;p&gt;Consider the US counter-ransomware strategy, which increasingly emphasises law enforcement-led disruption operations through offensive cyber and other means. This is despite lingering questions about the theory of change for this approach and its underlying assumptions. Is it simply a version of persistent engagement, which the 2023 US National Cybersecurity Strategy nods to in asserting that “disruption campaigns must become so sustained and targeted that criminal activity is rendered unprofitable”? If so, does this mean that theories advanced for interstate competition and deterrence have simply been shifted onto ransomware? If that is the case, more discussion is required to understand how the goals, strategies, and risk calculus of criminals, particularly those harboured or tacitly endorsed by hostile states, are different from governments and intelligence agencies.&lt;/p&gt;
-
-&lt;p&gt;There are also unanswered questions about the unintended consequences of the current approach by the US, UK, and others.&lt;/p&gt;
-
-&lt;p&gt;In going after major ransomware-as-a-service (RaaS) providers – criminal groups that develop and rent out ransomware tools to affiliates – James Babbage, former commander of the UK National Cyber force and current director general for threats at the National Crime Agency, has observed that the “criminal industry is effective at amending its activities and business models dynamically”.&lt;/p&gt;
-
-&lt;p&gt;This has recently been highlighted by Europol, which noted that the damaging of RaaS reputations by law enforcement prompted high-level affiliates to “lessen their dependence on ransomware service providers’ infrastructure”, instead relying on increasingly decentralised and more elusive forms of partnerships.&lt;/p&gt;
-
-&lt;p&gt;These are just some of the questions and challenges that would benefit from more interrogation and debate by scholars and researchers.&lt;/p&gt;
-
-&lt;h3 id=&quot;the-need-for-academic-conflict-on-ransomware&quot;&gt;The need for (academic) conflict on ransomware&lt;/h3&gt;
-
-&lt;p&gt;As researchers at a national-security-focused think tank, we are ourselves part of the echo chamber that has largely treated cybercrime as an afterthought or distraction from cyber competition and conflict between states.&lt;/p&gt;
-
-&lt;p&gt;Yet this neglect comes with risks. First, without interrogation and challenge from those outside government, counter-ransomware strategies risk being built on shaky conceptual foundations. Second, strategic studies scholars could sideline themselves from policy debates about a cyber threat that arguably has a far greater impact on society and the economy than most state-backed cyber operations.&lt;/p&gt;
-
-&lt;p&gt;With a new US administration likely to put renewed emphasis on using offensive cyber operations to achieve its goals, now is a better time than ever for scholars to shine a light on the theories and assumptions of counter-ransomware strategies.&lt;/p&gt;
-
-&lt;p&gt;In doing so, scholars may reinvigorate increasingly tired debates about cyber deterrence and the utility of offensive cyber operations. They may also come to discover what we have: ransomware is one of the most compelling cyber strategy dilemmas of our time.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;strong&gt;Sara Seppanen&lt;/strong&gt; is a research analyst at the Royal United Services Institute (RUSI). Her work focuses on advancing the understanding of responsible cyber behaviour and examining the role of private actors in international cyber governance. She is particularly focused on how private companies influence the development of cyber statecraft and cloud policy.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Jamie MacColl&lt;/strong&gt; is a Senior Research Associate at Virtual Routes. He is also a Research Fellow in cyber security at RUSI. His current research interests include ransomware, the UK’s approach to offensive cyber operations, and the role of private companies in global cyber governance. He has led a range of public and private projects for RUSI, with a particular focus on UK cyber policy.&lt;/p&gt;</content><author><name>Sara Seppanen and Jamie MacColl</name></author><summary type="html">Scholars of cyber conflict have largely ignored the rise of ransomware as a national security threat. Counter-ransomware strategies would benefit from further interrogation from this community.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://i.imgur.com/aYPa7CI.png" /><media:content medium="image" url="https://i.imgur.com/aYPa7CI.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
+&lt;p&gt;&lt;strong&gt;Sidharth Kaushal&lt;/strong&gt; is Senior Research Fellow, Sea Power at RUSI. His research covers the impact of technology on maritime doctrine in the 21st century and the role of sea power in a state’s grand strategy.&lt;/p&gt;</content><author><name>Edward Black and Sidharth Kaushal</name></author><summary type="html">A Chinese simulation admitting to a PLAN destroyer’s defeat by the US missiles hints at advanced electronic warfare capabilities while raising questions about the PLA transparency and messaging.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://i.imgur.com/qi0dLyg.jpeg" /><media:content medium="image" url="https://i.imgur.com/qi0dLyg.jpeg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
