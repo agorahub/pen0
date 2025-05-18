@@ -1,4 +1,122 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://agorahub.github.io/pen0/hkers.xml" rel="self" type="application/atom+xml" /><link href="https://agorahub.github.io/pen0/" rel="alternate" type="text/html" /><updated>2025-05-16T14:48:16+08:00</updated><id>https://agorahub.github.io/pen0/hkers.xml</id><title type="html">The Republic of Agora | Hkers</title><subtitle>UNITE THE PUBLIC ♢ VOL.52 © MMXXV</subtitle><entry><title type="html">Typhoons In Cyberspace</title><link href="https://agorahub.github.io/pen0/hkers/2025-03-20-typhoons-in-cyberspace.html" rel="alternate" type="text/html" title="Typhoons In Cyberspace" /><published>2025-03-20T12:00:00+08:00</published><updated>2025-03-20T12:00:00+08:00</updated><id>https://agorahub.github.io/pen0/hkers/typhoons-in-cyberspace</id><content type="html" xml:base="https://agorahub.github.io/pen0/hkers/2025-03-20-typhoons-in-cyberspace.html">&lt;p&gt;&lt;em&gt;The transformation of China’s digital attack capabilities is the most important change in the cyber threat to the West in more than a decade.&lt;/em&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://agorahub.github.io/pen0/hkers.xml" rel="self" type="application/atom+xml" /><link href="https://agorahub.github.io/pen0/" rel="alternate" type="text/html" /><updated>2025-05-18T10:27:15+08:00</updated><id>https://agorahub.github.io/pen0/hkers.xml</id><title type="html">The Republic of Agora | Hkers</title><subtitle>UNITE THE PUBLIC ♢ VOL.52 © MMXXV</subtitle><entry><title type="html">SIFMANet Virtual Asset Report</title><link href="https://agorahub.github.io/pen0/hkers/2025-03-21-sifmanet-virtual-asset-report.html" rel="alternate" type="text/html" title="SIFMANet Virtual Asset Report" /><published>2025-03-21T12:00:00+08:00</published><updated>2025-03-21T12:00:00+08:00</updated><id>https://agorahub.github.io/pen0/hkers/sifmanet-virtual-asset-report</id><content type="html" xml:base="https://agorahub.github.io/pen0/hkers/2025-03-21-sifmanet-virtual-asset-report.html">&lt;p&gt;&lt;em&gt;This conference report summarises a February 2025 roundtable discussion on the implementation of sanctions for the virtual asset industry.&lt;/em&gt;&lt;/p&gt;
+
+&lt;excerpt /&gt;
+
+&lt;h3 id=&quot;introduction&quot;&gt;Introduction&lt;/h3&gt;
+
+&lt;p&gt;In February 2025, the Centre for Finance and Security (CFS) at RUSI hosted a roundtable discussion with 32 participants from the public and private sectors, including blockchain analytics companies and virtual asset service providers (VASPs). The conversation focused on the challenges associated with the implementation of sanctions for the virtual asset industry. Primarily, the discussion centred on methods used by governments to target entities and individuals exploiting virtual assets for sanctions evasion. This conference report provides a summary of the key points from the roundtable discussion. None of the discussions at the event are attributable.&lt;/p&gt;
+
+&lt;p&gt;In summary, during the roundtable discussion, participants deconstructed the steps involved with designating and tracking virtual asset entities and individuals, as well as attributable virtual asset addresses. Based on this, the discussion identified operational and regulatory gaps that persist and undermine the effectiveness of sanctions in the virtual asset industry. These points include the need for governments to define the objective of a sanctions designation, provide clarity for VASP market participants on sanction packages, and understand the tools that may further support the process of tracking and confiscating virtual assets tied to sanctions evasion. Furthermore, the public and private sectors need to develop a system where governments can feed back information to VASPs on infrastructure changes of sanctioned entities and individuals after the initial sanctions designation, to maintain the effectiveness of the original designations.&lt;/p&gt;
+
+&lt;h3 id=&quot;identifying-concerns&quot;&gt;Identifying Concerns&lt;/h3&gt;
+
+&lt;p&gt;An opening question focused on identifying participants’ primary concerns related to sanctioned entities exploiting the virtual asset industry. To illustrate these concerns, Iran was used as a case study, with discussions centred on the increased rate of virtual asset adoption in Iran to protect wealth from hyperinflation – in particular, via the use of stablecoins – and how the country may use virtual assets for sanctions evasion as well as to fund influence operations abroad.&lt;/p&gt;
+
+&lt;p&gt;In addition, services have opened to support individuals to illegally access VASPs that restrict Iranian customers. This point is evidenced by a December 2024 report from Crystal Intelligence, which focuses on a service that states it “provides authentication services, free static IPs, and open-layer files for Iranian users and sanctioned platforms with 5 years of experience and specialized support”. The report further outlines that a “deepfake tool” provided by the service can help Iranians bypass facial recognition used by VASPs and subsequently set up accounts. Such tools can support the country with evading sanctions, underlining how important it is for those designing sanctions to closely monitor developments in available technology.&lt;/p&gt;
+
+&lt;p&gt;One participant also drew attention to Iran recently approving virtual asset regulation. The regulation highlights a focus on “building a culture of using blockchain technologies and tokens to finance production and facilitate foreign trade”. This point aligns to Iran’s statement in 2022 on using virtual assets as a form of guarantee for small and medium-sized businesses that work in counterparts in other countries. With virtual assets increasingly being integrated into credit settlement in international trade, as discussed at the roundtable, VASPs’ compliance teams may encounter challenges similar to those facing financial institutions in identifying transactions tied to high-risk goods.&lt;/p&gt;
+
+&lt;p&gt;Finally, one participant highlighted that, when investigators are analysing sanctions evasion activity by Iran, they are often looking for a smoking gun but, as in traditional finance, individuals abusing virtual assets can also use shell companies and integrate formal and informal networks to reduce transparency. This is evidenced by information linked to a recent US sanction designation on an Islamic Revolutionary Guard Corps-Quds Force-backed Houthi financier. A report by blockchain analytics company Chainalysis provided insight on the sanctions evasion activity, noting that the addresses on the sanctions list show “little direct exposure to mainstream services”, and instead, the individual appears “to move and launder funds through more informal networks”. Therefore, investigators need to adapt their perspective to understand the full complexity of sanction evasion networks.&lt;/p&gt;
+
+&lt;h3 id=&quot;sanctions-implementation-process&quot;&gt;Sanctions Implementation Process&lt;/h3&gt;
+
+&lt;p&gt;The discussion then moved to how to tackle challenges with sanctions implementation. To support the dialogue, a proposed process for sanctions implementation for the virtual asset industry was developed prior to the meeting. This was shared with participants to determine additional elements that are involved and their associated challenges. Figure 1 shows this process as revised following the roundtable.&lt;/p&gt;
+
+&lt;p&gt;The discussion touched on the elements of the process for sanctioning an entity or individual in the industry and identifying associated virtual asset addresses. After a virtual asset address is attributed to a sanctioned actor and the information is added to a government’s sanctions list, blockchain analytics companies will update their tools to display the designation. As a result of these tools updating information, retrospective alerts may be generated for VASPs that use those products to support sanctions compliance. Based on these retrospective alerts, a VASP may or may not – depending on guidance provided by the public sector – file a suspicious transaction report (STR).&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/9rAuCdU.png&quot; alt=&quot;image01&quot; /&gt;
+&lt;em&gt;▲ Figure 1: Simplified Process for Designation of Sanctioned Entities&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;In parallel with this process, the sanctioned actor may attempt to move their funds to separate themselves from links to the designated address on the sanctions list. Therefore, blockchain analytics companies and law enforcement investigate the movement of funds to identify subsequent addresses and infrastructure changes linked to the designated actor. Based on these investigations, blockchain analytics companies update their analytic tools with additional information on addresses and entities linked to the initial sanctions designation. Notably, small and medium-sized VASPs may not use blockchain analytic tools and therefore only monitor for incoming funds linked to the initial sanctions designation. Therefore, they may not detect alterations in approach by a sanctioned entity and may potentially be unaware of the risk level of incoming funds. This represents a systemic vulnerability that is further emphasised if such VASPs rely on larger VASPs to gain access to liquidity.&lt;/p&gt;
+
+&lt;p&gt;An example provided by one roundtable participant was that the US Specially Designated Nationals and Blocked Persons (SDN) list identified three virtual asset addresses tied to the sanctioned entity Garantex, a centralised exchange. For nearly three years after the announcement of the US designation, Garantex continued to operate and appear in public reports on financial crime investigations. This activity by Garantex was tracked closely by the public and private sectors to identify new shell companies or addresses used by the sanctioned entity. However, small and medium-sized VASPs may still have relied on monitoring for incoming transactions tied to the initial designation that did not include updated information. Solutions for such types of vulnerability are further discussed below. Notably, in the weeks after the roundtable, law enforcement seized the domain of Garantex, froze a portion of the assets, and released indictments for operators of the exchange.&lt;/p&gt;
+
+&lt;h3 id=&quot;define-the-objective&quot;&gt;Define the Objective&lt;/h3&gt;
+
+&lt;p&gt;One theme that came up repeatedly during the roundtable was the need for the public sector to pinpoint its objective prior to designating virtual asset addresses and entities. One participant emphasised that in the virtual asset industry, sanctions are an effective tool for spotlighting services facilitating transactions for illicit actors, but do not halt the activity, merely pushing it into areas with limited or no virtual asset regulation and enforcement.&lt;/p&gt;
+
+&lt;p&gt;Participants also discussed the fact that sanctions designations in the virtual asset industry can have unintended consequences, and government representatives need to be aware of these and whether they might negate the intended objective of the sanctions designation. As noted at the beginning of this report, in countries experiencing hyperinflation, citizens are more inclined to convert fiat currency to virtual assets to reduce price fluctuation of held assets and retain wealth. To achieve this, services are needed to allow fiat-to-virtual asset conversion with domestic currency. For a high-risk or sanctioned country, the transfer of domestic currency into stablecoins – if options providing this service are available – can result in capital flight. Ultimately, this movement of funds out of the sanctioned country impacts its economy. However, if those citizens are cut off from purchasing virtual assets with their domestic currency due to the restrictions created by sanctions, the risk of capital flight for the sanctioned country via this route is reduced and these funds stay in the country and support the economy. Participants agreed that this balance should be considered by policymakers when determining virtual asset-related sanctions on a country such as Iran.&lt;/p&gt;
+
+&lt;p&gt;The discussion also outlined how government representatives can consider how stimulating the use of virtual assets via sanctions implementation can have beneficial consequences. For example, where a sanctioned entity or individual is cut off from traditional banking and turns to the virtual asset industry instead, the traceability of virtual asset transactions gives the public and private sectors insight into further sanctions evasion activity. In a case highlighted by The Wall Street Journal and discussed at the roundtable, a Russia-linked individual used stablecoins to wire funds to a supplier to pay for electronics. The individual, according to the article, used “Garantex, along with other intermediary firms, to convert customers” rubles into tether, moving the cryptocurrency on a blockchain system called Tron’. The article then notes that the individual converted the stablecoin for “yuan at over-the-counter brokers in Hong Kong, and then wired suppliers the money by a local bank transfer”. Although investigations such as this are far from simple, participants noted that the traceability of virtual assets allows a streamlined end-to-end process for detecting where funds are sent and converted to fiat currency, potentially providing sanctions policymakers with greater visibility of future sanctions targets.&lt;/p&gt;
+
+&lt;h3 id=&quot;provide-clarity-to-market-participants&quot;&gt;Provide Clarity to Market Participants&lt;/h3&gt;
+
+&lt;p&gt;Participants agreed that authorities need to provide clear, consistent guidance on how sanctions are applicable to the virtual asset industry. In cases where sanctions are designed as broad measures targeting specific technologies or devices, regulators must clarify the applicability of those sanctions within the diverse virtual asset ecosystem. Participants discussed the example of companies that manufacture and sell physical hardware wallets for self-custody of private keys: they may unintentionally fall within the scope of blanket sanctions, despite not offering virtual asset-related services explicitly targeted by such measures.&lt;/p&gt;
+
+&lt;p&gt;To ensure that sanctions regimes achieve their intended objectives without creating unnecessary uncertainty, greater clarity from the public sector is essential. One participant gave the example of the lack of clear guidance on the implications of sanctions imposed on Russia for businesses selling virtual asset-related hardware. Without explicit direction, such companies face challenges in adapting their supply chains and business practices to remain compliant.&lt;/p&gt;
+
+&lt;p&gt;Participants also discussed the additional layer of complexity in the EU arising from differences in how individual member states interpret and implement sanctions. Even slight variations in wording between national approaches can lead to significant inconsistencies, making it difficult for businesses operating across multiple jurisdictions to maintain compliance. These discrepancies not only increase regulatory burdens, but also create loopholes that could be exploited by entities seeking to evade sanctions.&lt;/p&gt;
+
+&lt;p&gt;Next, participants discussed the fact that countries often do not provide guidance on whether a VASP is required to file an STR if direct or indirect exposure is flagged from before the designation of the entity or individual and associated virtual addresses. One example that was raised centred on the fact that when blockchain analytic tools update to show activity tied to new sanctions designations, flags for previous direct or indirect exposure prior to the designation may be generated. In this case, the VASP needs clarity on whether it needs to file an STR with the designated authority in the jurisdiction.&lt;/p&gt;
+
+&lt;p&gt;Participants also discussed how policymakers can support the private sector by providing clear guidance on sanctions implementation that reflects the difference between the virtual asset industry and the traditional financial system. One example discussed was that for financial institutions in the EU, for example, guidance for financial institutions that detect incoming funds tied to sanctions states that banks should not accept the deposit. However, due to the nature of the technology supporting virtual assets, VASPs cannot reject or block incoming virtual assets, so their main option is to return the funds, while using company assets to pay for transaction fees. Of course, in the case of sanctions, returning funds is not an option. Instead, VASPs restrict the user from accessing or transferring those assets further when activity linked to a sanctioned actor is detected. This means that the VASP has to hold custody of virtual assets tied to sanctions activity while waiting for law enforcement to respond with the necessary legal orders. VASPs need guidance on what to do with those assets after restricting the user’s access and while waiting for a response from authorities; some jurisdictions do not provide such guidance.&lt;/p&gt;
+
+&lt;h3 id=&quot;understand--but-do-not-overuse--the-available-tools&quot;&gt;Understand – but do not Overuse – the Available Tools&lt;/h3&gt;
+
+&lt;p&gt;Participants at the roundtable discussed how VASPs can monitor for sanctions evasion activity, including through scanning unilateral sanctions designations and UN-listed indicators (related to North Korea specifically), using geolocation tools and cross-checking devices. If any indication of sanctions evasion is shown, VASPs can file the necessary report to the necessary authority, which ultimately supports investigations into suspicious activity linked to, or indicative of, sanctions evasion. To carry out this process, law enforcement analyses data and works with VASPs to confiscate assets.&lt;/p&gt;
+
+&lt;p&gt;Participants discussed additional tools to consider that can support authorities with improving detection and confiscation of virtual assets tied to sanctions evasion.&lt;/p&gt;
+
+&lt;h4 id=&quot;freezing-stablecoins&quot;&gt;Freezing Stablecoins&lt;/h4&gt;
+
+&lt;p&gt;One participant shared the example of a prominent stablecoin issuer working with law enforcement in different jurisdictions to freeze stablecoins. Building on this, another participant developed a hypothetical scenario to show the consequences of overusing this access. If a government wanted to get rid of a VASP in a sanctioned or high-risk country, they could attempt to cut off their liquidity, thus neutering their ability to act as an exchange – for example by working with a stablecoin issuer to freeze stablecoins held by the sanctioned VASP. However, this may have severe second order consequences.&lt;/p&gt;
+
+&lt;p&gt;First, the reputation of the stablecoin issuer would degrade and sanctions evasion would likely shift from stablecoins to virtual assets such as Bitcoin. When law enforcement looks to confiscate virtual assets such as Bitcoin, they need to work with centralised VASPs or identify private key information with a search warrant. This process does occur, but challenges persist, as the slow speed of bureaucratic procedures does not align with the quick pace of virtual asset cross-border transactions. Second, the sanctions evader may shift its money-laundering approach to incorporate new entities, requiring investigators to dig deeper and monitor platforms to identify infrastructure changes.&lt;/p&gt;
+
+&lt;p&gt;Of course, this is not to argue that sanctions should not be used in such a case, but all participants agreed that it is important to work through the longer-term implications of the actions policymakers and law enforcement agencies choose to take. Notably, the approach of authorities working with stablecoin issuers to freeze assets of Garantex took place in the weeks following the roundtable. On 7 March 2025, a stablecoin issuer announced that they had assisted the US Secret Service in freezing $23 million in illicit funds tied to Garantex. However, law enforcement also took down the domain of Garantex and released indictments to strengthen enforcement.&lt;/p&gt;
+
+&lt;h4 id=&quot;the-travel-rule&quot;&gt;The Travel Rule&lt;/h4&gt;
+
+&lt;p&gt;Participants discussed whether further adoption of the “travel rule” (the Financial Action Task Force’s requirement to collect information on the originator and beneficiary of transactions) would meaningfully impact detection of sanctions evasion. Consensus emerged that the travel rule may only have a minimal impact on identification of sanctions evasion activity while there are still some jurisdictions that lack regulatory framework for the industry and where enforcement for non-compliance is low. Under the travel rule, regulated entities share associated information, but currently any individual who owns virtual assets can continue to operate without touching VASPs that are compliant with such requirements, by taking advantage of services in jurisdictions without a regulatory framework for the industry and/or with unregulated services.&lt;/p&gt;
+
+&lt;p&gt;To further emphasise that the travel rule will not act as a key tool in supporting sanctions detection, one participant stressed that VASPs are only as good as their last counterparty – that is, if the previous counterparty did not collect verified information for the travel rule or implement strong compliance controls, the information chain will run cold for the subsequent services involved. Addressing this “weakest link” issue was an important vulnerability raised by participants, who suggested that government authorities could improve the process by issuing statements of non-compliance by VASPs that wittingly facilitate transactions for sanctioned entities and are unresponsive to law enforcement requests.&lt;/p&gt;
+
+&lt;h4 id=&quot;look-at-where-the-funds-end-up&quot;&gt;Look at Where the Funds End Up&lt;/h4&gt;
+
+&lt;p&gt;According to one participant, challenges are amplified by the fact that funds tied to sanctions evasion activity often end up in jurisdictions that are under-resourced, with limited capacity to investigate foreign requests for information, or those that do not have regulations specific to the virtual asset industry. In 2024, for example, the UN Office on Drugs and Crime highlighted that a payment company associated with a business headquartered in one Mekong country had engaged with Garantex. The movement of funds to countries with no regulatory framework has a negative impact on efforts to recover virtual assets tied to sanctions evasion activity. Therefore, governments can focus on supporting these jurisdictions with necessary resources to build a regulatory framework for the virtual asset industry and develop capacity to enforce legislation.&lt;/p&gt;
+
+&lt;h3 id=&quot;balance-the-responsibility&quot;&gt;Balance the Responsibility&lt;/h3&gt;
+
+&lt;p&gt;Participants at the roundtable noted that the private sector takes on responsibility for identifying other entities, individuals and virtual asset addresses tied to sanctioned entities, and agreed this a very challenging task. This point was evidenced by the current approach to restricting activity by Garantex. A RUSI roundtable in May 2024 noted that Garantex set up shell companies in jurisdictions with limited virtual asset regulation to continue operations. In addition, the company produced “new virtual assets within a five-day period to move funds” and operated by using the services of VASPs that have higher liquidity, attendees noted. Participants in this latest roundtable underlined the need for VASPs and blockchain analytics firms to be constantly scanning the ecosystem to identify new entities linked to Garantex. As noted, a stablecoin issuer froze a percentage of funds tied to Garantex in the weeks following the roundtable discussion and the US released indictments for two individuals believed to act as controllers for the exchange.&lt;/p&gt;
+
+&lt;p&gt;This burden on the private sector can be alleviated by governments making updates to sanctions designations to reflect new virtual asset addresses and infrastructure changes. For example, on 14 April 2022, the US attributed a virtual asset address to a North Korean entity, and eight days later, authorities updated the list to add more addresses. Governments providing such rapid updates is, however, not common practice. Consequently, participants felt that a heavy reliance falls on the private sector to investigate and monitor shell companies set up by the designated actor to obfuscate continued activity.&lt;/p&gt;
+
+&lt;p&gt;Furthermore, as identified earlier, small to medium-sized VASPs may have neither capacity nor resources to detect updated information tied to sanctions, and therefore, rely on monitoring transactions tied to the initial sanctions designation. Participants recommended designing a process that balances the system by allowing for a consistently active role by the public sector. When designing the procedure, government authorities can take a similar approach to the process of designing the Russian oil price cap: government authorities met with representatives from the industry to define what needed to be achieved and how the process could be devised to ensure the objective was achieved while limiting unintended consequences.&lt;/p&gt;
+
+&lt;p&gt;Participants agreed that governments should consider how they can take a more active role in relaying updated information linked back to the sanctions actor to the private sector, whether through updated virtual asset addresses or new entity information. It was acknowledged that updating the relevant sanctions list with every subsequent address is probably not sustainable, but a focus on a strong partnership with blockchain analytics companies can support the identification of new shell companies, which can subsequently be flagged by the public sector to VASPs. One participant mentioned the possibility for governments to develop, operate and update a database of new virtual asset addresses tied to a sanctioned actor with an application programming interface (API) for VASPs to cross-check.&lt;/p&gt;
+
+&lt;p&gt;Figure 2 shows how, as new entities and virtual asset addresses are identified, the government can issue updated guidance or announcements to the private sector on linked shell companies and attributed addresses. According to the roundtable discussion, this would reduce the private sector liability for determining subsequent sanctioned activity after the initial sanctions designation. One participant said that a verification procedure needs to be implemented for listing a sanctioned entity or individual and associated virtual asset addresses that is evidence-based and impartial. A detailed reasoning procedure is needed, as a defective process can leave the government open to substantial legal liability.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/8NWCvSg.png&quot; alt=&quot;image02&quot; /&gt;
+&lt;em&gt;▲ Figure 2: Process Flowchart with Feedback Loop for Updated Sanctions Listings&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Reflecting on this discussion, one participant argued that a database or guidance reflecting updated sanctions information provided by the public sector to the private sector may not be inclusive of all information, and thus generate a false sense of security for operators. Furthermore, such statements would not remove the requirement that VASPs need to implement a risk-based approach to detect and monitor sanctions evasion activity. Therefore, the only difference between the public sector providing updated information on new information on sanction designations versus the private sector investigating and listing risk information, according to the participant, would be a shift in liability when monitoring sanctions compliance.&lt;/p&gt;
+
+&lt;h3 id=&quot;recommendations&quot;&gt;Recommendations&lt;/h3&gt;
+
+&lt;p&gt;Participants proposed four recommendations that reflect the specific nature of the virtual asset industry, and can thus increase the effectiveness of sanctions.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Recommendation 1:&lt;/strong&gt; Sanctions policymakers should consider providing updated guidance or developing a database with an API that accounts for new virtual asset addresses and/or entities linked to a sanctioned actor.&lt;/p&gt;
+
+&lt;p&gt;While a constant adding of virtual asset addresses to a sanctions list is not sustainable, governments can consider releasing updated guidance or developing a database with an API to support the private sector with identifying shell companies tied to sanctioned VASPs and new addresses attributed to the entity. This process could be supported by a strong public–private partnership between government authorities, law enforcement and blockchain analytics providers.&lt;/p&gt;
+
+&lt;p&gt;Importantly, one participant highlighted that an evidence-based, impartial verification procedure needs to be implemented prior to publicly identifying a VASP that may be directly linked to a sanctioned entity. A defective process could leave the government open to substantial legal liability.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Recommendation 2:&lt;/strong&gt; Governments should provide further guidance to VASPs on what to do with frozen assets tied to sanctioned actors.&lt;/p&gt;
+
+&lt;p&gt;As mentioned, VASPs fundamentally cannot, unlike traditional financial institutions, reject incoming virtual assets, so to “reject” funds tied to high-risk activity, their primary option would be to return the funds while using company assets to pay for transaction fees. If the incoming funds are linked to sanctions, VASPs restrict users from accessing an account and transferring those assets. That leaves the VASP holding custody of virtual assets tied to sanctions activity while waiting for a law enforcement response. Some jurisdictions do not provide guidance to VASPs on what to do with assets tied to sanctioned activity after restricting the user’s access.&lt;/p&gt;
+
+&lt;p&gt;VASPs should not be liable for holding custody of sanctioned assets without clear instructions and documentation from government authorities on how to proceed after restricting access to such assets from the sanctioned entity.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Recommendation 3:&lt;/strong&gt; Governments should provide guidance on whether VASPs need to retrospectively file STRs if activity is detected on their platform prior to the sanctions designation.&lt;/p&gt;
+
+&lt;p&gt;For example, if an individual moved funds through an exchange prior to being sanctioned, that exchange then needs guidance on whether that activity should be reported after the designation. Such reports might help authorities to understand the wider sanctions evasion networks used by designated individuals and entities and lead to further sanctions activity and/or asset confiscation for facilitating sanctions evasion.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Recommendation 4:&lt;/strong&gt; The public and private sectors should prioritise building capacity in under-resourced jurisdictions which have limited investigation capability and/or lack virtual asset regulatory frameworks, in order to build a stronger ecosystem.&lt;/p&gt;
+
+&lt;p&gt;The financial system is only as strong as its weakest link, and many weak links remain in the virtual asset arena. Funds from sanctioned entities often ends up in jurisdictions with limited capacity to investigate such activity, or those with no regulatory frameworks. This regulatory arbitrage can be mitigated by supporting such countries with building capabilities related to virtual asset recovery.&lt;/p&gt;
+
+&lt;p&gt;In summary, the roundtable highlighted fundamental gaps in operational and regulatory capacities in both government and the private sector that undermine the effectiveness of sanctions related to virtual assets. As one participant put it “the authorities are applying an offline strategy to the online world without adapting their policies to reflect some fundamental differences”. By working with the private sector, sanctions policymakers can ensure that their use of sanctions is more clearly defined and, ultimately, impactful.&lt;/p&gt;</content><author><name>RUSI</name></author><summary type="html">This conference report summarises a February 2025 roundtable discussion on the implementation of sanctions for the virtual asset industry.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://i.imgur.com/DHw4meY.jpeg" /><media:content medium="image" url="https://i.imgur.com/DHw4meY.jpeg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Typhoons In Cyberspace</title><link href="https://agorahub.github.io/pen0/hkers/2025-03-20-typhoons-in-cyberspace.html" rel="alternate" type="text/html" title="Typhoons In Cyberspace" /><published>2025-03-20T12:00:00+08:00</published><updated>2025-03-20T12:00:00+08:00</updated><id>https://agorahub.github.io/pen0/hkers/typhoons-in-cyberspace</id><content type="html" xml:base="https://agorahub.github.io/pen0/hkers/2025-03-20-typhoons-in-cyberspace.html">&lt;p&gt;&lt;em&gt;The transformation of China’s digital attack capabilities is the most important change in the cyber threat to the West in more than a decade.&lt;/em&gt;&lt;/p&gt;
 
 &lt;excerpt /&gt;
 
@@ -68,7 +186,87 @@
 
 &lt;hr /&gt;
 
-&lt;p&gt;&lt;strong&gt;Ciaran Martin&lt;/strong&gt; CB is a Distinguished Fellow of RUSI and Professor of Practice at the Blavatnik School of Government at the University of Oxford. He is also an adviser to Paladin Capital in the United States, and Garrison Technology Ltd in the United Kingdom. For six and a half years ending in the middle of 2020, Ciaran led the UK’s Government’s work on cyber security. This included establishing the National Cyber Security Centre in 2016.&lt;/p&gt;</content><author><name>Ciaran Martin</name></author><summary type="html">The transformation of China’s digital attack capabilities is the most important change in the cyber threat to the West in more than a decade.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://i.imgur.com/QPdF5bp.jpeg" /><media:content medium="image" url="https://i.imgur.com/QPdF5bp.jpeg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Airborne EW In NATO</title><link href="https://agorahub.github.io/pen0/hkers/2025-03-19-airborne-electromagnetic-warfare-in-nato.html" rel="alternate" type="text/html" title="Airborne EW In NATO" /><published>2025-03-19T12:00:00+08:00</published><updated>2025-03-19T12:00:00+08:00</updated><id>https://agorahub.github.io/pen0/hkers/airborne-electromagnetic-warfare-in-nato</id><content type="html" xml:base="https://agorahub.github.io/pen0/hkers/2025-03-19-airborne-electromagnetic-warfare-in-nato.html">&lt;p&gt;&lt;em&gt;This paper provides recommendations for enhancing European electromagnetic warfare capabilities in NATO’s air and space forces.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Ciaran Martin&lt;/strong&gt; CB is a Distinguished Fellow of RUSI and Professor of Practice at the Blavatnik School of Government at the University of Oxford. He is also an adviser to Paladin Capital in the United States, and Garrison Technology Ltd in the United Kingdom. For six and a half years ending in the middle of 2020, Ciaran led the UK’s Government’s work on cyber security. This included establishing the National Cyber Security Centre in 2016.&lt;/p&gt;</content><author><name>Ciaran Martin</name></author><summary type="html">The transformation of China’s digital attack capabilities is the most important change in the cyber threat to the West in more than a decade.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://i.imgur.com/QPdF5bp.jpeg" /><media:content medium="image" url="https://i.imgur.com/QPdF5bp.jpeg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Building Tech Capacity</title><link href="https://agorahub.github.io/pen0/hkers/2025-03-20-building-tech-capacity.html" rel="alternate" type="text/html" title="Building Tech Capacity" /><published>2025-03-20T12:00:00+08:00</published><updated>2025-03-20T12:00:00+08:00</updated><id>https://agorahub.github.io/pen0/hkers/building-tech-capacity</id><content type="html" xml:base="https://agorahub.github.io/pen0/hkers/2025-03-20-building-tech-capacity.html">&lt;p&gt;&lt;em&gt;The term “toxicity” in online gaming spaces is often used as a catch-all phrase to describe a broad spectrum of harmful behaviours, ranging from casual trash talk to more severe offences such as hate speech, sustained harassment, grooming into offline violence, and the dissemination of violent extremist propaganda.&lt;/em&gt;&lt;/p&gt;
+
+&lt;excerpt /&gt;
+
+&lt;p&gt;Alongside the rise of this term, “toxic gamer culture” has emerged as a related concept, referring to systemic issues within gaming communities, including the cultural normalisation and perpetuation of even the most harmful behaviours within gaming spaces. While these terms are widely used in discussions about online harm, they have often been treated in isolation—examining only a single facet of toxic behaviour or focusing on one specific consequence of toxic gamer culture. This narrow approach overlooks the complexity of online interactions, which are shaped not only by gaming culture but also by a range of social, psychological, and structural factors.&lt;/p&gt;
+
+&lt;p&gt;A recent research project led by the Royal United Services Institute (RUSI), funded by the Canadian Resilience Fund, and conducted with members of the Extremism and Gaming Research Network (EGRN) offers a more comprehensive analysis of toxicity in gaming spaces as the first large-scale study to examine the intersection of gaming, social identity, gender, and geographic context (across seven countries, Australia, Canada, Germany, France, Indonesia UK, US). Via a comprehensive survey of 2,244 players and analysis of 15 million+ posts on gaming-related platforms, this study examines how toxic behaviours, gamer culture, and socio-cultural influences intersect to create vulnerabilities. In particular, the research explores how these vulnerabilities can be exploited by malign actors seeking to radicalise, recruit, and groom young people for violence. By adopting a multi-faceted perspective, this new study sheds light on the deeper mechanisms that enable harm in gaming spaces and highlights how gaming spaces operate as sites of potential exploitation. In this Insight, we will discuss some key findings from this project relating to the prevalence of harm and gendered norms and socialisation processes across geographical contexts.&lt;/p&gt;
+
+&lt;h3 id=&quot;key-findings&quot;&gt;Key Findings&lt;/h3&gt;
+
+&lt;h4 id=&quot;prevalence-of-harm&quot;&gt;Prevalence of harm&lt;/h4&gt;
+
+&lt;p&gt;The study found that exposure to harmful content—including extremist material, hate-based discrimination, and harassment—is widespread in gaming spaces. Across the seven countries studied (Canada, the U.S., the UK, Germany, France, Australia, and Indonesia), a significant portion of gamers reported encountering such content. The kind of exposure varies, with most players reporting they encountered endorsements of violence against specific social groups (38%), images, videos or symbols promoting extremism (33%), or content suggesting they join extremist groups (25%).&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/RiT7Xq4.png&quot; alt=&quot;image01&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Younger gamers (ages 18–28) reported higher exposure rates than older gamers (29–44), with men more likely to come across extremist content, while women were more frequently subjected to gender-based harassment. Misogyny was particularly prevalent, reinforcing toxic socialisation patterns that could lower resilience to radicalisation.&lt;/p&gt;
+
+&lt;p&gt;Geographically, exposure trends varied. In North America and Europe, far-right narratives and anti-LGBTQ+ hate speech were more commonly reported, while in Indonesia, exposure to violent jihadist extremist content was more pronounced.&lt;/p&gt;
+
+&lt;p&gt;The findings also highlight the normalisation of toxicity within gaming communities and the intersection of social identity factors—gender, nationality, and age—shaping vulnerability to radicalisation. While most of the respondents believe toxicity in games is unacceptable, 30% reported that they felt it was normalised. Males were more likely to find it acceptable than females.&lt;/p&gt;
+
+&lt;p&gt;Exposure to extremist sentiment can have significant consequences. First, individuals adjust to the norms of their culture (even across digital spaces). As such, the normalisation of extremist language in games puts players at risk of being socialised into extreme ideologies from the broader gaming community. The saturation of extremist language in gaming spaces also makes this environment more vulnerable to direct forms of exploitation, such as propaganda dissemination and recruitment efforts by organised groups.&lt;/p&gt;
+
+&lt;h4 id=&quot;cross-cultural-findings&quot;&gt;Cross-cultural findings&lt;/h4&gt;
+
+&lt;p&gt;While extremist content in games has been preliminary researched and discussed within a US or UK context exclusively, it is prevalent across jurisdictions. Looking across geographical contexts, Indonesia (44%) was found to have the highest proportion of respondents exposed to images, videos, or symbols prompting extremism, while France (22.7%) had the lowest. Germany (46%) led exposure to content endorsing violence against specific groups. However, the US had the highest rates of encountering content suggesting they join extremist groups (38%, as compared with 15-26% in the other countries). Further country-level differences are discussed in the full report.&lt;/p&gt;
+
+&lt;p&gt;In a forthcoming journal article, we also analyzed our survey data to assess the overall resilience of players against extremism and violence. In doing so, we found that the more complex a player’s “gamer identity” is – how well it reflects their many identity facets of age, religion, nationality, gender, and ethnicity – the more resilient they are against overall extremist approaches. Building communities that support diverse, complex gamer identities is key to supporting resilience; promoting singular, monolithic ideas of a homogenous “gamer identity” is not. Likewise, helping to create online gaming interactions across people from different backgrounds fosters resilience. We also found that a willingness to stand up for other people being targeted by hate online improves resilience against violent extremism. Conversely, supporting toxic hate and harassment-related beliefs and behaviours reduces that bulwark.&lt;/p&gt;
+
+&lt;h4 id=&quot;gendered-norms-and-socialisation&quot;&gt;Gendered norms and socialisation&lt;/h4&gt;
+
+&lt;p&gt;From socialisation to radicalisation, this research also highlighted the overlapping importance of identity, exposure, and experience. Gendered norms play a prominent role in shaping socialization within gaming spaces, with male respondents reporting that they were more likely to engage in or be exposed to extremist content, while women face higher rates of harassment and exclusion. Female respondents were also more likely to deem “toxicity” in games as unacceptable (68%) than males (50%), and extremist content in games specifically (72% females, 63% males), reiterating gender differences in the experiences of harmful and hateful content in these spaces.&lt;/p&gt;
+
+&lt;p&gt;Drawing on previous work in this space, we know that this kind of hostile environment can normalize misogyny, fostering an ecosystem where extreme ideas become more accepted over time. Additionally, every prior study to examine misogyny and support for violent extremism or terrorism has found a clear correlation. Prolonged engagement in this kind of environment can contribute to a socializing effect in which players are gradually exposed and indoctrinated to more harmful and extreme ideologies that promote violence.&lt;/p&gt;
+
+&lt;h3 id=&quot;what-can-we-do&quot;&gt;What Can We Do?&lt;/h3&gt;
+
+&lt;p&gt;The gaming industry is not equipped to adequately prevent, detect, or moderate extremist content in games. While the specific kinds of tools and strategies will likely need to be tailored to each particular organisation, studio, or gaming surface, there are commonalities across the space, making industry-wide conversations about these topics critical. Taking this into consideration, there are several strategies that companies could adopt. Building on recent guidance from the GIFCT Gaming Community of Practice Working Group, including threat one-pagers and a new prevent-detect-react framework, these include:&lt;/p&gt;
+
+&lt;h3 id=&quot;prevent&quot;&gt;Prevent&lt;/h3&gt;
+
+&lt;h4 id=&quot;set-policy&quot;&gt;Set policy&lt;/h4&gt;
+
+&lt;p&gt;Step one is to concretely prohibit the use of terrorist and violent extremist language, iconography, and sentiment in gaming spaces. Several game-adjacent platforms have already specifically prohibited these actions in their games (e.g., Activision Roblox) whereas other studios do not yet directly note extremism in their terms of service or code of conduct. Clear community guidelines, rules that are well-defined and consistently enforced, are a necessary foundation for both community reporting and establishing cultural norms for gaming communities.&lt;/p&gt;
+
+&lt;h4 id=&quot;build-community-support-models&quot;&gt;Build community support models&lt;/h4&gt;
+
+&lt;p&gt;The role of community management is critical in shaping community norms. Community management roles are consistently underfunded, undervalued, and excluded from trust and safety discussions. However, frontline moderators and community managers play a pivotal role in maintaining safe and positive (and fun) spaces in gaming and digital communities. Many of these digital community leaders report feeling underprepared to handle the complexities of managing online spaces. There is currently a dearth of preventative approaches that include educational support and training for community leaders in games, such as community managers (one notable exception being this new initiative from Discord).&lt;/p&gt;
+
+&lt;h4 id=&quot;red-teaming-for-games&quot;&gt;Red teaming for games&lt;/h4&gt;
+
+&lt;p&gt;Red-teaming is a term originally from info/cyber security used to describe efforts to exploit one’s own products via internal adversarial testing in order to develop mitigation measures (see previous GIFCT outputs on red teaming against terrorist and violent extremist actors). In gaming surface contexts, this would come in the form of built-in checks during the game design process around the leveraging of the content and community by extremist groups. Similar to sensitivity reads for content warnings and accessibility reads to ensure accessibility, we suggest a read dedicated to detecting vulnerabilities across both content and technical capacities in the game, and then make adjustments if needed.&lt;/p&gt;
+
+&lt;p&gt;An example of what red-teaming can do can be seen in the marketing of Wolfenstein 2 (Bethesda). Wolfenstein 2 is a game whose content could have been leveraged by extremists for propaganda; however, the developers got out in front of that process with a marketing campaign that pushed a strong counter-narrative. This campaign, which has since come to be known as the “Punch a Nazi” marketing campaign, was hugely successful in preempting the leveraging of their content and demonstrating how marketing efforts can shape community expectations – and helping to promote the end product. Failing to do so, as Far Cry V did and subsequently saw dramatic exploitation of in-game content by white supremacist groups, also carries consequences.&lt;/p&gt;
+
+&lt;p&gt;Other prevention approaches include improving awareness of online extremist and terrorist exploitation of games for players, parents, and studios alike; designing influencer campaigns to help promote positive in-game behaviour and norms; and partnering with mental health and psychosocial support groups to help guide intervention, mentorship, and pro-social in-game behaviours. These are detailed in the Prevent, Detect, React framework, as well as in new prevention guidance (Implementing Positive Gaming Interventions: A Toolkit for Practitioners) from our research project team.&lt;/p&gt;
+
+&lt;h3 id=&quot;detect&quot;&gt;Detect&lt;/h3&gt;
+
+&lt;p&gt;Basic moderation detection strategies, such as machine-moderated word lists of hateful and extremist terms, are the bare minimum for multiplayer online games; however, not all games even have these tools, and they rely solely on player reports.&lt;/p&gt;
+
+&lt;p&gt;While detection efforts have grown in the last few years, there is still room for improvement. For example, despite some automatic censoring measures implemented by Steam to filter out offensive language, it is still easy to find posts that convey hateful or extremist sentiments. Additionally, while these detection systems may partially censor slurs and other keywords, often the underlying intent of a message is only apparent to trained human readers, highlighting the limitations and strategic obfuscation of automated moderation systems. Linguistic challenges across geographics – different languages with inadequate ML tooling – also hinder machine-based approaches. Improving both machine moderation – via image, voice, and text detection – as well as trust &amp;amp; safety team training and easy user reporting tools that can be used in-game are critical. Equally, sharing signals and new techniques being used by organised threat actors across platforms and services should be prioritized: the GIFCT Hash Sharing Database and Tech Against Terrorism’s Terrorist Content Analytics Platform do this in part but can be improved. Free or affordable tools to help smaller studios and game creators keep their games safe should also be prioritised via initiatives like ROOST, a new set of AI open-source safety tools.&lt;/p&gt;
+
+&lt;h3 id=&quot;react&quot;&gt;React&lt;/h3&gt;
+
+&lt;p&gt;Many games have an integrated player reporting (sometimes called user reporting) system where players can submit reports based on violations of the terms of service or code of content, which can include extremist content. However, estimates suggest that less than 10% of the active player base will submit reports. In our research, we found that while 90% of players know how to report on one platform, only one in three (36%) know how to report across all the platforms they use. And, worryingly, a similar share (33%) do not feel they are heard when they file a report. Easier reporting systems that provide feedback loops to users are a must, along with providing users categories to flag extremist, terrorist, or violently targeted hate attacks.&lt;/p&gt;
+
+&lt;p&gt;We also know anecdotally that user reporting is necessary but is insufficient in and of itself to address platform, game, or service-level community norms. This does not mean we should not include these systems (we absolutely should), but rather we should consider other potential reactive approaches. For example, transparent feedback pipelines for the reporters and offenders. Research has found that when offending players are given feedback, there are large reductions in repeat offending behaviour.&lt;/p&gt;
+
+&lt;p&gt;The limitations of reactive approaches also reiterate the need to prioritise the prevent and detect approaches.&lt;/p&gt;
+
+&lt;h3 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h3&gt;
+
+&lt;p&gt;The intersection of online games, offline identities, and cultural norms can create grounds for the reinforcement of toxic behaviours and the propagation of extremist ideologies, leading into targeted violence. The normalisation of these actions, coupled with the reinforcement of misogynistic stereotypes and harassment in games, highlights a pressing need for interventions that can address these dynamics. Understanding the scope and consequences of extremist behaviour in games and scaling up trust and safety efforts to prevent, detect, and react to it is crucial for fostering positive player experiences, protecting vulnerable users, and ensuring the long-term health of gaming communities. A well-designed trust and safety approach that includes moderation and clear content policies, alongside support for moderators and their communities, will not only minimize harm but amplify the positive experiences within gaming communities.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;Rachel Kowert&lt;/strong&gt;, Ph.D is a research psychologist, award winning author, and globally recognized leader in facilitating global policy development with non-profit, governmental, and non-governmental agencies for more than 15 years through data-driven research focused on mental health and trust and safety in digital games.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Galen Lamphere-Englund&lt;/strong&gt; is a senior research and management consultant at the nexus of violent extremism, conflict, and tech issues. For over a decade, he has examined how various forms of radicalisation can lead to violence and how to foster resilience to societal divides. Galen has led global research for humanitarian and development NGOs, United Nations agencies, governments, think tanks, and many of the largest tech platforms.&lt;/p&gt;</content><author><name>Rachel Kowert and Galen Englund</name></author><summary type="html">The term “toxicity” in online gaming spaces is often used as a catch-all phrase to describe a broad spectrum of harmful behaviours, ranging from casual trash talk to more severe offences such as hate speech, sustained harassment, grooming into offline violence, and the dissemination of violent extremist propaganda.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://i.imgur.com/hLjYZKy.jpeg" /><media:content medium="image" url="https://i.imgur.com/hLjYZKy.jpeg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Airborne EW In NATO</title><link href="https://agorahub.github.io/pen0/hkers/2025-03-19-airborne-electromagnetic-warfare-in-nato.html" rel="alternate" type="text/html" title="Airborne EW In NATO" /><published>2025-03-19T12:00:00+08:00</published><updated>2025-03-19T12:00:00+08:00</updated><id>https://agorahub.github.io/pen0/hkers/airborne-electromagnetic-warfare-in-nato</id><content type="html" xml:base="https://agorahub.github.io/pen0/hkers/2025-03-19-airborne-electromagnetic-warfare-in-nato.html">&lt;p&gt;&lt;em&gt;This paper provides recommendations for enhancing European electromagnetic warfare capabilities in NATO’s air and space forces.&lt;/em&gt;&lt;/p&gt;
 
 &lt;excerpt /&gt;
 
@@ -10466,233 +10664,4 @@
 
 &lt;hr /&gt;
 
-&lt;p&gt;案件編號：HCCC51/2022&lt;/p&gt;</content><author><name>獨媒報導</name></author><summary type="html">國安法後刊文章談及制裁林鄭 控方質疑不可能屬「不小心」 黎智英否認高層有共識發布</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://i.imgur.com/LciFH41.jpg" /><media:content medium="image" url="https://i.imgur.com/LciFH41.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">【黎智英案・審訊第 132 日】</title><link href="https://agorahub.github.io/pen0/hkers/2025-02-11-trial-of-jimmy-lai-day-132.html" rel="alternate" type="text/html" title="【黎智英案・審訊第 132 日】" /><published>2025-02-11T12:00:00+08:00</published><updated>2025-02-11T12:00:00+08:00</updated><id>https://agorahub.github.io/pen0/hkers/trial-of-jimmy-lai-day-132</id><content type="html" xml:base="https://agorahub.github.io/pen0/hkers/2025-02-11-trial-of-jimmy-lai-day-132.html">&lt;ul&gt;
-  &lt;li&gt;黎智英稱英文版只需集中「黃營觀點」否認屬偏頗 盤問時自稱政治犯遭官駁斥&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;excerpt /&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/V9P6cDe.png&quot; alt=&quot;image01&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;【獨媒報導】壹傳媒創辦人黎智英及3間蘋果公司被控串謀勾結外國勢力及串謀刊印煽動刊物等罪，今（11日）於高院（移師西九龍法院）踏入第132日審訊，黎智英第40日作供，控方就《蘋果》運作盤問黎。《蘋果》在2020年5月發起「一人一信救香港」，黎安排員工替袁弓夷拍攝影片，向特朗普作公開呼籲。控方展示訊息，顯示袁弓夷的女兒袁彌明曾傳送講稿給黎當中提及制裁中共，而黎讚寫得好。控方質疑，黎同意袁弓夷的公開信內容，並提供《蘋果》作為發布平台。黎則否認。此外，黎曾叫管理層推動英文版時，只需集中「黃營觀點」；黎在庭上同意只需要不平衡的觀點（imbalanced view），但是否認這是偏頗的觀點（biased view），重申是想要反映香港情況的觀點。在控方盤問期間，黎稱自己作為一個政治犯，沒有理由為求脫罪而在庭上說謊，法官杜麗冰隨即打斷，嚴正地向黎說：「你不是一個政治犯，你在這裡是面對刑事控罪。」&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/B8VAB3O.png&quot; alt=&quot;image02&quot; /&gt;
-▲ 法官杜麗冰（資料圖片）&lt;/p&gt;
-
-&lt;h4 id=&quot;黎同意使用蘋果日報來催谷更多人上街&quot;&gt;黎同意使用《蘋果日報》來催谷更多人上街&lt;/h4&gt;
-
-&lt;p&gt;控方代表、副刑事檢控專員周天行繼續盤問，圍繞黎與《蘋果》高層之間的溝通。控方向黎展示訊息紀錄，黎於2019年4月27日分別向時任《蘋果》社長張劍虹及副社長陳沛敏稱：「請想想有什麼我們還可做催谷市民明天上街？現在情況實在太靜，好驚。謝謝。」控方問，黎傳送訊息目的是想催谷更多人上街遊行？黎同意。&lt;/p&gt;
-
-&lt;p&gt;控方接著指2019年6月3日，即6月9日「反送中」大遊行前數天，黎向陳沛敏傳送訊息：「沛敏，我們應該找些聯署學生訪問，激發其他學生6.9出來。謝謝。」陳回覆：「有的，會再找，謝謝。」黎續指：「主要是訪問他們不是針對『師兄』『師姐』而是激發其他學生出來。謝謝。」陳回覆：「收到。」控方指，黎再次叫陳催谷更多人上街，而這一次是鼓勵年輕人出來。黎亦同意。&lt;/p&gt;
-
-&lt;p&gt;法官李運騰提到，他記得當時有一群中學生呼籲罷課，問黎是否有印象。黎則稱他們不是聯署的學生，聯署的是大學生，而罷課則是黃之鋒。法官杜麗冰表示，她記得當時從報章中讀到林鄭母校嘉諾撒聖方濟各書院有學生進行聯署。黎則堅稱參與聯署的是大學生。&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/yMaDtND.png&quot; alt=&quot;image03&quot; /&gt;
-▲ 2019年6月9日。（資料圖片）&lt;/p&gt;
-
-&lt;h4 id=&quot;黎籲陳沛敏考慮以不撤不散作為頭版標題-惟否認屬編採指示&quot;&gt;黎籲陳沛敏考慮以「不撤不散」作為頭版標題 惟否認屬編採指示&lt;/h4&gt;
-
-&lt;p&gt;控方指，黎於2019年6月15日向陳傳送訊息：「我們只好行動日漸加劇，迎接詭計來臨！」、「不撤不散！」&lt;/p&gt;
-
-&lt;p&gt;黎在庭上否認向陳提議頭版報導標題，但同意使用《蘋果日報》來催谷更多人上街。法官杜麗冰指黎的訊息籲陳考慮以「不撤不散」作為標題，質疑屬編採指示。黎否認，強調只是叫陳予以「考慮」。&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/jeeykXG.png&quot; alt=&quot;image04&quot; /&gt;
-▲ 2019年6月16日。（資料圖片）&lt;/p&gt;
-
-&lt;h4 id=&quot;黎同意使用蘋果日報協助袁弓夷製作影片籲特朗普救香港&quot;&gt;黎同意使用《蘋果日報》協助袁弓夷製作影片籲特朗普救香港&lt;/h4&gt;
-
-&lt;p&gt;控方續提到，《蘋果》在2020年5月發起「一人一信救香港」，籲時任美國總統特朗普幫助香港阻止國安法通過，現被國安處通緝的袁弓夷曾拍片響應，而黎當時提供平台發布影片。&lt;/p&gt;
-
-&lt;p&gt;控方遂展示訊息，2020年5月28日黎向袁說，可以安排《蘋果》同事替袁拍攝影片，並指時任動新聞平台總監張志偉稍後會聯絡袁。至5月31日，黎向袁弓夷說：「剛從 Erica（袁彌明）收到它，真的很棒！」、「請繼續發聲！」至6月3日，袁弓夷向黎說：「感謝你提供平台去開展我摧毀中共的目標。我會在星期日到華盛頓，向白宮請求援助香港。（Jimmy, thank you for providing me the platform to start my mission to destroy CCP. I will go to Washington Sunday to plead for help for HK from the White House.）」&lt;/p&gt;
-
-&lt;p&gt;控方問黎是否同意袁弓夷的發言內容？黎供稱，當時僅提供一個平台去播出袁弓夷的發言，堅稱並不知道影片內容。&lt;/p&gt;
-
-&lt;p&gt;控方問，黎是否使用《蘋果日報》來協助袁製作公開信影片，包括提供拍攝場地及製作人員？黎同意，但強調袁只是一個人讀出公開信，拍攝過程不需很多人手，他自己也沒有參與。&lt;/p&gt;
-
-&lt;p&gt;法官杜麗冰質疑，黎不僅僅提供平台播放袁的影片，事後黎向張志偉提議再一次替袁製作影片，而張隨即回覆「收到」及表示會安排，顯示黎所作的超出了僅僅提供平台。黎同意。&lt;/p&gt;
-
-&lt;h4 id=&quot;黎堅稱拍攝之前不知道袁弓夷將會說什麼&quot;&gt;黎堅稱拍攝之前不知道袁弓夷將會說什麼&lt;/h4&gt;
-
-&lt;p&gt;在盤問下，黎堅稱拍攝之前不知道袁將會作出什麼發言內容，也沒有問袁。控方質疑，即使不知道袁會說什麼，黎也會允許《蘋果》替袁拍片？黎說是。控方亦質疑，當時《蘋果》正發動「一人一信救香港」，不擔心袁的說話會與行動理念相違背嗎？黎則表示對此並不擔心，又指他們通常不會在發布之前審查言論。&lt;/p&gt;
-
-&lt;p&gt;不過法官杜麗冰問，如果袁在拍片時說：「特朗普遠離香港和中國，不要管我們的事！」呢？黎則回應，知道袁的為人，「我知道這不會發生。」杜官和控方分別追問，所以黎是知道袁將會說什麼嗎？黎稱只知道大概，並且知道他支持運動。&lt;/p&gt;
-
-&lt;p&gt;控方提議，黎其實在拍攝之前知道袁將會說什麼。黎不同意。控方亦提議，黎也觀看過袁的影片。黎稱可能有觀看過。控方則反駁，在影片發布之前，黎是知道影片內容。黎否認。&lt;/p&gt;
-
-&lt;h4 id=&quot;官質疑黎早前供稱袁信件含不實指控-為何會讚寫得好&quot;&gt;官質疑黎早前供稱袁信件含不實指控 為何會讚寫得好&lt;/h4&gt;
-
-&lt;p&gt;控方遂展示黎與袁弓夷女兒袁彌明之間的對話。2020年5月29日，袁彌明告訴黎：「早安，Jimmy。我父親正在前往你的總部，他給特朗普的信很出色和感動。（Morning Jimmy. My dad is heading to your headquarter now. His letter to Trump is exceptional and emotional.）」袁彌明並傳送袁弓夷的信件全文給黎，當中提到：「你應該制裁這些中共個體，不讓他們得到任何更多美國資本。（You should sanction these Communist entities from getting any more US capital.）」&lt;/p&gt;
-
-&lt;p&gt;控方指黎其後回覆：「Erica，感謝你。這是一封很好的信。希望特朗普總統會看到它及作出回應。（Erica, Thanks. This is a very good letter. Hope President Trump will see it and react.）」控方問黎是否同意信件內容？黎則稱，他說信件寫得好不代表他同意當中內容。&lt;/p&gt;
-
-&lt;p&gt;法官李運騰提及，黎早前主問時指袁在影片中作出不實指控，包括指稱有示威者被謀殺及有警察強姦女子，那黎為什麼會向袁彌明說其父親的信寫得好？黎則稱當時未有留意相關內容。&lt;/p&gt;
-
-&lt;p&gt;控方接著問，黎早前供稱不同意袁指控警察強姦女子及有示威者被謀殺，然而黎直至在庭上才首次供出這個說法，訊息紀錄從不見黎說該些指控不實。黎同意，但是強調後來與袁弓夷數次交流之後，便開始感到不安，並嘗試疏遠他。&lt;/p&gt;
-
-&lt;p&gt;控方問黎認為袁做過什麼行為而使他感到不安？黎多次表示不記得，又強調是感覺積累而來。&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/IJ0IQNJ.png&quot; alt=&quot;image05&quot; /&gt;
-▲ 袁彌明（資料圖片）&lt;/p&gt;
-
-&lt;h4 id=&quot;袁彌明稱父親準備在下一段影片談及制裁-黎允張志偉協助製作&quot;&gt;袁彌明稱父親準備在下一段影片談及制裁 黎允張志偉協助製作&lt;/h4&gt;
-
-&lt;p&gt;控方續展示訊息，2020年5月31日袁彌明告訴黎，袁弓夷正準備拍攝另一段影片，要求蓬佩奧讓年輕示威者在美國最好的學校接受教育，並提供經濟援助，又會談及幾種「較聰明的方法」制裁，以對中共造成影響，但同時對香港人帶來較低附帶傷害。&lt;/p&gt;
-
-&lt;p&gt;袁彌明問黎：「我們可以叫張志偉協助嗎？上一次的後期製作非常棒，正正是我們想要的。」黎回覆稱會告訴張，籲袁彌明聯絡張。&lt;/p&gt;
-
-&lt;p&gt;袁彌明其後指上一段影片「有60萬人view，多謝你們大力推。」、「最緊要幫到件事。」黎之後告訴袁，已經替袁約好拍攝時間。&lt;/p&gt;
-
-&lt;p&gt;控方問黎，袁彌明所提及的「較聰明的方法」是指哪些制裁？黎則稱不知道，袁彌明未有詳細說。&lt;/p&gt;
-
-&lt;h4 id=&quot;黎同意提供蘋果的網站facebook和twitter發布袁弓夷影片&quot;&gt;黎同意提供《蘋果》的網站、Facebook和Twitter發布袁弓夷影片&lt;/h4&gt;
-
-&lt;p&gt;控方另展示黎與張志偉之間的訊息，張在5月31日向黎傳送《蘋果》Facebook 截圖，顯示帖文〈【港版國安法】袁彌明父親打Twitter戰線 公開拍片望特朗普拯救香港青年〉，並以箭咀指出「讚好」次數。&lt;/p&gt;
-
-&lt;p&gt;同日，黎將袁彌明的訊息轉發給張，告知張他們準備拍攝下一段影片。張回覆：「收到！」&lt;/p&gt;
-
-&lt;p&gt;至6月3日，張向黎傳送《蘋果》Facebook 截圖，顯示帖文〈【六四31】袁彌明父Twitter續發炮 促美國務卿懲中共罪犯解放香港〉。張另傳送一張《蘋果》Twitter 截圖，顯示轉載了袁弓夷的影片。&lt;/p&gt;
-
-&lt;p&gt;控方指，黎不但提供《蘋果》網站，還提供了《蘋果》的 Facebook 和 Twitter 來發布袁的影片。黎同意。&lt;/p&gt;
-
-&lt;p&gt;控方問到黎當時知道標題上「解放香港」的意思嗎？在追問下，黎同意知道，但稱當時「瞥一眼」時未有留意到。&lt;/p&gt;
-
-&lt;p&gt;法官李素蘭問黎不會關注《蘋果》發布的內容嗎？黎稱：「我不會關注那些內容，張志偉會負責。」控方追問，當時《蘋果》發起「一人一信救香港」，黎不會關注相關內容嗎？黎重申他不關注，所以未有想過，並堅稱只是對相關內容「瞥一眼」，因為不感興趣。&lt;/p&gt;
-
-&lt;p&gt;控方指出，黎的確閱讀過及知道袁的信件，亦同意當中內容，因此黎才會同意在《蘋果》上發布，而這與「一人一信救香港」行動一致。黎一概否認。&lt;/p&gt;
-
-&lt;h4 id=&quot;黎同意帶領蘋果-但否認作出指示&quot;&gt;黎同意帶領《蘋果》 但否認作出指示&lt;/h4&gt;
-
-&lt;p&gt;控方指，黎是壹傳媒集團的大股東，持有大約71%的股份，而三間被告公司「蘋果日報有限公司」、「蘋果日報印刷有限公司」及「蘋果互聯網有限公司」屬於壹傳媒集團旗下，因此黎控制著三間公司。控方又指，黎在2018年至2020年12月期間，是壹傳媒集團的主席，向集團提供數以萬計的資金援助。黎同意。&lt;/p&gt;
-
-&lt;p&gt;控方問黎是否同意自己是公司中「作出指示的人士（directing mind）」和「掌控者（controlling mind）」。黎表示：「我沒有指示他們的思想。」他又稱自己是制訂藍圖的人，但是並非作出指示的人士。&lt;/p&gt;
-
-&lt;p&gt;控方問黎是否帶領《蘋果》？黎同意。控方繼而問黎是否《蘋果》的掌舵手？黎不同意，僅稱自己是主席。他承認在發起「一人一信救香港」一事上，當員工意見與他不一致時，他的意見佔上風，但那只是一次例外，不代表旗下員工要時刻跟從他意見。&lt;/p&gt;
-
-&lt;h4 id=&quot;黎否認設下鳥籠-稱員工共同抱持價值&quot;&gt;黎否認設下「鳥籠」 稱員工共同抱持價值&lt;/h4&gt;
-
-&lt;p&gt;控方指，黎曾經叫《蘋果》其他管理層報導「黃營」的觀點，問黎是否同意每當《蘋果》作新聞報導的時候，高層之間均存在共識。黎則稱他與管理層並沒有共識，形容「所有事都是自動發生的」，因《蘋果》與香港人擁抱一致的價值。法官李素蘭則指：「黎先生，香港人不一定與《蘋果》抱持一致的價值」，籲黎只需要直接回答問題。&lt;/p&gt;
-
-&lt;p&gt;控方引述黎在台灣節目「鄉民來衝康」的受訪言論「這麼多年來我們是反共的」，指《蘋果》一直以來都是「反共」及反對派報紙，而這是「從犯證人」楊清奇所形容的「鳥籠」。黎回應：「鳥籠是我們在《蘋果》共同抱持的價值。」&lt;/p&gt;
-
-&lt;p&gt;控方向黎提議，這是黎所設下的「鳥籠」。黎否認有設下鳥籠，又指《蘋果》的價值不只是他自己的價值，也是員工共同抱持的價值。&lt;/p&gt;
-
-&lt;p&gt;控方又提議，黎的確有叫管理層使用《蘋果》作為平台來反對政府，包括要求管理層多報導反修例運動及催谷市民上街遊行。黎稱不是「反對政府」，而是反對《引渡條例》修訂。&lt;/p&gt;
-
-&lt;p&gt;控方續指，黎指示管理層使用《蘋果》作為平台來爭取國際社會及西方的支持，希望外國會針對中央和特區政府實施制裁。黎否認，並強調只是引起國際關注香港當時狀況，而非對抗中央和特區政府。控方指黎在「飯盒會」上向高層給予編採指示。黎否認。&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/YmQe2Y2.png&quot; alt=&quot;image06&quot; /&gt;
-▲ （資料圖片）&lt;/p&gt;
-
-&lt;h4 id=&quot;黎向高層稱只集中黃營觀點-同意不平衡觀點但否認屬偏頗&quot;&gt;黎向高層稱只集中「黃營」觀點 同意不平衡觀點但否認屬偏頗&lt;/h4&gt;
-
-&lt;p&gt;控方接著就《蘋果》英文版提問，指美國國務院前資深顧問 Christian Whiton 以電郵提議《蘋果》應創辦英文版報紙。2020年5月10日，作家馮睎乾專欄文章〈不撐蘋果的100萬人〉提到《蘋果》增值的方法包括「八卦式公義」和「國際文宣線」。控方問黎，是否同意英文版的工作與國際文宣相似？黎僅稱，只是引起國際社會關注香港情況。&lt;/p&gt;
-
-&lt;p&gt;控方指，黎於5月10日創立 WhatsApp 群組「English news」，群組成員有張劍虹、陳沛敏、羅偉光、張志偉等人。黎在群組中說：「今日馮睎乾提議出英譯新聞電子版諗得過，反正現在翻譯網站翻譯成本低而快。」&lt;/p&gt;
-
-&lt;p&gt;同日，黎訊息稱：「我們揀選寫手時，我們不需要向外國人提供平衡觀點，我們只需要集中在《蘋果》的香港觀點和黃營的一般觀點。」（“When we choose writers we don’t have to think about giving foreigners a balanced view of what happens here of every different colors, we only concentrate in our Apple Daily HK view, a general view of the yellow side.”）黎又指：「我們不是要嘗試平衡報導，而是要報導保護香港一方的觀點。這是世界需要知道的聲音。」（“We are not trying to strike a balance but the point of view of the people on the side of protecting HK. This is the voice the world wants to know.”）&lt;/p&gt;
-
-&lt;p&gt;控方指，黎只要員工報導中國的負面新聞，不需要正面的報導？黎同意。此外，黎同意只需要不平衡的觀點（imbalanced view），但是否認這是偏頗的觀點（biased view），重申是想要反映香港情況的觀點。&lt;/p&gt;
-
-&lt;p&gt;在法官杜麗冰追問下，黎指不平衡的觀點不代表是偏頗。黎指當時香港被中國的政策淹沒（overwhelmed），這對香港而言不是好事，而「黃營」是要反抗中國對自由的侵蝕，這就是他們的觀點。&lt;/p&gt;
-
-&lt;p&gt;控方問黎是否想根據他的個人角度來展示香港面貌。黎表示，是從報導的角度出發，不只在情緒層面打動讀者，更想引起他們心中共鳴。黎又指，所有報紙都是作不平衡報導，例如《星島日報》。&lt;/p&gt;
-
-&lt;h4 id=&quot;黎自稱政治犯沒有理由在庭上說謊-官打斷稱你不是一個政治犯&quot;&gt;黎自稱政治犯沒有理由在庭上說謊 官打斷稱：「你不是一個政治犯」&lt;/h4&gt;
-
-&lt;p&gt;控方指，黎早前供稱，從沒有叫同事替專欄「成敗樂一笑」的文章翻譯成英文，他亦不知道同事曾翻譯；但是5月11日的訊息紀錄顯示，張劍虹向群組傳送訊息，其中第一點提及會翻譯「成敗樂一笑」文章。&lt;/p&gt;
-
-&lt;p&gt;黎則稱當時未有留意，並看漏了第一點。在控方追問下，黎反問：「我為何要說謊？」，指在法庭說謊是罪行，作為一個政治犯，他沒有理由為求脫罪而在庭上說謊，使自己被定罪，又反問控方是否認為他會如此做，顯示自己不單是一名政治犯，而且還是一個傻子（mentally retarded）？&lt;/p&gt;
-
-&lt;p&gt;法官杜麗冰隨即打斷，嚴正地向黎說：「你不是一個政治犯，你在這裡是面對刑事控罪。」黎則稱：「你可以這樣提議，但是你不能以此加諸於我身上。」杜官稱只是想提醒黎他並非政治犯，黎稱：「但是我與你的想法不同。」杜官說黎可以有不同的想法，然而事實是：「你不是一名政治犯」。黎回應：「這是據你所說。（According to you.）」杜官再度打斷，並嚴正表示：「黎先生！⋯⋯你想將政治帶進這個法庭，我不會容許你這樣做。」&lt;/p&gt;
-
-&lt;h4 id=&quot;黎當時政治環境對蘋果不友善-英文版能成為龐大的支持&quot;&gt;黎：當時政治環境對《蘋果》不友善 英文版能成為龐大的支持&lt;/h4&gt;
-
-&lt;p&gt;控方指，黎在2020年5月10日向 Mark Simon 傳送訊息，談及《蘋果》英文版可以有一個機會讓美國人或外國人支持香港，而這將會是龐大的經濟上及政治上的支持，形容是「一件現在就要做的事，尤其是作為政治保護」，籲 Mark Simon 安排對外宣傳工作。&lt;/p&gt;
-
-&lt;p&gt;控方問訊息中的「龐大的經濟上及政治上的支持」是否包括對中國制裁和敵對行動？黎指不是。控方又問「政治保護」即是什麼保護？黎稱保護《蘋果》免受任何政府的干預。控方追問黎想要哪一種「政治保護」？黎稱未有詳細想過。&lt;/p&gt;
-
-&lt;p&gt;法官李素蘭問《蘋果》為何需要保護？黎稱：「當時的政治環境對《蘋果》不友善」，因《蘋果》是反對派報紙。控方質疑這是黎的揣測；黎則稱這是他對當時形勢的解讀。&lt;/p&gt;
-
-&lt;h4 id=&quot;黎曾叫mark-simon找彭斯蓬佩奧訂閱-最終未成事&quot;&gt;黎曾叫Mark Simon找彭斯、蓬佩奧訂閱 最終未成事&lt;/h4&gt;
-
-&lt;p&gt;控方指同日，黎叫 Mark Simon 嘗試令時任美國副總統彭斯及時任國務卿蓬佩奧訂閱《蘋果》英文版。至5月12日，Mark Simon 告訴黎，他已聯絡蓬佩奧助手 Mary Kissel，會研究怎樣使蓬佩奧或美國國務院訂閱，他亦聯絡了時任共和黨參議員盧比奧（Marco Rubio）。&lt;/p&gt;
-
-&lt;p&gt;控方指，黎只叫 Mark Simon 如此做，而不是叫《蘋果》管理層，是因為黎知道 Mark Simon 與美國政府有緊密聯繫。黎則表示，因為他知道 Mark Simon 找到方法去做，但是後來因為美國官員相關規定而未有成事。&lt;/p&gt;
-
-&lt;p&gt;案件明日續審。&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;案件編號：HCCC51/2022&lt;/p&gt;</content><author><name>獨媒報導</name></author><summary type="html">黎智英稱英文版只需集中「黃營觀點」否認屬偏頗 盤問時自稱政治犯遭官駁斥</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://i.imgur.com/LciFH41.jpg" /><media:content medium="image" url="https://i.imgur.com/LciFH41.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">It’s The Algorithm, Stupid</title><link href="https://agorahub.github.io/pen0/hkers/2025-02-11-its-the-algorithm-stupid.html" rel="alternate" type="text/html" title="It’s The Algorithm, Stupid" /><published>2025-02-11T12:00:00+08:00</published><updated>2025-02-11T12:00:00+08:00</updated><id>https://agorahub.github.io/pen0/hkers/its-the-algorithm-stupid</id><content type="html" xml:base="https://agorahub.github.io/pen0/hkers/2025-02-11-its-the-algorithm-stupid.html">&lt;p&gt;&lt;em&gt;The rise of Chinese-made DeepSeek and the rapid spread of AI chatbots raise pressing questions about the implications for democracy and security. There is an urgent need to strengthen user literacy.&lt;/em&gt;&lt;/p&gt;
-
-&lt;excerpt /&gt;
-
-&lt;p&gt;Generative AI tools based on Large Language Models (LLMs) are becoming embedded in many aspects of daily life, from assisting professionals with legal research to helping shoppers with their weekly groceries and enabling learning about Socrates through chatbots.&lt;/p&gt;
-
-&lt;p&gt;Recent events have highlighted emerging risks to security and democratic stability. The use of ChatGPT to assist in planning an attack on President Donald Trump’s Las Vegas hotel demonstrates the grey areas in which AI can be exploited to catalyse real-world harm. Similarly, concerns over DeepSeek, a Chinese AI system that self-censors in real time and stores user data beyond democratic oversight, underscore wider implications for national security.&lt;/p&gt;
-
-&lt;p&gt;The hallmark of this technology is its low user cost and its ability to rapidly converse fluently and confidently like a human. For instance, it can persuasively argue that AI poses no threat to humanity. As well as answering questions, these systems can interrogate documents, write code, generate video, and carry out basic online tasks.&lt;/p&gt;
-
-&lt;p&gt;Allowing the technology’s creative applications to develop freely and making it widely available has been key to attracting staggering levels of investment in the sector. Today, AI-powered tools have hundreds of millions of weekly users. However, this widespread adoption is also where the risks lie.&lt;/p&gt;
-
-&lt;p&gt;Alongside cyber security vulnerabilities intrinsic to LLM technology, concerns have been raised about its potential to flood democracies with disinformation and propaganda, as well as providing a sophisticated aid to extremist recruitment. From the standpoint of communications practice, the risks are more complex.&lt;/p&gt;
-
-&lt;p&gt;When data is stored in foreign jurisdictions, this raises the possibility of hostile actors extracting valuable population insights from users’ interactions with AI, as individuals often unwittingly reveal their attitudes and behaviours in relation to their preferences. In this sense, AI users everywhere are unknowingly training an unsleeping, ever-evolving algorithm.&lt;/p&gt;
-
-&lt;h3 id=&quot;the-double-edged-nature-of-generative-ai&quot;&gt;The Double-Edged Nature of Generative AI&lt;/h3&gt;
-
-&lt;p&gt;While much attention is being paid to the technological and economic race, the long-term societal impact of AI’s persuasive power remains largely overlooked. Recent research studies demonstrate that generative AI excels at moral reasoning, narrative creativity and psychological profiling and even anticipates emotional states – all achieved automatically. The potential impact of these superhuman qualities is not widely understood.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;&lt;em&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;AI-driven chatbots and their API-integrated systems can seamlessly analyse audiences, generate targeted content, and distribute it efficiently&lt;/code&gt;&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;National security concerns have focused on scenarios like AI exposing sensitive chemical, biological, radiological, and nuclear information or spiralling out of control. Europol has warned that LLMs could scale up and accelerate cyber attacks. However, the erosion of trust and the potential for large-scale behavioural manipulation may be equally disruptive. Leaked documents revealed that AI researchers highlighted how their technology could lower the cost of disinformation campaigns.&lt;/p&gt;
-
-&lt;p&gt;The strength of AI lies in its adaptability to user demands and its capacity to adopt their preferred personae. Generative AI companies make their application programming interfaces (APIs) widely available so that AI can be incorporated into all sorts of software, search engines and social media services, allowing these systems to be fine-tuned for specific purposes. With few restrictions and trained on historical data going back thousands of years, AI can synthesise – or distort – a startling array of ideas, facts and narratives at an unprecedented speed.&lt;/p&gt;
-
-&lt;p&gt;AI is constantly improving. Almost a decade ago, DeepMind’s AlphaGo shocked the world by defeating human champions and demonstrating inexplicable strategic creativity. Today’s generative AI matches or outperforms humans in many creative disciplines. Its ability to recreate reality, without the biases of conscience or ego, presents both a remarkable capability and a potential threat.&lt;/p&gt;
-
-&lt;p&gt;When disinformation watchdog Newsguard presented ChatGPT with narratives already proven to be false, the AI doubled down and eloquently defended 80% of debunked claims. Though there were examples of effective moderation, researchers indicate that the results were similar to those advanced by the worst conspiracy influencers or Chinese and Russian government bots.&lt;/p&gt;
-
-&lt;h3 id=&quot;the-rise-of-mass-personalised-influence&quot;&gt;The Rise of Mass, Personalised Influence&lt;/h3&gt;
-
-&lt;p&gt;One of the most profound changes brought by generative AI is its ability to anticipate user intentions.&lt;/p&gt;
-
-&lt;p&gt;Researchers at Cambridge University have found that, with just a small number of chatbot interactions, AI can accurately predict a user’s future intentions. This shift from an “attention economy”, in which algorithms sought to capture users’ engagement, to what they call an “intention economy”, where AI can anticipate and exploit desires and decisions before they are even consciously formed, represents a fundamental transformation.&lt;/p&gt;
-
-&lt;p&gt;What does this mean for disinformation? A series of experimental studies demonstrated the potential of LLMs to automate, and therefore scale up, personalised persuasion. Personalised messages generated by ChatGPT in the areas of marketing, political ideology, and personality traits proved more influential that non-personalised messages. AI-generated content has been found to be particularly persuasive, as it can read and respond to individual psychological traits. The application of the technology, in which consumers and citizens will have their decisions second-guessed and nudged, has the alarming potential to increase distrust.&lt;/p&gt;
-
-&lt;p&gt;Generative AI is far from perfect, but the risk of automated, mass manipulation is real. AI-driven chatbots and their API-integrated systems can seamlessly analyse audiences, generate targeted content, and distribute it efficiently – collapsing a series of tasks previously shared out between communications firms and marketing professionals. With the right expertise and application to social media, for instance, these capabilities could be exploited for radicalisation efforts.&lt;/p&gt;
-
-&lt;p&gt;AI developers are building in safeguards so that obviously harmful prompts go unanswered. However, one recent study demonstrated that chatbots remain vulnerable to manipulation.&lt;/p&gt;
-
-&lt;p&gt;Using a technique known as “jailbreaking”, researchers were able to bypass moderation controls in half of the cases tested, allowing chatbots to help the researchers play out scenarios mirroring likely violent extremist activities, including creating divisive content or misinformation, and even providing guidance on recruitment and attack strategies. Even a chatbot’s moderation control preventing it from analysing individual social media feeds can be overcome with a little persistence.&lt;/p&gt;
-
-&lt;p&gt;Militant groups, such as Islamic State, have reportedly explored AI’s potential for their own purposes. However, the true disruptive power of AI may not come from state actors or extremist groups, but rather from the sheer volume of artificially generated narratives, amplifying confusion and further eroding trust in reliable sources of information.&lt;/p&gt;
-
-&lt;p&gt;The popularity of companion chatbots illustrates another dimension of AI’s persuasive power: its apparent ability to empathise with human users.&lt;/p&gt;
-
-&lt;p&gt;In a study comparing human emotional awareness to that of ChatGPT, the AI system outperformed human participants. Because generative AI can adapt to an individual’s emotional and psychological state, researchers found a “dangerous potential to further enmesh people in their own idiosyncratic worlds”.&lt;/p&gt;
-
-&lt;p&gt;This has implications for recruitment into violence. Following an inquiry into the Stockport attack, UK Prime Minister Keir Starmer recently warned that “loners and misfits” face growing risks of radicalisation through an array of content encountered online.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;&lt;em&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;While today’s AI does not yet possess general reasoning capabilities, the pace of its evolution indicates that societies must adapt now&lt;/code&gt;&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Similarly, LLMs outperform humans in instances of moral reasoning. AI-generated messages can appear virtuous and trustworthy, provided users are unaware that the source is artificial. Consequently, in a democracy, those with malign intent are vulnerable to exposure if their use of such technology can be demonstrated, though this will be difficult in practice. Certainly, there was ideological pushback among supporters of an Islamic State affiliate when a sympathetic media channel adopted AI-generated newsreaders.&lt;/p&gt;
-
-&lt;p&gt;This is why the marketing and communications industry is not simply promoting itself in talking down generative AI; in many cases, technology needs a human face to be believed. Many AI companies are looking to strengthen user empowerment and autonomy through technical design. But responses need to go further to maintain human control of the technology, requiring a focus on educating the user so they can harness the benefits while avoiding the pitfalls.&lt;/p&gt;
-
-&lt;h3 id=&quot;strengthening-democratic-resilience&quot;&gt;Strengthening Democratic Resilience&lt;/h3&gt;
-
-&lt;p&gt;Lessons from the rise and misuse of social media suggest that societies must act swiftly. While today’s AI does not yet possess general reasoning capabilities, the pace of its evolution indicates that societies must adapt now.&lt;/p&gt;
-
-&lt;p&gt;Discussions often focus on existential threats posed by AI, but the more immediate, practical challenges of generative AI are frequently overlooked. The safeguards and guardrails being designed into LLMs are decisive, but they are little understood and barely discussed outside a limited circle of experts. Without more democratic discussion, generative AI’s emerging role in shaping public discourse will remain opaque. Few people understand how these systems operate, and this must change.&lt;/p&gt;
-
-&lt;p&gt;The best aspects of social media lie in its ability to redistribute democratic power. Generative AI is more complex and necessitates sustained discussion and attention to defend democracies. Some governments have started to do this. In an era of disruption, societies and individuals equipped with knowledge and resources will be better positioned to navigate the coming waves of informational and economic transformation.&lt;/p&gt;
-
-&lt;p&gt;Simply exposing disinformation or identifying dangerous influencers will not be enough. To maintain democratic control, users must be empowered as citizens. AI literacy must extend beyond technical proficiency to equipping individuals, as part of society, to navigate the complexities of AI-generated influence and uphold democratic values.&lt;/p&gt;
-
-&lt;p&gt;Looking back, regulating social media could have been handled far better. Failing to address AI’s influence today could be a far graver mistake.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;strong&gt;Matt Freear&lt;/strong&gt; is a communications expert, having worked in the fields of development, security, government and human rights for more than 20 years. His interests span conflict, strategic communication, media development, violent extremism, conflict sensitive journalism and the role of generative AI in news production.&lt;/p&gt;</content><author><name>Matt Freear</name></author><summary type="html">The rise of Chinese-made DeepSeek and the rapid spread of AI chatbots raise pressing questions about the implications for democracy and security. There is an urgent need to strengthen user literacy.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://i.imgur.com/i8Fc67Y.jpeg" /><media:content medium="image" url="https://i.imgur.com/i8Fc67Y.jpeg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
+&lt;p&gt;案件編號：HCCC51/2022&lt;/p&gt;</content><author><name>獨媒報導</name></author><summary type="html">國安法後刊文章談及制裁林鄭 控方質疑不可能屬「不小心」 黎智英否認高層有共識發布</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://i.imgur.com/LciFH41.jpg" /><media:content medium="image" url="https://i.imgur.com/LciFH41.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
