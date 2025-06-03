@@ -1,4 +1,339 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://agorahub.github.io/pen0/hkers.xml" rel="self" type="application/atom+xml" /><link href="https://agorahub.github.io/pen0/" rel="alternate" type="text/html" /><updated>2025-06-02T11:45:25+08:00</updated><id>https://agorahub.github.io/pen0/hkers.xml</id><title type="html">The Republic of Agora | Hkers</title><subtitle>UNITE THE PUBLIC ♢ VOL.53 © MMXXV</subtitle><entry><title type="html">Trans-Caspian Corridor</title><link href="https://agorahub.github.io/pen0/hkers/2025-03-28-trans-caspian-corridor.html" rel="alternate" type="text/html" title="Trans-Caspian Corridor" /><published>2025-03-28T12:00:00+08:00</published><updated>2025-03-28T12:00:00+08:00</updated><id>https://agorahub.github.io/pen0/hkers/trans-caspian-corridor</id><content type="html" xml:base="https://agorahub.github.io/pen0/hkers/2025-03-28-trans-caspian-corridor.html">&lt;p&gt;&lt;em&gt;Managing expectations will be as crucial as making physical investments for Europe’s Middle Corridor, the Trans-Caspian International Trade Route.&lt;/em&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://agorahub.github.io/pen0/hkers.xml" rel="self" type="application/atom+xml" /><link href="https://agorahub.github.io/pen0/" rel="alternate" type="text/html" /><updated>2025-06-03T09:13:52+08:00</updated><id>https://agorahub.github.io/pen0/hkers.xml</id><title type="html">The Republic of Agora | Hkers</title><subtitle>UNITE THE PUBLIC ♢ VOL.53 © MMXXV</subtitle><entry><title type="html">Assess UK Ransomware Policy</title><link href="https://agorahub.github.io/pen0/hkers/2025-04-02-assess-uk-ransomware-policy.html" rel="alternate" type="text/html" title="Assess UK Ransomware Policy" /><published>2025-04-02T12:00:00+08:00</published><updated>2025-04-02T12:00:00+08:00</updated><id>https://agorahub.github.io/pen0/hkers/assess-uk-ransomware-policy</id><content type="html" xml:base="https://agorahub.github.io/pen0/hkers/2025-04-02-assess-uk-ransomware-policy.html">&lt;p&gt;&lt;em&gt;This conference report summarises the discussions at a February 2025 workshop on the government’s proposals to reduce the impact of ransomware on the UK.&lt;/em&gt;&lt;/p&gt;
+
+&lt;excerpt /&gt;
+
+&lt;h3 id=&quot;introduction&quot;&gt;Introduction&lt;/h3&gt;
+
+&lt;p&gt;Over the past several years, ransomware attacks have become a persistent national security threat. Attacks against hospitals, schools and businesses of all shapes and sizes have normalised what should be intolerable: organised cybercriminals regularly disrupting and extorting victims, causing misery in the process and undermining the UK economy and society.&lt;/p&gt;
+
+&lt;p&gt;Despite some operational success and increased international collaboration against ransomware criminals, significant policy interventions have not been forthcoming. The UK government, like many other national governments, has received criticism for its lack of progress on ransomware. In December 2023, for instance, the parliamentary Joint Committee on the National Security Strategy published a report that argued: “If the UK is to avoid being held hostage to fortune, it is vital that ransomware becomes a more pressing political priority, and that more resources are devoted to tackling this pernicious threat to the UK’s national security.” Much of this criticism has been directed towards the Home Office, which is the lead department for the government’s counter-ransomware strategy.&lt;/p&gt;
+
+&lt;p&gt;After several years of development, the UK government has launched a consultation on a set of legislative proposals that aim to reduce the impact of ransomware on the UK and increase the amount of intelligence available to operational agencies on incidents and payments. The consultation has three main proposals:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;A targeted ban on ransomware payments for regulated critical national infrastructure (CNI) sectors and the public sector.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;A new ransomware payment prevention regime, which would require victims to acquire authorisation from the government before they can proceed with a ransom payment.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;A mandatory ransomware incident reporting regime.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The consultation on these proposals closes in April 2025. If legislated in their current form, the proposals would significantly change the experience of UK ransomware victims and arguably represent the most consequential intervention by any national government on ransomware to date.&lt;/p&gt;
+
+&lt;p&gt;On 25 February 2025, RUSI convened a half-day workshop to assess the strengths and weaknesses of the government’s proposals. Thirty-eight participants took part in the workshop. Most were senior stakeholders from industry, including chief information security officers representing CNI sectors, and senior managers and practitioners from law firms, incident response firms, cyber security vendors and cyber insurers. Additional participants were drawn from regulators, civil society, UK government and UK law enforcement.&lt;/p&gt;
+
+&lt;p&gt;The half-day workshop was broken into three main sessions. In the first substantive session, a Home Office representative provided a brief overview of the proposals, which was followed by a moderated Q&amp;amp;A.&lt;/p&gt;
+
+&lt;p&gt;In the second session, the workshop participants were divided into three breakout groups. Each breakout room had the same task: to assess the proposals in relation to the government’s stated objectives. These are:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;to reduce the amount of money flowing to ransomware criminals from the UK, thereby deterring criminals from attacking UK organisations&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;to increase the ability of operational agencies to disrupt and investigate ransomware actors by increasing our intelligence around the ransomware payment landscape&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;to enhance the government’s understanding of the threats in this area to inform future interventions, including through cooperation at international level.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;The final session focused on asking participants to discuss alternatives to the government’s proposals. Workshop participants also reflected on whether their perspectives on the proposals had changed following the breakouts, and if so, how. To facilitate candid discussion, the workshop was held on a non-attributable basis.&lt;/p&gt;
+
+&lt;h3 id=&quot;proposal-1-payment-ban-for-public-sector-and-regulated-cni-providers&quot;&gt;Proposal 1: Payment Ban for Public Sector and Regulated CNI Providers&lt;/h3&gt;
+
+&lt;p&gt;At the heart of the ransomware challenge is the issue of incentives around ransom payments. Ransom payments sustain the ransomware business model. The high profit margins of ransomware have drawn more cybercriminals into the ecosystem and enabled operators to expand their capabilities. Although there is some evidence that the number of victims paying and the revenues generated fell in 2024 – likely due to the impact of law enforcement operations and increased organisational cyber resilience – ransomware remains lucrative for many operators and affiliates.&lt;/p&gt;
+
+&lt;p&gt;Over recent years, the question of whether to ban ransomware payments has become one of the thorniest and most contentious in cyber policy. Proponents of a ban argue that because payments perpetuate the criminal business model, banning them will remove the primary motivation for ransomware attacks. To date, policymakers in multiple countries have largely resisted these arguments due to opposition from industry, concerns about “revictimising” victims and uncertainty about the effectiveness of a ban.&lt;/p&gt;
+
+&lt;p&gt;The UK government has proposed a partial payment ban for ransomware. The ban will cover all public sector bodies and regulated owners and operators of CNI. The government’s logic for the ban is that removing the ability to monetise ransomware will make the UK public sector and CNI “unattractive propositions for ransomware attacks” and therefore deter criminals from targeting UK organisations. At present, the government has not committed to saying how the ban would be enforced or whether criminal or financial liabilities would be levelled against organisations that flout it.&lt;/p&gt;
+
+&lt;p&gt;In the workshop, participants were asked to assess the payment ban against the government’s stated aims, whether it was fair to victims, and what possible intended and unintended outcomes it could create. In general, participants were negative about the assumption that the proposed ban would have a significant impact on the volume of ransomware incidents in the UK.&lt;/p&gt;
+
+&lt;p&gt;Although some participants agreed that the proposed ban would probably reduce the number of payments that would go to criminals, there was scepticism about whether this would represent a significant blow to the profitability of ransomware, given that UK victims probably represent only a single-digit percentage of global ransomware victims. Even more scepticism was expressed about the government’s assumption that the proposal would ultimately deter attacks against the UK public sector and CNI. This is because most ransomware operators are opportunistic, rather than seeking to target specific victims. A joint National Cyber Security Centre (NCSC) and National Crime Agency (NCA) 2023 white paper on ransomware explicitly assessed that “the majority of the initial accesses to victims are gained opportunistically and are not targeted against a particular organisation or business sector”. One participant argued that even if we assume ransomware operations are targeted, cybercriminals are unlikely to have a rigorous understanding of how the UK defines and regulates CNI. The possibility that the proposal has been developed based on a misguided assumption of how ransomware criminals operate led another workshop attendee to remark that the Home Office “has gone into this with one eye open”.&lt;/p&gt;
+
+&lt;p&gt;Some participants argued that the proposal could end up creating more harm than benefit for the UK if essential services experience sustained disruption or businesses are forced to declare bankruptcy because of the cost of business interruption. A particular concern among participants was the possibility that organisations with limited financial and technical resources to improve their cyber resilience – such as schools, local councils or small businesses – could be disproportionately affected by the proposed ban.&lt;/p&gt;
+
+&lt;p&gt;One way to mitigate this could be to ensure that more financial and/or technical support is made available for organisations and sectors covered by the proposed ban. Indeed, some participants viewed this as an essential precondition for implementing the ban. However, this would require a significant step change in how the government supports victims of ransomware and other cybercrimes. At present, the UK state provides very limited incident response or financial support for organisations affected by ransomware, even in the public sector. There is currently no suggestion in the consultation documents that the government intends to change its existing approach. Several workshop participants noted that this (and other aspects of the consultation) raised concerns that the proposals have been developed in a silo from other government departments and agencies responsible for cyber resilience.&lt;/p&gt;
+
+&lt;p&gt;Additionally, participants were sceptical about the sustainability of a hardline ban. For instance, if a ransomware attack against a public sector or CNI entity presented a serious risk of threat to life should the ransom not be paid, the government would be put in the challenging position of deciding whether or not it should follow (or uphold) its own law. At this stage of the consultation, the government has declined to discuss the possibility of exemptions and thresholds. If a hardline ban is upheld, lives could be put at risk in extremis. If exemptions were created (pre-emptively or reactively), ransomware threat actors could use this as a rationale to insist that public sector and CNI victims can or should pay a demanded ransom.&lt;/p&gt;
+
+&lt;p&gt;A final theme of the workshop discussions on the proposed ban centred around compliance and enforceability. While there was a consensus that many organisations would comply with the ban, it was noted that some would seek ways around it. Several participants from incident response vendors and law firms, for instance, argued that some large, privately owned CNI providers would potentially try to divert ransom payments via offices in other jurisdictions or through subsidiaries. Other participants raised questions about effective compliance with the ban for organisations at the other end of the spectrum: SMEs. For instance, ensuring that SMEs in affected sectors are even aware of their obligations under the ban will require the government and regulators to put significant resources into awareness-raising initiatives and campaigns.&lt;/p&gt;
+
+&lt;h4 id=&quot;key-takeaways-and-recommendations-for-the-government&quot;&gt;Key Takeaways and Recommendations for the Government&lt;/h4&gt;
+
+&lt;p&gt;Based on the workshop discussions, the following key takeaways and recommendations were identified for the government on the proposed payment ban:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;While there is an ethical case that UK taxpayer money should not be used to fund payments to criminals, there is considerable scepticism among industry stakeholders that the government’s proposal will reduce the impact of ransomware on the UK. The government should consider the argument that the ban will not achieve its objective of deterring ransomware attacks against the UK public sector and CNI. As part of this, the government should encourage ransomware threat intelligence specialists in the NCSC and NCA to provide private feedback on the proposal.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;The government should develop incentives, as well as punishments, to ensure that the ban is fair and that organisations comply with it. This will likely involve expanding the types of financial and technical support available to victims of ransomware in affected sectors. There was a strong sense among workshop participants that a precondition for legislating a ban should be improving support available to affected SMEs and public sector organisations with smaller budgets or limited access to central government funding.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Finally, if the government is committed to the ban, it should consider how to ensure that multinational companies or companies headquartered in other jurisdictions comply with the ban. Ultimately, this may rest on other countries following the UK’s lead and implementing their own bans. The possibility that some multinationals may circumvent the ban also highlights that its effectiveness may rely on internationalising it.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;proposal-2-the-ransomware-payment-prevention-regime&quot;&gt;Proposal 2: The Ransomware Payment Prevention Regime&lt;/h3&gt;
+
+&lt;p&gt;At present, British ransomware victims who are considering a prospective payment do not need to engage with government or law enforcement entities. Where a payment is ultimately made, neither the victim nor their third-party support needs to report this payment to any relevant public body; however, some do so on a voluntary basis. The Home Office believes that there is scope to engage with – and potentially influence – the ransomware victim journey, by requiring that ransomware victims engage with a suitable government entity when they are considering making a ransomware payment.&lt;/p&gt;
+
+&lt;p&gt;To this effect, the government is proposing a ransomware payment prevention regime, which would force UK organisations to engage with a vested authority to request authorisation before they can make a prospective ransomware payment. The vested authority – a proposed new 24/7 unit – would review the case and determine whether authorisation can be granted. During the workshop Q&amp;amp;A, Home Office officials suggested that an initial response would be provided to the victim organisation within a target 72-hour window. Such a payment authorisation regime would be the first of its kind – for ransomware payments – either in the UK or internationally.&lt;/p&gt;
+
+&lt;p&gt;During the workshop Q&amp;amp;A, Home Office representatives indicated that the decision to authorise (or not) would be based on sanctions risk (for instance, whether a payment could go to North Korean entities), possibly with the addition of other weighted factors. (At the time of writing, Home Office representatives have not outlined what these additional weighted factors might be.) Once authorisation was granted, the victim organisation would be able to take its authorisation certificate to its chosen ransomware payment intermediary and proceed with the payment. It is important to emphasise that under the proposals as currently worded, a ransomware payment by a UK-based organisation made without explicit authorisation would, in effect, be illegal.&lt;/p&gt;
+
+&lt;p&gt;The workshop highlighted that several aspects of the proposal require clarification. For instance, it is not clear whether a victim organisation would have the right to appeal a negative decision. It is also unclear how this law would interface with firms which have a multi-jurisdictional presence and which could, in theory, make a payment from outside the UK without liaising with the authorisation regime in the UK. The Home Office is reportedly aware of these issues and is considering them as part of ongoing internal deliberations.&lt;/p&gt;
+
+&lt;p&gt;Workshop participants were forthcoming and forthright in their views about this proposal. Perspectives were shared on: the degree to which the proposed authority could operate effectively; whether it is an appropriate use of resources; and whether there are risks of unintended consequences. On balance, views on the proposal were generally negative.&lt;/p&gt;
+
+&lt;p&gt;Concerns were raised about whether the prospective authorisation unit could provide a clear response within a sufficiently rapid timeframe. Participants were worried that the unit could under-deliver on the 72-hour turnaround (for instance, during busy periods). Some participants also noted that, in their view, 72 hours was too slow. This highlights the diverging priorities of victim organisations and government in the event of a ransomware attack. The victim organisation, which may be in the initial phase of a severe forced crisis, will want to quickly develop an assessment of its options for containment and remediation. The payment of a ransom may be one option among others; in extremis, it may be the most expedient, the “least worst” or even the only option available. In contrast, the government’s priority – as an external observer – would be to not only assess the rationale and legality of the proposed payment, but also impose time delays on the victim’s decision-making, in order to counter a rushed decision to make a ransom payment.&lt;/p&gt;
+
+&lt;p&gt;Indeed, participants recognised that if the government’s intention is to throw “grit” into the ransomware response ecosystem and “scare” victims into applying serious thought about whether or not they should pay a ransom, the proposal would partially achieve this. Previous research has highlighted that “taking time” in the aftermath of a ransomware incident can reduce a victim’s propensity to pay a ransom. Participants from the ransomware response ecosystem noted that from their experience, the added “nudge” of a government, regulatory or law enforcement agency becoming aware of a prospective payment may make some victim organisations less inclined to seriously explore a payment.&lt;/p&gt;
+
+&lt;p&gt;Participants also felt that to make the proposal meaningful, the government would need to “stick its neck out” and provide clarity on what constitutes a sufficient sanctions check. At the moment, while there are some commonalities, ransomware sanctions check procedures vary between different firms. Participants suggested that the government could, by publishing clear guidance alongside the formation of the new unit, provide a legal benchmark and counter permissive interpretations of sanctions compliance that may be present among some industry actors. This would be a significant step change in the government’s approach to ransomware sanctions, as the current approach offloads all responsibility onto victims, insurers, payment brokers and financial institutions. At present, while sanctioned entities have almost certainly received payments, no sanctions enforcement has taken place in the UK – or indeed internationally.&lt;/p&gt;
+
+&lt;p&gt;However, some participants noted that they were sceptical that the UK government would actually provide clarity or take a position on sanctions checks. In their view, it was much more likely that the government would continue to offload responsibility onto industry. Nonetheless, the unit would presumably need to have access to its own sanctions data, an ability to make a judgement call, and a means of conveying its judgement in a meaningful way to a victim organisation. Participants noted that it was unclear whether government or private sector intelligence (or a combination) would be used to inform the authorisation decision.&lt;/p&gt;
+
+&lt;p&gt;Participants raised concerns about the ethics of the proposed law and unit, as the government could, in effect, “play God” and determine whether a business goes bankrupt due to a ransomware breach. While this hypothetical scenario assumes that a ransom payment would both be affordable and resolve the encryption/exfiltration issue, participants emphasised their disquiet that a government body should be able to make such a high-stakes decision about the future viability of a UK organisation that has been the victim of serious organised crime. Participants suggested that this potential risk could be more pronounced for SMEs, which they referenced as the “bread and butter” of the UK economy. A common phrase through the workshop was that where punitive measures are to be applied against victims of serious organised crime, the UK government should offer more “carrot” to accompany the “stick”.&lt;/p&gt;
+
+&lt;h4 id=&quot;key-takeaways-and-recommendations-for-the-government-1&quot;&gt;Key Takeaways and Recommendations for the Government&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;The workshop suggested that there is probably considerable opposition to the proposed payment authorisation regime in parts of industry involved in ransomware response.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;If the proposed regime does go ahead, the Home Office should provide clarity on a number of aspects of its design and implementation. These include but are not limited to: appeal processes; type and levels of censure for non-compliance; rationale for authorisation and denial; and the role of loopholes, including payment organised outside of the UK. These are important elements that will define the success and failure of the proposed regime and therefore should be subject to additional public consultation at the earliest possible opportunity.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;As with the other proposals, the government will need to dedicate considerable resources to raising awareness among SMEs about their obligations under the payment prevention regime. The government may well be underestimating the amount of resource required to raise awareness among SMEs, given their challenges with cyber security and general capacity for compliance.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;The Home Office may want to give concerted thought as to whether the payment authorisation regime is the most effective means of achieving the government’s goals, and whether, at an estimated £17.3 million per annum, the new unit would present a cost-effective intervention against ransomware.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;proposal-3-a-mandatory-ransomware-incident-reporting-regime&quot;&gt;Proposal 3: A Mandatory Ransomware Incident Reporting Regime&lt;/h3&gt;
+
+&lt;p&gt;At present, ransomware breach reporting in the UK is patchwork and ad hoc. In essence, multiple UK entities may receive voluntary reports from ransomware victims. Additionally, the voluntary nature of ransomware reporting means that victims may decide not to report their breach. They may also decide that the nature of their breach does not necessitate a report to the Information Commisioner’s Office (ICO), as data subjects may not be impacted. The lack of a singular catch-all entity to report to – and issues with synchronising existing reporting – means that it is not possible to map the scale and depth of ransomware incidents in the UK. To design and implement suitable interventions, it is necessary to be able to map the problem with sufficient accuracy. The current lack of reporting on ransomware attacks also hinders the ability of future victims to learn from the experiences of others.&lt;/p&gt;
+
+&lt;p&gt;The Home Office is proposing a new mandatory reporting regime for ransomware incidents. Victims of ransomware would have an initial 72-hour window to report an incident after it has been discovered. The victim would then be expected to submit a full report within 28 days. This proposed reporting requirement would be in addition to existing requirements to report a data breach to the ICO and other relevant regulators. As one ex-law enforcement officer noted during the workshop, the UK does not typically have a policy of mandatory reporting of crime – although the UK’s Crime and Policing Bill, introduced to Parliament in February 2025, includes provisions to introduce a new statutory duty for professional child-support stakeholders to report suspected cases of child abuse.&lt;/p&gt;
+
+&lt;p&gt;During the workshop Q&amp;amp;A, Home Office representatives noted that they are deliberating as to whether reporting should be threshold-based, and if so, what the threshold would be. The core purpose of the mandatory reporting regime would be to build the national UK situational awareness of ransomware, which, at present, is based on a patchwork of mandatory reporting to the ICO (and other regulators) and voluntary reporting to the NCSC and law enforcement (typically through Action Fraud).&lt;/p&gt;
+
+&lt;p&gt;Of the three proposals, the reporting regime was the most warmly received by workshop participants. Participants viewed it as the most cost-effective of the three proposed interventions. There was also a sense that it had the least risk out of the three proposals of causing or exacerbating harm to victims of serious organised crime or of displacement and unintended consequences.&lt;/p&gt;
+
+&lt;p&gt;Importantly, there was also a pronounced sentiment in the workshop that mandatory reporting was a necessary precondition before the other proposals could be legislated – that is to say, in the absence of a clearer national picture about the scale and depth of ransomware incidence in the UK, proposals 1 and 2 are premature and are based on imperfect or even faulty impact assessments. Participants described the degree of the “known unknown” of the UK’s ransomware threat intelligence picture as more pronounced compared to other analogue or digital threats.&lt;/p&gt;
+
+&lt;p&gt;Participants emphasised that any mandatory reporting regime would need to be “low lift” for the victim organisation and empathetic to its circumstances at a time when it is in crisis and may not have a clear picture as to what has occurred. Participants noted that some organisations may not conduct a forensic investigation of the incident and may not be in a position to provide a detailed report.&lt;/p&gt;
+
+&lt;p&gt;As is often the case with discussions about public–private cyber threat intelligence sharing, some participants expressed a view that the channel of information should be two-way or quid pro quo; for instance, a victim organisation could be presented, after its initial report, with information about the type of ransomware which was used in its attack. This information could be used by the victim and its third-party support to inform forensics, remediation and recovery efforts. Research has highlighted that ransomware victims can feel that they report into a “black hole”, with limited or no tangible acknowledgement from the public entity that they report to. There is arguably an opportunity to support the formation of a more tangible feedback loop. To maximise the utility of gathered data, the Home Office – and wider government – should consider how the NCSC and the national, regional and local law enforcement community can be primed to best make use of the data to support victims, inform operational activity and bolster prosecutions.&lt;/p&gt;
+
+&lt;p&gt;Additionally, while the “displacement” effect or unintended consequences of a mandatory reporting regime are likely to be more limited than those relating to proposals 1 and 2, there may still be some ripple effects. Participants from the incident response sector emphasised that in “almost all” of their cases, the client would agree to voluntarily report the incident to law enforcement. This may include phone calls with police, site visits and so on. There is, however, a perception across government that ransomware incidents are significantly under-reported. Assuming participants spoke in good faith, it should be noted that their attendance may represent a selection bias: industry stakeholders who are willing to engage in person at an event relating to a government ransomware consultation may be more likely to encourage their clients to voluntarily report.&lt;/p&gt;
+
+&lt;p&gt;Nonetheless, the workshop highlighted that there is a potential risk that a mandatory reporting regime would reduce the flow of voluntary reporting, as ransomware victims may look to prioritise their mandatory reports and see this as replacing the voluntary ones. In principle, this may not be an issue; information about the incident would still be reaching central government and could filter through to the relevant regional and local law enforcement entities. However, possible consideration could be given to whether voluntary reporting brings informal benefits (either to the victim organisation, third parties or the government) that could be hindered by the introduction of mandatory reporting.&lt;/p&gt;
+
+&lt;p&gt;Additionally, at present, the projected private and public familiarisation costs for the mandatory reporting regime are £970,000 and zero respectively. Depending on where the proposed reporting threshold eventually sits – and especially if smaller SMEs are included – thought should be given as to how this budget can be used most effectively and, if necessary, whether the budget should be increased to amplify reach across the UK economy.&lt;/p&gt;
+
+&lt;h4 id=&quot;key-takeaways-and-recommendations-for-the-government-2&quot;&gt;Key Takeaways and Recommendations for the Government&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;There was a broad consensus among workshop participants that the UK’s ransomware reporting landscape is, at present, confusing, overlapping, and ineffective at developing a true national threat intelligence picture. If the views of workshop participants are a litmus test of vested stakeholders, a mandatory reporting regime may be regarded as having more support than the other proposals in the consultation.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;The government should consider that increasing data on incidents will not necessarily lead to more law enforcement interventions against ransomware threat actors, unless relevant agencies have more resources. Operationalising more intelligence on ransomware incidents and criminals will probably require a significant change in how cybercrime units are funded, particularly within the NCA.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;The Home Office should continue internal deliberation and provide clarity as soon as possible on the suggested thresholds and definitions for a prospective mandatory ransomware reporting regime. There may also be an opportunity to consider implementation of a twinned reporting mechanism for ransomware payments, where victims are mandated to inform the government if they have made payment. Basic reported information could include the original ransom demand, the ransom paid, the ransom note and the wallet details. This could be a lighter-touch way for the government to gather insights on ransomware payments – and “throw grit” into victim decision-making – without implementing a payment authorisation regime.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;The Home Office would also need to give concerted thought as to how mandatory reporting mechanisms would be harmonised with existing reporting. This includes reporting within the UK (to the ICO and other regulators) and outside the UK. It should also be noted that this deliberation about mandatory reporting takes place against the backdrop of severe criticism of the UK’s main cybercrime reporting entity, Action Fraud, which has been described by the parliamentary Justice Committee as “not fit for purpose”.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;Jamie MacColl&lt;/strong&gt; is a Research Fellow in the Cyber and Tech team at RUSI. His current research focuses on ransomware and other financially motivated cybercrimes, the UK’s national cyber strategy, and the role of private companies in global cyber governance. He is also currently a Senior Research Associate at Virtual Routes, a European think tank, and a Project Fellow at the Research Institute for Sociotechnical Cyber Security.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Gareth Mott&lt;/strong&gt; is a Research Fellow in the Cyber and Tech team at RUSI. His research interests include governance and cyberspace, the challenges (and promises) of peer-to-peer technologies, developments in the cyber risk landscape and the evolution of cyber security strategies at the micro and macro levels.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Jen Ellis&lt;/strong&gt; is working to reduce cyber risk for society, partnering with security experts, technology providers and operators, civil society and governments to create greater understanding of cybersecurity challenges and strategies. Jen serves on the UK Cabinet Office’s Government Cyber Advisory Board and various UK government working groups. She is an Associate Fellow of RUSI, Co-Chair of the Ransomware Task Force and Co-Host of the “Distilling Cyber Policy” podcast, and sits on various non-profit boards/advisory boards.&lt;/p&gt;</content><author><name>Jamie MacColl, et al.</name></author><summary type="html">This conference report summarises the discussions at a February 2025 workshop on the government’s proposals to reduce the impact of ransomware on the UK.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://i.imgur.com/OcmxWRA.jpeg" /><media:content medium="image" url="https://i.imgur.com/OcmxWRA.jpeg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">CN-TW Grey Zone Warfare</title><link href="https://agorahub.github.io/pen0/hkers/2025-03-31-china-taiwan-grey-zone-warfare.html" rel="alternate" type="text/html" title="CN-TW Grey Zone Warfare" /><published>2025-03-31T12:00:00+08:00</published><updated>2025-03-31T12:00:00+08:00</updated><id>https://agorahub.github.io/pen0/hkers/china-taiwan-grey-zone-warfare</id><content type="html" xml:base="https://agorahub.github.io/pen0/hkers/2025-03-31-china-taiwan-grey-zone-warfare.html">&lt;p&gt;&lt;em&gt;This policy brief traces the emergence and defining features of the grey zone concept, looking at China’s actions and Taiwan’s responses.&lt;/em&gt;&lt;/p&gt;
+
+&lt;excerpt /&gt;
+
+&lt;p&gt;“Grey zone” as a qualifier for challenges, threats and even warfare describes an approach that seeks results from action below the threshold of war or armed conflict. Attempts to frame a precise definition raise theoretical and practical questions. Can action “below the threshold” of war be a form of “warfare”, or is the threshold subjective and open to manipulation? Can grey zone action be deterred without threatening to cross the line into a state of war? How can the victim of aggression escape a trap where moves to deter grey zone challenges attract condemnation for “provocation” or “escalation” that might be more damaging than the original attack?&lt;/p&gt;
+
+&lt;p&gt;China’s “campaign against Taiwan”, which Sir Alex Younger, former Chief of the UK Secret Intelligence Service, described as “a textbook on subversion, cyber and political harassment”, presents a compelling case study for understanding the grey zone phenomenon. While Taiwan’s situation is distinctive in some ways, the grey zone pressures it faces – including incidents such as sabotage of undersea infrastructure, election interference and digitalised disinformation – closely parallel those faced by other countries in Europe and Asia.&lt;/p&gt;
+
+&lt;p&gt;An understanding of Taiwan’s evolving response to the grey zone is instructive for policymakers experiencing similar challenges. The purpose of this policy brief is to draw insights from Taiwan’s experience, leading to policy recommendations that could have wider application. The brief traces the emergence and defining features of the “grey zone” concept, then looks at China’s actions and Taiwan’s responses, and concludes with recommendations.&lt;/p&gt;
+
+&lt;p&gt;This brief is based on desk research and interviews in Taiwan between November 2024 and February 2025, including a two-day workshop involving experts and officials from Taiwan and other countries facing similar challenges (Australia, Canada, Finland, Indonesia, Japan, Latvia, Philippines, Republic of Korea, Singapore, Sweden, the UK and Vietnam).&lt;/p&gt;
+
+&lt;h3 id=&quot;what-is-the-grey-zone&quot;&gt;What is the Grey Zone?&lt;/h3&gt;
+
+&lt;p&gt;The US Quadrennial Defense Review of 2010 noted “The future strategic landscape will increasingly feature challenges in the ambiguous grey area that is neither fully war nor fully peace”. The actual term “grey zone challenges” appeared in a paper by Philip Kapusta published in 2015, which described “competitive interactions among and within state and non-state actors that fall between the traditional war and peace duality … characterized by ambiguity about the nature of the conflict, opacity of the parties involved, or uncertainty about the relevant policy and legal frameworks” (author’s emphasis). Kapusta adds that participants can “interpret the conflict differently”, and parties can use the resulting ambiguity about the nature of the conflict “to avoid accountability for their actions”. Alongside ambiguity, a more recent RAND study identified the following characteristics of grey zone activity: “unfolds gradually, is not attributable, uses legal and political justifications, threatens only secondary national interests, has state sponsorship, uses mostly nonmilitary tools, and exploits weaknesses and vulnerabilities in targeted countries and societies”.&lt;/p&gt;
+
+&lt;p&gt;The term “grey zone” has become part of Western policy vocabulary, yet the critical issue of the “threshold” remains contentious. Contrary to NATO doctrine that suggests there is “no defined threshold that separates confrontation from armed conflict because many actors intentionally try to obscure or confuse exactly where this threshold lies”, the International Committee of the Red Cross warns that “political narratives surrounding ‘competition’, ‘hybrid warfare’, ‘proxy warfare’ or other ‘grey zone’ terminology must not obfuscate the legal classification of armed conflicts and the application of IHL [international humanitarian law]”. The ICRC goes on to say that even when it is difficult to obtain clear information about the situation this should not be an “excuse for – or be confused with – failure to apply the law to these facts … activities such as imposition of economic measures, information operations, and espionage, by themselves, do not trigger the application of IHL”. As John Raine has argued, “much, but not all, of what we see being conducted in this space could be characterised as features of the difficult, new peace as much as the new warfare”.&lt;/p&gt;
+
+&lt;p&gt;The US Intelligence Council assesses that “grey zone activities and campaigns are likely to increase in the coming years and become a dominant feature of great power competition and international relations more broadly because of eroding or nonexistent norms; emerging, evolving, and expanding domains; and perceptions of their comparative advantages”. Technological developments also expand the scope for grey zone action. The internet and social media function as vectors for attack and subversion not imagined in the era when the law on armed conflict and the UN charter were written. Globalisation has also intensified the range and value of international connections, expanding dependencies that can be held hostage. As Sir Alex Younger put it, “propaganda, subversion and sabotage have been a feature of inter-state conflict for ever. But I think it is also fair to say that our attack surface has increased”.&lt;/p&gt;
+
+&lt;p&gt;Use of the grey zone to avoid accountability or attribution provides leverage in the cognitive and informational (for example, narrative) dimensions of conflict. The first battle for legitimacy is won by shifting the charge of “aggressor” onto the victim, who – reluctant to be accused of “escalation” – will be tempted to do nothing, even at the risk of appearing incompetent. Democracies dependent on alliances are especially vulnerable to this trap. Citizens demand accountability, and an elected leader who takes firm measures can face opposition charges of recklessness. Appear too willing to “escalate” and you may trigger in your allies the fear of entrapment and end up abandoned.&lt;/p&gt;
+
+&lt;h3 id=&quot;taiwans-grey-zone-experience-and-response&quot;&gt;Taiwan’s Grey Zone Experience and Response&lt;/h3&gt;
+
+&lt;h4 id=&quot;chinas-approach&quot;&gt;China’s Approach&lt;/h4&gt;
+
+&lt;p&gt;The Chinese Communist Party (CCP) views bringing Taiwan under its control as a “historic mission and an unshakable commitment”. The fact that Beijing has not given any deadlines or outlined any proscribed methods suggests it is planning to choose a moment and a set of circumstances where “reunification” can be achieved at a cost that does not jeopardise its main policy objectives: building China into a “great modern socialist country” and returning it to “centre stage” in the world. Put another way, the CCP prefers to win Taiwan without fighting. Its exploitation of grey zone approaches is shaped by the possibility that the US position “against any forced, compelled, coercive change in the status of Taiwan” could escalate into a military intervention with catastrophic costs (similar language was adopted in a joint US–Japan statement in February 2025).&lt;/p&gt;
+
+&lt;p&gt;Assuming China seeks to avoid a direct clash with the US, the main obstacle to its aim of extending control is the people of Taiwan’s choice to elect governments that refuse to accept what it claims as a “consensus” that both sides of the Taiwan Strait “work together to advance national unification”. If Taiwan were to freely choose unity, the US military would no longer be a factor. If, however, the government in Taipei changed to one that accepted Beijing’s conditions, allowing resumption of “normal” cross-strait relations, China could bring the full power of its diplomatic and economic instruments to bear, marginalise the “separatist” tendency in Taiwanese society, fully detach Taiwan from external support, and be reassured that Taiwan was on track to unification some time down the road. Rather than thinking of the target as the island of Taiwan, and military invasion as the method, it is more apt to see the target of Beijing’s actions as a preferred political status, and Taiwanese popular opinion as the strategic “centre of gravity” (Carl von Clausewitz’s metaphor for “the hub of all power and movement, on which everything depends”).&lt;/p&gt;
+
+&lt;p&gt;While China has not formally adopted the grey zone concept in its own doctrine, a related set of concepts termed the “Three Warfares” (public opinion, psychological and legal warfare) was introduced by the Central Military Commission into the Peoples’ Liberation Army (PLA) Political Work Regulations in 2003. The International Institute for Strategic Studies identifies China’s legal warfare objectives with regard to Taiwan as to: “intimidate and coerce Taiwanese society”; “erode Taiwan’s territorial claims and sovereignty”; “isolate Taiwan diplomatically”; “build legal justifications to legitimate future action against Taiwan”; and “promote further cross-Strait integration to keep open the option for reunification without military action”.&lt;/p&gt;
+
+&lt;p&gt;Beijing is quite open about its intention to bypass the government in Taipei and “conduct extensive and in-depth consultations on cross-Strait relations and national reunification with people from all political parties, sectors, and social strata in Taiwan, and [to] work with them to … advance the process of China’s peaceful reunification”. The PLA is also an instrument of this grey zone pressure, including through:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Air and maritime incursions across the median line of the Taiwan Strait and adjacent to 24 nautical miles off Taiwan, and over Taiwan’s air defence identification zone.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Military exercises in the waters off Taiwan, including assigning maritime paramilitary forces in joint training with the People’s Liberation Army Navy and the China Coast Guard.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Flying UAVs over offshore islands and weather balloons over Taiwan.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Broadcasting “news” to Taiwanese audiences.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Using marine survey vessels and hydrographic survey ships as a “cover” for the military to improve its battle management around Taiwan.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Cyber attacks on governmental agencies.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Targeting critical infrastructure, including allegedly severing underwater cables.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Taiwan’s ROC National Defense Report 2023, similar to a defence white paper, recognises the risk of subversion, noting that China “has never let up its infiltration and wedge-driving moves in the media and on the internet. Behind its military threat, [it] is exhausting every means to incite discrepancies within Taiwan and create people’s distrust against the government”. The report highlights China’s use of the following modalities “aim[ed] at creating a division among our society and driving wedges among our people”:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Hacking.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Disseminating controversial messages, propaganda and deliberate distortion.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Wedge-driving and provocation.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Infiltration.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Threats and intimidation.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;To return to the threat of military invasion, intensified PLA activity, such as large-scale military exercises, erodes warning times for potential operations. Taiwan’s defence officials emphasised to the author that grey zone actions need to be viewed as part of an escalation ladder that could go to full military action but could also pivot into higher-order grey zone actions such as a “quarantine” or full blockade. While the US Defense Department estimates there would probably be “unambiguous indicators of larger hostile actions against Taiwan”, the Commander of the US Indo-Pacific Command , Admiral Samuel Paparo, said recently that Chinese “aggressive maneuvers around Taiwan right now are not exercises, as they call them. They are rehearsals”.&lt;/p&gt;
+
+&lt;h4 id=&quot;taiwans-predicament&quot;&gt;Taiwan’s Predicament&lt;/h4&gt;
+
+&lt;p&gt;On top of the vulnerability to grey zone attack common to all democratic systems, Taiwan’s status creates additional disadvantages by obstructing collective action. A growing number of states maintain a policy aligned with Beijing’s “One China” principle, that Taiwan is an “inalienable part” of the People’s Republic of China. Even states such as the US and the UK, which Taiwan considers like-minded, have some form of China policy restricting diplomatic relations and defence cooperation. UN member states that are induced to sign off on the One China principle are more likely to consider Beijing’s action towards Taiwan as an internal matter, ignoring Taiwan’s invocation of the right of individual or collective self-defence. It is therefore perhaps not surprising that when Taiwanese interviewees as part of this research identified two reasons for reluctance to “escalate”, the first is concern that the international community (even countries friendly to Taiwan, especially the US) would not welcome an escalation and might not back Taiwan up (an assumption somewhat borne out in wargaming).&lt;/p&gt;
+
+&lt;p&gt;The second reason given for reluctance to “escalate” was fear of domestic turmoil within a society split by divisions on cross-Strait relations. Scholars describe how Beijing’s colonisation of Taiwan’s “media ecology” going back to the period of Ma Ying-jeou’s presidency from 2008 to 2016 has created an information infrastructure favourable to advancing its strategic objectives.&lt;/p&gt;
+
+&lt;p&gt;Broadly speaking, Taiwan’s response breaks down into three areas: appeals for external support; interceptions of PLA ships and aircraft; and work to develop resilience. President Lai Ching-te launched the Whole-of-Society Defense Resilience Committee in June 2024 to work on: civilian force training and utilisation; strategic material supply; energy and critical infrastructure; social welfare, medical care evacuation readiness; and information, transportation and financial network protection.&lt;/p&gt;
+
+&lt;h3 id=&quot;taiwans-counter-grey-zone-playbook&quot;&gt;Taiwan’s Counter-Grey Zone Playbook&lt;/h3&gt;
+
+&lt;p&gt;Analysis of grey zone approaches indicates that the recipient finding the effects of such actions intolerable can react in two ways. One is to neutralise effects through measures likely to be viewed as defensive, such as enhancing resilience. The other is to counter the aggressor’s intent, through dissuasion or deterrence responses designed to stop the action either by disabling the means to carry it out (denial), or by imposing costs to a point where the aggressor concludes that it is against their interest to continue (punishment).&lt;/p&gt;
+
+&lt;p&gt;Targeting intent by cost imposition entails a risk of escalation. Even where risk of escalation is deemed an acceptable price for putting a stop to the harm caused by grey zone activity, it may be rejected as a course of action because of the costs that come with being identified as responsible for escalating. For reasons connected to the “blame shifting” aspect of grey zone action noted above (such as uncommitted allies and divided domestic opinion), this is especially the case for Taiwan.&lt;/p&gt;
+
+&lt;p&gt;Taiwan’s predicament calls for a counter-grey zone playbook with response options that bring advantage to the victim. At the difficult end of the spectrum is a set of actions where the risk/return calculus results in favour of cost imposition, even at the risk of escalation. For example, make a public warning that a drone flying into territorial airspace will be shot down – if that happens, the other side will find it harder to make a charge of “aggression” stick. Or procure non-lethal weapons and draw up rules of engagement to guide a more robust response. It is likely that this category of response options, which could be termed “dark grey”, will grow from the adoption of uncrewed systems that can engage in the contest without loss of life, thus limiting escalation to some extent.&lt;/p&gt;
+
+&lt;h4 id=&quot;dark-grey&quot;&gt;Dark Grey&lt;/h4&gt;
+
+&lt;p&gt;To be effective, dark grey responses require government institutions that can promptly calculate appropriate consequences and carry them out without delay, ensuring the perpetrator as well as domestic and international audiences understand the cost imposition consequent to that grey zone action. Responses should maintain the distinction between perpetrator and victim by calling out grey zone moves in public and diplomatic arenas (where possible in advance) and explain why they are unacceptable and why consequences must follow.&lt;/p&gt;
+
+&lt;p&gt;This is easier said than done. Difficulties arise where grey zone actions are not immediately obvious, and their effects are sometimes not detected until it is too late. A RAND analysis concluded that many low-end grey zone activities “cannot be deterred”, and identified eight criteria required for deterrence to work on the “high end” of the zone. These are outlined below, with an assessment of each of the criteria in relation to Taiwan.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;“Intensity of the aggressor’s motivations” (high – the CCP identifies the Taiwan issue as “the core of China’s core interests”).&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;“Attribution of the aggressor’s role” (rising).&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;“Level of aggression” (rising).&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;“U.S. and partner alignment on unacceptable outcomes” (uncertain).&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;“U.S. and partner alignment on deterrent responses” (low).&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;“U.S. and partner proportionate response capabilities” (weakening).&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;“Regional and global support for deterrence” (high in principle, lower in practice).&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;“The aggressor’s expectation of meaningful responses” (trending up).&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Taiwan’s status in the international community and the uncertainty of the US security guarantee narrows its options in all eight criteria, except perhaps attribution of the aggressor’s role, where Taiwan has most agency to improve deterrence.&lt;/p&gt;
+
+&lt;p&gt;Taiwan’s detention in February 2025 of a Chinese captain and crew of a vessel suspected of involvement in severing underwater cables is a good example of dark grey action. Denial of the capability (even at the risk of escalation in the form of tit-for-tat detentions) is justifiable on the basis of the strategic importance of the infrastructure in peacetime. Investor confidence in Taiwan as a global IT hub could be dampened if the cable-cutting incidents become more frequent.&lt;/p&gt;
+
+&lt;h4 id=&quot;light-grey&quot;&gt;Light Grey&lt;/h4&gt;
+
+&lt;p&gt;“Light grey” responses are often more appropriate to Taiwan’s predicament. These include making pressure tolerable through measures that neutralise the effects (through resilience), or by turning the aggressor/victim narrative to Taipei’s advantage. The Philippines’ “assertive transparency” approach – broadcasting video of violent attacks from the Chinese Coast Guard – was found to consolidate domestic legitimacy and attract support from international partners, even if it has less success in changing Chinese policy. Where China’s grey zone actions resemble war rehearsals, the light grey response would frame them as indicative of Beijing’s aggression and its intent to escalate and thereby risk triggering a broader threat to international peace and security. The object should be to flip the narrative from being about Taiwan’s isolation to about the imperative for collective action.&lt;/p&gt;
+
+&lt;p&gt;The light/dark grey distinction is not absolute, but the essential difference is that dark grey actions are more symmetrical and light grey actions less so. Dark grey actions confront the problem head-on, imposing direct costs and effecting denial while accepting a calculated risk of escalation. Light grey options instead aim to flip the narrative: exhibiting resilience as proof of government competence (shoring up domestic cohesion) and shining light on events from an angle that casts the shadow of blame on the aggressor.&lt;/p&gt;
+
+&lt;h3 id=&quot;recommendations&quot;&gt;Recommendations&lt;/h3&gt;
+
+&lt;p&gt;Acknowledging that Taiwan is already going some way to enact the approaches described above, the following recommendations are highlighted for emphasis, and for their potential for application in other cases:&lt;/p&gt;
+
+&lt;h4 id=&quot;1-get-ahead-of-the-curve&quot;&gt;1. Get ahead of the curve&lt;/h4&gt;
+
+&lt;p&gt;Investing in analysis of grey zone action can not only identify patterns of actions and effects, but also foresee the opportunities for light grey exploitation before the adversary, staying one step ahead.&lt;/p&gt;
+
+&lt;h4 id=&quot;2-leverage-information-exchange-for-insight-and-regional-coalition-building&quot;&gt;2. Leverage information exchange for insight and regional coalition building&lt;/h4&gt;
+
+&lt;p&gt;Sharing experience with other victims will improve analytical capability and support an international collective action message. Networks of expertise open the door to operational or diplomatic partnerships, overcoming some of the isolation effect Taiwan is experiencing, and illuminating opportunities for horizontal escalation across the wider area of China’s grey zone activities. Attendance at the workshop held for the research for this brief indicates the strong appetite among Taiwan’s neighbours for exchanging lessons on maritime grey zone issues, which can help Taiwan overcome attempts to isolate its policy community. Taiwan could host a regional Network of Excellence, bringing together expertise from both countries around Taiwan and those elsewhere which face grey zone or lawfare challenges.&lt;/p&gt;
+
+&lt;h4 id=&quot;3-access-a-broader-knowledge-base-and-a-wider-diplomatic-network&quot;&gt;3. Access a broader knowledge base and a wider diplomatic network&lt;/h4&gt;
+
+&lt;p&gt;Taiwan can benefit from expanded links with European governments and institutions where the challenge of grey zone activity is fast rising, leading to new thinking about how best to respond. A RUSI commentary on Russian cable cutting is one example of common operational interests. Elizabeth Braw’s work on Finland’s response to Russian’s grey zone activities indicates that education is an area where resilience can produce deterrence by denial. NATO’s UK-based Maritime Centre for Security of Critical Undersea Infrastructure can share insights on this set of problems. Broader appreciation for Taiwan’s predicament and the insights it has to offer partners facing similar challenges can encourage the international community to support a collective action approach countering efforts to isolate Taiwan.&lt;/p&gt;
+
+&lt;h4 id=&quot;4-exploit-technology-for-attribution-and-cost-imposition&quot;&gt;4. Exploit technology for attribution and cost imposition&lt;/h4&gt;
+
+&lt;p&gt;Digital connectivity forms a bridge to multilateral cooperation, with opportunities to pool data and apply machine learning (although the question remains as to what happens when ships turn off their Automatic Identification System to evade detection) and algorithmic tools to identify irregular patterns of activity, and produce predictive analysis. Especially in areas of real-time awareness, such a common operation picture can restrict the scope of ambiguity, aid attribution and have a cost imposition effect by increasing international support in proportion to some kinds of grey zone pressure.&lt;/p&gt;
+
+&lt;h4 id=&quot;5-flip-grey-zone-pressure-to-harden-resilience&quot;&gt;5. Flip grey zone pressure to harden resilience&lt;/h4&gt;
+
+&lt;p&gt;According to China, its grey zone pressure is directed not at the “compatriots” on Taiwan, but at “separatists”. The more China’s grey zone action can be shown to harm the interests of ordinary people (such as by depressing foreign economic investment), the harder this narrative becomes to sustain. The more Taipei bases the legitimacy of its response on economic and social resilience, the harder it makes it for Beijing to attribute Taiwan’s responses to a “separatist” minority. Taipei’s message should expose China’s bullying and harassment, but also communicate convincingly about why it will not have the desired effect. The more resilience against violence and bullying becomes normalised, the more it entrenches the narrative of China as the reckless aggressor and Taiwan as the responsible victim.&lt;/p&gt;
+
+&lt;h3 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h3&gt;
+
+&lt;p&gt;Taiwan faces an escalating grey zone challenge that could undermine the island’s political cohesion and security. As an open, democratic society facing a powerful adversary with uncertain international support, Taiwan is constrained in its choices about how to respond to grey zone action. Unless China takes unambiguous attributable action that severely damages Taiwanese property, harms its population or occupies territory, the best course of action is mainly in the realm of “light grey” responses – measures that enhance resilience and improve powers of attribution, deny the sanctuary of ambiguity, attach to the opponent the reputational cost of “escalation” and “aggression”, bolster social cohesion and lend weight to appeals for international support and solidarity. Taiwan can set an example for others dealing with grey zone action. As it continues to develop approaches such as those outlined in this policy brief, it will strengthen its position to resist pressure and build a broader likeminded coalition that together could deny the gains sought by China and others from exploitation of grey zone vulnerabilities.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;Philip Shetler-Jones&lt;/strong&gt; is a Senior Research Fellow in the International Security team at RUSI. His current research is concentrated on Indo-Pacific security. His recent publications have focused on the defence policy of Japan, attitudes of China to NATO, and narratives about the defence of Taiwan.&lt;/p&gt;</content><author><name>Philip Shetler-Jones</name></author><summary type="html">This policy brief traces the emergence and defining features of the grey zone concept, looking at China’s actions and Taiwan’s responses.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://i.imgur.com/ZseWB2C.jpeg" /><media:content medium="image" url="https://i.imgur.com/ZseWB2C.jpeg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Trans-Caspian Corridor</title><link href="https://agorahub.github.io/pen0/hkers/2025-03-28-trans-caspian-corridor.html" rel="alternate" type="text/html" title="Trans-Caspian Corridor" /><published>2025-03-28T12:00:00+08:00</published><updated>2025-03-28T12:00:00+08:00</updated><id>https://agorahub.github.io/pen0/hkers/trans-caspian-corridor</id><content type="html" xml:base="https://agorahub.github.io/pen0/hkers/2025-03-28-trans-caspian-corridor.html">&lt;p&gt;&lt;em&gt;Managing expectations will be as crucial as making physical investments for Europe’s Middle Corridor, the Trans-Caspian International Trade Route.&lt;/em&gt;&lt;/p&gt;
 
 &lt;excerpt /&gt;
 
@@ -444,7 +779,51 @@
 
 &lt;hr /&gt;
 
-&lt;p&gt;&lt;strong&gt;Andrew Cainey&lt;/strong&gt; has lived and worked for most of the past twenty-five years in China, Korea and Singapore advising businesses and governments, having first visited China in 1981. His particular areas of focus relate to China’s development, its growing role and influence across Asia and globally and the intersection of economic prosperity, technology and national security. He is also a founding director of the UK National Committee on China, an educational non-profit; a non-executive director of Schroder Asian Total Return Investment Company plc; and a Senior Advisor to Lumen Capital Investors in Singapore. He has also been a Senior Fellow with Fung Global Institute in Hong Kong; an Associate Fellow in Chatham House’s Asia-Pacific Programme; a Senior Fellow in the Security and Crisis Management Programme (International Centre) at the Shanghai Academy of Social Sciences; and a Policy Advisor in the Conservative Party’s Policy Unit.&lt;/p&gt;</content><author><name>Andrew Cainey</name></author><summary type="html">There is substantial value to establishing a UK-wide framework that enables more effective local authority engagement with China.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://i.imgur.com/AEQcWtj.jpeg" /><media:content medium="image" url="https://i.imgur.com/AEQcWtj.jpeg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Fighting With Allies</title><link href="https://agorahub.github.io/pen0/hkers/2025-03-26-fighting-with-allies.html" rel="alternate" type="text/html" title="Fighting With Allies" /><published>2025-03-26T12:00:00+08:00</published><updated>2025-03-26T12:00:00+08:00</updated><id>https://agorahub.github.io/pen0/hkers/fighting-with-allies</id><content type="html" xml:base="https://agorahub.github.io/pen0/hkers/2025-03-26-fighting-with-allies.html">&lt;p&gt;&lt;em&gt;The United States military has no dedicated framework for conducting multinational strategic planning with its allies and partners in the Indo-Pacific region. Four existing regional frameworks should be adapted for this purpose.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Andrew Cainey&lt;/strong&gt; has lived and worked for most of the past twenty-five years in China, Korea and Singapore advising businesses and governments, having first visited China in 1981. His particular areas of focus relate to China’s development, its growing role and influence across Asia and globally and the intersection of economic prosperity, technology and national security. He is also a founding director of the UK National Committee on China, an educational non-profit; a non-executive director of Schroder Asian Total Return Investment Company plc; and a Senior Advisor to Lumen Capital Investors in Singapore. He has also been a Senior Fellow with Fung Global Institute in Hong Kong; an Associate Fellow in Chatham House’s Asia-Pacific Programme; a Senior Fellow in the Security and Crisis Management Programme (International Centre) at the Shanghai Academy of Social Sciences; and a Policy Advisor in the Conservative Party’s Policy Unit.&lt;/p&gt;</content><author><name>Andrew Cainey</name></author><summary type="html">There is substantial value to establishing a UK-wide framework that enables more effective local authority engagement with China.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://i.imgur.com/AEQcWtj.jpeg" /><media:content medium="image" url="https://i.imgur.com/AEQcWtj.jpeg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Japan’s Role in Europe</title><link href="https://agorahub.github.io/pen0/hkers/2025-03-27-japans-role-in-europe.html" rel="alternate" type="text/html" title="Japan’s Role in Europe" /><published>2025-03-27T12:00:00+08:00</published><updated>2025-03-27T12:00:00+08:00</updated><id>https://agorahub.github.io/pen0/hkers/japans-role-in-europe</id><content type="html" xml:base="https://agorahub.github.io/pen0/hkers/2025-03-27-japans-role-in-europe.html">&lt;p&gt;&lt;em&gt;Against a background of increased military spending that could see Japan attain the third largest military in the world within a few years, the nation’s relationships with Europe and the US are being defined by mutual threats.&lt;/em&gt;&lt;/p&gt;
+
+&lt;excerpt /&gt;
+
+&lt;p&gt;President Zelensky’s visits to Washington, DC on 28 February ended with mixed reactions - disappointment in the West and satisfaction in Russia. Consequently, European leaders gathered in London on 2 March to reassess the outcome of the meeting between the two presidents.&lt;/p&gt;
+
+&lt;p&gt;This commentary argues that Europe is only looking at its own back yard when it comes to security. The global security threats encompass both Russia (frontline Europe) and China/Russia/North Korea (frontline Japan). As former Japanese Prime Minister Fumio Kishida stated: “Ukraine Today may be East Asia Tomorrow.” This has not changed and this is why the ranking of the contributors to Ukraine since the Russian invasion ranges from the US, the EU, Germany, the UK also to Japan. Japan recognises its wider role in European security based on the shared values with its western partners.&lt;/p&gt;
+
+&lt;p&gt;In East Asia, Japan is supporting global security by holding up the alliance with the US - yet this is completely absent from the Western discussions. This is not about Japan interceding for Europe with the US but making sure the US stays engaged with regard to its global security role, one that includes Europe and East Asia. This commentary examines the strategic importance of maintaining global order by “bridging the two sides of the continent” and explores Japan’s role in Europe.&lt;/p&gt;
+
+&lt;p&gt;As this author heard from a few participants to the Munich security conference in February, everything was about Russia, with little attention given to China. However, on a global scale, Europe remains committed to the Indo-Pacific region. France, for instance, has deployed the Charles de Gaulle aircraft carrier strike group for CLEMENCEAU 25, conducting multinational exercises with the US and Japan in the South China Sea and making port calls in the Philippines.&lt;/p&gt;
+
+&lt;p&gt;This demonstrates that Europe and Japan share common values and interests in upholding the global rules-based order. While the US under the Trump administration primarily focuses on competition with China, the question that arises is - what role can the US allies on both sides of the continent play?&lt;/p&gt;
+
+&lt;h3 id=&quot;the-space-that-follows-pax-americana&quot;&gt;The Space that Follows Pax Americana&lt;/h3&gt;
+
+&lt;p&gt;Former Japanese Ambassador to the US, Koji Tomita, wrote in the Nikkei on 3 March, “The inconvenient truth of Trumpism is the end of Pax Americana. The US may have the capabilities, but its willingness to support global stability is eroding.” History has shown that, in the absence of a balance of power, vacuums are inevitably filled. If this is the case they are likely to be filled by China and Russia. Professor Kent Calder of Johns Hopkins University echoed this sentiment in the same article, stating, “As the US retreats from maintaining world order, the national interests of Europe and Japan are increasingly aligned, and Japan’s role in Eurasia will only grow.”&lt;/p&gt;
+
+&lt;p&gt;Hints of this evolving role can be found in the US-Japan summit statement from 7 February. Despite concerns over President Donald Trump’s hard-liner stance on Japan, PM Shigeru Ishiba’s first visit to Washington, DC was ultimately deemed successful, resulting in a joint statement.&lt;/p&gt;
+
+&lt;p&gt;The key takeaways for Europe from the US-Japan Joint Statement indicate how the two leaders reaffirmed their commitment to a “new golden age” of US-Japan relations, promoting a free and open Indo-Pacific while contributing to global peace and stability.&lt;/p&gt;
+
+&lt;p&gt;The statement included strengthening bilateral security and defence cooperation, emphasizing the importance of the US-Japan Treaty of Mutual Cooperation and Security, reaffirming the alliance as a cornerstone of peace and stability in the Indo-Pacific and beyond, based on shared common values. Japan reiterated its commitment to enhancing its defence capabilities, a move welcomed by the US. This includes expanding US commitments beyond military cooperation with efforts to bolster the US-Japan alliance, through: industrial collaboration; increasing bilateral military presence in Japan’s Southwest Islands; enhancing defence readiness through joint exercises; and strengthening defence industrial cooperation with co-production and co-development of defence technologies.&lt;/p&gt;
+
+&lt;p&gt;Don’t forget economic benefits; the US president likes a “deal”. The leaders acknowledged the critical role of economic cooperation in their alliance by fostering economic ties and technological cooperation, committing to increased bilateral investment, industrial collaboration in cutting-edge technologies such as AI and semiconductors, and joint efforts to counter economic coercion. They also announced plans to strengthen energy security by expanding US liquefied natural gas exports to Japan.&lt;/p&gt;
+
+&lt;h3 id=&quot;multilateralism-in-the-indo-pacific&quot;&gt;Multilateralism in the Indo-Pacific&lt;/h3&gt;
+
+&lt;p&gt;As part of their cooperation, the two leaders intend to advance multilayered and aligned cooperation among like-minded countries, including Japan-Australia-India-US (Quad), Japan-US-South Korea, Japan-US-Australia, and Japan-US-Philippines. The two leaders reaffirmed their opposition to China’s militarization in the South China Sea, expressed concerns over North Korea’s missile program, and emphasized the strategic importance of peace across the Taiwan Strait.&lt;/p&gt;
+
+&lt;p&gt;Underscoring Japan’s role in maintaining global stability, particularly in countering aggressive actions by China, Russia and North Korea, it is clear that a strong Japan also contributes to European prosperity. Given these developments, Europe should recognize and leverage Japan’s unique strategic position and Japan’s role in bridging Europe and the US. Japan wants to help maintain the balance between two sides that might not always agree.&lt;/p&gt;
+
+&lt;p&gt;Here are three key points to consider: First, Japan is the only Indo-Pacific nation with both the will and capacity to act as a bridge between Europe and the US. To support Ukraine effectively, Europe should adopt a global strategic perspective that includes Japan.&lt;/p&gt;
+
+&lt;p&gt;Second, Japan faces three authoritarian adversaries – China, Russia and North Korea – positioning it as a frontline observer and deterrent against Russian actions in the “Eastern Front”. As such Japan is a strategic watchtower, whose role can enhance security coordination with Europe. Therefore, Europe should work alongside Japan to ensure sustained US engagement in global security. Japan, in fact, is a vital ally in the wider relationship between the US and Europe, beyond the Indo-Pacific.&lt;/p&gt;
+
+&lt;p&gt;Third, without strong US commitment, neither peace in Europe nor stability in the Northwest Pacific can be guaranteed. Historically, US support was crucial in conflicts such as World War II and the Falklands War. The US has been the essential link between Europe and Japan, fostering peace and prosperity. Thus, in order to counter the rise of authoritarian states, Europe and Japan must continuously cultivate and strengthen their alliance with the US. Maintaining alliances requires ongoing effort – like a garden, it must be nurtured and cared for.&lt;/p&gt;
+
+&lt;h3 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h3&gt;
+
+&lt;p&gt;Japan’s strategic alignment with Europe presents a unique opportunity to reinforce global stability. By strengthening its role as a bridge between Europe and the US, Japan can help maintain a balanced world order. Keeping this in mind – and if we talk about a value-based alliance – it would be fitting for Europe to invite Japan to the table for the discussion on Ukraine. As geopolitical challenges intensify, fostering this trilateral relationship will be critical for ensuring peace, security, and prosperity across the globe. Europe needs to recognize Japan’s role in maintaining stability and the value based global order.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;Keizo Kitagawa&lt;/strong&gt; is a professor in the Faculty of Policy Management, Keio University, Japan. He is the Head of K2Connect International and an independent consultant. He is also a Senior Research Fellow of YCAPS. His expertise encompasses maritime security and strategy, Japanese national security, Japanese defence policy; Japan-US and Japan-UK relations, Indo-Pacific security, military operations, military equipment, and military higher education.&lt;/p&gt;</content><author><name>Keizo Kitagawa</name></author><summary type="html">Against a background of increased military spending that could see Japan attain the third largest military in the world within a few years, the nation’s relationships with Europe and the US are being defined by mutual threats.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://i.imgur.com/24rDlbk.jpeg" /><media:content medium="image" url="https://i.imgur.com/24rDlbk.jpeg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Fighting With Allies</title><link href="https://agorahub.github.io/pen0/hkers/2025-03-26-fighting-with-allies.html" rel="alternate" type="text/html" title="Fighting With Allies" /><published>2025-03-26T12:00:00+08:00</published><updated>2025-03-26T12:00:00+08:00</updated><id>https://agorahub.github.io/pen0/hkers/fighting-with-allies</id><content type="html" xml:base="https://agorahub.github.io/pen0/hkers/2025-03-26-fighting-with-allies.html">&lt;p&gt;&lt;em&gt;The United States military has no dedicated framework for conducting multinational strategic planning with its allies and partners in the Indo-Pacific region. Four existing regional frameworks should be adapted for this purpose.&lt;/em&gt;&lt;/p&gt;
 
 &lt;excerpt /&gt;
 
@@ -10753,392 +11132,4 @@
 
 &lt;hr /&gt;
 
-&lt;p&gt;案件編號：HCCC51/2022&lt;/p&gt;</content><author><name>獨媒報導</name></author><summary type="html">黎智英反問控方：撫心自問現在香港有沒有人可以說真話？官打斷：不容政治言論</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://i.imgur.com/LciFH41.jpg" /><media:content medium="image" url="https://i.imgur.com/LciFH41.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Kenya’s Influence In Congo</title><link href="https://agorahub.github.io/pen0/hkers/2025-02-21-kenyas-influence-in-congo.html" rel="alternate" type="text/html" title="Kenya’s Influence In Congo" /><published>2025-02-21T12:00:00+08:00</published><updated>2025-02-21T12:00:00+08:00</updated><id>https://agorahub.github.io/pen0/hkers/kenyas-influence-in-congo</id><content type="html" xml:base="https://agorahub.github.io/pen0/hkers/2025-02-21-kenyas-influence-in-congo.html">&lt;p&gt;&lt;em&gt;Kenya’s political and economic influence in the Democratic Republic of the Congo (DRC) has increased since the DRC joined the East African Community in 2022. This report analyzes Kenya’s investments, stabilization efforts, and business ties in the DRC, assessing opportunities and challenges.&lt;/em&gt;&lt;/p&gt;
-
-&lt;excerpt /&gt;
-
-&lt;h3 id=&quot;key-findings&quot;&gt;Key Findings&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;Kenya’s political stability outlook and its role in shaping regional peace and stability have made it an influential member of the East African Community (EAC).&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Over the years, Kenya has sought to consolidate partnerships in the bloc as a means of economic expansion, particularly in the finance and transport sectors.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Peace and security initiatives have accompanied this effort, as instability inhibits economic growth.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Kenya’s economic expansion has generated geopolitical tensions that threaten long-term cooperation and broader stability in the EAC, particularly as Kenya takes the helm of the bloc instead of the Democratic Republic of the Congo (DRC), which had been tipped for the position.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;summary&quot;&gt;Summary&lt;/h3&gt;
-
-&lt;p&gt;This report analyzes Kenya’s political and economic influence in the EAC through the nation’s initiatives in the DRC as Kenyan President William Ruto takes up the rotational leadership of the bloc for the next year.i The EAC now comprises eight member states: Burundi, the DRC, Kenya, Rwanda, Somalia, South Sudan, Tanzania, and Uganda. The report explores the impact Kenya has had on expanding the regional bloc over the last five years (2019–2023), Kenya’s influential role in stabilizing the region, and how Kenya’s intervention in the DRC has consolidated business interests that were established in 1967 when the two countries first forged diplomatic relations.&lt;/p&gt;
-
-&lt;p&gt;This report also focuses on challenges and opportunities around Kenya’s economic initiatives in the DRC. It deals with Kenya’s financial initiatives, analyzing how they spur private investment in the country and their impact on trade at large with other members of the EAC. The aim is to understand how Kenya is rising as a regional power within the EAC by extending its influence across other member states, especially the DRC. This study is mainly qualitative.&lt;/p&gt;
-
-&lt;p&gt;This report, which draws from a review of academic literature, official documents, and commentary on the EAC, is based on field research conducted in Nairobi, Busia, and Mandera, Kenya, and in Kinshasa and Goma, DRC, in the fall of 2024. At the request of the interviewees, their comments have been kept anonymous. In conducting this study, the researchers met with a broad cross section of informants: government officials, trade association leaders, business operators, youth leaders, diplomats, current and former politicians, independent journalists, local political analysts and academics, and military officers.&lt;/p&gt;
-
-&lt;p&gt;While Kenya’s presence in the DRC may be traced to the 1960s, when the two countries achieved independence, relations between them reached new levels following DRC President Félix Antoine Tshisekedi Tshilombo’s rise to power in January 2019. When the DRC joined the EAC in April 2022, a new dynamic emerged, increasing Kenyan investments in key strategic areas, such as the financial system, aviation, and the oil and energy sectors, and earning Kenya a significant, influential position in the Congolese economy. While these investments benefit the DRC to some degree, they also have a negative impact on a country that has limited industrial output. The DRC has a consumer market where local investors and companies do not compete as they would in a more liberal economy.&lt;/p&gt;
-
-&lt;p&gt;This report provides explanations for this recent dynamic in Kenya’s economic initiatives, specifies the implications for the DRC and the region, and sheds light on the initiatives’ prospects by interrogating—using a strengths, weaknesses, opportunities, and threats (SWOT) approach—the chance for Kenya to maintain its current position or to increase its influence, even if a change of government occurs in the DRC. The conclusion offers recommendations.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/288irMS.png&quot; alt=&quot;image01&quot; /&gt;
-&lt;em&gt;▲ &lt;strong&gt;Figure 1: East African Community Member States and Dates of Accession.&lt;/strong&gt; Source: CSIS Africa Program.&lt;/em&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;background-kenyas-political-and-economic-influence-in-the-eac&quot;&gt;Background: Kenya’s Political and Economic Influence in the EAC&lt;/h3&gt;
-
-&lt;p&gt;Kenya is widely considered an economic and logistical pillar of the EAC due to its political stability outlook, well-established infrastructure, and regional peace initiatives. Since the inception of the bloc in 1967 and its revival in 1977, Nairobi has sought to be a dominant regional power despite the EAC’s rotational leadership and egalitarian ideals. President Ruto is embarking on his tenure as the leader of the EAC by “enhancing regional competitiveness, promoting value-added production, boosting intra-regional trade, and attracting greater investment to the region’s economies.” President Tshisekedi notably skipped the EAC summit on December 1, 2024, which also marked 25 years of integration; insiders noted that he had been tipped to take up the post but had been beset by the security crisis in the eastern DRC and may not have been in a position to lead the bloc. The two have had an uneasy relationship, partly due to Ruto’s perceived forceful style, compared with the pragmatic and conciliatory approach of his predecessor Uhuru Kenyatta, who was initially spearheading the DRC’s peace process. Indeed, prior to winning elections, Ruto was the subject of derision for remarking that the DRC had “no cows” and would need Kenya to import milk.&lt;/p&gt;
-
-&lt;p&gt;At the same time, tensions persisted between the two countries after Kenya spearheaded a failed peacekeeping mission, seeking to play a larger role in economic initiatives in the DRC off the back of its historic political and economic expansion in the country and its ambition as an aspiring hegemon of the EAC.&lt;/p&gt;
-
-&lt;p&gt;International relations lecturer Dr. Gilbert Kimutai describes regional hegemons as “countries that are able to shape the fortunes of other countries through their greater economic power, military might, and political influence. They are countries that have dominant influence or authority over others.” A journalist covering regional developments observed that Kenya has demonstrated these qualities by being the gateway to the region, particularly considering its strategic positioning near the Indian Ocean and its use of infrastructure to sustain interconnectedness and consolidate shared political and diplomatic values. These have partly driven the growth of Kenyan business interests in the region and, notably, as this paper assesses, in the DRC.&lt;/p&gt;
-
-&lt;p&gt;Key DRC sectors in which Kenya has grown its footprint include banking and finance, insurance, transport, hospitality, and import and export. Some of Kenya’s earliest investments in the DRC predate the latter’s official inclusion in the regional bloc. Since the 1970s, Kenya’s port of Mombasa has enabled Congolese traders from the eastern provinces to import and export goods. Kenyan financial institutions were also instrumental in providing loans and capital to Congolese businesspeople, establishing cross-regional trade and partnerships. The DRC Kenya Chamber of Commerce noted that this first-to-market advantage enabled Kenyan businesses to quickly set up shop in the DRC, particularly between 2015 and now, tapping into a population of nearly 100 million people. Therefore, the expansion of Kenya’s private sector players into the DRC—and the stability and acumen these have brought in—have provided a strong foundation for government-led expansion and cooperation between the two countries, especially as the DRC seeks increased political and security support from the EAC.&lt;/p&gt;
-
-&lt;p&gt;In April 2021, during a state visit by former Kenyan President Uhuru Kenyatta in Kinshasa, the two countries signed four pacts on general cooperation that cover the joint promotion of scientific, technical, and sociocultural programs. A year later, exports from Kenya to the DRC were worth $141 million, while exports from the DRC to Kenya were worth $30.4 million. A trade mission sponsored by Equity Bank on behalf of the two governments in April 2022 saw more than two dozen Kenyan companies pledge to invest $1.6 billion into the DRC. A Kenyan journalist who has been tracing the expansion of the EAC over the past five years observed that the relationship has remained asymmetric due to Kenya’s political and economic advantage.&lt;/p&gt;
-
-&lt;h3 id=&quot;impact-of-the-relative-adoption-of-the-eac-charter&quot;&gt;Impact of the Relative Adoption of the EAC Charter&lt;/h3&gt;
-
-&lt;p&gt;Kenya has consistently advocated for the EAC to be better integrated, ostensibly to extend its economic reach in the region. An international relations lecturer at the United States International University-Africa attributed this to Kenya’s capitalist approach, which has been enhanced by foreign direct investment (FDI) and the fact that the country has often “taken on the burden of streamlining protocols.” An integral element of integration, however, is the relationship between member states. According to the African Development Bank (AfDB), “the major challenges of regional integration in East Africa” are the “lack of complementarity in trading, low competitive position of countries to supply goods in the region . . . institutional capacity weakness to advance regional integration, and failure to address political issues related to regional integration.” For instance, in August 2013, Kenya entered into a separate pact with Uganda and Rwanda—the coalition of the willing—that undercut trade with Tanzania as competition heightened. This undermined the Common Market Protocol, which sought to abolish restrictions on trade and movement.&lt;/p&gt;
-
-&lt;p&gt;The expectation within Kenya’s business community had been that the DRC’s entry into the EAC would further harmonize trade, especially after Tshisekedi pledged in 2021 to undertake reforms that would streamline the tax and regulatory environment for ease of business. However, the uneven adoption of the EAC’s administrative mechanisms continues to hamper not only trade relations between Kenya and the DRC, but also broader intraregional trade.&lt;/p&gt;
-
-&lt;p&gt;Table 1 outlines the various steps EAC members must take to fully ratify the charter and highlights the member states that have fully adopted various tenets to compare levels of compliance.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/fiNufEg.png&quot; alt=&quot;image02&quot; /&gt;
-&lt;em&gt;▲ &lt;strong&gt;Table 1: Steps to Harmonization of the EAC.&lt;/strong&gt; Source: &lt;a href=&quot;https://www.eac.int/the-secretariat&quot;&gt;“The Secretariat,” EAC&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;The tensions between Kenya and the DRC, partly driven by differences between the respective leaders of the two countries, as highlighted earlier, will likely slow the ratification of the EAC charter, as well as planned reforms outlined by Tshisekedi, potentially undermining years of preexisting cooperation in the private sector. For the moment, Kenyan businesses are not experiencing operational difficulties, demonstrating the capacity to disentangle political tensions from the broader economic benefits. Nevertheless, an audit and advisory firm that recently established operations in Kinshasa observed that the DRC will continue to need support to enable regional businesses to navigate the country’s legal, regulatory, and tax environment. It also identified two other areas that would be affected by the geopolitical tensions:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Business uncertainty:&lt;/strong&gt; Kenya-based businesses may slow partnerships and trade due to limited diplomatic cover (the DRC has yet to approve Kenya’s ambassadorial appointment more than seven months down the line), which can hurt local economies and the potential for investment and growth.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Loss of market access:&lt;/strong&gt; Barriers such as trade restrictions or new tariffs risk being applied with limited diplomatic recognition, which leads businesses to risk losing revenue and diminishes market opportunities for Kenyan businesses.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Nevertheless, investor confidence has not declined, as the risk appetite of most Kenyan businesses appears high, according to one consultant with a risk advisory. Despite the internal security issues facing the mineral and agricultural sectors that Kenyan companies have sought to expand in, businesses are likely willing to withstand periods of political tension, as many established operations prior to the current challenges.&lt;/p&gt;
-
-&lt;h3 id=&quot;courting-the-drc-peace-and-stability-for-business-expansion&quot;&gt;Courting the DRC: Peace and Stability for Business Expansion&lt;/h3&gt;
-
-&lt;p&gt;As such, it is imperative to discuss Kenya’s involvement in the DRC by briefly reflecting on the failed security intervention. Although Kenya and the DRC already have well-established bilateral relations, the prevailing sentiment when Presidents Kenyatta and Tshisekedi signed bilateral deals in 2021 was that further integration through the EAC could be achieved only alongside mechanisms for peace and stability, particularly in the eastern regions, which are the gateway to the central African nation. A journalist with the East African, a regional weekly paper, stated, “DRC’s entry to the bloc could not be separated from tackling insecurity because the entryway from neighbors to the country is through the volatile east.” He added that Kenya’s previous role in peace and security initiatives in the region, including in South Sudan (another EAC member state) and Somalia (the latest entrant), partly underpinned Tshisekedi’s confidence at the time in Kenyatta’s ability to stabilize the east. At the same time, a Mombasa-based historian observed, “While such security issues may have informed Kenya’s entry into such a volatile theatre of conflict, a close reading of Kenya’s intentions in DRC may reveal other economic considerations.”&lt;/p&gt;
-
-&lt;p&gt;Kenya’s military intervention against the resurgence of the March 23 Movement (M23) became the first true test of the Eastern African Standby Force, established in 2004 but operationalized only in 2011 to intervene in growing regional conflicts. The forces’ capacity was reinforced by the adoption in 2012 of the EAC Conflict Management Act, which “seeks to prevent internal, cross border, and regional conflicts affecting partner states; bring together conflicting parties for mediation; encourage the parties to a conflict to resolve conflict amicably; encourage cooperation among partner states in conflict management; and coordinate post-conflict management.” The DRC is so far the first and only site of military intervention by the force, dubbed the East African Community Regional Force (EACRF). This was alongside the Nairobi process, in which members of armed groups active in the eastern DRC took part in peace talks with the government.&lt;/p&gt;
-
-&lt;p&gt;The EACRF did not engage in direct combat as had been widely anticipated, and Ruto expressed disappointment at the lack of additional funding to support the regional troops. As this failed to materialize, the rationale for a more aggressive posture for the EACRF dwindled. Geopolitical relations further aggravated mistrust, with a prevailing perception that Kenya sided with Uganda and Rwanda, which have long been considered sponsors of M23 despite repeated denials.&lt;/p&gt;
-
-&lt;p&gt;An EACRF insider noted that despite relative success in upholding ceasefires and delivering humanitarian aid in North Kivu, a lack of understanding about the mandate of the force precipitated its failure. A series of papers examining the nine-month intervention also observed, “Each contributing country’s different understanding of the mission fueled suspicion, confusion, and misinformation,” which in the long run threatens to undermine Kenya-DRC relations.&lt;/p&gt;
-
-&lt;h3 id=&quot;kenya-as-a-traditional-congolese-economic-partner&quot;&gt;Kenya as a Traditional Congolese Economic Partner&lt;/h3&gt;
-
-&lt;p&gt;Kenya and the DRC established diplomatic relations in 1967. Their economic ties have always been fluid and facilitated by the geographical position of the DRC in the heart of Africa, linking East Africa to the Atlantic Ocean. Several eastern DRC provinces (notably, North Kivu, South Kivu, Ituri, and Tshopo, among others) are economically dependent on the Central Corridor, which includes Mombasa, Kenya, as the import and export port for the Congolese on the Indian Ocean. The Directorate General of Customs and Excise (DGDA), a public Congolese agency that collects taxes levied on exports and imports, has representation at the port of Mombasa, where goods transit from or to the DRC, as in the case of the Tanzanian port of Dar es Salaam. Kenya is also a destination for many Congolese migrants. According to a Kenyan official, more Congolese reside in Kenya than Kenyans in the DRC for several reasons, including personal security and employment, business, and educational opportunities. The current Kenyan population in the eastern DRC is likely about 2,500, including around 50 investors, whereas Nairobi alone is home to at least 10,000 Congolese. This migration often goes together with business and the creation of enterprises. Congolese investments, financial placements, and loans to Kenyan companies make the DRC, among other EAC partner states, the highest holder of Kenyan foreign liabilities, estimated at $1.4 billion in 2021.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;&lt;em&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Kenya and the DRC established diplomatic relations in 1967. Their economic ties have always been fluid and facilitated by the geographical position of the DRC in the heart of Africa, linking East Africa to the Atlantic Ocean.&lt;/code&gt;&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Kenya’s economic involvement in the DRC gained momentum at the beginning of the 1970s. Nairobi became a hub for Congolese traders from Beni and Butembo in North Kivu Province. Gold, timber, and coffee from the DRC were already transiting there to the port of Mombasa. Conversely, Congolese traders were receiving goods from Nairobi long before discovering the trade route to China. An informant reported that Congolese were receiving support in terms of loans and other facilities in Kenya to sustain this business.&lt;/p&gt;
-
-&lt;p&gt;Kenya’s investments in the DRC are notable chiefly in the service sector, such as transport, oil, hospitality, and telecommunications. For instance, Jambojet, an airline founded in 2014, launched its direct flight from Goma to Nairobi in September of 2021. It is the second Kenyan airline, after Kenya Airways, to operate continuously in the DRC. Congo Petrol is the largest Kenyan company in the oil sector operating in Kinshasa, Goma, Lubumbashi, and Kolwezi. Incorporated in 1997, it has become a distributor and licensee of the Dalbit brand which was established in Kenya in 2002. Another example is the Serena Hotel, which belongs to Vanny Bishweka, a Congolese businessman based in Goma, but is managed by Kenyans. Other small and medium-sized enterprises (SMEs) have been established in Kinshasa, such as Fontana Hotel in 2003 and African Digital Networks in 2011. Sojax Paint Company, created in partnership with the Congolese in 2017, has branches in North Kivu, South Kivu, and Ituri provinces.&lt;/p&gt;
-
-&lt;p&gt;This demonstrates that, for a long time, the Kenyan government has had a clear policy of trading with the DRC, aiming to make it a consumer market for goods and services produced in Kenya or distributed by Kenyans. However, the Kenyan government has made limited investments in the DRC’s production sector, and Kenya has never been the DRC’s top economic partner. According to figures from the Congo Central Bank (BCC), 43.5 percent of Congolese imports come from African countries—mainly from South Africa, Zambia, and Tanzania. The DRC is ranked sixth among Kenyan export markets. In terms of Congolese exports, however, China is the top DRC trade partner, while South Africa comes first among African countries. A Kenyan official indicated that his country seeks to do more business with the DRC, improve its economic position, and catch up with other African states. This competitive mindset alone may be the driver of the new dynamic in Kenya’s rising investments and growing influence in the DRC.&lt;/p&gt;
-
-&lt;h3 id=&quot;recent-dynamics-kenyas-growing-economic-influence-in-the-drc&quot;&gt;Recent Dynamics: Kenya’s Growing Economic Influence in the DRC&lt;/h3&gt;
-
-&lt;p&gt;On January 24, 2019, Tshisekedi came to power following the tenure of former President Joseph Kabila. The peaceful transfer of power was a milestone because it had not happened in the DRC since its independence. For the first time, people hoped for a return to stability and a good business climate.&lt;/p&gt;
-
-&lt;p&gt;Kenya seems to have understood this and has taken initiative to increase its investments, mainly in the banking sector. This choice has three justifications. First, Kenya has been present in the Congolese banking market since Equity Group Holdings acquired Pro-Credit Bank in 2015; the subsidiary was renamed Equity Bank Congo. Second, the market is still largely available, as only around 7 percent of the population have bank accounts, similar to Kenyans in the early 1990s, according to James Mwangi, Equity Group’s managing director. Third, banks are the catalyzers of entrepreneurship thanks to the support services they provide to investors, such as safe placements, financial transactions, and loans.&lt;/p&gt;
-
-&lt;p&gt;The second DRC bank that Equity Group Holdings acquired is the Congolese Commercial Bank (BCDC), incorporated in the DRC in 1909, whose main shareholder was the family of Belgian tycoon George Forrest. Equity Group Holdings bought up to a 65 percent stake in this entity in December 2020, and BCDC merged with Equity Bank Congo to form one entity named Equity BCDC, which officially opened on April 21, 2021. With a balance sheet in excess of $3 billion, Equity BCDC became the second-largest bank in the DRC, behind Rawbank, which was created by the Rawji family, of Indian origin, in 2002. One year later, another Kenyan company, Kenya Commercial Bank (KCB), purchased an 85 percent stake in Trust Merchant Bank (TMB) in December 2022, whose assets were worth $2.2 billion in 2023.&lt;/p&gt;
-
-&lt;p&gt;Investments like these are not unique to the DRC because Kenya has also bought subsidiaries in other EAC member states. A case in point is Rwanda, where “KCB acquired a 62.06 percent stake in Banque Populaire du Rwanda (BPR) from the British financial services conglomerate Atlas Mara Ltd in 2021 and later increased the stake to 76.67 percent by acquiring additional shares from the minority shareholders.” However, what is changing with respect to the DRC is Kenya’s growing interest in the Congolese market, the scale of its investments, and the trend to consolidate the partnership from a long-term perspective.&lt;/p&gt;
-
-&lt;p&gt;In terms of benefits, the DRC has surpassed Rwanda as the most profitable market for Kenya among other EAC member states. According to the Central Bank of Kenya, subsidiaries of Kenyan banks in the DRC have recorded 45.5 percent of the total pretax profit of Kenyan banks within the EAC market, or $229 million in 2023. Equity BCDC has realized a net profit of $102 million. There is a scramble for the DRC market because it is lucrative and underexploited. More Kenyans are investing in the oil sector—for instance, by establishing fuel stations for local consumption. Other companies are extending the range of their market, as in the case of Congo Petrol, which now serves the west of the country and established a new branch in Kinshasa in April of 2024. Kenyans are also investing in the energy sector through GL Energy Africa, established in Kinshasa in July of 2024, which aims to create energy solutions, such as building electricity plants, for public or private corporations that may be in need. The entity is part of Janus Continental Group, a larger company based in Nairobi. Overall, Kenyans are looking for more markets given the “booming private sector and a vast expansion of SMEs,” implying a high productivity of the local Kenyan industry. With a population of over 100 million, the DRC alone offers a significant market.&lt;/p&gt;
-
-&lt;p&gt;Finally, on the political front, the DRC effectively joined the EAC in 2022, creating hopes for a new business environment. The scale of its partnership with Kenya expanded through the conclusion of a general cooperation framework in April 2021. The bilateral agreement covers various matters of common interest in the economic, political, and security areas. This development reflects a tight rapprochement between the two countries. Kenyatta, the former president of Kenya, played an important role because he is considered the godfather of the Cap pour le changement (CACH) political coalition, created in Nairobi, which had supported Tshisekedi’s candidacy during the Congolese presidential election of December 2018. Kenyatta’s close friendship with Tshisekedi facilitated the latter’s interest in joining the EAC. Among the Congolese, however, the decision to join the EAC was contentious, as they did not vote for the consequential commitment. The population of eastern provinces tended to support the decision, while those living in other parts of the DRC never embraced the idea. Nevertheless, strategic trade missions and meetings were organized to attract investors on the territory of both countries. It is necessary to explore the consequences of this economic dynamic for the DRC and the region.&lt;/p&gt;
-
-&lt;h3 id=&quot;implications-for-the-drc-and-the-region&quot;&gt;Implications for the DRC and the Region&lt;/h3&gt;
-
-&lt;p&gt;Kenyan investments in the DRC come with benefits and costs. Benefits represent the gains, and costs represent the losses or negative impacts for the DRC and the EAC region. The implications of these investments are tied to the context: The DRC appears to be economically weaker than Kenya, which is the largest economy in the EAC, with a gross domestic product (GDP) of $116.6 billion, according to the International Monetary Fund (IMF). In contrast, the DRC’s GDP was $83.1 billion in August 2024. Furthermore, the Congolese economy is less diversified and is supported mainly by exports from the mining sector. As a reminder, Tanzania is the top Congolese trade partner within the EAC in terms of both imports and exports. This signals that while Kenyans are investing in the DRC and making more tangible profits than in any other EAC member state, Congolese do not reciprocate with a similar dynamic in Kenya. This is due to shortcomings in production activities. Apart from producing raw materials—timber in particular—the DRC is mainly a consumer market. As an informant from the BCC stated, “We do not have an economy, and we have not even figured out how to put one in place.” After the admission of the DRC into the EAC, the few Congolese assets in Kenya fell by 30 percent, from $1.4 billion in 2021 to $969 million in 2022. The economic relationship between the two countries is therefore unbalanced, and the deficit will widen as long as the DRC remains unproductive and weakened. Kenya is not to blame; rather, the Congolese government’s economic policies and governance are perceived as not living up to the power potential of the DRC.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;&lt;em&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;The DRC appears to be economically weaker than Kenya, which is the largest economy in the EAC, with a gross domestic product (GDP) of $116.6 billion, according to the International Monetary Fund (IMF). In contrast, the DRC’s GDP was $83.1 billion in August 2024.&lt;/code&gt;&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;The negative impacts are higher for the Congolese side. In fact, there is a wide perception among Congolese that Kenya’s investments in the DRC may end in an economic hegemony with devastating adverse effects on local investors who cannot effectively compete with Kenyan investments. Kenya dominates the oil sector in the eastern DRC, for example, in terms of the supply chain and fuel distribution. The same is true for the food product, beverage, and equipment sectors. A civil society activist reported a case in the cement sector in which Nyiragongo Cement, a new Congolese company created in 2014 and headquartered in Goma, nearly went bankrupt because of insecurity, among other factors, due to the ongoing armed conflicts around the production site. The company has failed to compete against products imported from Simba Cement, a Kenya-based corporation. Yet, he added, the cement business had received financial support from the Industry Promotion Fund (FPI) and a tax exemption from the DRC government.&lt;/p&gt;
-
-&lt;p&gt;Another civil society informant said Kenya’s influence is such that the DRC cannot withstand economic shocks without Kenyan investment in certain areas, such as the banking sector. This is a matter of national security for the DRC since all banks are now under majority foreign control.&lt;/p&gt;
-
-&lt;p&gt;But Kenyan investments also generate benefits for the DRC. One of these is the opportunity to restore security in the eastern DRC, which has been affected by protracted armed conflicts for around three decades, including ongoing aggression by Rwanda and Uganda that is currently supported by rebels of the M23. The DRC has bargaining leverage to engage in strategic diplomacy, pushing the Kenyan government to exercise its influence on other EAC member states involved in these conflicts in order to pacify the region. Through this, the DRC could gain peace, Kenya the security of its investments, and the region new economic opportunities. The strategy could also encourage the DRC to further its integration into the EAC without hesitation, because in joining the community, it expects “a real impact on the course of stabilization processes” in its eastern provinces.&lt;/p&gt;
-
-&lt;p&gt;On an economic level, the benefits for the DRC are rather standard: employment for Congolese and payment of various taxes. For instance, Equity BCDC had 1,713 staff in 2023. Kenyan banks have facilitated the digitization of services and opening of accounts for millions of Congolese, including public servants who are paid by them following an arrangement with the DRC government.&lt;/p&gt;
-
-&lt;p&gt;But the most significant benefit is probably the support banks give to households, individual entrepreneurs, and companies. TMB, in particular, resorts to leasing operations to finance start-ups as well as small and medium companies. Leasing is a method of financing investments that allows a company or an entrepreneur to use the equipment of their choice or a property in return for a monthly charge and to decide at the end of the contract whether to purchase the equipment or property. Another unique mechanism TMB has carried out in the Congolese banking landscape is the offer of life insurance, which partly compensates for the deficits of the Congolese social security system.&lt;/p&gt;
-
-&lt;p&gt;Equity BCDC has been more successful. For example, it acquired the Emmanuel 4 boat company through the financing of the Silimu establishments. The vessel now facilitates maritime transport on Lake Kivu from Goma to Bukavu. Equity BCDC has extended its approach to the grassroots by providing small loans to individuals in the informal small trade to help them survive. It also provides, in compliance with the social responsibility of corporations, socio-financial services such as loans, training, and supervision to young entrepreneurs, particularly in agriculture. Thus, Equity BCDC trained 1,665 farmers in financial education and agricultural entrepreneurship in 2023, and a loan volume of $589,840 was disbursed to them.&lt;/p&gt;
-
-&lt;h3 id=&quot;challenges-and-limitations&quot;&gt;Challenges and Limitations&lt;/h3&gt;
-
-&lt;p&gt;These benefits, however, are marred by a multitude of factors that inhibit inclusive banking services and regional trade. First, the demand for financing and loans is very high, especially in the extractive industries, trade, and household sectors, and banks cannot serve everyone. As a banker in Kinshasa explained, banks are commercial entities, and any bank exercises caution before carrying out a given financial operation by assessing the cost, profit, and risk. He added that the risks of non-reimbursement are equally very high because of the absence of solid loan guarantees. In 2023, for instance, Equity BCDC canceled around $13 million in outstanding loans to SMEs that were unable to repay on schedule. For the informant, it is up to the DRC government to find alternative solutions for investors, either by providing banks with risk-sharing guarantees or by financing investors directly through its own mechanisms, such as the FPI and the Entrepreneurship Guarantee Fund in the Congo (FOGEC). Banks can strive only to complement these governmental efforts. Equity BCDC is already on this path. It has concluded several partnerships with international development agencies, such as the African Guarantee Fund, the International Finance Corporation, the French Development Agency, and the U.S. Agency for International Development, to improve its financing capacity toward SMEs and receive risk-sharing guarantees.&lt;/p&gt;
-
-&lt;p&gt;Second, some investors, entrepreneurs, and traders are reluctant to use available banking services because of expensive charges. In the example of Equity BCDC, an informant in the Goma branch of the Congo Business Federation (FEC) noted that an international transfer of $100,000 could entail, in addition to undue delays, a commission of up to $3,000, which could prompt potential customers to place their money in banks incorporated in Rwanda so as to pay their foreign suppliers at a lower cost. A similar practice, he added, could be observed among small traders who would rather request loans from microfinance institutions and thus avoid unbearable charges for opening bank accounts or withdrawing cash.&lt;/p&gt;
-
-&lt;p&gt;Third, banks cannot cover the whole country; therefore, many Congolese do not have access to banking services. In 2022, TMB, for example, reported over 2 million customers, 105 branches, and 3,000 points of sale across 33 cities and 21 of the country’s 26 provinces. Equity BCDC is even absent in the provinces of Maniema (east), former Bandundu (south west), and Equateur (north west). This is due to the size of the country, which encompasses 2.345 million square kilometers and is devoid of essential communication infrastructure that could facilitate access to remote areas. From an economic perspective, banks normally operate in areas that are secure and free from violent armed conflicts, where the market is available and lucrative and therefore does not require excessive further investments.&lt;/p&gt;
-
-&lt;p&gt;All of these factors and obstacles raise legitimate questions about the prospects of Kenya’s economic initiatives in the DRC. It is particularly necessary to highlight the chance for Kenya to maintain the level of its investments or increase its influence in the country.&lt;/p&gt;
-
-&lt;h4 id=&quot;prospects-for-kenyas-economic-influence-in-the-drc&quot;&gt;Prospects for Kenya’s Economic Influence in the DRC&lt;/h4&gt;
-
-&lt;p&gt;There is a net potential for Kenya to gain more influence in the Congolese economy, even if, to date, it is behind the top six DRC trade partners: China, South Africa, the United Kingdom, the United Arab Emirates, Zambia, and Tanzania. Kenya has the advantage of being familiar with the Congolese market in a handful of strategic areas, such as the financial system, and making a profit. There is also the will to expand this experience, as evidenced by newcomers in the Congolese economic landscape. In the banking sector, in particular, Kenya has encountered almost no competition from other EAC member states. Profit may have a multiplying effect because it increases Kenya’s assets and constitutes an incentive for diversifying investments. All this can encourage more Kenyans to do business in the DRC. Kenya will still benefit from a liberal economy and Congolese liberalization policies, which have extended economic opportunities to various areas: mining, energy, agriculture, telecommunications, and so on.&lt;/p&gt;
-
-&lt;p&gt;However, there are at least two major weaknesses. On one hand, the relative limitation of Kenyan investments to a few strategic areas, as specified above, prevents Kenya from benefiting from other lucrative sectors, including public infrastructure such as roads, hospitals, water supply systems, and housing. Yet these are among the DRC’s priorities according to the 2023–2026 Public Investment Program (PIP). As Kenya is already making significant profit from its economic initiatives in the DRC, its brand image could be tarnished if the Congolese government claims Kenyans care only about their interests and neglect the DRC’s development priorities. As an informant from civil society noted, the trend is almost the same for all EAC partners—that is, the DRC is exploited, either legally, illegally, or through violence, without giving it the slightest chance to recover. Some Western political figures, such as Herman Cohen, have proposed allowing East African countries such as Rwanda to exploit Congolese resources, with the DRC gaining tax payments under the framework of trade and regional economic integration, as well as gaining peace. The public has criticized this role of providing resources and money to other countries, considering it a major obstacle to the DRC’s development. If Kenya wants to make its economic presence more meaningful to the Congolese, it should expand its initiatives to the aforementioned DRC development priorities, and banks could provide financial support. Kenya would thus be on the path of countries such as Uganda, which in 2021 concluded an agreement with the DRC to build the Kasindi-Beni-Butembo and Bunagana-Rutshuru-Goma road sections.&lt;/p&gt;
-
-&lt;p&gt;On the other hand, it is worth noting the Congolese administration’s and justice system’s harassment of foreign investors in general and Kenyans in particular. In the example of Equity BCDC, Mr. Jean-Pierre Bemba and others orchestrated a judicial procedure to seize and sell the bank’s headquarters in Kinshasa, claiming a debt of $9 million against Western Union Company, which uses the services of the bank for money transfers. A lawyer based in Kinshasa explained that the claim was related to allegedly false testimonies and cooperation provided by Western Union to the International Criminal Court (ICC) in a case in which Bemba and others were prosecuted for corruptly influencing witnesses. Despite the judgment of the Constitutional Court in November 2022 stopping the seizure—in particular for violating the right to property guaranteed by the Congolese constitution—Bemba and others persisted in trying to sell the bank’s headquarters without having any legally valid title. Even if TMB does not face as much harassment as Equity BCDC, it has reported cases of the tax administration arbitrarily closing its branches in the cities of Mbandaka and Kananga without notice. In fact, tax harassment in terms of the number of levies and the multiple and sometimes irregular collection services is a common concern for Kenyan investors. This raises the question of respect for the rule of law and the fight against corruption as prerequisites for a good business environment in the DRC.&lt;/p&gt;
-
-&lt;p&gt;But there are opportunities to improve the situation. First, the DRC government has announced that the 2002 Investment Code will be further modified. This is an opportunity to alleviate taxes on Kenyan companies by expanding the reach of the legislation to currently excluded sectors and other domains that may be of interest to Kenyans: mining and oil, banks, insurance, and other commercial activities. In this regard, support from the National Agency for the Promotion of Investments (ANAPI) in terms of tax exemption and technical assistance for the application of this legislation is likely to push more investors into those sectors and reduce ongoing administrative harassment. Second, if the general cooperation framework agreement concluded between the two countries in 2021 is carried out in good faith, then it may result in a complementary bilateral investment treaty that will provide specific protective measures of a legal, fiscal, judicial, and political nature for investors in the territories of each party beyond the guarantees they hold in accordance with other international and regional instruments. The EAC treaties are among the latter instruments, beginning with the community’s constitutive act, which aims to promote economic integration through “a Customs Union, a Common Market, subsequently a Monetary Union and ultimately a Political Federation.” But the DRC has neither ratified nor implemented these arrangements in its domestic legal order, therefore rendering them inapplicable to citizens of EAC member states. As an informant within the Congolese Ministry of Foreign Trade stated, “DRC is a member of several regional organizations of integration but largely remains outside trade arrangements.” The Congolese government has nevertheless pledged to apply EAC treaties, as it admits that though they do not yet benefit the country, they will make Kenya freer to invest in the DRC thanks to uniform regional rules on the free movement of people, goods, services, and capital and the right of establishment and residence within the community.&lt;/p&gt;
-
-&lt;p&gt;All of these prospects are realistic and achievable, but they may be compromised if two major threats are not eliminated, the first of which is the insecurity problem due to continued armed conflict in the eastern DRC. No long-term investments can flourish where peace and stability remain elusive. As discussed, Kenya has an interest in contributing to the resolution of these conflicts, which is why it led the EACRF to stop M23 rebels in North Kivu province. However, the mission failed because of various factors, including planning deficits, lack of coordination between troop-contributing states, divergent views and interests, and, chiefly, the DRC government’s ineffectiveness and complacency toward Rwanda and the rebels. The EACRF, whose deployment began in November 2022, was obliged to withdraw as the Congolese government refused to renew its mandate beyond December 8, 2023. It was replaced by the Southern African Development Community’s Mission in the Democratic Republic of Congo (SAMIDRC). As the lead nation of the EACRF, Kenya suffered a major blow, tarnishing its image among the Congolese people as a DRC ally. This could negatively affect the current economic relationship between the two countries should political and popular perceptions treat Kenya as a hostile country.&lt;/p&gt;
-
-&lt;p&gt;Finally, another threat is the DRC’s attempt to retreat from the EAC—a subject which has been at the center of public debate since the failure of the EACRF. There is a broad perception that the EAC is useless, and the DRC cannot remain a member while other member states attack it with impunity. In addition, the DRC considers EAC trade arrangements unfavorable, making the country more dependent on foreigners because it largely lacks production capability. Although the population has exerted pressure on the Congolese government, a withdrawal would mean the rejection of economic integration and a return to a variety of drastic trade barriers, including the imposition of visas. This is not in the interest of the population of the eastern DRC, which depends closely on East Africa. This may be the reason why the Congolese government is very cautious about moving in the direction of withdrawal and it is not yet on the official agenda.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;&lt;em&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;All of these prospects are realistic and achievable, but they may be compromised if two major threats are not eliminated, the first of which is the insecurity problem due to continued armed conflict in the eastern DRC. No long-term investments can flourish where peace and stability remain elusive.&lt;/code&gt;&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
-
-&lt;h4 id=&quot;conclusions-and-recommendations&quot;&gt;Conclusions and Recommendations&lt;/h4&gt;
-
-&lt;p&gt;Kenya has significantly invested in the DRC, even though it is not yet among the top Congolese trade partners (China, South Africa, the United Kingdom, the United Arab Emirates, Zambia, and Tanzania). Its economic initiatives are driven by the fact that Kenya is looking for more markets abroad due to the dynamic, high level of productivity of its local companies and industries. The DRC market is equally large and lucrative, and it is underexploited. Another factor behind Kenya’s continued investments in the DRC is the diplomatic rapprochement between the two countries, as evidenced, mainly, by the conclusion of a general bilateral cooperation framework in 2021 and the admission of the DRC into the EAC in 2022.&lt;/p&gt;
-
-&lt;p&gt;Kenya is present in some strategic areas of the Congolese economy, such as the banking, oil, transport, and energy sectors. This gives Kenya economic influence in the DRC. Notably, Kenya has acquired the major banks Equity BCDC and TMB, which are an integral part of Kenyan regional corporations—that is, Equity Group and KCB, respectively. These acquisitions have improved its position as an emerging power within the EAC. Congolese and other investors are already benefiting from their financial services even though these services lack an inclusive character because access is still limited for some, while others avoid banking because of excessive or unbearable charges.&lt;/p&gt;
-
-&lt;p&gt;The chance for Kenya to maintain its position in the DRC or to increase its economic influence will depend on its ability to consolidate its achievements and significantly expand the range of its investments in other lucrative areas that constitute development priorities of the Congolese government—notably, agriculture, mining, and public infrastructure such as roads, hospitals, water supply systems, and housing. It will also depend on the accessibility of the Congolese market in accordance with the principles and objectives of a liberal economy, on how the DRC positions itself toward regional integration within the EAC, the gains it makes in the security arena, and positive perceptions of Kenya as an ally rather than a hostile country undermining the interests of Congolese people.&lt;/p&gt;
-
-&lt;p&gt;From the above, it is appropriate to make the following recommendations:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;The DRC should remain a member of the EAC; ratify, implement, and apply the community’s treaties; and align its domestic legislation to regional legal standards, specifically those related to the EAC’s customs union and common market.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;The DRC should improve its business climate by reforming its tax system, the investment code, and justice system as a prerequisite for the rule of law and economic prosperity.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Kenya should establish holistic investment opportunities that not only underpin its ambitions for further economic expansion but also contribute positively to the DRC’s stability outlook.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Kenya should develop a stronger bilateral defense and security partnership with the DRC to help the latter rebuild its security sector.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Both countries should work together and use the EAC mechanisms to resolve the armed conflicts in the eastern DRC and restore peace and stability.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;The DRC and Kenya should support banks in partnering with development agencies so as to increase their capacity to finance young entrepreneurs and SMEs, as well as to develop reliable risk-sharing guarantees capable of leading to inclusive banking services.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Banks should be interconnected with subsidiaries established in each EAC member state in order to facilitate regional trade, such that any placement or transfer of money is possible in any state on the same account and is considered local to further the free movement of capital.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Kenya and the DRC should conclude a bilateral investment treaty complementary to other international and regional arrangements that are binding on trade and business in general.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Relations between Kenya and the DRC may still be sustained through robust business partnerships that predate the central African nation’s entry into the EAC. The business community remains an integral part of aligning the economic goals of both countries and building resilient joint activities of mutual benefit.&lt;/p&gt;
-
-&lt;p&gt;This can continue to complement the Nairobi process, which, with additional political goodwill from members of the regional bloc, is likely to support stabilization efforts in the east. Finally, deployments of the EACRF should be made not only in cases that align with Kenya’s economic interests; this broadening would facilitate more effective responses in the event of subsequent interventions by the EACFR as, for instance, conflict-affected Somalia joins the EAC.&lt;/p&gt;
-
-&lt;p&gt;With these findings, the following recommendations are put forward:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;The EAC should continue to prioritize peace and security initiatives to stabilize the DRC, which will consolidate investments and promote trade and economic stability.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;The EAC Secretariat should expedite the implementation of the road map in order to streamline relations and the adoption of outstanding administrative issues.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;The regional force should be depoliticized and provided with a clearer mandate that addresses the real needs and aspirations of the populations to prevent the pitfalls of mistrust that undermine peace and stability initiatives.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;In the foreseeable future, however, as a community, the EAC will remain fragmented due to the competing ambitions of political leaders and countries. Conflicts in the region pit EAC members against each other, with the interests of local elites taking precedence over economic integration.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;strong&gt;Mvemba Phezo Dizolele&lt;/strong&gt; is a senior fellow and director of the Africa Program at the Center for Strategic and International Studies (CSIS) in Washington, D.C.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Balingene Kahombo&lt;/strong&gt; is an associate professor of public law and African international relations at the University of Goma (DRC).&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Beverly Ochieng&lt;/strong&gt; is a senior associate (non-resident) with the Africa Program at CSIS and a security analyst specializing in the Sahel and global power competition in Africa.&lt;/p&gt;</content><author><name>Mvemba Phezo Dizolele, et al.</name></author><summary type="html">Kenya’s political and economic influence in the Democratic Republic of the Congo (DRC) has increased since the DRC joined the East African Community in 2022. This report analyzes Kenya’s investments, stabilization efforts, and business ties in the DRC, assessing opportunities and challenges.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://i.imgur.com/JBlACG7.jpeg" /><media:content medium="image" url="https://i.imgur.com/JBlACG7.jpeg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">【黎智英案・審訊第 136 日】</title><link href="https://agorahub.github.io/pen0/hkers/2025-02-20-trial-of-jimmy-lai-day-136.html" rel="alternate" type="text/html" title="【黎智英案・審訊第 136 日】" /><published>2025-02-20T12:00:00+08:00</published><updated>2025-02-20T12:00:00+08:00</updated><id>https://agorahub.github.io/pen0/hkers/trial-of-jimmy-lai-day-136</id><content type="html" xml:base="https://agorahub.github.io/pen0/hkers/2025-02-20-trial-of-jimmy-lai-day-136.html">&lt;ul&gt;
-  &lt;li&gt;黎智英批控方案情純屬「想像」無關事實 官指無權質疑只需回答是否同意&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;excerpt /&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/lxJQV48.png&quot; alt=&quot;image01&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;【獨媒報導】壹傳媒創辦人黎智英及3間蘋果公司被控串謀勾結外國勢力及串謀刊印煽動刊物等罪，今（20日）於高院（移師西九龍法院）踏入第136日審訊，黎智英第44日作供。控方就黎的兩篇專欄文章提問，分別為〈諗移民定諗遊行〉和〈專橫暴政打壓 我們氣魄不滅〉。控方質疑文章稱中聯辦「撕掉《基本法》」和「高調曲線釋法」等，並沒有官方說法支持或任何事實基礎，意圖引起市民憎恨特區和中央政府，及激使香港居民循非法手段改變現有合法制度。黎不同意，批評這是控方的「想像」；控方籲黎只需要回答同意或不同意，以免浪費法庭時間。黎反指：「可是如果你能夠說事實，也可以令事情更加簡單。」法官杜麗冰打斷，重申控方職責是向黎指出其案情，若黎不同意便回答不同意，毋須與控方爭辯，又指黎沒有權質疑。&lt;/p&gt;
-
-&lt;h4 id=&quot;黎文章稱林鄭蔑視港人-控方質疑引市民憎恨政府&quot;&gt;黎文章稱林鄭蔑視港人 控方質疑引市民憎恨政府&lt;/h4&gt;
-
-&lt;p&gt;控方代表、副刑事檢控專員周天行出示2019年5月5月黎的專欄文章〈諗移民定諗遊行〉，文章稱：「跟這個邪惡的林鄭政府拼一拼，還是早走早着」、「朋友搶着說，實在忍受不了林鄭和高官那些不屑的蔑視嘴臉，沒有比這種嘴臉更侮辱」、「明明是利用台灣兇殺案作幌子，來掩飾惡法暗渡陳倉的陰毒，卻仍視全香港巿民是傻瓜的囂張態度，就知道這地方已到了令人無法忍受，無藥可救的地步。」黎稱僅引述朋友的言論。控方追問黎是否同意？黎稱同意，並確認他與朋友的感受一致。&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/y5nVp0f.png&quot; alt=&quot;image02&quot; /&gt;
-▲ （資料圖片）&lt;/p&gt;
-
-&lt;p&gt;控方質疑黎希望讀者與他有共同感受，意圖引起對政府的憎恨。黎則稱他只是撰寫文章述說香港情況，以及講述香港人的感受。控方質疑：「黎先生，你不能代香港人說話。」黎同意他不能代香港人說話，但是他只想反映香港人的感受。他否認有意引起對政府的憎恨及居民之間的不滿。&lt;/p&gt;
-
-&lt;p&gt;控方質疑文章稱：「將來修訂了『逃犯條例』還可以隨時拉你鎖你，多神奇的權力」，是毫無根據的說法，只是基於黎的個人感受，目的是引起讀者恐懼。黎堅稱有合理理由作為根據。控方又指，文章有意激起香港居民間的不滿；黎否認，重申只是講述自己的感受。&lt;/p&gt;
-
-&lt;h4 id=&quot;控方質疑黎嘗試向讀者散播其主觀感受-黎否認發自內心撰文&quot;&gt;控方質疑黎嘗試向讀者散播其主觀感受 黎否認：發自內心撰文&lt;/h4&gt;
-
-&lt;p&gt;控方又指文章稱：「冰封三尺非一日之寒，特首高官對我們蔑視的態度，是在京官對香港人的厭惡和摒棄心態的薰陶下，不由自主的條件反射」，是黎的個人偏見、主觀判斷和感受，又質疑黎嘗試將這種感受向廣大讀者散播。黎則否認，強調自己無論撰寫任何文章，均是發自內心。&lt;/p&gt;
-
-&lt;p&gt;文章提到：「我們都心中有數，特首高官那種不屑我們的輕蔑態度，正反映出中央對香港人的態度；大把大陸人等着來香港，你們香港人這麼麻煩，早走早着好了。在他們心中我們早已被放棄，想你走之心形諸於色，對你棄如敝屣便蔑視你。蔑視往往是令人絕望的心理因素。」控方質疑這是黎的主觀判斷、個人感受，而他想想向讀者散播這種感受。黎否認，重申文章所述是發自其內心，他亦否認有意使讀者有相同感受。&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/fo4Cdac.png&quot; alt=&quot;image03&quot; /&gt;
-▲ 副刑事檢控專員 周天行&lt;/p&gt;
-
-&lt;h4 id=&quot;控方質疑黎誇大議題的迫切性鼓吹讀者行動&quot;&gt;控方質疑黎誇大議題的迫切性、鼓吹讀者行動&lt;/h4&gt;
-
-&lt;p&gt;文章指：「為甚麼我們要出來遊行？因為行動才有效果，反對的文字和反對的聲音抽象得只會一瞬即過。」、「從以上實例證明，若然我們只是在聲音或文字上提出反對，林鄭和高官只會堅持自己對『逃犯條例』的成見。不過，若我們人多勢眾站出來遊行，無論他們多機心叵測，亦要面對我們堅決反對惡法的事實，他們可能會畏縮而妥協。我們不能放棄讓他們看到為了保衛家園，我們會去到盡，堅決抗爭到底的事實。」&lt;/p&gt;
-
-&lt;p&gt;控方指黎鼓吹讀者行動？黎稱只是鼓吹市民出來示威，而示威也屬於一種行動。控方提及黎早前供稱「行動勝於空談」；黎回應他只是想市民出來示威，以保護自己的家園。&lt;/p&gt;
-
-&lt;p&gt;控方指黎在文中稱：「難道不值得你們為他們作最後努力」，是誇大議題的迫切性。黎否認誇大迫切性，強調只是呼籲人們出來遊行保護家園。控方指黎嘗試激起市民對政府的敵意及引起憎恨；黎否認。&lt;/p&gt;
-
-&lt;p&gt;控方質疑，黎在文章中未有提及任何建設性的對話。黎稱：「因為沒有任何具建設性的對話，我怎樣提及？」杜官追問黎同意還是不同意？黎稱不同意。控方最後指文章意圖引起對政府憎恨、藐視和不滿；黎一概否認。&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/HG0sshu.png&quot; alt=&quot;image04&quot; /&gt;
-▲ 黎智英（資料圖片）&lt;/p&gt;
-
-&lt;h4 id=&quot;黎批評控方案情與事實無關屬想像-官提醒只需回答同意與否&quot;&gt;黎批評控方案情與事實無關、屬「想像」 官提醒只需回答同意與否&lt;/h4&gt;
-
-&lt;p&gt;控方另展示2020年4月26日黎的專欄文章〈專橫暴政打壓 我們氣魄不滅〉，當中稱：「中共出擊撕掉《基本法》，摧殘香港一國兩制特別行政區地位。沒有釋法權利的港澳辦和中聯辦高調曲線釋法，稱兩辦並非《基本法》22條所指的一般意義上的『中央人民政府所屬各部門』，公然向港府奪權。」&lt;/p&gt;
-
-&lt;p&gt;控方質疑「撕掉《基本法》」和「高調曲線釋法」等，並沒有官方說法支持或任何事實基礎，只是黎的意見。控方指文章意圖引起市民憎恨特區和中央政府，以及激使香港居民循非法手段改變現有合法制度。黎批評這是控方的「想像」，並且不能同意他的「想像」。&lt;/p&gt;
-
-&lt;p&gt;控方籲黎只需要回答同意或不同意，以免浪費法庭時間。黎反指：「可是如果你能夠說事實，也可以令事情更加簡單。」&lt;/p&gt;
-
-&lt;p&gt;此時，法官杜麗冰打斷，重申控方必須向黎指出其案情，這是控方的職責，若黎不同意便回答不同意，毋須與控方爭辯。黎則反問，如果控方的案情與事實沒有關係，為什麼要花時間逐一提問？杜官重申控方必須逐一指出其案情，可能黎有點欠缺耐性。此時黎插口說他並非欠缺耐性，只是控方的案情與事實無關；杜官隨即提高聲量，嚴正地表示：「如果他（控方）的提問與事實沒有關係的話，我會制止他」，並重申控方有權履行他的職責，而黎只需直接回答同意與否。黎聽罷問，他是否有權向控方提問作出質疑？杜官則指黎無權質疑，籲黎毋須與控方爭辯，以節省法庭時間。&lt;/p&gt;
-
-&lt;h4 id=&quot;黎否認其文章煽動暴力-反指和理非是最具力量&quot;&gt;黎否認其文章煽動暴力 反指「和理非」是最具力量&lt;/h4&gt;
-
-&lt;p&gt;黎的文章稱：「今日我們明知有事，中共打到嚟必然大清算大清洗，清算不聽話的人，清洗英國殖民地遺留下來保護港人自由的法治和機制，把香港人變成任由習帝擺佈的奴才，因此我們會繼續起來抗爭到底，希望趁習帝內外危機四伏，和慘遭武漢肺炎瘟疫人命摧殘和經濟淪陷後，各國尤其美國向中國責難及局部制裁，迫使中共不敢太明目張膽，暫時克制對香港的迫害⋯⋯」控方問黎是否提倡制裁？黎確認，並表示當時一廂情願地認為美國會向中國責難及局部制裁。&lt;/p&gt;
-
-&lt;p&gt;文章又稱：「中共最怕也最難克服的是香港龐大的人民力量，這些溫和但大多數的市民，是我們整個逆權運動最強大的力量，若被嚇怕不敢再出來示威遊行，剩下屬於小撮的勇武派便容易處理了。和理非的大部份香港人抗爭意志被嚇窒了，小撮的勇武派便失去了市民眾志成城的維護和支持，衝擊暴力的士氣和勇氣被削弱，中共便輕易制服這幫人，我們整個運動儘管不是完結，也畫上休止符了。」&lt;/p&gt;
-
-&lt;p&gt;在盤問下，黎確認他希望運動繼續下去，但強調「和理非」示威者才是最有力量。控方問黎是否不想勇武派被制服？黎則澄清，其文章是說不想「和理非」被制服，使勇武派也被制服。控方指黎意圖鼓吹市民使用暴力。黎反問：「我說非暴力是最有力量，你怎樣可以詮釋為暴力？」&lt;/p&gt;
-
-&lt;p&gt;控方指，文章意圖引起市民憎恨政府、引起香港居民間的不滿或離叛，以及引起或加深香港不同階層居民間的惡感及敵意。黎一概否認。&lt;/p&gt;
-
-&lt;h4 id=&quot;控方指slack部份群組相隔多月不見飯盒會會議重點&quot;&gt;控方指Slack部份群組相隔多月不見「飯盒會」會議重點&lt;/h4&gt;
-
-&lt;p&gt;此外，控方續就通訊軟件 Slack 群組紀錄提問，並向黎智英出示其帳戶版面，顯示當中8個群組，包括「港蘋online對話」、「港蘋報紙對話」、「港蘋online news對話」、「香港蘋果紙主管」、「港蘋online中層」「港蘋video talk」、「港蘋深化內容」和「港蘋紙廣告」。&lt;/p&gt;
-
-&lt;p&gt;黎在庭上曾供稱，每星期輪流與其中一個部門舉行「飯盒會」，由於一共有8個部門，因此每個部門相隔兩個月才有一次「飯盒會」。然而控方指從黎的 Slack 紀錄中，各部門並非相隔兩個月便有一次「飯盒會」紀錄。&lt;/p&gt;
-
-&lt;p&gt;控方先展示「香港蘋果紙主管」群組對話。黎稱群組被創立是為了「特別目的」，因當時《蘋果》正籌備推動訂閱，而訂閱牽涉各個部門的主管，因此需要將不同部門主管加入群組。法官李運騰問及，訂閱是網上訂閱還是報紙訂閱？黎指是網上訂閱。法官杜麗冰問，那麼為什麼需要所有部門的主管加入群組？黎指因為所有部門都牽涉新聞內容。&lt;/p&gt;
-
-&lt;p&gt;控方提到，時任執行總編輯林文宗的訊息與網上訂閱無關。黎則重申，改善內容質素與訂閱有關，以吸引讀者訂閱。黎並確認沒有獨立記憶，若然缺乏紀錄的話，便記不起「飯盒會」討論過什麼內容。&lt;/p&gt;
-
-&lt;p&gt;控方接著展示「港蘋online中層」群組，創立於2019年3月6日，在同年3月12日之後便再沒有新訊息。黎稱該群組是用來與中層職員討論商業計劃，並非一個獨立的部門，所以沒有恆常召開「飯盒會」，但是曾經舉行會議討論訂閱計劃，惟黎稱已不記得會議內容。法官李素蘭指從群組中看不到任何會議重點的紀錄。黎則稱不知道為何群組有一段長時間沒有任何訊息。&lt;/p&gt;
-
-&lt;p&gt;控方又指，部份訊息下方顯示曾經「修改（edited）」，而黎就著訊息的回覆也未能看到。黎一概表示不知道原因，又指負責截圖的人可能他們未有替他的回覆截圖。&lt;/p&gt;
-
-&lt;p&gt;黎供稱，只有可執行的提議才會被紀錄在會議重點之中，當討論有成果的時候，便有可執行的提議。&lt;/p&gt;
-
-&lt;p&gt;控方指，從「港蘋online對話」紀錄可見，在2019年10月至2020年1月，這大約10個月之間，並沒有任何「飯盒會」的會議紀錄，問黎知不知道原因。黎稱不知道。控方又舉例指，從「香港蘋果紙主管」群組對話可見，從2019年2至9月期間沒有任何「飯盒會」會議紀錄，中間相隔了7個月。&lt;/p&gt;
-
-&lt;p&gt;法官李運騰問黎，是否有可能在相關時段曾經舉行「飯盒會」但是未有紀錄會議重點？黎不認為有這個可能性，因為會議必定能得出可執行的提議，「不能想像在整個會議期間，沒有任何可執行的提議。」&lt;/p&gt;
-
-&lt;p&gt;案件押後至下周一（24日）早上續審，然而當日下午，黎將在法庭內、在法官不在席之下檢視涉案文章，以紀錄是否曾經閱讀過該些文章。&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;案件編號：HCCC51/2022&lt;/p&gt;</content><author><name>獨媒報導</name></author><summary type="html">黎智英批控方案情純屬「想像」無關事實 官指無權質疑只需回答是否同意</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://i.imgur.com/LciFH41.jpg" /><media:content medium="image" url="https://i.imgur.com/LciFH41.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">【黎智英案・審訊第 135 日】</title><link href="https://agorahub.github.io/pen0/hkers/2025-02-19-trial-of-jimmy-lai-day-135.html" rel="alternate" type="text/html" title="【黎智英案・審訊第 135 日】" /><published>2025-02-19T12:00:00+08:00</published><updated>2025-02-19T12:00:00+08:00</updated><id>https://agorahub.github.io/pen0/hkers/trial-of-jimmy-lai-day-135</id><content type="html" xml:base="https://agorahub.github.io/pen0/hkers/2025-02-19-trial-of-jimmy-lai-day-135.html">&lt;ul&gt;
-  &lt;li&gt;黎智英：愛國教育實為「洗腦」、灌輸階級鬥爭仇恨 官質疑以多年前往事作根據&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;excerpt /&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/DJMyPoC.png&quot; alt=&quot;image01&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;【獨媒報導】壹傳媒創辦人黎智英及3間蘋果公司被控串謀勾結外國勢力及串謀刊印煽動刊物等罪，今（19日）於高院（移師西九龍法院）踏入第135日審訊，黎智英第43日作供。控方就黎的專欄文章〈2020年和勇一起撐下去〉提問，質疑黎指控警員喬裝黑衣人破壞店舖，是意圖引起讀者對警察的憎恨；又質疑黎未有在文章中譴責暴力。黎否認引起憎恨；雖然他未有直接譴責暴力，但也未有鼓吹暴力，又稱他在文章中質疑「裝修」的黑衣人是否「我們的勇武手足」，是「間接譴責」暴力。另外，文章稱：「這場逆權運動正促使中共加強對學生換頭洗腦」，控方質疑黎毫無根據地作出揣測。黎否認揣測，並指透過教育來迫人愛國是錯誤的，因這是將國家置於人民之上，猶如「將僕人置於主人之上」，是顛倒真理。&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/QPK1z7x.png&quot; alt=&quot;image02&quot; /&gt;
-▲ （資料圖片）&lt;/p&gt;
-
-&lt;h4 id=&quot;黎沒有人認為叫喊光時是錯-惟因為政府後來變成是錯的&quot;&gt;黎：沒有人認為叫喊「光時」是錯 惟因為政府後來變成是錯的&lt;/h4&gt;
-
-&lt;p&gt;控方向黎出示2020年1月5日黎專欄文章〈2020年和勇一起撐下去〉。在盤問下，黎解釋他對「勇武派」的理解，他認為「勇武派」是出現在示威前線的人士，但是不一定所有「勇武派」都會做出暴力行為，例如當中有的人只是參與暴動，但是沒有做出暴力行為，當警察來到時，他們便立即跑到後方，那些便是「非暴力的勇武派」。而黎視自己為「非暴力」及「和平」。法官李素蘭問到，勇武派是年輕人嗎？黎同意，指他們是「渴求變革的年輕人（Young Turk）」。&lt;/p&gt;
-
-&lt;p&gt;文章提到，黎看到一個十四、五歲戴口罩的少女，大喊：「黑警死全家！」和「香港差佬，X你老母」，他當時對何俊仁說：「有這樣的後生，我哋冇得輸。」黎並在文中稱：「有這樣疾惡如仇的優秀勇敢年輕人，香港真是塊福地。」黎在庭上表示，當時被運動的氛圍影響和誤導，「我認為這個回應是低俗的（bad taste），而我感到後悔。」黎又稱，他不同意「黑警死全家」和「香港差佬，X你老母」這兩句口號，認為這是低俗（cheap）。&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/yowaO7Q.png&quot; alt=&quot;image03&quot; /&gt;
-▲ （資料圖片）&lt;/p&gt;
-
-&lt;p&gt;控方問黎支持另一句口號「光復香港 時代革命」嗎？黎重申未有思考過，因這是一個普遍的口號，當時很多人叫喊。法官杜麗冰質疑，黎是參與遊行的其中一員，在現場聽到有人叫喊這個口號，怎麼會未曾思考過支持與否呢？黎則稱因為這口號在當時是很普遍，反問：「為什麼我要思考（支持與否）呢？」&lt;/p&gt;
-
-&lt;p&gt;控方則指黎其實是有思考過，因他的文章提及過「光復香港，時代革命」，所以必定在他的腦海之中。黎則回應：「你可以充當心理學家，但是我不同意。」黎又指，他未有想過這句口號是對或是錯，「因為政府，它後來變成是錯的，但是當時而言沒有人認為它是錯。」&lt;/p&gt;
-
-&lt;p&gt;控方追問黎是否支持「光時」，黎否認。控方又問在國安法之後，黎是否繼續支持「光時」？黎亦否認，並指認為它是違法的。&lt;/p&gt;
-
-&lt;h4 id=&quot;文章懷疑警方喬裝黑衣人-控方意圖引起對警察憎恨&quot;&gt;文章懷疑警方喬裝黑衣人 控方：意圖引起對警察憎恨&lt;/h4&gt;
-
-&lt;p&gt;控方提到，黎在文章中指：「我不知道『裝修』匯豐銀行的黑衣人是否我們的勇武手足，但是打爆中國人壽店舖玻璃的兩位黑衣人便甚有可疑。」控方問黎為何稱呼該些人為「勇武手足」？黎稱因為他們也在同一場運動中，這是自己稱呼他們的方式。控方問：「因為你是勇武隊的一份子？」黎回應：「你知道我不是勇武隊的一份子。」法官李運騰問，根據文章標題「和勇一起撐下去」，黎是否想團結不同群體的人？黎同意。控方追問，黎是否將自己與勇武派聯繫起來？黎否認，重申這是他稱呼同樣參與運動的人士。&lt;/p&gt;
-
-&lt;p&gt;控方引述文章指，有人質疑兩名打爆中國人壽店舖玻璃的黑衣人是喬裝警員，「若然這推斷屬實，警方的目的便是要製造暴亂，藉此行使警暴恐嚇和理非遊行人士，使他們以後再不敢出來遊行，曲線鎮壓我們的遊行人數，削弱我們的抗爭聲勢，令抗爭運動逐漸凋零。」黎在庭上稱，他只是提出問題，從沒說過他肯定。&lt;/p&gt;
-
-&lt;p&gt;法官李運騰問，從文章中似乎看不到任何譴責暴力？黎則稱他對於暴力抱負面態度，所以才會問「裝修」匯豐銀行的黑衣人是否「勇武手足」。李官質疑，因為黎希望避免批評「裝修」匯豐銀行的黑衣人？黎稱他只是引述其他人所說的話，那些黑衣人可能是喬裝警員。李官問，所以黎是基於其他人的言論，而不是自己耳聞目睹？黎確認。&lt;/p&gt;
-
-&lt;p&gt;控方遂指，黎在文章中作出猜測和揣測，嘗試指控警察喬裝示威者以製造暴亂。黎否認作出猜測和揣測，稱只是引述新聞報導所述情況，並且只是提出疑問。控方又指，黎有意圖引起讀者對警察憎恨。黎亦否認。&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/lOkJ3ft.png&quot; alt=&quot;image04&quot; /&gt;
-▲ （資料圖片）&lt;/p&gt;
-
-&lt;h4 id=&quot;黎強調文章只是反映市民情感警民關係差&quot;&gt;黎強調文章只是反映市民情感、警民關係差&lt;/h4&gt;
-
-&lt;p&gt;控方續指，黎在文章中使用「裝修」一詞來形容破壞店舖的行為，是採用了勇武派的語言，黎這樣做是為了證明自己是勇武派的一份子。法官杜麗冰亦指，文章予人印象黎是支持「勇武手足」，對於匯豐銀行被破壞使用「裝修」一詞，因為黎懷疑這是否喬裝警員所為，然而對於中國人壽店舖玻璃被破壞，黎則使用不同的言詞，問黎是否同意？黎僅稱，他認為破壞匯豐是負面、不好的事情，所以提問這是否「勇武手足」所做的。杜官反駁指，黎僅形容「裝修」匯豐銀行，對有關行為不具批判性。黎則堅稱他在文章中以負面的方式提問。&lt;/p&gt;
-
-&lt;p&gt;李官提到文章指「當然這是以奸人之心度警察之腹的陰謀論，但事到如今，我們若仍未認定警方是謊言和陰謀氾濫的奸人精，就真有點天真無邪了吧。」李官問這是否黎當時的結論？黎回答：「在當時，是的。」控方問，黎認為警是「謊言和陰謀氾濫」嗎？黎確認。控方指，黎透過這文章意圖引起對警方的憎恨。黎否認。&lt;/p&gt;
-
-&lt;p&gt;黎的文章續指：「事到如今，警察殘害市民的暴戾，已使他們成為市民面對的最大的敵人。最初我們的口號是『香港人加油』，然後是『香港人反抗』，現在惡化到有些人叫喊『香港人報仇』，當然仇恨不可取，卻令我們知道警民關係惡化到甚麼程度。」黎稱以上是當時香港人主要情感，他認為仇恨當然是不好，但是顯示到當時警民關係有多麼差，強調上文只是反映市民的情感。控方問，這些是市民的情感，而市民又是否包括黎？黎否認有這樣的想法。&lt;/p&gt;
-
-&lt;p&gt;控方續指，黎的文章提到爭取特赦被捕示威者能夠「團結前線的手足」。黎表示認同。控方質疑黎的文章未有譴責暴力。黎則堅稱，他沒有譴責暴力，同時也沒有鼓吹暴力，並且對於破壞店舖的行為抱持負面看法；他對於破壞者的身份有懷疑，某程度上也是對暴力的「間接譴責」。&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/Ohn89vD.png&quot; alt=&quot;image05&quot; /&gt;
-▲ （資料圖片）&lt;/p&gt;
-
-&lt;h4 id=&quot;黎所謂的愛國教育其實是洗腦&quot;&gt;黎：所謂的「愛國教育」其實是「洗腦」&lt;/h4&gt;
-
-&lt;p&gt;控方引述文章指：「教育是我們今後抗爭重要的戰場。中共將這場抗爭運動的責任推到教育制度上，把教育界變成政府施政失當的代罪羔羊。⋯⋯是的，這場逆權運動正促使中共加強對學生換頭洗腦，教育局長楊潤雄已對教育界文革式施壓亮劍，明言學校認為涉事（反送中）教師『沒有問題』，學校、校長的態度立場就可能『有問題』，如果覺得校長不能勝任，可以取消其校長資格。中共加強對學生換頭洗腦已然啟動，我們不能讓中共發動文化大革命式的破壞，摧毀我們原有的教育價值觀和文化。對每一位教師和校長因言入罪，我們和勇派必須挺身而出，嚴正反抗。」控方質疑這是黎的揣測。&lt;/p&gt;
-
-&lt;p&gt;黎則反駁指這不是揣測，因時任教育局局長楊潤雄說過，那些認為教師參與「反送中」是沒有問題的學校和校長，才是有問題的。黎又表示，他認為所謂的「愛國教育」其實是「洗腦過程」，因為當愛國是出於自願的時候才是高尚，但若然是透過教育來強加於人，便是錯誤的，因為這是將國家置於人民之上，猶如「將僕人置於主人之上」，是顛倒真理。&lt;/p&gt;
-
-&lt;p&gt;控方指，楊潤雄的言論並未提及中共，質疑黎作出揣測。黎同意是揣測。控方續指黎意圖引起市民對政府的憎恨。黎表示：「我沒有引起仇恨，我不同意。」&lt;/p&gt;
-
-&lt;p&gt;李官提到，文章稱：「中共的換頭洗腦教育灌輸的是階級鬥爭的仇恨和邪惡。」李官問黎是否指稱中共透過洗腦教育來灌輸階級鬥爭的仇恨和邪惡？黎同意，並稱這是根據他在中國內地的親身經驗，他認為這是在中國可能發生的事情。法官杜麗冰指，但是這已是很多年前的往事，問黎怎能以那麼多年前的事作為根據？李官問黎是否指六十年代？黎確認。控方問黎是否想向讀者散播這種情感？黎稱只是想讀者警覺有可能發生什麼事情。&lt;/p&gt;
-
-&lt;p&gt;控方指黎有意藉文章引起市民對香港及中央政府的憎恨、藐視及不滿。黎表示：「完全不同意。」控方又指，文章有意激使市民以非法手段改變現有政制、引起居民間的不滿、煽動市民使用暴力以及不守法。黎一概不同意。&lt;/p&gt;
-
-&lt;p&gt;控方指出，在2019至2020年間，黎從沒有譴責示威者的暴力行為，是因為想運動繼續下去，又指黎希望運動能維持某程度上的暴力，以免失去國際支持。黎一概否認，重申他反對暴力的原因是不想破壞運動的道德高地，影響國際社會的支持。&lt;/p&gt;
-
-&lt;h4 id=&quot;控方質疑李怡文章提倡dq主任應被制裁&quot;&gt;控方質疑李怡文章提倡「DQ主任」應被制裁&lt;/h4&gt;
-
-&lt;p&gt;控方展示《蘋果》全版廣告「誰殺死 他 她 他 和 她 ……」、2019年10月7日報導〈壹週刊：女示威者警署內遭折磨叉頸掂胸侮辱阻瞓覺〉和2020年10月25日社評〈蘋論：警暴消失的「太平日子」將來臨（古立）〉。黎均稱不認為或不記得曾看過，控方遂未有繼續提問。&lt;/p&gt;
-
-&lt;p&gt;控方接著問黎有否閱讀已故作家李怡所撰寫的社評。黎稱很少，又指李不是那種會談論國際議題的作家。控方指，黎一直以來爭取懲罰侵犯人權的官員，有關國際的文章不會引起黎的興趣嗎？黎稱這不代表他要閱讀所有文章，否則他會很忙碌。&lt;/p&gt;
-
-&lt;p&gt;控方遂展示李怡的專欄文章〈夜行人吹口哨〉，刊登於2020年8月10日。文章提及8月7日美國宣布制裁11名中港官員，當晚「不僅11人及其家人睡不著，恐怕一些追隨者，一些做了昧著良心事情的人也睡不著」，並舉例指「DQ主任，作惡黑警，港大校委會18名成員」等。&lt;/p&gt;
-
-&lt;p&gt;控方指黎在美國宣布制裁翌日（即8月8日）發布Twitter帖文：「那些取消候選人資格的選舉主任又如何呢？他們應該在個人方面為這些決定負責任嗎？（How about those election officers (選舉主任) who disqualified #DQ the candidate nominations? Should they be personally responsible for making the decisions?）」，而李怡在文中亦有提及「DQ主任」，是否與黎的帖文想法一致，即是提倡「DQ主任」理應被制裁？黎則稱他的帖文是指「選舉主任」，而不是「DQ主任」。&lt;/p&gt;
-
-&lt;h4 id=&quot;控方指slack群組有的訊息被刪除&quot;&gt;控方指Slack群組有的訊息被刪除&lt;/h4&gt;
-
-&lt;p&gt;辯方較早前呈上通訊軟件Slack的《蘋果》員工群組紀錄，惟控方爭議相關紀錄的真實性和完整性。控方向黎展示多項群組對話，當中顯示有的訊息被刪除。惟黎稱未有為意，也不知道誰人刪除。他稱控方的問題屬技術性問題，而他無法解答。&lt;/p&gt;
-
-&lt;p&gt;案件明日續審。&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;案件編號：HCCC51/2022&lt;/p&gt;</content><author><name>獨媒報導</name></author><summary type="html">黎智英：愛國教育實為「洗腦」、灌輸階級鬥爭仇恨 官質疑以多年前往事作根據</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://i.imgur.com/LciFH41.jpg" /><media:content medium="image" url="https://i.imgur.com/LciFH41.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
+&lt;p&gt;案件編號：HCCC51/2022&lt;/p&gt;</content><author><name>獨媒報導</name></author><summary type="html">黎智英反問控方：撫心自問現在香港有沒有人可以說真話？官打斷：不容政治言論</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://i.imgur.com/LciFH41.jpg" /><media:content medium="image" url="https://i.imgur.com/LciFH41.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
