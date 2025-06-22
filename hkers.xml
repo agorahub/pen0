@@ -1,4 +1,555 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://agorahub.github.io/pen0/hkers.xml" rel="self" type="application/atom+xml" /><link href="https://agorahub.github.io/pen0/" rel="alternate" type="text/html" /><updated>2025-06-20T12:57:00+08:00</updated><id>https://agorahub.github.io/pen0/hkers.xml</id><title type="html">The Republic of Agora | Hkers</title><subtitle>UNITE THE PUBLIC ♢ VOL.53 © MMXXV</subtitle><entry><title type="html">UK’s Future Telecoms</title><link href="https://agorahub.github.io/pen0/hkers/2025-04-17-uks-future-telecoms.html" rel="alternate" type="text/html" title="UK’s Future Telecoms" /><published>2025-04-17T12:00:00+08:00</published><updated>2025-04-17T12:00:00+08:00</updated><id>https://agorahub.github.io/pen0/hkers/uks-future-telecoms</id><content type="html" xml:base="https://agorahub.github.io/pen0/hkers/2025-04-17-uks-future-telecoms.html">&lt;p&gt;&lt;em&gt;This briefing considers the impact on national security of the telecom networks that underpin all national critical infrastructures in the UK.&lt;/em&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://agorahub.github.io/pen0/hkers.xml" rel="self" type="application/atom+xml" /><link href="https://agorahub.github.io/pen0/" rel="alternate" type="text/html" /><updated>2025-06-22T21:21:10+08:00</updated><id>https://agorahub.github.io/pen0/hkers.xml</id><title type="html">The Republic of Agora | Hkers</title><subtitle>UNITE THE PUBLIC ♢ VOL.53 © MMXXV</subtitle><entry><title type="html">UK’s Ransomware Sanctions</title><link href="https://agorahub.github.io/pen0/hkers/2025-04-22-uks-ransomware-sanctions.html" rel="alternate" type="text/html" title="UK’s Ransomware Sanctions" /><published>2025-04-22T12:00:00+08:00</published><updated>2025-04-22T12:00:00+08:00</updated><id>https://agorahub.github.io/pen0/hkers/uks-ransomware-sanctions</id><content type="html" xml:base="https://agorahub.github.io/pen0/hkers/2025-04-22-uks-ransomware-sanctions.html">&lt;p&gt;&lt;em&gt;This conference report covers the discussions at a February 2025 online workshop on the UK’s experience with ransomware sanctions to date.&lt;/em&gt;&lt;/p&gt;
+
+&lt;excerpt /&gt;
+
+&lt;h3 id=&quot;introduction&quot;&gt;Introduction&lt;/h3&gt;
+
+&lt;p&gt;On 9 February 2023, the UK and US governments jointly sanctioned seven members of Conti/Trickbot, a ransomware group responsible for attacks against at least 149 UK individuals and businesses. The move marked the UK government’s entry into the ransomware sanctions arena. Over the years since, the ransomware sanctions regime has expanded and has become a core component of the UK’s counter-ransomware strategy. The government aims to use sanctions to expose ransomware criminals’ identities, undermine their ability to monetise ransomware, and degrade other criminals’ trust in key ransomware services.&lt;/p&gt;
+
+&lt;p&gt;However, there are significant challenges posed by designing, implementing and enforcing ransomware sanctions in a way that achieves the government’s goals. In this context, in February 2025, as part of ongoing work through its UK Sanctions Implementation and Strategy Taskforce, RUSI convened an online workshop to discuss the UK’s experience with ransomware sanctions to date. The workshop was jointly organised by the Centre for Finance and Security and the Cyber and Tech research group at RUSI. A select group of 35 expert stakeholders from the UK, US and Canada attended the workshop. Participants represented a diverse range of professional backgrounds. These included incident responders, ransomware payment brokers, cryptocurrency tracers, lawyers, academics, law enforcement officers and UK government officials.&lt;/p&gt;
+
+&lt;p&gt;The first section of this report provides an overview of the discussion relating to the implementation of UK cyber sanctions. The second section focuses on the discussion pertaining to the sanction regime’s “theory of change”. The third section describes the impact of sanctions on ransomware threat actors. The fourth section articulates participants’ perspectives on the state of play with respect to compliance and enforcement. Finally, the report outlines policy implications for the UK’s role as a cyber sanctions proponent in a dynamic international context. None of the discussions at the event are attributable.&lt;/p&gt;
+
+&lt;h3 id=&quot;the-uk-cyber-sanctions-regime&quot;&gt;The UK Cyber Sanctions Regime&lt;/h3&gt;
+
+&lt;p&gt;The first session began by outlining the context for the initial development and implementation of the UK’s ransomware sanctions regime. A representative from the UK government noted that the broader cyber sanctions regime was designed when the UK was still a member state of the EU. The UK’s regime, introduced in 2020, is thus modelled similarly to the EU’s. The participant also emphasised that the sanctions regime was an opportunity to collaborate with international partners, namely the US and Australia.&lt;/p&gt;
+
+&lt;p&gt;Participants discussed differences between the UK, US and EU approaches to implementing cyber sanctions. Participants described how there was a close alignment between the UK and US approaches, which prioritised operational impact by naming sanctioned individuals relatively quickly. Participants also recognised that there was a disparity in resources between the UK and US, with the latter being able to operate at greater speed and scale. Comparatively, while the UK’s regime was modelled in line with the EU’s regime, the EU was described as facing challenges in coordinating cyber sanctions across the 27 member states. The result of this in-built deliberation meant that decision making on sanctions implementation, prioritisation and information-sharing was relatively delayed.&lt;/p&gt;
+
+&lt;p&gt;More broadly, it is of note that many countries do not have dedicated cyber sanctions regimes. Participants noted that the UK continues to push for broader international action, particularly through partnerships such as the Counter Ransomware Initiative. At the time of writing, no sanctions had been lifted by the US, but participants expressed uncertainty about whether cyber sanctions will continue to be a priority for the US under the Trump administration.&lt;/p&gt;
+
+&lt;h3 id=&quot;the-theory-of-change-for-ransomware-sanctions&quot;&gt;The Theory of Change for Ransomware Sanctions&lt;/h3&gt;
+
+&lt;p&gt;Participants from the government emphasised that the UK uses ransomware sanctions as part of a cross-government counter-ransomware strategy. This strategy is derived from the UK’s 2022 National Cyber Strategy and is coordinated by the cross-Whitehall Senior Ransomware Steering Group led by the Home Office. The workshop highlighted several different ways in which the UK government is using ransomware sanctions to try to further the three strategic objectives identified by participants.&lt;/p&gt;
+
+&lt;p&gt;As the primary objective, authorities aim to change the behaviour of criminals by altering their calculation of risk and undermining their ability to monetise ransomware. There are two ways that sanctions might contribute to this objective.&lt;/p&gt;
+
+&lt;p&gt;First, sanctions enable law enforcement to “name and shame” individual criminals and remove their anonymity. The government hopes that this will deter ransomware threat actors and force them to operate in a more constrained environment. One workshop participant noted that for UK authorities, sanctions are the best means of attributing ransomware operators and affiliates, as prosecutors will not charge foreign hackers without a reasonable chance of prosecution. This is a contrast to the US, which has frequently indicted both intelligence officers from hostile states and foreign cybercriminals.&lt;/p&gt;
+
+&lt;p&gt;Second, sanctions are part of a range of measures that law enforcement uses to attempt to disrupt criminal networks by sowing distrust. The ransomware ecosystem is a collection of individuals, groups and services that rely on some degree of trust to function effectively. Many of the most impactful ransomware strains are run as a service: operators develop ransomware, maintain infrastructure to run it and then sell access to it to affiliates for a cut of ransom payments. Some participants argued that sanctioning key ransomware-as-a-service (RaaS) operators may cause affiliates to lose trust that these services are safe. This was the premise of Operation Cronos, an operation led by the National Crime Agency (NCA) that compromised the infrastructure of cybercriminal group LockBit and sanctioned its main administrator. Participants also discussed the more recent sanctioning by US, UK and Australian authorities of ZServers, a Russia-based “bulletproof” hosting provider used by ransomware criminals to host servers and domains.&lt;/p&gt;
+
+&lt;p&gt;A secondary objective of UK authorities is to use sanctions to change victim behaviour and reduce the number of ransom payments made by UK individuals and businesses. One participant argued that sanctions inject “friction” into victim decision making because of the need to carry out due diligence checks before a payment is made. At the same time, several workshop participants noted that the government is keen not to “re-victimise” ransomware victims by completely removing their ability to pay. Participants highlighted that balancing these competing desires is one of the reasons US and UK authorities have designated individual criminals rather than ransomware strains. The latter approach would completely remove the ability of victims to make payments to designated strains.&lt;/p&gt;
+
+&lt;p&gt;Some workshop participants also suggested that the UK government is using sanctions as a mechanism for increasing reporting of ransomware incidents in the UK. One industry representative at the workshop highlighted that the guidance from the Office of Financial Sanctions Implementation (OFSI) on ransomware sanctions notes that reporting to the National Cyber Security Centre and NCA will be treated as a mitigating factor if a victim pays a sanctioned ransomware threat actor.&lt;/p&gt;
+
+&lt;p&gt;Finally, an underlying objective across the UK’s cyber sanctions mission is to enhance international coordination. Cyber threats are inherently transnational, requiring a collaborative approach to sanctions and enforcement among international partners. Participants highlighted that the UK has been working closely with allies such as the US and Australia to coordinate sanctions and intelligence-sharing efforts. The effectiveness of these measures is amplified when multiple nations align their policies and enforcement actions. However, international alignment efforts are hindered by the EU’s divergent approach; participants observed that in the EU, the use of cyber sanctions is viewed as a tool more for countering mis/disinformation than for targeting ransomware attacks.&lt;/p&gt;
+
+&lt;h3 id=&quot;the-impact-of-sanctions-on-ransomware-threat-actors&quot;&gt;The Impact of Sanctions on Ransomware Threat Actors&lt;/h3&gt;
+
+&lt;p&gt;After discussing the theory of change for using ransomware sanctions, the workshop focused on the effects of sanctions on criminal behaviour to date. This discussion covered the impact of not only UK designations on threat actors, but also designations by the US Office of Foreign Asset Control (OFAC). There was broad agreement that sanctions have increased distrust in RaaS offerings and disrupted some individuals’ ability to monetise ransomware. Representatives from the public and private sectors at the workshop emphasised, however, that it remains challenging to accurately measure these effects and disaggregate them from both other counter-ransomware measures and internal strife in the ransomware ecosystem.&lt;/p&gt;
+
+&lt;p&gt;Participants noted that it is likely that sanctions have sown distrust in some ransomware groups and services. This has two effects. First, one participant used the example of Conti/Trickbot and suggested that designating individual members has had a psychological impact and reduced their risk appetite for high-profile ransomware operations. Second, participants noted that sanctions and associated travel bans probably also cause designated individuals to reconsider travelling abroad to spend their profits. Although these measures do not change the central problem of Russia being a safe haven for threat actors, they do constrain the actors’ freedom. Even more significant, however, is the reputational harm that sanctions cause to criminal brands, both for individuals and RaaS strains. One participant argued that key members of Conti/Trickbot, Evil Corp and LockBit have all failed to recover their influence in the ecosystem since being designated.&lt;/p&gt;
+
+&lt;p&gt;There was widespread agreement that sanctions have affected designated individuals’ ability to monetise ransomware. Victims – and the third parties such as insurers, payment brokers and lawyers that support them – are less likely to pay sanctioned threat actors because of the fear of being punished by authorities. One participant highlighted reporting by Chainalysis, which shows that payments to LockBit dropped 79% in the second half of 2024 following Operation Cronos and the designation of LockBit’s core administrator. It is also likely that reputational harm caused to sanctioned RaaS and malware-as-a-service operators such as Conti/Trickbot has undermined their ability to attract new customers and affiliates. One workshop participant also noted that sanctioned ransomware affiliates (such as Evil Corp) may find it harder to access RaaS services because of increased scrutiny from administrators.&lt;/p&gt;
+
+&lt;p&gt;The workshop also highlighted that sanctions of both key individuals and cryptocurrency and money laundering services have made it challenging for threat actors to launder the proceeds of ransomware. This aligns with analysis conducted by Chainalysis in early 2025, which assessed that sanctions and law enforcement operations have resulted in “insecurity among threat actors where they can safely put their funds”.&lt;/p&gt;
+
+&lt;p&gt;Sanctions have probably also had broader effects on the ransomware ecosystem and the operating models and tactics of key groups and individuals. One workshop participant highlighted how Evil Corp had adapted its business model after being designated by OFAC in 2019: rather than running its own in-house ransomware operations, its members became affiliates of RaaS strains to evade the additional scrutiny and restrictions put on them. However, it is unclear if this dramatically affected its ability to monetise ransomware. Other participants argued that sanctions (along with other counter-ransomware measures) have contributed to the fragmentation of the ransomware ecosystem, with monopolistic RaaS strains like LockBit giving way to smaller players and more “lone wolves”. However, participants noted that an unintended consequence of this may be worse outcomes for victims, with less established threat actors less likely to provide reliable decrypters and more willing to use very aggressive extortion tactics. This may be because they are less constrained by the rules imposed by some RaaS operators and administrators. Additionally, third-party incident responders and ransomware negotiators are less able to draw on battlecards – intelligence and playbooks to guide engagement with different ransomware threat actors – and past precedent when handling incidents caused by splinter groups or groups with no name. This may create uncertainty and/or delays in the victim’s remediation efforts.&lt;/p&gt;
+
+&lt;p&gt;Although the workshop was broadly positive about the effects of sanctions on threat actors, it also highlighted that there is uncertainty and scepticism about the ability of law enforcement and industry to accurately measure those effects. Part of this challenge is due to a lack of visibility: as one participant highlighted, it is difficult to know when criminals feel vulnerable, even in cases when their communications may be compromised. It is also a methodological challenge: the effects of sanctions cannot be disaggregated from other counter-ransomware activities such as offensive cyber operations and arrests. However, since these measures are designed to complement one another, ultimately it may not matter if authorities are unable to assign specific effects to sanctions. This also emphasises that sanctions will probably be more effective if used in concert with other tools.&lt;/p&gt;
+
+&lt;h3 id=&quot;compliance-enforcement-and-the-impact-on-ransomware-victims&quot;&gt;Compliance, Enforcement and the Impact on Ransomware Victims&lt;/h3&gt;
+
+&lt;p&gt;In the final session, workshop participants discussed cyber sanctions compliance at length and in depth. The discussion also reflected on the impact that sanctions checks had on the ransomware victim experience and threat actors’ ability to monetise ransomware.&lt;/p&gt;
+
+&lt;p&gt;If a ransomware victim is considering a prospective payment of a ransom, they have a responsibility to make reasonable efforts to identify whether the payment may – either in part or in full – go to a sanctioned individual. Industry participants at the workshop explained that, in practice, the sanctions compliance checks are often undertaken by third-party firms – specifically, ransomware intermediaries, which are firms that facilitate ransom payments in cryptocurrencies to cybercriminals. This ransomware intermediary function, participants explained, may be a bolt-on to a wider cyber incident response and/or ransomware negotiation service. Some firms may also offer ransomware payments as a standalone service. Ransomware intermediaries are an attractive solution in part because they have the capability to procure or draw upon large sums of cryptocurrency.&lt;/p&gt;
+
+&lt;p&gt;The sanctions checks will be undertaken before a payment is signed off by the ransomware victim and, where applicable, their third-party support. This support may include an incident response firm, legal services provider and/or a cyber insurer. Previous RUSI research has identified that the decision to pay or not pay a negotiated ransom lies with the senior leadership at a victim organisation. This decision may be informed by advice and guidance from third-party support, but the decision ultimately rests with the victim organisation. Participants emphasised that, at present, a red flag from a sanctions compliance check is the only legal impediment to a prospective ransom payment in the UK.&lt;/p&gt;
+
+&lt;p&gt;According to industry participants, there is significant scope for ambiguity with respect to ransomware sanctions checks. While ransomware groups are typically keen to establish and maintain the reputation of their “brand name”, they will obfuscate the personal identities of those in the group. However, the UK’s ransomware sanctions regime targets named individuals rather than groups. Contemporary ransomware payments are likely to go to multiple individuals within a given group. The prevalence of RaaS means that it is common for ransomware payments to be divided on a ratio basis between affiliates and operators. There is also a growing incidence of “lone wolves” operating without branding, as observed by private operators at the workshop.&lt;/p&gt;
+
+&lt;p&gt;Industry representatives at the workshop described that the entity responsible for sanctions compliance therefore has to try to ascertain whether there is a reasonable risk of a prospective ransom payment going to a named sanctioned individual. They will typically use a range of identifiers to make this judgement call. These may include but are not necessarily limited to: the cryptocurrency wallet address; IP addresses; Tox chat IDs; the computer code used to conduct the attack; and the language expressions used by the criminals in ransom notes and negotiations. One participant emphasised that each individual facilitator needs to determine their own risk tolerance. They argued that an ideal sanctions check would follow a typology using code, syntax and linguistic overlap. However, the judgement call on the degree of overlap is highly likely to be inconclusive and there is a risk of false positives and false negatives. Building on this point, participants described how the judgement call felt like “rolling the dice”.&lt;/p&gt;
+
+&lt;p&gt;Ultimately, the workshop highlighted that ransomware sanctions checks are, at present, more of an art than a science, with, as one workshop participant put it, “no silver bullet for due diligence”. There is inadequate clarity on what constitutes a sufficient sanctions check. Guidance from governments including the UK’s was described as “intentionally ambiguous”. Participants explained how they had attempted to get clarity from government entities such as OFAC and OFSI, but that this was not forthcoming. Additionally, at the time of writing, there had not been any fine or censure for any ransomware sanctions breach that could provide further insights into what the regulator found to be insufficient checks, despite publicly known instances of alleged sanctions breaches.&lt;/p&gt;
+
+&lt;p&gt;Workshop participants who offer ransomware intermediary services described how they took a “conservative approach” to sanctions checks and would clearly explain their risk assessment to clients. These participants noted that they had refused to facilitate payments that they believed carried a sanctions risk. One participant referred to a case that they had supported where they believed there was a high sanctions risk; they refused to make the payment, but the client then went to another firm who ultimately completed the transaction. In the participant’s view, the 80/20 RaaS payment split (80% to the affiliate; 20% to the operator) for that payment included money going to a sanctioned entity.&lt;/p&gt;
+
+&lt;p&gt;Participants agreed that this anecdotal case highlights a challenge. The ambiguity in the sanctions regime enables ransomware intermediaries – and ransomware victims – to determine their own judgement call based on their own risk tolerance. This means that there may be a spectrum across the market, ranging from “conservative” approaches at one end, through to “permissive” approaches at the other. Previous reporting has also indicated the presence of extreme outlier practices, wherein intermediaries discreetly pay a ransom to the attackers and present this as an “IT solution” to the client.&lt;/p&gt;
+
+&lt;p&gt;What this means is that ransomware victims are, in the words of one workshop participant, able to “shop around for lower standards” so that they may ultimately be able to proceed with a payment. However, one participant noted that the workshop probably had an inherent selection bias; intermediaries who are moderated in their approach to sanctions compliance were more likely to attend a workshop on ransomware sanctions.&lt;/p&gt;
+
+&lt;p&gt;It is important to emphasise that the workshop discussion did not label ransomware sanctions regimes as paper tigers. On the contrary, workshop participants emphasised that ransomware victims and ransomware intermediaries often have a genuine fear of the potential repercussions of breaching sanctions. Participants described how this fear had a tangible influence on the decision making journeys of ransomware victims by creating friction in the payment process. A participant described how it was good to create “inertia” and “make the victim jump through some hoops and think rationally about the situation”. Another participant agreed, noting that the introduction of the sanctions regimes had caused victims to “think twice” before proceeding with a payment. A ransomware intermediary participant suggested that they had seen increased “fear of OFAC” following the start of the Russia–Ukraine conflict, which had prompted increased demand for due diligence.&lt;/p&gt;
+
+&lt;p&gt;Overall, the workshop discussions indicated a mixed picture with respect to ransomware sanctions compliance. Participants outlined their approaches to sanctions compliance based on risk-averse practices. However, the obfuscated nature of ransomware forensics – combined with ambiguity in the sanctions regime – means that sanctions compliance is imprecise. Practitioners are having to rely, at least in part, on a subjective value judgement. Workshop participants argued that if clarity were needed, it would ultimately need to come from governments and regulators.&lt;/p&gt;
+
+&lt;h3 id=&quot;key-takeaways-and-policy-recommendations&quot;&gt;Key Takeaways and Policy Recommendations&lt;/h3&gt;
+
+&lt;p&gt;The workshop discussion highlighted that cyber sanctions have had several impacts on the ransomware criminal ecosystem, ransomware victim behaviours and the activities of ransomware intermediaries.&lt;/p&gt;
+
+&lt;p&gt;With respect to the criminals, cyber sanctions add some complexity to their operations – for instance, with respect to their conversion of cryptocurrency assets or their ability to travel internationally. There are also suggestions that sanctions carry a stigma for named individuals, which may foster consternation and distrust within RaaS communities. Where a figurehead of a ransomware group is named as a sanctioned entity, the whole group may become “unpayable” if there is a likely risk that a portion of any payment would go to the named individual.&lt;/p&gt;
+
+&lt;p&gt;It is clear from the workshop discussion that, even though no censure or fine has thus far been made against cyber sanctions breaches, the time lag of making a sanctions check and the fear of potential future penalties has added friction into the payment decision making process. Participants noted that the UK government is in an unenviable position of trying to sustain an impactful cyber sanctions regime while avoiding double-victimisation of victims of serious organised crime. This may, at least partially, explain the hesitancy for clarity from OFSI and the lack of censure to date.&lt;/p&gt;
+
+&lt;p&gt;Ultimately, in the absence of effective prosecutions of international ransomware perpetrators, sanctions regimes are one of the few lighter-touch tools that the UK and like-minded countries can use to directly or indirectly affect known serious organised cybercriminals. However, at present, cyber sanctions are an imperfect tool. There may be opportunities for the UK and like-minded countries to refine their regimes. The workshop concluded with the identification of the policy considerations proposed below:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Enhance transparency from OFSI.&lt;/strong&gt; Industry participants expressed frustration about the lack of transparency and guidance from governments and regulators. Participants described how they had proactively reached out to relevant government entities for clarity and had either received slow, nondescript and/or unhelpful responses, or no response at all. It is possible that this ineffective feedback risks disenfranchising well-meaning ransomware intermediaries and ransomware victims. The UK government should reflect on the status quo and assess whether the current approach is primed to achieve the government’s objectives.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Promote standardisation for sanctions checks.&lt;/strong&gt; Guidance should be calibrated to encourage more standardisation for sanctions checks. Outside of extreme cases, cyber sanctions checks are inherently inconclusive, with the risk of false positives and negatives. Two different sanctions compliance checkers – with differing experience and risk appetites – may come to opposing conclusions about the sanctions risk of a given ransomware payment. The government should consider how it can support increased standardisation for sanctions checks. This could include, for instance, clear guidance on which technical indicators should be used to make a check, and how they should be meaningfully assessed. Given that the UK government is currently proposing a “payment authorisation regime”, which would require victims to both request permission to pay a ransom and perform their own sanctions checks, spreading best practice and transparency on sanctions checks will become more important.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Designate more targets at a faster pace.&lt;/strong&gt; If ransomware sanctions do have tangible – if limited – impacts on the criminals perpetrating and monetising attacks, the UK government should be bold and implement more sanctions, more efficiently.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Upturn the bargain bucket.&lt;/strong&gt; Ransomware intermediary participants described how they were regulated as money service businesses, proactively sought external scrutiny through auditing, proactively reported incidents and shared information on request, and took a deliberately conservative approach to sanctions risk assessments. However, not all ransomware intermediaries proactively engage in such good citizenship. Some firms may adopt a “permissive” approach to sanctions compliance. Others may surreptitiously engage with the criminals, process a payment, and present this as a technical solution to a client. Research should be commissioned to understand the scope and scale of such behaviour among unscrupulous providers. Where such firms are based in the UK or like-minded partner countries, efforts should be made to scrutinise their activities and, where necessary, hold them to account.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Strengthen alignment with international partners.&lt;/strong&gt; The UK has successfully collaborated with the US and Australia, but the EU has been less active in leveraging its cyber sanctions regime. The uncertainty about the prioritisation of cyber sanctions under the new US administration also raises concerns. The UK must ensure that international partners collaborate closely to enhance the effectiveness of designations and achieve consistent enforcement.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;In summary, while the use of sanctions was welcomed by workshop participants, their effectiveness has been limited by a number of shortcomings that could be addressed by some simple, focused actions.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;Jamie MacColl&lt;/strong&gt; is a Research Fellow in the Cyber and Tech research team at RUSI. His current research interests include ransomware, the UK’s approach to offensive cyber operations, cyber insurance and the role of private companies in global cyber governance. He has a led a range of public and private projects for RUSI, with a particular focus on UK cyber policy. He is also currently a Senior Research Associate at the European Cyber Conflict Research Initiative and a Project Fellow at the Research Institute for Sociotechnical Cyber Security.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Gareth Mott&lt;/strong&gt; is a Research Fellow in the Cyber and Tech research team at RUSI. His research interests include governance and cyberspace, the challenges (and promises) of peer-to-peer technologies, developments in the cyber risk landscape, and the evolution of cybersecurity strategies at micro and macro levels.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Gonzalo Saiz&lt;/strong&gt; is a Research Fellow at the Centre for Finance and Security at RUSI, focusing on sanctions and counter-threat finance. His research focuses on sanctions implementation, circumvention and evasion tactics, and sanctions enforcement. He leads the research of SIFMANet (the Sanctions and Illicit Finance Monitoring and Analysis Network) and RUSI’s UK Sanctions Implementation and Strategy Taskforce and Maritime Sanctions Taskforce. Gonzalo’s research on counter-threat finance includes work on the abuse of non-profit organisations for terrorist financing, crime-enabled terrorist financing, and the financing of right-wing extremism.&lt;/p&gt;</content><author><name>Jamie MacColl, et al.</name></author><summary type="html">This conference report covers the discussions at a February 2025 online workshop on the UK’s experience with ransomware sanctions to date.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://i.imgur.com/gLlrul7.jpeg" /><media:content medium="image" url="https://i.imgur.com/gLlrul7.jpeg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">UK’s Space Technologies</title><link href="https://agorahub.github.io/pen0/hkers/2025-04-17-uks-space-technologies.html" rel="alternate" type="text/html" title="UK’s Space Technologies" /><published>2025-04-17T12:00:00+08:00</published><updated>2025-04-17T12:00:00+08:00</updated><id>https://agorahub.github.io/pen0/hkers/uks-space-technologies</id><content type="html" xml:base="https://agorahub.github.io/pen0/hkers/2025-04-17-uks-space-technologies.html">&lt;p&gt;&lt;em&gt;This briefing looks at space technologies in the UK, from start-ups to sustainable space power.&lt;/em&gt;&lt;/p&gt;
+
+&lt;excerpt /&gt;
+
+&lt;p&gt;Space technology plays a pivotal role in advancing the UK’s economic interests and ensuring national security. Space technology that has particular relevance to national security, and is being developed at pace by the UK’s flourishing small companies includes small satellites, indigenous launch and spaceports, sustainable space initiatives, space-developed biopharmaceuticals and secure communications. With a focus on making the intersection of space technology, security and sustainability readily understandable, this briefing aims to provide non-specialist policymakers with insights into the strategic opportunities and challenges shaping the UK’s technological space future.&lt;/p&gt;
+
+&lt;h4 id=&quot;demystifying-some-space-technology&quot;&gt;Demystifying (Some) Space Technology&lt;/h4&gt;
+
+&lt;p&gt;&lt;em&gt;National and Geopolitical Relevance of Space Technology&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;The UK’s investment in space technologies underscores their importance in a rapidly shifting global landscape. Spacepower is a cornerstone of national security, with satellites supporting critical infrastructure such as finance, navigation and defence systems. Geopolitically, as espoused in the National Space Strategy, the Defence Space Strategy and the Space Industrial Plan, the UK aims to position itself as a leader in sustainable and responsible space use, balancing commercial opportunities with ethical considerations.&lt;/p&gt;
+
+&lt;p&gt;By prioritising small companies and fostering innovation, the UK not only strengthens its national security but also contributes to a sustainable, inclusive global space economy. Doing so offers a strategic edge by providing resilience and adaptability in an increasingly contested and congested domain.&lt;/p&gt;
+
+&lt;p&gt;The technologies underpinning the future of UK space power – small satellite design and manufacture, innovative bio-fuelled and reusable launch systems, sustainable space practices and space-developed biopharmaceuticals – are at the forefront of a global shift in how space assets are developed, deployed and used. These technologies have expanded access to space, enabling not only governments but also small companies and start-ups to participate in shaping the future of space-based capabilities and security interests pinned to space.&lt;/p&gt;
+
+&lt;p&gt;To understand the foundational role of small satellite design and manufacture, launch systems and sustainable space practices in the UK’s National Security Strategy, the technical underpinnings of these innovations must be explored. These technologies are interconnected and mutually reinforcing, forming a cohesive framework for the UK’s ambitions in space power and national security.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Basics of Space Technology: Small Satellite Design and Manufacture, Core Components and Functions&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;The UK rightly maintains a focus on small satellites and their launch capabilities because they offer a cost-effective, agile platform for enhancing telecommunications, Earth observation and national security capabilities, driving technological innovation and economic growth in the burgeoning space sector.&lt;/p&gt;
+
+&lt;p&gt;Small satellites have evolved and are designed to perform specific functions within constrained sizes, ranging from femtosatellites (0.001–0.01 kg) to minisatellites (100–180 kg). They are equipped with miniaturised sensors, processors and communication systems to fulfil specialised roles such as Earth observation or communication. A critical enabler of their functionality is the integration of advanced materials, miniaturisation technologies and efficient power systems.&lt;/p&gt;
+
+&lt;p&gt;Small satellites in particular rely on advanced miniaturisation technologies to pack essential components into their compact frames. These are:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Payload:&lt;/strong&gt; This is the functional heart of the satellite, including sensors, cameras and communication systems. For example, optical sensors are used for Earth observation, while radio frequency receivers can support signals intelligence.&lt;/p&gt;
+
+    &lt;ul&gt;
+      &lt;li&gt;
+        &lt;p&gt;Earth observation payloads: The UK excels in the development of advanced hyperspectral imaging sensors and synthetic aperture radar (SAR) systems, enabling satellites to capture high-resolution, multi-spectrum data for applications in agriculture, climate monitoring and disaster response. Surrey Satellite Technology Limited (SSTL) is renowned for developing hyperspectral imaging sensors and compact payloads for Earth observation, used in missions such as the Disaster Monitoring Constellation.&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;Communications payloads: UK firms such as Inmarsat and OneWeb are leading in designing next-generation communication payloads, incorporating phased array antennas and software-defined radio technologies to deliver flexible, high-bandwidth connectivity across the globe.&lt;/p&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Power systems:&lt;/strong&gt; Most small satellites are equipped with solar panels to generate power and rechargeable batteries for energy storage. Advances in efficient solar cell technologies allow even small satellites to operate robustly in space.&lt;/p&gt;
+
+    &lt;ul&gt;
+      &lt;li&gt;
+        &lt;p&gt;While many small satellites operate passively, some include propulsion systems for orbit adjustments. Many UK-designed small satellites use electric propulsion technologies such as ion thrusters and Hall-effect thrusters, which offer high efficiency and precise manoeuvrability for tasks such as orbital adjustments and station-keeping while consuming minimal fuel.&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;UK companies such as Nammo UK are developing innovative green monopropellant propulsion systems that use environmentally friendly fuels, such as LMP-103S, to provide reliable thrust for small satellites while reducing toxic by-products and storage hazards associated with traditional propellants.&lt;/p&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Onboard processing and communication:&lt;/strong&gt; Miniaturised processors and antennas enable satellites to perform data collection, processing and transmission autonomously, reducing dependence on ground stations.&lt;/p&gt;
+
+    &lt;ul&gt;
+      &lt;li&gt;
+        &lt;p&gt;AAC Clyde Space develops onboard communication subsystems, including high-performance radios and transceivers, designed for reliable data downlink in smallsat constellations.&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;Archangel Lightworks is an innovative UK company focusing on free-space optical communications, enabling high-speed data transfer between satellites and ground stations using laser-based systems.&lt;/p&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;applications-of-small-satellites-in-national-security&quot;&gt;Applications of Small Satellites in National Security&lt;/h3&gt;
+
+&lt;p&gt;Small satellites are pivotal in national security due to their flexibility and deployability. The UK could use them for:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;ISR:&lt;/strong&gt; Satellites like those from SSTL provide real-time imagery and intelligence for military operations.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Secure communications:&lt;/strong&gt; Small satellites can be used to form resilient communication networks, ensuring connectivity during emergencies or hostile actions.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Supplementing Global Navigation Satellite Systems (GNSS):&lt;/strong&gt; Developed in tandem with multi-constellation GNSS receivers, by reducing reliance on prominent Medium Earth Orbit Positioning Navigation and Timing constellations such as GPS, the UK could increase PNT resilience and deterrence by denial.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Early warning for disaster monitoring:&lt;/strong&gt; Small satellites could be used to enhance satellite capabilities to alert first responders and government officials within minutes of a disaster – such as floods, fires or landslides – at home or in overseas interests.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/uH7SFwP.png&quot; alt=&quot;image01&quot; /&gt;
+&lt;em&gt;▲ &lt;strong&gt;Figure 1: Some basic components commonly found in a smallsats.&lt;/strong&gt; Source: RUSI. Image credits: Bus/frame: Northrop Grumman / Flickr; Batteries: Raimond Spekking /Wikimedia Commons / CC BY-SA 4.0; Computer: Pixabay; Thrusters: NASA Ames / Dana Berry / Flickr; Radio GPS: Public Domain Dedication; Camera: Mariuszms / Wikimedia Commons / CC BY-SA 4.0.&lt;/em&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;space-launch-systems&quot;&gt;Space Launch Systems&lt;/h3&gt;
+
+&lt;p&gt;It may seem obvious, but a satellite that remains tethered to terra has little purpose. Satellites need to be in space; thus, the success of small satellites depends on reliable and adaptable launch systems. The UK’s renewed focus on launch capability – highlighted by the development of spaceports such as Spaceport Cornwall and SaxaVord Spaceport – signals its commitment to ensuring sovereign access to space.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Innovations in Launch Technology&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Launch vehicles designed for small satellites are smaller, lighter and more efficient than traditional rockets. Notable features include:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Dedicated launches:&lt;/strong&gt; Unlike shared launches, dedicated systems transport small payloads to specific orbits, offering greater control and responsiveness.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Reusable components:&lt;/strong&gt; As demonstrated by SpaceX and adopted by UK-based start-ups, innovations such as reusable rocket stages significantly reduce costs.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Eco-friendly propulsion:&lt;/strong&gt; Orbex, for example, a UK-based orbital launch services company, is developing rockets using bio-propane, a low-carbon alternative to traditional rocket fuels.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;em&gt;Applications in National Security&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Launch systems enable rapid deployment of small satellites, which is crucial during crises or conflicts. For instance, if adversaries disrupt satellite constellations, quick-response launch capabilities can replace or augment assets, maintaining critical services such as communication and ISR.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Sustainable Space Practices&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;With 40,500 pieces of debris (greater than 10 cm) and 130 million pieces of debris (between 1 mm and 1 cm) in orbit, sustainable space practices are no longer optional – they are imperative. The UK has already taken a global leadership role in promoting responsible space stewardship through policy, innovation and international diplomacy, and it should be noted that the UK led the work for UN General Assembly Resolution 75/36, “Reducing Space Threats Through Norms, Rules and Principles of Responsible Behaviours”.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Technical Approaches to Sustainability&lt;/em&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Space debris mitigation:&lt;/strong&gt; Companies such as 3S Northumbria are designing sustainable space solutions, including space surveillance systems and supporting software, grounded in the principles of a circular economy for space, with space situational awareness at the heart of the work.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Design for disposal:&lt;/strong&gt; New satellites are engineered for planned decommissioning. Lightweight materials and controlled de-orbiting mechanisms ensure minimal long-term impact.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Propellant-free manoeuvring:&lt;/strong&gt; Emerging technologies use solar sails or other innovative means for orbit adjustments without traditional propulsion.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;em&gt;National Security Implications&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Sustainability of space is not only about ethics; it should be a national security priority. Space debris directly threatens active satellites, including those essential to defence and intelligence. The UK’s emphasis on sustainability ensures its assets are protected while setting a global standard for responsible space exploration.&lt;/p&gt;
+
+&lt;h4 id=&quot;intersections-with-other-technologies&quot;&gt;Intersections with Other Technologies&lt;/h4&gt;
+
+&lt;p&gt;The technologies driving UK space power – small satellites, launch systems and sustainable practices – intersect with transformative fields such as AI, quantum technologies, advanced telecommunications and additive manufacturing. These intersections amplify the capabilities of these technologies, enabling innovative applications across civil and national security domains.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;AI&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;AI enhances the functionality of small satellites by enabling autonomous decision-making, real-time data analysis and efficient constellation management. For example, AI-driven algorithms can optimise satellite orbits to avoid collisions or adjust sensor focus for targeted intelligence collection. This reduces the need for constant ground control and increases operational resilience.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Quantum Technologies&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Quantum computing and quantum communication, as led by UK company Arqit, are reshaping satellite security. Quantum key distribution (QKD), a breakthrough in encryption, ensures unbreakable communication links. Integrating QKD into small satellites offers secure communications for defence applications, safeguarding critical infrastructure against cyber threats.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Advanced Telecommunications&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Small satellites underpin the development of global communication networks, particularly in underserved areas. They intersect with 5G and future 6G networks to deliver high-speed, resilient connectivity. This capability supports not only commercial markets but also secure military communications and remote operations.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Additive Manufacturing&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Additive manufacturing, or 3D printing, accelerates the production of satellite components and launch vehicles. This technology enables rapid prototyping, lightweight designs and cost-efficient manufacturing, allowing UK start-ups to innovate and compete globally.&lt;/p&gt;
+
+&lt;h3 id=&quot;relevance-of-technologies-for-national-security&quot;&gt;Relevance of Technologies for National Security&lt;/h3&gt;
+
+&lt;p&gt;The suite of technologies encompassing small satellite design, launch systems and sustainable space practices plays a critical role in enhancing the UK’s national security. These technologies contribute to strategic resilience, geopolitical influence and the safeguarding of critical infrastructure in an increasingly contested and competitive space domain.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Strategic and Geopolitical Implications&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Space is recognised as critically important to national security. Small satellites and launch capabilities provide the UK with a sovereign ability to monitor, communicate and respond to threats, ensuring strategic independence from international providers. Geopolitically, the UK’s leadership in sustainable space initiatives, such as promoting norms of responsible behaviour at the UN (for example, Resolution 75/36), positions it as a global leader in ethical space governance.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Dependencies and Supply Chains&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;National security is intricately tied to the resilience of supply chains for satellite components and launch systems. The UK relies on small domestic companies, such as SSTL and In-Space Missions, to build satellites. However, certain materials and technologies, such as high-performance processors and radiation-hardened components, still depend on imports. Mitigating these dependencies requires investment in domestic production capabilities and securing international partnerships.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Public Perception and Policy Questions&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Public discussions around space often centre on its benefits – connectivity, climate monitoring and disaster response – but awareness of its security implications is growing. Questions about the growing militarisation of space, space debris and competition with countries such as China and Russia are shaping policy debates. A transparent and balanced approach to national security, aligned with ethical and sustainable space practices, reduces the risk of security dilemma while strengthening public trust and political legitimacy.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Collaborations and International Engagements&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;The UK actively collaborates on international initiatives that bolster its space capabilities. Partnerships with organisations such as the European Space Agency, the Five Eyes intelligence alliance and NATO support the development of cutting-edge technologies and strategic interoperability. The UK Space Agency also engages with global investment programmes to fund innovation and ensure access to emerging markets.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;UK Research and Development Hubs&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;The UK is home to a vibrant ecosystem of research and development hubs focused on space technology. Notable centres include:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Harwell Space Cluster:&lt;/strong&gt; A leading hub for satellite innovation, based in Oxfordshire, this group hosts more than 100 organisations working on small satellite development, AI integration and sustainable space solutions.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Space North East England:&lt;/strong&gt; A cluster that brings together businesses, academia and institutions to unlock the opportunities within the space sector in the region. Includes vibrant multi-disciplinary research at NE universities.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Satellite Applications Catapult:&lt;/strong&gt; Based in Oxfordshire, this organisation bridges research and industry, accelerating the commercialisation of space technologies.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;em&gt;Leading Companies and Promising Start-Ups&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;The UK’s private sector is instrumental in advancing space power. Organisations include:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;SSTL:&lt;/strong&gt; A pioneer in small satellite development, providing platforms for national security applications.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Orbex:&lt;/strong&gt; A developer of eco-friendly launch vehicles, enabling rapid deployment of satellites while reducing environmental impact.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Skyrora:&lt;/strong&gt; A business focused on small satellite launches, leveraging innovative propulsion systems for cost-effective solutions.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;3S Northumbria:&lt;/strong&gt; A start-up driving sustainable practices through debris mitigation and end-of-life satellite solutions.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;BioOrbit:&lt;/strong&gt; A company harnessing the benefits of microgravity for large-scale crystallisation of protein drugs, enabling the shift from intravenous (IV) to subcutaneous (SC) injection.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/HZTvHzm.png&quot; alt=&quot;image02&quot; /&gt;
+&lt;em&gt;▲ &lt;strong&gt;Figure 2: Orbex Reuseable Prime Rocket for Small Satellite Launches from Scotland.&lt;/strong&gt; Source: Orbex.&lt;/em&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;future-developments-and-horizon-scanning&quot;&gt;Future Developments and Horizon Scanning&lt;/h3&gt;
+
+&lt;p&gt;The future of UK space power could be defined by accelerated innovation and strategic investment in transformative technologies, with small satellites, sustainable practices and advanced sustainable launch capabilities at the forefront.&lt;/p&gt;
+
+&lt;h4 id=&quot;five-year-horizon&quot;&gt;Five-Year Horizon&lt;/h4&gt;
+
+&lt;p&gt;In the next five years, miniaturisation, AI integration and propulsion advancements will enable smaller, more efficient satellites with enhanced capabilities. The launch sector will become more agile, with domestic spaceports and eco-friendly propulsion systems, such as those developed by Orbex and Skyrora, enabling frequent and sustainable access to orbit. The UK could lead the space and pharmaceutical industry with companies such as BioOrbit, headed by Katie King, which aims to be the go-to pharmaceuticals factory in microgravity, part of the space manufacturing revolution, and is currently developing a platform for large-scale crystallisation of protein drugs. Sustainable space development from UK Space thought leaders such as Ralph “Dinz” Dinsley at 3S Northumbria could pave the way for the UK to be a world leader in circular economy in space – which in turn would increase soft-power elements of national security.&lt;/p&gt;
+
+&lt;h4 id=&quot;10-year-horizon&quot;&gt;10-Year Horizon&lt;/h4&gt;
+
+&lt;p&gt;By 2034, small satellite constellations will dominate low Earth orbit, providing ubiquitous high-speed connectivity and supporting real-time global intelligence operations. Quantum communication and AI-driven autonomous satellites will further enhance civil and defence applications, while effective debris mitigation technologies will ensure sustainable orbital management.&lt;/p&gt;
+
+&lt;h4 id=&quot;20-year-horizon&quot;&gt;20-Year Horizon&lt;/h4&gt;
+
+&lt;p&gt;In 20 years, fully autonomous satellite constellations, powered by AI, will transform space operations. Sustainable manufacturing and biotechnology innovations could enable in-orbit production of critical resources, reducing reliance on Earth-based supply chains. The UK’s investments today will ensure leadership in these areas, fostering a secure, innovative and sustainable space future. BioOrbit’s innovations could even extend to bioregenerative life support systems for long-duration space missions.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;Clifford Fletcher-Jones&lt;/strong&gt; is a retired Royal Air Force wing commander with more than 14 years’ experience in military space operations. He has been mission-qualified in 10 operational space roles. Clifford has three Master’s degrees and is a Visiting Fellow at the Institute of Advanced Studies, a Fellow of the Royal Geographical Society and a Chartered Fellow of the Chartered Management Institute. He has lectured internationally on spacepower, space warfare and strategy.&lt;/p&gt;</content><author><name>Clifford Fletcher-Jones</name></author><summary type="html">This briefing looks at space technologies in the UK, from start-ups to sustainable space power.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://i.imgur.com/Eh8yI2s.jpeg" /><media:content medium="image" url="https://i.imgur.com/Eh8yI2s.jpeg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">UK’s Quantum Technologies</title><link href="https://agorahub.github.io/pen0/hkers/2025-04-17-uks-quantum-technologies.html" rel="alternate" type="text/html" title="UK’s Quantum Technologies" /><published>2025-04-17T12:00:00+08:00</published><updated>2025-04-17T12:00:00+08:00</updated><id>https://agorahub.github.io/pen0/hkers/uks-quantum-technologies</id><content type="html" xml:base="https://agorahub.github.io/pen0/hkers/2025-04-17-uks-quantum-technologies.html">&lt;p&gt;&lt;em&gt;This briefing explores the risks and opportunities of quantum technologies for national security.&lt;/em&gt;&lt;/p&gt;
+
+&lt;excerpt /&gt;
+
+&lt;p&gt;Quantum physics is the branch of science that describes the behaviour of the world of the small; it defines the properties of atoms, molecules, electrons and photons. Quantum science has been explored for decades, but practical applications have only emerged in recent years. Through its National Quantum Technologies Programme and other investments, the UK is one of the leading countries driving innovation in quantum computing, security and sensing. These technologies promise transformative impact across multiple sectors, from healthcare to finance, defence, energy and national security.&lt;/p&gt;
+
+&lt;p&gt;As with all technologies, quantum devices pose threats to national security: quantum computers can be applied to attack encryption standards; quantum security could keep communications by nefarious groups secure; and quantum sensors may be used to track military operations that would otherwise be considered covert.&lt;/p&gt;
+
+&lt;p&gt;Ensuring that the UK retains its competitive position in developing quantum technologies and establishing a robust supply chain demands significant investment in specialised resources and expertise, both technical and operational.&lt;/p&gt;
+
+&lt;h3 id=&quot;an-introduction-to-quantum-technology&quot;&gt;An Introduction to Quantum Technology&lt;/h3&gt;
+
+&lt;p&gt;The defining capabilities of quantum devices are derived from the fundamental properties of quantum mechanics that they embrace. These include:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Quantum confinement: the wave-like, probabilistic nature of “particles” such as electrons and photons and how restricting the motion of these influences their behaviour. This property also relates to a phenomenon known as quantum tunnelling, which can allow particles to pass through barriers forbidden in classical physics.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Superposition: the fact that quantum systems can exist in multiple states simultaneously.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Entanglement: the fact that quantum systems can behave as if they are joined or in a shared state, even when far apart.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;These properties underpin the capabilities of quantum devices to compute, securely communicate and sense in ways that traditional technologies cannot.&lt;/p&gt;
+
+&lt;p&gt;The UK’s National Quantum Technologies Programme kickstarted significant momentum in this domain by funding research, fostering industrial partnerships, and setting up dedicated quantum technology hubs. This approach aims to help the UK remain a key player in quantum research, patents, publications and industrial investment.&lt;/p&gt;
+
+&lt;p&gt;The US and China dominate quantum technology development due to their massive research budgets and strong private sector involvement. China’s patent filings have been particularly prolific in recent years. Commercially, large US tech firms (such as IBM, Google, Microsoft, Honeywell and Intel) are pushing forward with quantum computing platforms, while Chinese corporations (such as Alibaba and Baidu) are accelerating their national efforts. In Europe, Germany, the Netherlands and France are front-runners, driven by substantial government funding. The UK has demonstrated a strong commitment to quantum technologies through substantial investment and a long-term vision, having invested more than £1 billion to date, with an aim at accelerating research, innovation and commercialisation to establish the UK as a global leader in the field. Private investment in the sector in the UK is rapidly approaching £1 billion pewr annum.&lt;/p&gt;
+
+&lt;h3 id=&quot;understanding-the-tech-in-quantum-technology&quot;&gt;Understanding the “Tech” in Quantum Technology&lt;/h3&gt;
+
+&lt;p&gt;Quantum technologies are emerging. Half a century ago, it was impossible to predict where the advent of the digital revolution would lead us – and we are in a similar position today when evaluating the future potential of the quantum technology revolution. It has branched into three primary subfields, each with distinct operational principles, implementation requirements, and applications. The subsections below give an overview of quantum computing, sensing, and security, emphasising the technical details that highlight how each technology works and why it is strategically relevant.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/AX1esSg.jpeg&quot; alt=&quot;image01&quot; /&gt;
+&lt;em&gt;▲ &lt;strong&gt;Figure 1: Quantum computing (left), sensing (bottom right) and security devices (top right).&lt;/strong&gt; Source: Courtesy of Quantum Technology Centre, Lancaster University.&lt;/em&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;quantum-computing&quot;&gt;Quantum Computing&lt;/h4&gt;
+
+&lt;p&gt;&lt;em&gt;Basic Principles&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Computers traditionally represent and store information in binary digits, 0s and 1s (bits). Quantum computers are fundamentally different, normally processing information in superpositions of a 0 and 1 state encoded on quantum bits (qubits, two-level quantum systems); measurements and reading out information from qubits collapses superpositions into binary states that can represent the results of calculations. In quantum computation, entanglement between qubits can be used to scale the complexity of the problems that can be tackled.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Implementation&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Many different systems for realising qubits have been proposed. The leading contenders today are:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Superconductors: cooled to temperatures close to absolute zero, superconducting circuits allow qubits to be manipulated via precisely timed microwave pulses. Companies like IBM, Google and Oxford Quantum Circuits are at the forefront of this approach – IBM and Google reported significant advancements recently, defining the boundaries of qubit performance and count. Figure 2 shows a photograph of IBM’s Quantum System One.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Ions: electromagnetic fields can trap and manipulate charged atoms (ions). Lasers and microwaves are used to manipulate quantum states encoded on these ions. IonQ, Quantinuum and Alpine Quantum Technologies are pioneers here.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Photons: particles of light– photons– can be transmitted and processed through optical circuits. Photonic systems can operate at room temperature and allow for modular scaling. Xanadu, Quandela and ORCA Computing are pioneering companies here.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The lack of a leading technology for implementing qubits for computation indicates that material advancement is still required in this field, as no qubit system is ideal.&lt;/p&gt;
+
+&lt;p&gt;Quantum simulators are an implementation used to model complex physical systems that are subtly different from general-purpose quantum computers. They use carefully controlled quantum systems to mimic the behaviour of other quantum or classical systems, which are then used to provide insights into phenomena that would otherwise be hard to model. Unlike universal quantum computers, these devices target specific problems, which makes them more resource-efficient. Through this direct mirroring of the quantum dynamics of the system under study, they offer powerful routes of investigation.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Applications&lt;/em&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Cryptanalysis: large-scale quantum computers have long been heralded as having the potential to attack current public-key cryptography schemes such as RSA, elliptic curve cryptography and discrete log-based schemes (such as Diffie–Hellman). Thus, much of today’s encrypted communications are under threat.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Chemical and materials simulation: quantum devices can accurately model molecular interactions, enabling breakthroughs in drug discovery, energy storage and weapon design.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Logistics and optimisation: quantum algorithms can tackle complex optimisation problems relevant to defence logistics, supply chain management and strategic planning.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/GFPoEM4.png&quot; alt=&quot;image02&quot; /&gt;
+&lt;em&gt;▲ &lt;strong&gt;Figure 2: Quantum computers: IBM’s Quantum System One.&lt;/strong&gt; Source: IBM Research / Flickr / CC BY 2.0.&lt;/em&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;quantum-sensing-and-metrology&quot;&gt;Quantum Sensing and Metrology&lt;/h4&gt;
+
+&lt;p&gt;&lt;em&gt;Basic Principles&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Quantum sensors use quantum states, often entangled or in superpositions, to measure magnetic, electric or gravitational fields, electromagnetic radiation, or time. They target performance metrics, such as signal-to-noise ratios, that are better than conventional devices and, in some cases, better than the theoretical maximum classical performance that is possible. Quantum states are susceptible to small changes, and quantum sensors often exploit this to detect minute variations that classical sensors cannot detect.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Implementation and Applications&lt;/em&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Atomic clocks use atomic properties to precisely define a period (tick) to monitor time passing. They can be highly stable reference devices crucial for GPS, maintain synchronisation in high-speed telecommunication systems, and underpin transactions in financial ecosystems.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Gravimeters detect tiny fluctuations in gravitational fields with subterranean and subsea mapping applications.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Magnetometers measure extremely weak magnetic fields. They are used in biomedical imaging, submarine detection and the identification of concealed metallic objects.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Photon detectors are essential for many applications, from secure communications to gas and molecular sensing. Developments in photon detectors have driven applications in quantum imaging, which aims to achieve resolutions and signal-to-noise ratios beyond classical limits. Ghost imaging uses correlations between entangled photons to reconstruct an image, even when the detector does not directly view the object. Advancements here could be important in biomedical imaging and military contexts, offering advantages in surveillance, reconnaissance and target identification under low-light or adverse conditions.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/uHtVVZl.png&quot; alt=&quot;image03&quot; /&gt;
+&lt;em&gt;▲ &lt;strong&gt;Figure 3: A graphene superconducting quantum interference device (SQUID).&lt;/strong&gt; Source: Dr Michael Thompson, Lancaster University’s Quantum Technology Centre.&lt;/em&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;quantum-security&quot;&gt;Quantum Security&lt;/h4&gt;
+
+&lt;p&gt;&lt;em&gt;Basic Principles&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;A common misconception is that quantum technology can only be used to decrypt data. The field of quantum security targets the opposite: applying quantum physics to keep information secure and provide solutions with provable metrics. The first example of this, proposed in the 1970s (although unplublished until 1983), is known as quantum money. The scheme stores randomised quantum states in banknotes. Unknown superposition states cannot be cloned or measured without errors, thus preventing counterfeiting. While not currently practical, this idea led to the invention of quantum key distribution, which uses a similar idea to prove that communications are free from eavesdropping.&lt;/p&gt;
+
+&lt;p&gt;Another simple, elegant application emerged from the realisation that the probabilistic nature of quantum mechanics could be used to generate random numbers. The need for randomness in applications is widespread, from gambling to scheduling and simulations. However, it is critical in the security field: if the generation of cryptographic keys is predictable, then security is compromised. Many companies have developed and are developing quantum random number generators, ranging from scalable solutions for large-scale applications (such as the Internet of Things (IoT) to ones that do not require trust in the supplier.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Applications&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Quantum Key Distribution (QKD)&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Quantum states, encoded on photons, can be used to distribute encryption keys. Eavesdropping alters these states, alerting parties to the intrusion.&lt;/p&gt;
+
+&lt;p&gt;Multiple pilot QKD links and networks have been implemented in the UK. Different protocols have been developed alongside methods to combine classical and quantum communications on the same communication links.&lt;/p&gt;
+
+&lt;p&gt;However, current implementations are still slow and inefficient. Current research aims to tackle practical challenges. Entangled photons, for example,can support more advanced secure communication protocols that lay the groundwork for a future quantum internet, where quantum states are transmitted and processed across distributed networks. Toshiba Europe, based in Cambridge, is the leading developer.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Other Applications&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;This field also encompasses applications for authentication, proof of provenance and anti-counterfeiting. Physically unclonable functions link imperfections, often introduced in a manufacturing process, to the identity of an object. They can harness quantum effects to generate “fingerprints” sensitive to atomic imperfections. Quantum Base is pioneering this technology in the UK.&lt;/p&gt;
+
+&lt;h3 id=&quot;intersections-with-other-technologies&quot;&gt;Intersections with Other Technologies&lt;/h3&gt;
+
+&lt;p&gt;Quantum technologies are not being developed in isolation. They intersect with other nascent fields, forming synergies to realise novel capabilities.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/ELeQKef.png&quot; alt=&quot;image04&quot; /&gt;
+&lt;em&gt;▲ &lt;strong&gt;Figure 4: Intersection between Quantum Technologies and Others.&lt;/strong&gt; Source: The author.&lt;/em&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;AI:&lt;/strong&gt; today, quantum computers have limited resources and capabilities that are hamstrung by errors. AI may help identify problems that can be efficiently tackled with imperfect quantum computation and develop the algorithms employed. In the future, quantum computing may help accelerate the generation of machine learning models.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Cyber Security:&lt;/strong&gt; as quantum computing threatens cryptographic standards, post-quantum cryptography (PQC) has emerged to encrypt data using algorithms that cannot be practically attacked by either a classical supercomputer or a future “all-powerful” quantum computer. Some lattice-based schemes appear to be resistant to any computational attacks, and the US National Institute of Standards and Technology recently published FIPS 203, “Module-Lattice-Based Key-Encapsulation Mechanism Standard”, a draft set of standards incorporating PQC algorithms. The institute also aims to select and recommend quantum-resistant key-encapsulation mechanisms for standardisation soon. Key challenges for PQC are efficient implementation, encouraging (or mandating) widespread adoption and, crucially, gaining confidence that the accepted standards are secure. There is a long track record of standardised encryption schemes being compromised.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;5G/6G Telecommunications:&lt;/strong&gt; quantum computing algorithms can be applied to network optimisation, accelerating the allocation of spectrum and reducing latency in ultra-dense network environments. Wireless quantum communication has been demonstrated, primarily using laser links and telescopes, but there is potential for implementation using radiowaves/microwaves.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;IoT:&lt;/strong&gt; quantum sensors may enable hyper-accurate geolocation or environmental monitoring when integrated into IoT networks. For instance, quantum clocks synchronised across an IoT network could improve the timing accuracy in smart city applications.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Biotechnology:&lt;/strong&gt; quantum computing’s potential to compute complex molecular interactions far more efficiently than classical methods stands to accelerate drug discovery by simulating how potential compounds will bind to targets. This may enable personalised medicine. Quantum sensors could detect subtle variations in biological signals and biomarkers, enhancing disease detection. Quantum devices may be applied to secure valuable genomic data and patient records and maintain confidentiality in the data-driven biotech industry.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The confluence of quantum technology with AI, cyber security, telecommunications, IoT and biotech underscores its broader transformative potential.&lt;/p&gt;
+
+&lt;h3 id=&quot;relevance-of-quantum-technologies-for-national-security&quot;&gt;Relevance of Quantum Technologies for National Security&lt;/h3&gt;
+
+&lt;p&gt;National security concerns around quantum technologies revolve around opportunity and risk. Quantum computing, sensing and security boost intelligence capabilities and strategic defence operations, while adversarial use compromises cyber security and covert operations.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Cryptography and Secure Communication:&lt;/strong&gt; perhaps the most immediate national security concern is the potential for quantum computers to break widely used public-key encryption protocols. An attack, often called a “harvest now, decrypt later” attack, could be employed today where valuable encrypted data is stored in anticipation of future decryption aided by more advanced technologies. In response, the UK’s National Cyber Security Centre supports initiatives in PQC that use algorithms that are believed to resist quantum attacks. However, such resistance is difficult to prove, and researchers are trying to develop quantum algorithms targeting lattice problems.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Intelligence, Surveillance and Reconnaissance (ISR):&lt;/strong&gt; sensors underpin ISR, and the potential for quantum sensors to enhance ISR capabilities is important, especially in quantum imaging. UK-based start-up QLM Technology is developing quantum light detection and ranging systems for high-resolution gas sensing, which has potential implications for military intelligence.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Supply Chain Dependencies:&lt;/strong&gt; quantum hardware implementation has specialised requirements. Quantum computers and sensors often require cryogenic refrigeration, advanced production facilities are needed for creating superconducting qubits, ultra-high vacuum chambers are used for ion traps, and advanced photonic components underpin most quantum communication devices. These requirements create dependencies on specific materials and manufacturing processes. Ensuring a robust domestic supply chain could be critical. Strengthening manufacturing capacity would mitigate apparent risks associated with supply chain disruptions.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The UK hosts a vibrant quantum ecosystem with numerous leading quantum technology companies and a collaborative environment for them to thrive, as provided by the UK’s National Quantum Technologies Programme and National Quantum Computing Centre. 771 UK-based quantum-related companies were studied in Beauhurst’s Quantum Ecosystem Mapping report, published in March 2025. Prominent examples in quantum computing include: Nu Quantum; ORCA Computing; Oxford Quantum Circuits; Quantinuum; Quantum Motion; Riverlane; and Universal Quantum. Example in quantum security include: Aegiq; Arquit; KETS Quantum Security; PQShield; Quantum Base; Quantum Dice; and Toshiba Europe. Examples in quantum sensors include: Cerca Magnetics; MoniRail; Peratech; QLM Technology; and Quantum Detectors. Key enabling technologies include Oxford Instruments and M Squared Lasers.&lt;/p&gt;
+
+&lt;h3 id=&quot;future-development-and-horizon-scanning&quot;&gt;Future Development and Horizon Scanning&lt;/h3&gt;
+
+&lt;p&gt;The trajectory of quantum technologies is evolving rapidly, driven by scientific breakthroughs and commercial investment. Predicting the shape and size of the iceberg, the tip of which we have only recently discovered, is difficult. Below are some short-, medium- and long-term predictions.&lt;/p&gt;
+
+&lt;h4 id=&quot;five-year-horizon&quot;&gt;Five-Year Horizon&lt;/h4&gt;
+
+&lt;p&gt;Noisy intermediate-scale quantum devices, featuring hundreds of qubits, have demonstrated a quantum advantage. They will soon target useful, though modest, problems. These devices will not break classical cryptography and will target specific tasks such as drug discovery and materials design.&lt;/p&gt;
+
+&lt;p&gt;Early-stage commercial solutions will continue to emerge. Quantum-as-a-service models, offered via cloud platforms, will expand. These will enable businesses and government agencies to experiment with quantum algorithms without owning hardware.&lt;/p&gt;
+
+&lt;p&gt;In quantum-ready cyber security, PQC standards will be increasingly adopted, and expanded pilots of quantum communication links in government and corporate networks will be implemented.&lt;/p&gt;
+
+&lt;h4 id=&quot;10-year-horizon&quot;&gt;10-Year Horizon&lt;/h4&gt;
+
+&lt;p&gt;Quantum computers with 1-10k qubits and improved error correction will likely enable meaningful cryptanalysis of specific classical encryption schemes and broader logistics, as well as AI and cryptography applications.&lt;/p&gt;
+
+&lt;p&gt;Small-scale quantum networks with entanglement-based secure communication could emerge in metropolitan areas or specialised government facilities. This evolution aligns with ongoing efforts to build quantum repeaters facilitating long-distance entanglement distribution.&lt;/p&gt;
+
+&lt;p&gt;As the quantum supply chain matures in the UK, it should also become more robust. Local manufacturing of key components like cryogenic systems, advanced photonic chips, and specialised electronics will reduce reliance on imports.&lt;/p&gt;
+
+&lt;h4 id=&quot;20-year-horizon&quot;&gt;20-Year Horizon&lt;/h4&gt;
+
+&lt;p&gt;Advances in error correction, scaling and algorithm flexibility will enable large-scale, fault-tolerant quantum computers that can tackle classically intractable problems. Large-scale quantum computers could range from complex modelling to codebreaking.&lt;/p&gt;
+
+&lt;p&gt;Quantum sensors may become ubiqitous, integrated into everyday technology such as atomic clocks in mobile devices, enabling unprecedented accuracy in navigation and communication bandwidths.&lt;/p&gt;
+
+&lt;p&gt;Widespread adoption of global quantum protocols and standards will likely reshape global cyber security practices. Nations leading these standards may gain disproportionate influence, further elevating the strategic dimension of quantum technology.&lt;/p&gt;
+
+&lt;p&gt;McKinsey &amp;amp; Company estimates the potential quantum technology market size in 2040 to be over $100 billion.&lt;/p&gt;
+
+&lt;p&gt;Long-term investment in quantum research, talent development and enabling infrastructure is a strategic imperative for the UK. Quantum technologies will be pivotal in shaping the nation’s future technological and economic leadership, delivering transformative capabilities that drive innovation, productivity and growth. In an era of intensifying global competition, the UK’s national security and strategic preparedness will increasingly hinge on its ability to harness these technologies and remain ahead of global competitors.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;Rob Young&lt;/strong&gt; is Chief Scientist and co-founder of Quantum Base Limited (QBL), as well as a Professor in the Quantum Technology Centre at Lancaster University in the UK. He has more than 20 years of experience in the field, having co-authored more than 100 scientific publications and patents. His career in quantum science began with an award-winning PhD from the University of Cambridge, which focused on novel devices producing entangled photos. He went on to work in Tyndall National Institute in Ireland, developing a protocol to distribute quantum information to homes. In 2009, he moved to Lancaster and from there, started QBL a few years later. QBL is focused on applying simple quantum technologies to acute problems in security, having produced more than half a billion Q-ID devices with its partners.&lt;/p&gt;</content><author><name>Rob Young</name></author><summary type="html">This briefing explores the risks and opportunities of quantum technologies for national security.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://i.imgur.com/n0qPbzJ.jpeg" /><media:content medium="image" url="https://i.imgur.com/n0qPbzJ.jpeg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">UK’s Future Telecoms</title><link href="https://agorahub.github.io/pen0/hkers/2025-04-17-uks-future-telecoms.html" rel="alternate" type="text/html" title="UK’s Future Telecoms" /><published>2025-04-17T12:00:00+08:00</published><updated>2025-04-17T12:00:00+08:00</updated><id>https://agorahub.github.io/pen0/hkers/uks-future-telecoms</id><content type="html" xml:base="https://agorahub.github.io/pen0/hkers/2025-04-17-uks-future-telecoms.html">&lt;p&gt;&lt;em&gt;This briefing considers the impact on national security of the telecom networks that underpin all national critical infrastructures in the UK.&lt;/em&gt;&lt;/p&gt;
 
 &lt;excerpt /&gt;
 
@@ -9656,506 +10207,4 @@
 
 &lt;hr /&gt;
 
-&lt;p&gt;&lt;strong&gt;Kateryna Bondar&lt;/strong&gt; is a fellow with the Wadhwani AI Center at the Center for Strategic and International Studies (CSIS) in Washington, D.C. Before joining CSIS, she was an adviser to the government of Ukraine, where she was responsible for implementation of reforms in defense, the financial sector, and innovation ecosystem development.&lt;/p&gt;</content><author><name>Kateryna Bondar</name></author><summary type="html">On the battlefield I did not see a single Ukrainian soldier. Only drones. I saw them [Ukrainian soldiers] only when I surrendered. Only drones, and there are lots and lots of them. Guys, don’t come. It’s a drone war. — Surrendered Russian soldier</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://i.imgur.com/YTyafx5.jpeg" /><media:content medium="image" url="https://i.imgur.com/YTyafx5.jpeg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">【黎智英案・審訊第 143 日】</title><link href="https://agorahub.github.io/pen0/hkers/2025-03-05-trial-of-jimmy-lai-day-143.html" rel="alternate" type="text/html" title="【黎智英案・審訊第 143 日】" /><published>2025-03-05T12:00:00+08:00</published><updated>2025-03-05T12:00:00+08:00</updated><id>https://agorahub.github.io/pen0/hkers/trial-of-jimmy-lai-day-143</id><content type="html" xml:base="https://agorahub.github.io/pen0/hkers/2025-03-05-trial-of-jimmy-lai-day-143.html">&lt;ul&gt;
-  &lt;li&gt;回覆蓬佩奧助手訊息包含「制裁」 黎智英認不小心、不知是危險字眼&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;excerpt /&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/qVBOt4l.png&quot; alt=&quot;image01&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;【獨媒報導】壹傳媒創辦人黎智英及3間蘋果公司被控串謀勾結外國勢力及串謀刊印煽動刊物等罪，今（5日）於高院（移師西九龍法院）踏入第143日審訊，黎智英第51日作供。辯方覆問時提及2020年7月15日，Mark Simon 轉發時任美國國務卿蓬佩奧的助手 Mary Kissel 的訊息，要求黎澄清對於撤銷香港特殊地位的立場。黎回覆「我認為他們撤回香港特殊地位是正確的」，訊息亦提及「制裁中國以阻止她打壓香港。」黎供稱，在 Mary Kissel 擔任《華爾街日報》社評撰稿人期間認識她，在相識15年間，他與對方不常聯絡，但記得每年都會在她的生日時送花給她，直至她離開《華爾街日報》。黎否認有意透過訊息直接請求美國撤銷香港特殊地位，提及「制裁」是因為「不小心」，又稱：「我不知道這是一個危險的字眼。」&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/y6kTi65.png&quot; alt=&quot;image02&quot; /&gt;
-▲ 辯方代表大律師 關文渭&lt;/p&gt;
-
-&lt;h4 id=&quot;將道德權威比喻為核武-黎再被問及核武意思&quot;&gt;將道德權威比喻為「核武」 黎再被問及「核武」意思&lt;/h4&gt;
-
-&lt;p&gt;黎智英第51日作供。控方代表、副刑事檢控專員周天行周一（3日）結束24日盤問。辯方代表大律師關文渭今開始覆問。&lt;/p&gt;
-
-&lt;p&gt;早前證供提到，黎於2019年7月10日參與美國智庫「保衛民主基金會」公開對談，期間黎稱香港極需要美國的支持，因美國政府有「道德權威」，好比「核武」。黎並強調中美之間的「戰爭」乃價值上的爭鋒，「他們（中國）好像沒有任何武器便上戰場，當你使用核武的話，只需一分鐘便可擺平他們。（It’s like they’re like going to the battle without any weapon, and you have the nuclear weapon you can finish them in a minute.）」&lt;/p&gt;
-
-&lt;p&gt;辯方問黎，他口中的「核武」是什麼意思。黎稱他當時是指在這個新冷戰中的「道德權威」，而這是中共不具備的，但美國則具備。&lt;/p&gt;
-
-&lt;p&gt;辯方提到黎在座談會中另一處再度使用「武器」字眼，問黎的意思是否與「核武」不同？黎指「核武」和「武器」的意思是相同，均是以誇張的手法形容某些事情。&lt;/p&gt;
-
-&lt;p&gt;法官李素蘭問，道德權威怎樣在一分鐘內擺平中國？黎則稱這是一種寫作的修辭手法。李素蘭追問，但黎當時不是在寫作，而是在談話？黎則認為兩者沒有分別，均是表達的方法。&lt;/p&gt;
-
-&lt;p&gt;辯方又問到，黎口中的「擺平（finish）」是什麼意思。黎指即是「打敗（defect）」。辯方問，「擺平」之後會有什麼結果？黎則稱，很難說結果會是怎樣。他又解釋，這番言論用意是想指出美國人忘記了自己的道德權威有多強大。&lt;/p&gt;
-
-&lt;h4 id=&quot;官問黎談論道德權威是否與中美貿易談判有關-黎稱僅談論一般情況&quot;&gt;官問黎談論道德權威是否與中美貿易談判有關 黎稱僅談論一般情況&lt;/h4&gt;
-
-&lt;p&gt;法官李運騰接著問，黎是否在談論貿易談判，所以才提及道德權威。黎則稱道德權威不一定與貿易談判有關，他只是想說當時有很多人認為中國有貿易談判，因此覺得：「不要令他們失望、不要冒犯他們。」法官杜麗冰指，黎在接下來的言論，卻提到道德權威是「談判桌上的一個重要籌碼」。黎重申道德權威不一定與貿易談判直接有關，他在座談會上只是談論一般情況，並指出當美國與中國交往時，美國忘記了其道德權威有多重要。&lt;/p&gt;
-
-&lt;p&gt;李官回應，他以為黎在座談會上說道德權威是談判籌碼，但似乎黎現在庭上提出了另一種說法。李素蘭指，當觀眾聽到黎的言論時，他們不會追問黎這句意思是什麼、那句意思是什麼，而是從黎的言論得出他們的理解。黎回應稱，他當時只是說一般情況。&lt;/p&gt;
-
-&lt;h4 id=&quot;辯方展示訊息顯示黎憂慮掟磚和掟汽油彈-惟沒有渠道向年輕人傳達訊息&quot;&gt;辯方展示訊息顯示黎憂慮掟磚和掟汽油彈 惟沒有渠道向年輕人傳達訊息&lt;/h4&gt;
-
-&lt;p&gt;黎早前供稱，與同案被告、律師助理陳梓華聯絡，是為了叫他聯絡勇武派領袖，平息示威暴力及要求勇武派成立領導團隊。控方早前盤問時質疑，黎為何認為和平的人能夠說服勇武的人？黎僅稱：「我們要嘗試所有辦法」，因暴力事件會破壞當時的運動。控方又質疑會否最後變成勇武的人反過來說服到和平的人使用暴力呢？&lt;/p&gt;
-
-&lt;p&gt;辯方今問黎從何時開始有平息暴力的想法？黎則稱這不是「想法」，而是「邏輯思維」，因為當李柱銘介紹陳梓華時，將陳形容為「勇武派之中的保守派」，因此黎當時認為陳應該是聯絡激進人士的渠道。&lt;/p&gt;
-
-&lt;p&gt;辯方遂向黎展示 Mark Simon 在2019年8月6日的訊息，他向黎表示關注有示威者投擲石頭，「他們應該知道，如果投擲石頭及殺死了人，便會在短期內嚴重地影響到運動。」黎回覆：「我對掟磚和掟汽油彈感到憂慮，但我沒有渠道向那些年輕人傳達這個訊息，除了我的專欄以外，我會在這星期的專欄提及這點。」&lt;/p&gt;
-
-&lt;h4 id=&quot;黎稱從沒跟陳梓華談及國際戰線&quot;&gt;黎稱從沒跟陳梓華談及國際戰線&lt;/h4&gt;
-
-&lt;p&gt;2019年區議會選舉之後，黎和陳梓華於2019年11月27日在停泊在金鐘的車上會面。陳梓華早前供稱黎說過要結合議會力量、街頭力量和國際力量，「推爆個政府」。黎早前則供稱自己可能講過議會和街頭力量，但是否認講過國際力量，因他從沒想過國際線的議題。&lt;/p&gt;
-
-&lt;p&gt;辯方指，黎在控方的盤問下說法卻有所不同，稱記不起自己有否跟陳梓華提及過國際戰線。辯方今再問黎，他有否跟陳梓華談及國際戰線？黎表示他從沒向陳談及國際戰線，所以這從不是二人之間的話題。&lt;/p&gt;
-
-&lt;h4 id=&quot;黎堅稱未曾跟陳梓華談及初選沒參與籌辦初選&quot;&gt;黎堅稱未曾跟陳梓華談及初選、沒參與籌辦初選&lt;/h4&gt;
-
-&lt;p&gt;2019年12月31日，黎與陳梓華第四次見面。陳早前供稱，黎在該次見面中談及民主派初選。今在辯方覆問下，黎表示很難回憶起有否說過初選，但他認為自己未曾跟陳談及初選。&lt;/p&gt;
-
-&lt;p&gt;辯方提到2020年7月12日初選結束後，陳向黎傳送 Signal 訊息：「感謝你為初選所做的一切，這是香港歷史上重要的一頁（Hi Jimmy, thanks for everything on the primary election. It’s remarkable on our HK history.）。」辯方問黎，為何陳梓華在初選翌日傳送這個訊息？黎認為陳純粹告知他，或者純粹向他表達感受。辯方又問，在7月12日之前，黎有否與陳談論過初選？黎稱不記得。&lt;/p&gt;
-
-&lt;p&gt;法官杜麗冰質疑，陳在訊息中「感謝你為初選所做的一切」，問陳是感謝黎什麼？黎估計是感謝《蘋果》在初選期間提供了平台，但黎強調他並沒有參與其中。&lt;/p&gt;
-
-&lt;p&gt;辯方又提到2020年2月26日，陳梓華向黎智英傳送「眾志聯盟」的出選名單，新西派出朱凱廸、新東派出何桂藍、九東派出黃之鋒、梁凱晴做「Plan B」、九西派出張崑陽、港島派出羅冠聰、超區則派出岑敖暉。黎當時回覆陳：「我們要努力說服他們，如果初選有認受性，他們也必須參與。且看看事態發展如何。（Thanks. We’ve to work on them. But if the primary has legitimacy, they will have to join. Let’s see.）」陳回覆：「我會盡力說服。（I will try my best to work on it.）」&lt;/p&gt;
-
-&lt;p&gt;辯方問黎有否涉及安排出選名單？黎則稱從來沒有聯絡過名單上的人士，但是他相信民主黨林卓廷有參與初選，而他經常與林卓廷、李永達和何俊仁等人吃晚飯。&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/oaYzywt.png&quot; alt=&quot;image03&quot; /&gt;
-▲ 林卓廷（右一）（資料圖片）&lt;/p&gt;
-
-&lt;h4 id=&quot;黎稱陽明山會議有可能談及國際線-因劉祖廸在場&quot;&gt;黎稱陽明山會議有可能談及國際線 因劉祖廸在場&lt;/h4&gt;
-
-&lt;p&gt;2020年1月11日，黎智英在台灣陽明山別墅，與陳梓華、「攬炒巴」劉祖廸和一名女子會面。陳梓華早前供稱，黎在會議中稱要團結「不同的板塊」，包括議會、海外組織、街頭力量、國際線及商人。&lt;/p&gt;
-
-&lt;p&gt;辯方引述黎在主問時稱，自己從沒有這種想法，反指這種想法是來自陳，然後將說話塞進他的嘴裏。惟黎在控方盤問之下，卻改稱他有可能談及國際、議會和街頭這三條戰線。&lt;/p&gt;
-
-&lt;p&gt;辯方遂問黎，有否在會議中談及國際、議會和街頭戰線？黎回應，在他與陳梓華的交流中，國際線從不是話題之一。他稱他可能談及街頭和議會戰線，但他亦有可能談及國際線，因為劉祖廸當時在場。惟黎同時補充，他從不知道陳梓華參與國際線。辯方追問，劉祖廸在會議中談及國際線時說了什麼？黎則稱已不記得他說過什麼。&lt;/p&gt;
-
-&lt;p&gt;辯方又問，為何邀請劉祖廸出席會議？黎稱因為當時是籲勇武派自我組織、組成領袖團隊的好時機。&lt;/p&gt;
-
-&lt;h4 id=&quot;黎稱沒參與籌備初選-官質疑黎曾叫陳梓華說服眾志聯盟參選者&quot;&gt;黎稱沒參與籌備初選 官質疑黎曾叫陳梓華說服「眾志聯盟」參選者&lt;/h4&gt;
-
-&lt;p&gt;在控方盤問期間，曾追問黎是否關注（concerned about）民主派初選。黎當時稱他不關注，因為他與初選無關。控方質疑從訊息紀錄可見，黎一直緊貼初選的事態發展，並問黎的「concern」是什麼。黎僅稱「My concern is that I am not concerned about Primary Election anymore.」&lt;/p&gt;
-
-&lt;p&gt;黎確認上述對答，並稱這是他英文用字不小心。辯方要求黎澄清他口中的「concern」是什麼意思（註：英文“concern”可理解為「關注」、「擔憂」或「與某事情有關」）。黎稱當時他們正在研究電子投票的可能性，而他作為初選組織者李永達和物色電子投票程式的李兆富之間的「中間人」，他認為電子投票的主意很好，因可以方便市民，吸引更多人投票。&lt;/p&gt;
-
-&lt;p&gt;辯方追問黎是否有興趣參與初選工作？黎則稱他對於電子投票感興趣，但是他沒有參與初選的籌備工作。&lt;/p&gt;
-
-&lt;p&gt;法官杜麗冰則反駁指，當陳梓華傳送眾志聯盟的初選名單給黎之後，黎回應陳：「我們要努力說服他們（We’ve to work on them.）」，因此黎的確有牽涉初選。黎則稱訊息中的「我們」泛指民主派陣營的人士，因為他們在同一陣營之中，所以使用「我們」一字。辯方問黎有否說服名單上的人士？黎稱沒有。&lt;/p&gt;
-
-&lt;p&gt;法官李素蘭質疑，陳梓華回覆說：「我會盡力說服」，是否因為黎叫陳去說服？黎指陳只是告訴他會盡力說服，但他不知道陳有否真的說服名單上的人，他亦表示對於陳認識名單上的人感到意外。&lt;/p&gt;
-
-&lt;p&gt;辯方提到，黎將「眾志聯盟」的出選名單轉發給李卓人，並傳送相似訊息：「我們要努力說服他們，至少我們透過得到大部份泛民的支持，使初選有認受性，（We have to work on them. At least we’ve make our primary legitimised by support of majority of Pan Democrats.）」李卓人回覆：「會努力說服他們。會告訴戴耀廷和區諾軒。（Will work on them. Will tell Benny and 區諾軒）」&lt;/p&gt;
-
-&lt;p&gt;黎在庭上稱，正如剛才所說，他在訊息中使用「我們」，是因為泛指民主派。法官李運騰指從李卓人的回覆「會努力說服他們」，可以理解至少黎正在要求李卓人說服他們，又問黎是否要求李卓人說服名單上的人？黎則同意。惟他指李卓人不是初選的組織者之一。&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/ohap1oD.png&quot; alt=&quot;image04&quot; /&gt;
-▲ （資料圖片）&lt;/p&gt;
-
-&lt;h4 id=&quot;黎專欄文章稱中共撕掉基本法-今稱從新聞得知&quot;&gt;黎專欄文章稱中共「撕掉《基本法》」 今稱從新聞得知&lt;/h4&gt;
-
-&lt;p&gt;早前控方證據提到，黎在2020年4月26日的專欄文章〈專橫暴政打壓 我們氣魄不滅〉中稱：「中共出擊撕掉《基本法》，摧殘香港一國兩制特別行政區地位。沒有釋法權利的港澳辦和中聯辦高調曲線釋法，稱兩辦並非《基本法》22條所指的一般意義上的『中央人民政府所屬各部門』，公然向港府奪權。」&lt;/p&gt;
-
-&lt;p&gt;控方曾問黎，「撕掉《基本法》」和「高調曲線釋法」的說法，是從什麼官方渠道得知。黎堅稱有官方出處，但是他不記得。&lt;/p&gt;
-
-&lt;p&gt;辯方今再問黎，他當時是指哪個官方出處。黎稱不記得，相信當時是李柱銘或何俊仁告知他，而二人均是律師，因此相信二人。黎又稱，他肯定因閱讀新聞報導而得知，所以才會在其專欄文章中引述。&lt;/p&gt;
-
-&lt;p&gt;辯方問黎是否知道有沒有任何官方資訊來源，指稱「撕掉《基本法》」和「高調曲線釋法」？黎澄清他意思是從新聞得知上述說法。&lt;/p&gt;
-
-&lt;h4 id=&quot;黎向高院申請離港時未提及會見美國官員計劃-黎解釋過於政治敏感&quot;&gt;黎向高院申請離港時未提及會見美國官員計劃 黎解釋：過於政治敏感&lt;/h4&gt;
-
-&lt;p&gt;控方早前盤問時指，黎於2020年6月向高院申請更改保釋條件，要求獲准出境到美國探望剛出生的孫女。控方質疑黎以孫女出生作為藉口和掩飾，反指黎向法庭隱瞞前往美國的真正原因是要會見美國官員和議員。&lt;/p&gt;
-
-&lt;p&gt;辯方今問黎，即使沒有會見美國官員的計劃，黎會否依然向法庭申請更改保釋條件？黎稱會，因為要探望孫女。辯方提到，黎在申請離港期間，未有提及會見美國官員的計劃，問黎為什麼？黎認為前往美國的主要原因是探望孫女；雖然在當時而言，會見美國官員不是違法，但是向法庭提及的話便會過於政治敏感。&lt;/p&gt;
-
-&lt;p&gt;辯方問黎是否有意圖誤導法庭？黎稱認為沒有需要告知法庭其會見官員計劃，所以便沒有披露。法官李運騰問，黎是否認為若然不告知法庭的話，便有較大機會獲批准出境？黎同意。&lt;/p&gt;
-
-&lt;h4 id=&quot;黎稱與袁弓夷相處感不安-惟未想過停止袁使用蘋果平台&quot;&gt;黎稱與袁弓夷相處感不安 惟未想過停止袁使用《蘋果》平台&lt;/h4&gt;
-
-&lt;p&gt;2020年5月《蘋果》發起「一人一信救香港」，黎安排員工替袁彌明父親、現被警方通緝的袁弓夷拍攝影片，向特朗普作公開呼籲。黎早前在庭上稱，後來他與袁弓夷數次交流之後，便開始感到不安（uneasy），並嘗試疏遠他。&lt;/p&gt;
-
-&lt;p&gt;辯方今問黎為何有這種不安感？黎稱源於一次晚飯期間袁所說的說話，但他已不記得具體內容。但黎記得時任《蘋果》社長張劍虹的訊息談及袁及一名逃往紐約的「逃犯」，而該人士十分可疑。辯方遂展示有關訊息，黎在訊息中告訴張：「他（袁）是郭文貴的人」，又告訴張：「他（袁）想與我合作反共。」&lt;/p&gt;
-
-&lt;p&gt;辯方問，既然黎對袁感到不安，黎有否停止讓他使用《蘋果》這個平台。黎則稱沒有想過這問題。&lt;/p&gt;
-
-&lt;h4 id=&quot;國安法生效後-黎未要求mark-simon撤回制裁名單提議&quot;&gt;國安法生效後 黎未要求Mark Simon撤回制裁名單提議&lt;/h4&gt;
-
-&lt;p&gt;2020年6月23日黎的私人助手 Mark Simon 在訊息中提到，華盛頓正在討論制裁名單，而 Mark 提出只將香港官員列入制裁名單。控方早前盤問指，在2020年7月國安法生效之後，黎並未有要求 Mark Simon 撤回他向美國國安委所提議的制裁名單。當時黎要求庭上解釋為何當時未有如此做，惟遭法官杜麗冰制止。&lt;/p&gt;
-
-&lt;p&gt;辯方今問黎相關原因。黎稱在國安法生效之後，他可能忘記了這件事，又稱他當時可能認為國安法使以往合法的事情變得非法，然而生效之前的事情便會變為過時（obsolete）。&lt;/p&gt;
-
-&lt;h4 id=&quot;專欄稱勾結外國勢力是叛國罪可以被槍斃-黎稱僅複述蕭若元言論&quot;&gt;專欄稱勾結外國勢力是叛國罪、可以被槍斃 黎稱僅複述蕭若元言論&lt;/h4&gt;
-
-&lt;p&gt;2020年7月5日黎的專欄文章〈飛翔吧 良知的脊樑在撐著〉提到：「有心人說，快點走，勾結外國勢力是叛國罪，可以是槍斃的啊！」控方盤問時質疑，黎明知上述言論明顯不實，並揶揄黎：「你似乎毫不在乎真相。」黎則反複重申，他只是複述別人告訴他的說話。&lt;/p&gt;
-
-&lt;p&gt;辯方今問黎，為什麼會說「勾結外國勢力是叛國罪」。黎則稱因為網上有一名被稱為「神燈」的人士，惟一時想不起對方全名，並突然轉用廣東話，稱：「佢個仔係做電影」、「咩元吖？」、「佢以前係做編劇⋯⋯喺亞視。」&lt;/p&gt;
-
-&lt;p&gt;黎指該人士在網上頻道中提及他的姓名，以及叫他離開香港，「我認為他只是說一些說話嚇我，叫我離開。」被問到是否私下認識該「有心人」，黎稱認識，但是一時忘記他的名字。後來在小休之後，黎向法庭表示，記起該「有心人」可能是蕭若元。&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/vpYw8Nw.png&quot; alt=&quot;image05&quot; /&gt;
-▲ 時任美國國務卿蓬佩奧的助手 Mary Kisse（網上圖片）&lt;/p&gt;
-
-&lt;h4 id=&quot;黎回覆蓬佩奧助手問題-承認不小心使用制裁一字&quot;&gt;黎回覆蓬佩奧助手問題 承認不小心使用「制裁」一字&lt;/h4&gt;
-
-&lt;p&gt;早前證據顯示2020年7月15日，Mark Simon 轉發時任美國國務卿蓬佩奧的助手 Mary Kissel 的訊息，要求黎澄清對於撤銷香港特殊地位的立場。黎回覆：「我是說撤銷香港特殊地位是不需要的，因為在《國安法》下，香港怎樣也好都會完蛋。重點不在於香港而在於中國。制裁中國以阻止她打壓香港。但是就此思考後，我認為他們撤回香港特殊地位是正確的，因為一旦美國和中國之間脫鈎，香港會是中國的出口。若然關閉這個中國的出口的話，會更輕易地迫使中國回應美國的要求。」&lt;/p&gt;
-
-&lt;p&gt;辯方問到黎與 Mary Kissel 之間的交情。黎稱截至2020年為止，他與 Mary Kissel 相識超過15年。因 Mary Kissel 曾在香港替《華爾街日報》擔任社評撰稿人，黎在當時開始認識她。後來她返回美國繼續替《華爾街日報》工作，然後在華爾街工作，繼而成為蓬佩奧的助手。黎又稱，在這15年期間，他與 Mary Kissel 不常聯絡，但他記得每年 Mary Kissel 的生日，他都會送花給她，直至她離開《華爾街日報》。被問到有否在2019至2020年期間送花，黎稱在她成為蓬佩奧助理之後便沒有。&lt;/p&gt;
-
-&lt;p&gt;黎稱因為 Mary Kissel 是蓬佩奧的助手，所以如果她直接跟他對話，便會很敏感。黎又指，當時只是打算經 Mark Simon 回答 Mary Kissel 的問題，沒想過她會使用其回覆作其他目的。&lt;/p&gt;
-
-&lt;p&gt;辯方引述控方指黎透過 Mark Simon，直接請求美國撤銷香港特殊地位，辯方問黎有沒有這個意圖？黎稱沒有。&lt;/p&gt;
-
-&lt;p&gt;辯方又問，為什麼黎在訊息中提及「制裁」？黎則稱：「我不知道為什麼，我估計就是這樣不小心。」法官李素蘭追問「不小心」是什麼意思。黎稱：「我不知道這是一個危險的字眼。」&lt;/p&gt;
-
-&lt;h4 id=&quot;twitter帖文問選舉主任應負責任嗎&quot;&gt;Twitter帖文問「選舉主任應負責任嗎？」&lt;/h4&gt;
-
-&lt;p&gt;2020年8月7日，美國財政部宣佈制裁11名侵犯人權及損害香港自治的中港官員，包括時任特首林鄭月娥。翌日黎 Twitter 發布帖文：「那些取消候選人資格的選舉主任又如何呢？他們應該在個人層面上為這些決定負責任嗎？」控方盤問時指，黎透過上述帖文請求外國制裁。&lt;/p&gt;
-
-&lt;p&gt;辯方今要求黎澄清有否在帖文中請求制裁。黎稱他沒有請求制裁，但同時承認帖文用字帶有暗示制裁的意味，因帖文意思是選舉主任應該為他們所作的決定負責任。&lt;/p&gt;
-
-&lt;p&gt;辯方表示尚餘 Slack 群組裡的「飯盒會」紀錄需要覆問。案件明日下午續審。&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;案件編號：HCCC51/2022&lt;/p&gt;</content><author><name>獨媒報導</name></author><summary type="html">回覆蓬佩奧助手訊息包含「制裁」 黎智英認不小心、不知是危險字眼</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://i.imgur.com/LciFH41.jpg" /><media:content medium="image" url="https://i.imgur.com/LciFH41.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Europe To Fund Ukraine</title><link href="https://agorahub.github.io/pen0/hkers/2025-03-05-europe-to-fund-ukraine.html" rel="alternate" type="text/html" title="Europe To Fund Ukraine" /><published>2025-03-05T12:00:00+08:00</published><updated>2025-03-05T12:00:00+08:00</updated><id>https://agorahub.github.io/pen0/hkers/europe-to-fund-ukraine</id><content type="html" xml:base="https://agorahub.github.io/pen0/hkers/2025-03-05-europe-to-fund-ukraine.html">&lt;p&gt;&lt;em&gt;President Trump’s dramatic suspension of U.S. support for Ukraine means Europe must step up now. The continent is on the verge of a “big bang” moment which could unlock more than a trillion dollars in defense funding over the next decade.&lt;/em&gt;&lt;/p&gt;
-
-&lt;excerpt /&gt;
-
-&lt;h3 id=&quot;introduction&quot;&gt;Introduction&lt;/h3&gt;
-
-&lt;p&gt;At the beginning of last week, Russian President Vladimir Putin’s “three-day war” in Ukraine passed the three-year mark. This dark anniversary came with a glimmer of light: the growing prospect of peace talks.&lt;/p&gt;
-
-&lt;p&gt;But after a surprise phone call between Putin and President Donald J. Trump, the only ones showing much optimism were Russian leaders. By the end of last week, this optimism had turned to delight after Washington voted with Moscow on two UN resolutions and a disastrous public Oval Office meeting between Trump and Ukrainian President Volodymyr Zelensky.&lt;/p&gt;
-
-&lt;p&gt;Despite all the talk about talks, the only real change to the dynamics surrounding the conflict since President Trump took office is the creeping loss of Ukraine’s single biggest backer, the United States.&lt;/p&gt;
-
-&lt;p&gt;This was confirmed yesterday when the White House announced it would suspend all military aid to Ukraine in an attempt to compel Kyiv—and induce Moscow—into making a peace deal.&lt;/p&gt;
-
-&lt;p&gt;The Kremlin was quick to welcome this move. It is good news for Putin, who has been waiting three years for Ukraine’s supporters to capitulate.&lt;/p&gt;
-
-&lt;p&gt;But the same events were met with shock and horror in Europe, whose leaders quickly rallied around Zelensky and Ukraine. An informal meeting of European leaders in London on Sunday hosted by Prime Minister Sir Keir Starmer was rapidly reconfigured into a crisis summit with the stated goal of “securing our future.”&lt;/p&gt;
-
-&lt;p&gt;Their unstated goal was to say loud and clear to the people of Ukraine: Europe has got your back.&lt;/p&gt;
-
-&lt;p&gt;This message was also aimed at Washington and Moscow. Europe’s leaders are hoping Trump and Putin heard their call that, in Starmer’s words, “Europe must do the heavy lifting”—on both Ukraine and European security. They want to convince Trump they are taking his demands to share the burden of transatlantic security seriously, and Putin that “we are doubling down in our support” to Ukraine for the long haul.&lt;/p&gt;
-
-&lt;p&gt;Achieving all three goals—backing Ukraine, placating Trump, and outlasting Putin—will take more than crisis meetings and strong words. Since 2014, Europe has been taking defense more seriously. But thanks to Trump’s dramatic policy shift away from transatlantic security, the price tag of strengthening Ukraine and defending Europe just went up.&lt;/p&gt;
-
-&lt;p&gt;Fortunately, Europe is on the verge of a “big bang” moment, which could unlock more than a trillion dollars in funding for European defense over the next decade. An emergency EU summit on Thursday will see European leaders take the first steps in their journey to save Ukraine and lead the free world.&lt;/p&gt;
-
-&lt;h3 id=&quot;peace-through-ukrainian-strength&quot;&gt;Peace Through Ukrainian Strength&lt;/h3&gt;
-
-&lt;p&gt;Europe’s most urgent task is to forge peace through strength in Ukraine. Getting Putin to the negotiating table will mean convincing him he cannot win the war now; getting a lasting ceasefire and peace deal will require convincing him he cannot try again later.&lt;/p&gt;
-
-&lt;p&gt;This is why the London summit committed Europe to “keep the military aid flowing . . . To strengthen Ukraine now,” and to “keep boosting Ukraine’s own defensive capabilities . . . To deter any future invasion.”&lt;/p&gt;
-
-&lt;p&gt;These commitments are even more pertinent in the absence of security guarantees for Ukraine. In London, leaders committed only to develop a “coalition of the willing,” but made any guarantees contingent on “strong US backing.” This is something President Trump has consistently played down—in part because preemptive security guarantees could undermine Trump’s main goal of getting Putin to the negotiating table. If Putin judges that guarantees—and European troops—will only appear once the fighting stops, then he won’t stop fighting.&lt;/p&gt;
-
-&lt;p&gt;But even if Trump can bring Putin to the negotiating table, it will be a tall order to persuade him to make peace.&lt;/p&gt;
-
-&lt;p&gt;Putin thinks he is winning in Ukraine and has little incentive to end the war. Russia may have lost hundreds of thousands of soldiers and up to a million (mostly young, educated) emigrants, but Putin has consolidated power at home and abroad. He has forged a wartime economy that is now producing more than all of Europe, tightened his grip on power through political repression and media control, and deepened his alliances with China, Iran, and North Korea. History suggests wars are good for dictators—even necessary. Besides, what Putin wants is not a slice of territory, but a Ukraine subjugated and neutered. No talks could ever satisfy those desires.&lt;/p&gt;
-
-&lt;p&gt;A more likely scenario is a repeat of the Minsk I and II process, in which Russia dragged out talks and repeatedly broke ceasefire agreements with little intention of reaching a lasting settlement. In the short term, this would provide cover for Russian forces to press forward and exploit Ukraine’s weakening position on the battlefield. In the longer term, it would buy time for Russian forces to regroup and reconstitute to attack again en masse when the time is right.&lt;/p&gt;
-
-&lt;p&gt;This suggests what really matters among all the noise about peace talks is Ukraine’s military strength.&lt;/p&gt;
-
-&lt;p&gt;A strong Ukrainian military, which cannot be defeated on the battlefield, is the only realistic impediment to Russia’s crude but effective attempts to dominate its near abroad using military force. President Trump’s attempts at coercion and accommodation might be worth a shot, but diplomacy is no match for “brute force” when it comes to warlike leaders.&lt;/p&gt;
-
-&lt;p&gt;This wisdom was famously applied by the U.S. diplomat George F. Kennan in his 1946 long telegram, assessing Soviet power under Joseph Stalin as “impervious to logic of reason, and . . . highly sensitive to logic of force.” Kennan’s prescription was “a policy of firm containment” based on political, economic, and military strength.&lt;/p&gt;
-
-&lt;p&gt;The same words also describe Russian power under Vladimir Putin today. Zelensky echoed Kennan’s diagnosis when he addressed Ukraine’s parliament in October: “The Russian leadership acts aggressively only when it is convinced that it will not receive an adequate destructive response.”&lt;/p&gt;
-
-&lt;p&gt;In his address, Zelensky also channeled Kennan in his own prescription to secure Ukraine’s security via “peace through strength.” This phrase echoed one used by another U.S. official: Keith Kellogg. In a report published months before he was appointed as President Trump’s special envoy for Ukraine and Russia, Lt. General (Ret.) Kellogg describes Trump’s approach as promoting “deterrence and peace through strength.”&lt;/p&gt;
-
-&lt;p&gt;NATO and EU leaders have also identified peace through Ukrainian strength as the best solution for keeping their own citizens safe. As NATO Secretary General Mark Rutte declared after allied defense ministers met this month, NATO’s task is to “help Ukraine in its fight today and to build up Ukraine’s armed forces in the long-term.” And as European Commission President Ursula von der Leyen stated in the commission’s political guidelines last year: “The best investment in European security is investing in the security of Ukraine.”&lt;/p&gt;
-
-&lt;h3 id=&quot;europe-unable-america-unwilling&quot;&gt;Europe Unable, America Unwilling&lt;/h3&gt;
-
-&lt;p&gt;Since the war began, peace through strength in Ukraine has been pursued through a combination of Western-funded equipment and Ukrainian grit. As Trump put it last week: “They’re very brave,” but “without the United States and its money and its military equipment, this war would have been over in a very short period of time.”&lt;/p&gt;
-
-&lt;p&gt;But this formula is now in doubt because Ukraine’s main backers are reaching the political and economic limits of what they can provide. Europe, Ukraine’s largest backer to date, has plenty of political will but is hitting the limit of its fiscal and industrial capacity. Meanwhile, the United States has the opposite problem: It can afford and produce much more, but the political desire to do so has disappeared under the new administration. (Compare the administration’s stance on Ukraine to the $4 billion in military assistance and $12 billion in military sales expedited to Israel since January, for example.)&lt;/p&gt;
-
-&lt;p&gt;Europe and the United States have been Ukraine’s largest backers since 2022. Europe has been the most generous, providing $138 billion (and committing another $120 billion), compared to $119 billion (and $4 billion) from the United States. When measured proportionately, the United States lags much further behind—19 European nations have given more to Ukraine than the U.S. total of 0.53 percent of GDP since 2022, with some European nations even exceeding 2 percent.&lt;/p&gt;
-
-&lt;p&gt;These are large sums of money, but they are not enough to meet Ukraine’s needs. Russian forces continue to grind out small victories on the battlefield and attack civilian areas with hundreds of cost-effective drone and missile strikes. Zelensky has already warned that Ukraine is now running out of Patriot air defense missiles. Moreover, as the authors of a Kiel Institute report point out, for most nations this level of funding is “like a minor political ‘pet project’ rather than a major fiscal effort,” comparable to domestic subsidies for diesel fuel and company cars.&lt;/p&gt;
-
-&lt;p&gt;Yet even at these relatively low and inadequate levels, both Europe and the United States have significant constraints on their ability to maintain aid to Ukraine.&lt;/p&gt;
-
-&lt;p&gt;Europe has a plentiful supply of political goodwill toward Ukraine but lacks the fiscal and industrial capacity to make good on it.&lt;/p&gt;
-
-&lt;p&gt;Although overall European defense spending has risen sharply since 2022, spending levels vary widely. Nations closer to Moscow spend much more than others. But some of the leaders in spending measured by percentage of GDP are laggards in absolute investment, due to the size of their economies. (For example, in 2024, Latvia’s 3.15 percent of GDP equated to just $1.4 billion, while Poland and Italy both spend just under $35 billion even though Poland spent 4 percent of its GDP compared to Italy’s 1.5 percent.) Neither does the GDP measure indicate the quality or nature of investment.&lt;/p&gt;
-
-&lt;p&gt;Meanwhile, the European Union is limited by its 2023 Stability and Growth Pact on borrowing large amounts to fund higher defense spending—like it did after Covid-19 through a recovery fund of $840 billion. EU member states have equivocated over removing borrowing limits on defense spending since the war began but have yet to pull the trigger.&lt;/p&gt;
-
-&lt;p&gt;Even if they do, increased spending might not solve the problem of Europe’s limited defense industrial capacity. Ukraine now depends on the defense industry in Europe and elsewhere for two-thirds of its military aid. But current capacity is either low or nonexistent in key areas such as guided weapons, tanks, and aircraft. “Europeans and the Ukrainians have nothing in their depots,” according to the CEO of Rheinmetall. Meanwhile, the Russian defense industry is now outproducing the whole of Europe (when measured by purchasing power parity). Hence the Kiel Institute’s assessment that the war has become “a battle of procurement and military production.”&lt;/p&gt;
-
-&lt;p&gt;The United States also has industrial capacity issues. However, Washington’s limits on providing support to Ukraine are primarily political.&lt;/p&gt;
-
-&lt;p&gt;A good shorthand for President Trump’s policies is to assume he will do the exact opposite of the Biden administration. This is true for Ukraine. While Biden committed to support Kyiv “for as long as it takes,” Trump campaigned on removing support for Ukraine. Where Biden aimed to force Russia to negotiate (or capitulate) by putting Ukraine in a position of strength, Trump aims to compel Ukraine to accept compromises for the sake of a deal and use the potential for Ukrainian weakness to incentivize Moscow. As he said when asked if the United States would keep providing Ukraine with weapons: “Maybe until we have a deal with Russia . . . We need to have a deal, otherwise it’s going to continue.”&lt;/p&gt;
-
-&lt;p&gt;This dramatic reversal in Washington’s policy leaves the burden of “peace through Ukrainian strength” resting on Europe’s shoulders. This may have been the whole point.&lt;/p&gt;
-
-&lt;p&gt;Washington’s shift in Ukraine policy was accompanied by a broader shift in its policy toward Europe. The last three weeks have cemented the new reality that transatlantic security is no longer Washington’s foreign policy priority.&lt;/p&gt;
-
-&lt;p&gt;This stance is not new—the United States has been pivoting to Asia since at least 2011. Neither does it mean Washington will abandon Europe. As U.S. Secretary of Defense Pete Hegseth told NATO defense ministers on February 13: “We must make NATO great again . . . suggestions of abandonment otherwise continue to be disingenuous and we are—we are proud to be part of this alliance and stand by it.”&lt;/p&gt;
-
-&lt;p&gt;Even so, Europe must now assume responsibility for its own security to an extent it has not done since before 1941. This will take decisive action and sustained investment to strengthen Ukraine’s hand and defend the continent from Russian aggression.&lt;/p&gt;
-
-&lt;h3 id=&quot;europes-trillion-dollar-big-bang-moment&quot;&gt;Europe’s Trillion Dollar “Big Bang” Moment&lt;/h3&gt;
-
-&lt;p&gt;Insofar as they face an acute threat from Russia and an increasingly disinterested—or at least distracted—United States, Ukraine and Europe are in the same boat. If Europe is going to shoulder the burden of strengthening Ukraine and its own defenses, it is going to need a bigger boat. This means spending more on defense—a lot more.&lt;/p&gt;
-
-&lt;p&gt;The good news is that European defense is on the verge of a “big bang” moment that could transform its ability to do just that.&lt;/p&gt;
-
-&lt;p&gt;European defense was slow to rouse from its post–Cold War slumber. By 2022, EU defense spending was only 1.3 percent of GDP. This changed after Russia’s full-scale invasion, when European NATO allies raised defense investment to 2 percent of their collective GDP. Meanwhile, the European Union’s Versailles Declaration, adopted three weeks after the war began, led to several new initiatives designed to strengthen European defense and support Ukraine. These have provided tens of billions of euros for both European procurement and Ukrainian defense and reconstruction—including from the revenue of frozen Russian assets.&lt;/p&gt;
-
-&lt;p&gt;However, the true potential of European defense remains largely untapped.&lt;/p&gt;
-
-&lt;p&gt;The next NATO summit will take place in June in The Hague, the Netherlands. If every European member of NATO took that opportunity to raise defense spending from their current average of 2 percent to 3 percent—as at least four allies already did last year—it would raise nearly $200 billion. Germany alone could add $220 billion if it agrees on a new “whatever it takes” special fund for defense.&lt;/p&gt;
-
-&lt;p&gt;If EU leaders agreed to exempt defense spending from the current budget constraints, they could jointly borrow hundreds of billions toward their own target of investing over $500 billion in defense over the next decade.&lt;/p&gt;
-
-&lt;p&gt;If negotiations this year over the European Union’s next budget cycle (2028–2034) meet the target set by the bloc’s new defence commissioner, Andrius Kubilius, that could add $110 billion to EU defense spending (defense spending in the current cycle was only around $11 billion).&lt;/p&gt;
-
-&lt;p&gt;If Europe agreed to liquidate Russia’s frozen assets, it could provide another $300 billion. As Polish Prime Minister Donald Tusk has urged: “Enough talking, it’s time to act! Let’s finance our aid for Ukraine from the Russian frozen assets.”&lt;/p&gt;
-
-&lt;p&gt;If the European Commission is able to repurpose untapped Covid-19 recovery funds, it would make available up to $100 billion, while redirecting portions of the $50 billion EU “Cohesion Fund”—designed to help lower income member states through investment in environment and transport—could make several billion available for defense and security.&lt;/p&gt;
-
-&lt;p&gt;The original purpose of the London summit was to discuss the United Kingdom’s idea for a European “rearmament bank,” a joint fund to issue AAA-rated debt to finance increased defense spending across Europe. If agreed, this might raise up to $25 billion in government “seed funding,” which could underpin up to $250 billion of private capital.&lt;/p&gt;
-
-&lt;p&gt;There are a lot of “ifs” on the table. But taken together, these measures would unlock vast amounts of new funding. European defense’s big-bang moment could be worth well over a trillion dollars.&lt;/p&gt;
-
-&lt;p&gt;Ahead of Thursday’s meeting, von der Leyen has already previewed some of the measures on the table as part of a package called “ReARM Europe.” These include relaxing the European Union’s fiscal rules on debt for defense spending, a loan program of up to €150 billion ($165 billion) backed by the European Union’s common budget, and reallocating some of the Cohesion Fund. These initial measures still require EU leaders to unanimously agree with them. The biggest threat comes from Hungary, although Budapest’s opposition appears to be narrowly focused on support to Ukraine rather than strengthening European defense writ large.&lt;/p&gt;
-
-&lt;h3 id=&quot;the-arsenal-of-democracy-in-europe&quot;&gt;The Arsenal Of Democracy in Europe&lt;/h3&gt;
-
-&lt;p&gt;Even if EU leaders can agree to these measures, a flood of new spending will not amount to much without the capacity to produce the weapons, ammunition, and equipment that Ukraine—and Europe—needs. As Rutte put it: “Our industry must be able to produce what our extra money allows us to procure.” Europe must transform itself into a modern arsenal of democracy.&lt;/p&gt;
-
-&lt;p&gt;EU leaders have repeatedly emphasized their aim of “ramping up defence production,” alongside financing defense and supporting Ukraine. This follows the 2024 European Defence Industrial Strategy (EDIS) and the Draghi report on competitiveness—both of which urged Europe to revitalize its defense industrial base.&lt;/p&gt;
-
-&lt;p&gt;Europe’s defense industry has struggled to overcome three decades of relative neglect. One high profile example is the failure to deliver the flagship procurement of 1 million NATO-standard 155 millimeter artillery shells for Ukraine. This target was eventually met but only after significant delays. This episode suggests Europe may struggle to provide Ukraine with more complex systems at scale, such as air and missile defense.&lt;/p&gt;
-
-&lt;p&gt;The good news is that Europe’s defense industry has retained a focus on quality and advanced technology, even while sacrificing capacity and increasing fragmentation. The challenge now is how to scale up and increase cooperation—a perennial challenge for Europe. The “big bang” approach advocated by Kubilius is designed to do this by aggregating demand and achieving economies of scale.&lt;/p&gt;
-
-&lt;p&gt;One example of what could be achieved is the European Union’s first investment in support for common procurement, a new $330 million incentive that has led to over $12 billion in multinational contracts for air and missile defense systems, armored vehicles, and artillery ammunition. There are also several examples of joint procurement for Ukraine. These amount to at least $5.5 billion to date, including a $1.0 billion Czechia-led ammunition initiative and the UK-led International Fund for Ukraine, which has provided at least $1.5 billion of military aid since 2023.&lt;/p&gt;
-
-&lt;p&gt;The European Union and NATO have long deployed incentive-backed instruments to encourage cooperation and innovation. But the small amounts of funding attached—millions not billions—have not made much difference. If this model can be applied across the defense industrial landscape using the flood of funding that may be about to appear, it would lead to a revolutionary change in European defense.&lt;/p&gt;
-
-&lt;p&gt;Another reason for a “big bang” approach to transforming European defense is a continued dependence on defense industries beyond Europe. Ukraine currently builds or finances about 55 percent of its military hardware but relies on Europe (25 percent) and the United States (20 percent) for the rest. For Europe, most of the money spent on defense since the war began has left the continent. According to the EDIS, 78 percent of new EU spending in 2022 and 2023 left Europe, with 63 percent of this going to the United States.&lt;/p&gt;
-
-&lt;p&gt;While this situation allows Ukraine and Europe to meet urgent combat requirements, recapitalize depleted stockpiles, and access complex systems they cannot produce on their own—such as Patriot missile defense systems or combat aircraft like the F-16 and F-35—it also undermines sovereign supply, exposing Europe to external supply challenges. This is why the EDIS gave member states the target of procuring at least 50 percent of defense equipment from within the European Union by 2030 and 60 percent by 2035.&lt;/p&gt;
-
-&lt;p&gt;Ukraine would also benefit from a stronger, more self-sufficient European defense industry. It already has to some extent, given that at least half of the military aid it has received since the start of the war came from Europe and at least 25 percent of its current supply of weapons and equipment is produced there. One example of a weapon system that has been critical to Ukraine’s performance on the battlefield is strike drones, which have helped Ukrainian forces overcome a 5:1 manpower deficit to fight Russian forces to a standstill. This month the German company Helsing announced it would supply Ukraine with 6,000 HX-2 strike drones—adding to the 4,000 HX-1 drones already being delivered.&lt;/p&gt;
-
-&lt;p&gt;The role of AI-enabled “precise mass” in Ukraine—and in modern warfare writ large—will place more emphasis on less exquisite technology like drones and artillery. This could be a boon for the European defense industry, and even a comparative advantage over the U.S. and Korean industries, which are more geared toward complex, high-end systems.&lt;/p&gt;
-
-&lt;p&gt;Ukraine’s own defense industry shows what’s possible. It already produces $30 billion a year in weapons, six times what it did just a year ago. Ukraine is now the world’s largest manufacturer of military autonomous systems, able to make over 4.5 million drones per year. It plans to make 30,000 long-range drones and 3,000 missiles this year. While the European Union struggled to make 1 million shells, Ukraine already makes 2.5 million artillery and mortar rounds annually. In the last year, Ukraine’s production of artillery systems tripled while production of armored vehicles increased fivefold. Europe will also benefit from this transformation if it can learn from Ukraine’s impressive ability to rapidly scale manufacturing, adopt commercial technology, and feed lessons from the front line into its procurement system.&lt;/p&gt;
-
-&lt;p&gt;However, Ukraine’s defense industry has grown so fast that its production capacity has outstripped financing. In a speech to the annual European Defence Agency conference last month, Ukrainian Defence Minister Rustem Umerov explained that while capacity will reach $37 billion this year, available funding is only $18 billion. Umerov appealed to Europe “to help us close this existing gap in financing” to make sure Ukraine’s production potential does not go to waste.&lt;/p&gt;
-
-&lt;p&gt;One way of doing this is the “Danish model” of procuring directly from Ukraine’s defense industry. In 2024, Denmark became the first country to order weapons made in Ukraine for use by Ukrainian armed forces. To date, around $950 million worth of Ukrainian-made artillery and drones have been ordered by Denmark and delivered to Ukraine. Denmark has also set up a “Defence Industry Hub” in Kyiv to enhance cooperation between the Danish and Ukrainian defense industries. At least two other countries have also adopted the “Danish model.” In October, the Netherlands announced a plan to purchase around $440 million of drones from Ukraine, with a 50–50 production share. Last week Norway also committed to buy $312 million of drones and other military equipment from Ukrainian firms.&lt;/p&gt;
-
-&lt;p&gt;Transforming European defense would also benefit the United States’ defense industry—the original arsenal of democracy—in three important ways. First, by giving even more buying power to the largest global importer of U.S. arms: Europe. No matter how quickly Europe revitalizes its own defense industry, it will continue to rely on U.S. companies for advanced air defense, combat aircraft, missile and long-range artillery systems, plus other technology. Second, expanded coproduction arrangements provide European leaders political and economic incentives to buy more U.S. weapons. They also lower the unit cost of weapons for Washington through economies of scale. Examples range from a recent $5.5 billion coproduction agreement for 1,000 Patriot interceptors, to a Cold War agreement to produce Sidewinder missiles in West Germany. Third, by enabling the United States to focus more squarely on its declared priority of Indo-Pacific security.&lt;/p&gt;
-
-&lt;p&gt;If Europe can generate a flood of new funding and transform its defense industry, the only remaining question is what purpose would all this military power serve? The answer for Ukraine was provided by President von der Leyen: “It is basically turning Ukraine into a steel porcupine that is indigestible for potential invaders.” A “porcupine” military strategy is the best way for Ukraine to credibly deter Russia within the constraints it has on manpower, industrial capacity, and cost. It would also minimize any security dilemma with Russia by being a conspicuously defensive force. For Europe, the answer is much more of the same: deterrence and defense.&lt;/p&gt;
-
-&lt;h3 id=&quot;leaders-of-the-free-world&quot;&gt;Leaders of the Free World?&lt;/h3&gt;
-
-&lt;p&gt;On March 10, 2022, just days after Russia’s invasion began, EU leaders met in Versailles. They declared that “Russia’s war of aggression constitutes a tectonic shift in European history” and agreed on an ambitious agenda to strengthen European defense and support Ukraine.&lt;/p&gt;
-
-&lt;p&gt;Thursday’s summit could be another Versailles moment for Europe. The last two weeks have produced another tectonic shift that demands a continent-wide response. Through their urgent plan to “rearm Europe,” European leaders must find a way to unlock a trillion euros to fund large increases in defense spending and transform Europe’s industrial base.&lt;/p&gt;
-
-&lt;p&gt;This moment was years in the making. Since 2014, the pressure on European defense has been building. Increased spending and a proliferation of initiatives to strengthen EU defense and the “European pillar” of NATO have laid the foundations.&lt;/p&gt;
-
-&lt;p&gt;The only thing missing was a spark to ignite the big bang—until President Trump provided a shower of sparks in a week that “shook up the world.” The events which followed his February 12 call with the Kremlin threatened to put transatlantic relations back to 1941 as he considered appeasing Putin, called Zelensky a “dictator,” berated Europe, and cut off Ukraine (even if only temporarily).&lt;/p&gt;
-
-&lt;p&gt;The result of these watershed events was summarized by one Wall Street Journal headline: “Trump, Not Putin, Forces Europe to Get Serious About Defense.” Or as one observer on Bluesky put it: “European defence was born this week—by caesarian, but still.”&lt;/p&gt;
-
-&lt;p&gt;And after Friday’s shouting match in the Oval Office added more fuel to the fire, Kaja Kallas, the European Union’s high representative for foreign affairs, declared: “Today, it became clear that the free world needs a new leader. It’s up to us, Europeans, to take this challenge.”&lt;/p&gt;
-
-&lt;p&gt;If Europe’s big bang comes to fruition, it could generate vast amounts of new defense investment in the coming years. But this moment is about more than funding, as Kallas implies. The most important thing Europe can do for Ukraine and the free world is transform its ability to defend the continent from Russian aggression.&lt;/p&gt;
-
-&lt;p&gt;Like the Soviet Union during the Cold War, Putin’s Russia is the biggest threat to a Europe whole and free. And just like the Cold War, the consequences of the confrontation between Russia and the West are global. Unlike his Soviet-communist counterparts, Putin might not want to “run the world”—but he would like to see the world run by fellow autocrats. This world would eschew the liberal rules and norms that have guided the conduct of international relations since 1945, a period of unprecedented global peace, prosperity, and liberty.&lt;/p&gt;
-
-&lt;p&gt;Instead, the world would be a much darker place where might makes right. Powerful countries would be entitled to spheres of influence within which they would be free to dominate and subjugate weaker countries.&lt;/p&gt;
-
-&lt;p&gt;The war in Ukraine shows what a world of authoritarian “multipolarity” would look like. It is not just a battle for Ukrainian sovereignty, but for the future of global order. Ukraine is the first bulwark against a world of authoritarian disorder—which is why it must be strengthened.&lt;/p&gt;
-
-&lt;p&gt;The second bulwark is Europe itself—hence the need to rearm, quickly, and at scale.&lt;/p&gt;
-
-&lt;p&gt;The third bulwark is the United States. By withdrawing its support for Ukraine, questioning its own role in transatlantic security, and appearing to align with Russia on key issues, President Trump risks weakening the West’s defense against authoritarian disorder. It is possible that Trump is betting that his unprecedented actions will provide the spark Europe needed to ignite its big bang transformation into a defense superpower.&lt;/p&gt;
-
-&lt;p&gt;Either way, Europe’s leaders now have the motivation and the means to save Ukraine and stop Putin. As Starmer put it, they are at a “crossroads in our history.” It is now up to them to lead the free world through this crucial moment.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;strong&gt;Sean Monaghan&lt;/strong&gt; is a visiting fellow in the Europe, Russia, and Eurasia Program at the Center for Strategic and International Studies in Washington, D.C.&lt;/p&gt;</content><author><name>Sean Monaghan</name></author><summary type="html">President Trump’s dramatic suspension of U.S. support for Ukraine means Europe must step up now. The continent is on the verge of a “big bang” moment which could unlock more than a trillion dollars in defense funding over the next decade.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://i.imgur.com/NwxC4YP.jpeg" /><media:content medium="image" url="https://i.imgur.com/NwxC4YP.jpeg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Maritime Sanctions Taskforce</title><link href="https://agorahub.github.io/pen0/hkers/2025-03-04-maritime-sanctions-taskforce.html" rel="alternate" type="text/html" title="Maritime Sanctions Taskforce" /><published>2025-03-04T12:00:00+08:00</published><updated>2025-03-04T12:00:00+08:00</updated><id>https://agorahub.github.io/pen0/hkers/maritime-sanctions-taskforce</id><content type="html" xml:base="https://agorahub.github.io/pen0/hkers/2025-03-04-maritime-sanctions-taskforce.html">&lt;p&gt;&lt;em&gt;This report presents findings from the meeting, which was held to examine the evolving strategies of the shadow fleet and provide operational recommendations to enhance collective enforcement efforts.&lt;/em&gt;&lt;/p&gt;
-
-&lt;excerpt /&gt;
-
-&lt;p&gt;RUSI’s Maritime Sanctions Taskforce first convened in November 2024, to assess the threats posed by Russia’s circumvention of maritime sanctions, in particular through its shadow fleet, and to identify enforcement priorities for G7+ partners. The findings from this inaugural meeting were reflected in the first Taskforce report.&lt;/p&gt;
-
-&lt;p&gt;In January 2025, the Taskforce held its second meeting, to examine the evolving strategies of the shadow fleet and provide operational recommendations to enhance collective enforcement efforts. The discussion addressed the shifting patterns of the shadow fleet, the need to refine designations, the importance of diplomatic engagement with flag states, and the potential leverage of international legal frameworks to strengthen maritime sanctions enforcement. This report summarises the findings and recommendations of the second Taskforce meeting, in order to inform policy decisions, enhance international coordination, and bolster the effectiveness of maritime sanctions.&lt;/p&gt;
-
-&lt;p&gt;Contributions from Taskforce members are made on an unattributable basis and this summary report does not necessarily represent the views of all Taskforce members.&lt;/p&gt;
-
-&lt;h3 id=&quot;update-on-the-shadow-fleets-shifting-patterns&quot;&gt;Update on the Shadow Fleet’s Shifting Patterns&lt;/h3&gt;
-
-&lt;p&gt;The Taskforce began by assessing recent shifts in shadow fleet routes and operational methods. Participants highlighted that the fleet is evolving in response to ongoing enforcement measures and heightened regional coordination efforts by Nordic and Baltic states and other G7+ countries. The ability to accurately track these changes is key to ensuring the continued effectiveness of monitoring and enforcement efforts.&lt;/p&gt;
-
-&lt;p&gt;While the term “shadow fleet” is often used broadly, some Taskforce members distinguished three main categories:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;The cleared fleet, consisting of vessels with no suspicious activity or opaque ownership structures;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;The grey fleet, comprising vessels operating within legal ambiguities and/or benefiting from weak regulatory oversight, but not necessarily violating sanctions outright;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;The dark fleet, which includes vessels engaged in clear illicit activity, such as deceptive shipping practices, fraudulent cargo documentation and false flagging.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;According to this categorisation, some Taskforce members shared their observations based on active tracking of the maritime domain. They noted an increase in the size of the grey fleet following the new measures introduced by the US sanctions package of 10 January 2025. The dark fleet, however, has remained relatively stable, with an estimated 1,600 vessels continuing to engage in illicit activity operations. According to some Taskforce members, the core fleet dedicated to Russia’s shadow oil trade currently comprises approximately 350 tankers without International Group of Professional and Indemnity Clubs (IGP&amp;amp;I) insurance and with opaque ownership structures. Unlike the activity of some other global shadow fleet operations, such as those servicing Iran or Venezuela, Russian vessels still need to transit strategic chokepoints such as the Danish and Turkish Straits, making it difficult for them to operate entirely unnoticed.&lt;/p&gt;
-
-&lt;p&gt;Participants also highlighted the emergence of new hubs for shadow fleet activity, most notably in Brazil and the Arctic Sea. Moreover, there has been a marked increase in the manipulation of Global Navigational Satellite System (GNSS) or location tampering as means of evading detection.&lt;/p&gt;
-
-&lt;p&gt;The Taskforce agreed that the 10 January sanctions package had led to a significant shift in vessel behaviour. Notably, there was a sharp increase in vessels drifting in the South China Sea and a rise in ship-to-ship transfers occurring in more remote anchorage locations. These changes highlight the shadow fleet’s adaptability in response to regulatory actions and further emphasise the need for sustained vigilance.&lt;/p&gt;
-
-&lt;p&gt;Additionally, Taskforce members from the protection and indemnity (P&amp;amp;I) insurance community commented on the recent uplift of the carriage of 2707 cargoes from Russia. Some members had observed in trade data that cargo corresponding to Harmonized System (HS) code 2707 – that is, oils and other products of the distillation of high temperature coal tar – are increasingly being reported as exports from Russia. 2707 cargoes are not subject to the Oil Price Cap (OPC), unlike oil and petroleum cargo matching codes 2709 or 2710.&lt;/p&gt;
-
-&lt;h3 id=&quot;defining-the-shadow-fleet&quot;&gt;Defining the Shadow Fleet&lt;/h3&gt;
-
-&lt;p&gt;Participants noted that a clear definition of the shadow fleet is necessary to underpin legal and enforcement actions. The International Maritime Organization (IMO) defines the shadow fleet as “ships that are engaged in illegal operations for the purposes of circumventing sanctions, evading compliance with safety or environmental regulations, avoiding insurance costs or engaging in other illegal activities, which may include:&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;
-    &lt;p&gt;carrying out unsafe operations which do not adhere to international regulations and well-established and strict industry standards and best practices;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;intentionally avoiding flag State and port State control inspections;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;not maintaining adequate liability insurance or other financial security;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;intentionally avoiding commercial screenings or inspections;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;not operating under a transparent corporate governance policy that assures the welfare and safety of those on board and the protection of the marine environment; or&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;intentionally taking measures to avoid ship detection such as switching off their AIS [Automatic Identification System] or LRIT [long-range identification and tracking] transmissions or concealing the ship’s actual identity when there is no legitimate safety or security concern sufficient to justify such action”.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;Lloyd’s List offers a complementary definition, categorising a tanker as part of the “dark fleet” if it is “aged 15 years or over, anonymously owned and/or has a corporate structure designed to obfuscate beneficial ownership discovery, solely deployed in sanctioned oil trades, and engaged in one or more of the deceptive shipping practices outlined in US State Department guidance issued in May 2020.”&lt;/p&gt;
-
-&lt;p&gt;The Kyiv School of Economics offers a broader definition, arguing that the shadow fleet comprises “all vessels that simultaneously meet two conditions: They lack Western insurance coverage as they rely on providers outside of the International Group of P&amp;amp;I Clubs … They are owned and managed by companies not from G7/EU countries.”&lt;/p&gt;
-
-&lt;p&gt;The Taskforce concluded that the IMO definition remains the most viable, as it provides a legal foundation for tracking and targeting shadow fleet activity by an internationally recognised multilateral body. A universally accepted definition will enable greater consistency of enforcement actions, reducing the risk of ambiguity and ensuring that shadow fleet vessels are subjected to uniform scrutiny across jurisdictions.&lt;/p&gt;
-
-&lt;h3 id=&quot;refining-designations-for-maximum-impact&quot;&gt;Refining Designations for Maximum Impact&lt;/h3&gt;
-
-&lt;p&gt;The Taskforce debated how to refine vessel designations to ensure that sanctions remain effective while preventing unintended economic consequences. The pace of vessel designations has accelerated, with a sharp increase in deep-sea vessels designated over the past year, yet concerns persist about the clarity, consistency and long-term implications and sustainability of these designations.&lt;/p&gt;
-
-&lt;p&gt;In this context, the Taskforce considered expanding designation targets beyond vessels towards maritime facilitators. This would explicitly exclude individual seafarers, as it was widely agreed that targeting ship crews would be ineffective and ethically questionable, since they often lack decision-making power and have little choice but to accept employment on sanctioned vessels. Instead, Taskforce members advocated for designating ship management companies (including those offering crew management and technical management services) and other intermediaries that knowingly facilitate shadow fleet activities. The decision by Chinese ports in Shandong to refuse berthing to US-sanctioned vessels just ahead of the 10 January sanctions package might signal that direct pressure on port operators could be an effective mechanism for curtailing shadow fleet activity.&lt;/p&gt;
-
-&lt;p&gt;Flag registries also came under scrutiny, with some members noting that many registries remain unaware of the risks associated with accepting shadow fleet vessels. By targeting the infrastructure that supports illicit shipping, including through greater engagement with flag states and the services companies that manage many of their registries, enforcement efforts could be not only more effective, but also less disruptive to innocent parties. This is explored in greater depth below.&lt;/p&gt;
-
-&lt;p&gt;The Taskforce explored the unintended consequences of aggressively driving vessels out of regulated systems. While strict enforcement is essential, some participants warned that pushing shadow fleet vessels further into opaque, unregulated markets could exacerbate risks rather than mitigate them. When vessels lose access to legitimate insurance, classification societies and flag registries, they often resort to clandestine operations with reduced oversight, increasing the likelihood of fraudulent documentation, illicit trading and maritime safety violations. This creates a regulatory blind spot where these vessels continue to operate under even riskier conditions, heightening environmental and security concerns. The Taskforce discussed the need for a balanced approach that targets bad actors while maintaining enough oversight to prevent a complete loss of regulatory control over shadow fleet operations.&lt;/p&gt;
-
-&lt;p&gt;Some Taskforce members suggested the possibility of an advisory or probationary list for flag registries that demonstrate a pattern of registering vessels engaged in illicit activities, following advisories from the US Office of Foreign Assets Control (OFAC) and, more recently, Taiwan. While such measures would need to be carefully designed to avoid overreach, they could serve as a useful tool in encouraging higher compliance standards across the industry. However, the listing of vessels without imposing formal sanctions raised concerns among some Taskforce members, who highlighted the need for more robust and clear designation criteria.&lt;/p&gt;
-
-&lt;p&gt;The US has demonstrated a more precise approach, providing detailed justifications for vessel listings. By contrast, the UK and the EU have relied on broader, less specific statements, often citing general involvement in the Russian oil trade without clearly outlining whether vessels have violated the OPC, are Russian-owned, or have engaged in deceptive shipping practices. Taskforce members discussed the fact that this lack of transparency creates uncertainty in the market, making it difficult for insurers, shipowners and financial institutions to determine compliance requirements and assess risk accurately. Regulators have the tools and intelligence necessary to refine this process, and greater transparency in the designation process would enable industry stakeholders to adjust their risk management frameworks accordingly and achieve stronger adherence to maritime sanctions.&lt;/p&gt;
-
-&lt;p&gt;Another key issue discussed was the potential for a structured delisting mechanism for vessels that demonstrate compliance or seek to reintegrate into legitimate trade. Some Taskforce members argued that an expedited delisting process could incentivise vessels to cease shadow fleet operations and return to the mainstream fleet, provided they meet stringent compliance criteria. The notion of allowing vessels to correct their behaviour and regain access to legitimate markets was seen as a potential means of encouraging compliance, rather than forcing vessels further into the illicit market. However, scepticism remains regarding whether such a system could be effectively implemented.&lt;/p&gt;
-
-&lt;p&gt;Some industry representatives expressed reluctance to reintegrate vessels that have a history of sanctions evasion. Reputable shipowners and insurers posit that vessels that have profited from sanctions violations should not be allowed to re-enter the legitimate market without significant scrutiny. Allowing such vessels to return to normal operations without facing penalties might risk encouraging others to engage in similar violations, with the expectation that they could later return to compliant trade with little consequence. This resistance from some actors in the insurance and shipping industries highlights the challenge of designing a delisting framework that balances the need for deterrence with the potential benefits of encouraging vessels back into compliance.&lt;/p&gt;
-
-&lt;p&gt;The long-term implications of prolonged vessel designations complicate matters further. Some Taskforce members noted that, without a viable delisting mechanism, sanctioned vessels could eventually be abandoned, creating serious environmental and humanitarian hazards. When shipowners realise that their vessels are permanently excluded from the mainstream market, they may choose to scrap or neglect them, increasing the risk of oil spills, maritime accidents, and seafarer abandonment. This issue is particularly pressing given that many vessels operating within the shadow fleet are approaching or beyond the end of their operational lifespan. Without a structured means of decommissioning or scrapping these vessels, there is a growing risk of a buildup of obsolete tankers that are both environmentally hazardous and legally problematic for insurers.&lt;/p&gt;
-
-&lt;p&gt;A final consideration discussed was the need for improved collaboration between regulatory authorities and the private sector. Participants noted that in the US, the White House, the US State Department and the US Treasury Department are reportedly exploring the establishment of specialised maritime desks dedicated to addressing Russian and Iranian sanctions. Taskforce members suggested that, if these efforts materialise, a formal government–private sector partnership could prove invaluable to streamlining enforcement efforts. This would facilitate the dialogue between policymakers and industry experts, with a partnership that could improve information sharing, enhance due diligence processes, and develop more effective strategies for addressing illicit shipping practices.&lt;/p&gt;
-
-&lt;h3 id=&quot;strengthening-engagement-with-flag-states&quot;&gt;Strengthening Engagement with Flag States&lt;/h3&gt;
-
-&lt;p&gt;As noted above, the Taskforce agreed that engagement with flag states remains a critical element in enforcing maritime sanctions and limiting the operations of the shadow fleet. Flag states enable vessels to operate internationally, granting them the necessary legal status to navigate global waters. This makes them a pivotal point of leverage for policymakers seeking to reinforce compliance measures. While flag states retain sovereign control over their registries, participants noted that many remain unaware of the reputational risks associated with facilitating illicit shipping activities.&lt;/p&gt;
-
-&lt;p&gt;The relationship between flag states and their registries varies considerably, which influences how receptive flag states are to diplomatic engagement. Some countries, such as Panama, for example, maintain direct governmental oversight of their registries, integrating them into national maritime policy and economic strategy. Others, such as Gabon, outsource their registries to private entities (in the case of Gabon, located in the UAE) that operate with minimal governmental involvement. Panama, the world’s second-largest flag registry, has demonstrated a willingness to enhance compliance measures following leadership changes and strategic diplomatic outreach, leading to the deregistration of several sanctioned vessels. Liberia, the world’s largest registry, has also engaged in constructive discussions with enforcement authorities, and participants shared that the country is in the process of formalising a memorandum of understanding with the UK to bolster transparency and cooperation in flagging policies.&lt;/p&gt;
-
-&lt;p&gt;According to government officials, the UK’s diplomatic approach has prioritised what is commonly referred to as “carrot and stick” diplomacy, with a strong emphasis on incentives rather than just on coercion. This strategy involves understanding the economic aspirations of flag states and their strategic interests within the IMO. Recognising that many flag states do not explicitly align themselves with Western geopolitical interests, UK officials have instead focused on highlighting the long-term economic and reputational benefits of maintaining high compliance standards. Flag registries that cultivate a reputation for professionalism and reliability stand to gain broader access to mainstream shipping markets, whereas those associated with illicit activities risk being marginalised.&lt;/p&gt;
-
-&lt;p&gt;Some Taskforce members added that a key aspect of this progress has been leveraging competition between flag registries. Countries such as Panama and Liberia compete vigorously for market share in the global registry business. This rivalry presents an opportunity to encourage better regulatory standards, as each seeks to position itself as the preferred choice for legitimate shipowners. For instance, Panama’s decision to deregister vessels associated with the Russian shadow fleet was influenced in part by concerns about being outflanked by Liberia in the registry business, according to participants.&lt;/p&gt;
-
-&lt;p&gt;However, engagement has yielded mixed results with newer registries that have emerged as key enablers of shadow fleet operations. Gabon, for instance, has played an increasingly prominent role in registering Russian-linked vessels, particularly following the delisting of Sovcomflot tankers in Liberia. The Gabonese registry began registering Russian oil tankers in late 2023, rapidly expanding its presence in the shadow fleet sector. Diplomatic efforts have focused on encouraging Gabon to reconsider its role in facilitating illicit shipping, and there have been some positive signals, though results remain inconclusive. Similarly, Cameroon’s registry has been identified as a growing concern, requiring further engagement to determine whether it can be persuaded to adopt stronger compliance measures.&lt;/p&gt;
-
-&lt;p&gt;However, the economic incentives for some flag states to maintain lax oversight remain a significant barrier to enforcement. Many registries derive substantial revenue from vessel registrations and are hesitant to impose stricter controls that could deter business. Addressing this challenge requires a multifaceted approach that not only emphasises reputational risks but also explores ways to provide alternative economic incentives for compliance. Thus, the Taskforce agreed that one of the key lessons from diplomatic engagement has been the effectiveness of framing discussions around environmental and safety concerns, rather than directly addressing the shadow fleet. Flag states often respond more positively to arguments highlighting the risks posed by substandard vessels to marine ecosystems and maritime safety than to discussions explicitly tied to sanctions enforcement. This approach has proven particularly useful in encouraging deregistration efforts, as flag states can justify compliance actions based on broader regulatory concerns, rather than on political alignment.&lt;/p&gt;
-
-&lt;p&gt;Another critical aspect of flag state engagement involves the interconnected nature of regulatory enforcement. Flag registries do not operate in isolation, but are part of a broader ecosystem that includes insurers, classification societies and financial institutions. Taskforce members discussed the diplomatic engagement which has sought to connect these dots, ensuring that actions taken against shadow fleet vessels trigger cascading consequences that reinforce compliance across multiple sectors. For instance, vessels that lose their flag status often face difficulties securing insurance and financing, creating a compounding effect that increases the cost of illicit operations.&lt;/p&gt;
-
-&lt;p&gt;Despite progress in some areas, the rapid reflagging of shadow fleet vessels from one jurisdiction to another underscores the adaptability of illicit operators. Participants agreed that efforts to deregister sanctioned vessels must be accompanied by measures to prevent them from simply shifting to another accommodating flag. This “Whac-a-Mole” dynamic highlights the need for sustained engagement and ongoing monitoring to ensure that flag states do not simply replace deregistered vessels with new ones linked to the same illicit networks. Moving forward, G7+ partners must continue strengthening partnerships with flag states that have demonstrated a commitment to compliance, while increasing pressure on non-cooperative registries to achieve impactful measures against the shadow fleet’s illicit shipping activities.&lt;/p&gt;
-
-&lt;h3 id=&quot;leveraging-international-frameworks-and-institutions&quot;&gt;Leveraging International Frameworks and Institutions&lt;/h3&gt;
-
-&lt;p&gt;The Taskforce examined the role of existing international frameworks in addressing the challenges posed by the shadow fleet, with a particular focus on the UN Convention on the Law of the Sea (UNCLOS). Participants emphasised that any enforcement measures must align with the rules-based international order to maintain legitimacy and avoid unintended consequences. However, discussions underscored the growing complexity of applying traditional legal instruments to contemporary threats, particularly as other states are increasingly weaponising vessels in hybrid warfare and ignoring longstanding global norms and standards.&lt;/p&gt;
-
-&lt;p&gt;A key concern was the legal interpretation of UNCLOS, which enshrines fundamental principles such as innocent passage and transit rights through international straits. These rights are not contingent upon a vessel’s ownership structure, insurance status or compliance history, posing a challenge for enforcement efforts. Some Taskforce members argued that a rigid interpretation of UNCLOS limits the ability of states to respond to emerging security threats – particularly as adversarial actors exploit these provisions to evade scrutiny – and argued for an evolution of international law and standards. Others cautioned against attempts to stretch UNCLOS beyond its intended scope, warning that such actions could establish precedents that adversarial states might use to justify their own violations of international maritime law.&lt;/p&gt;
-
-&lt;p&gt;Notably, sanctions enforcement – particularly when not resulting from a decision at the UN – remains outside the explicit remit of UNCLOS, as such action is inherently a political tool wielded by individual states, rather than a globally mandated mechanism. Some participants stressed that attempts to use UNCLOS as an enforcement vehicle for sanctions could undermine its credibility, particularly given that the convention was not designed to regulate economic restrictions. Others pointed out that while direct sanctions enforcement is not within UNCLOS’s scope, broader principles of maritime security and environmental protection could be leveraged to address the shadow fleet’s activities.&lt;/p&gt;
-
-&lt;p&gt;The increasing use of civilian vessels in hybrid warfare adds another layer of complexity. Recent instances of suspected undersea cable sabotage, potentially linked to shadow fleet operations, have heightened concerns about maritime security. While the deliberate severing of cables constitutes a hostile act, proving intent remains challenging. Representatives from the P&amp;amp;I community noted that cable-severing incidents are common, with accidental damage occurring regularly due to anchor drags and fishing activity. The challenge, therefore, lies in distinguishing between genuine accidents and deliberate acts of aggression. Existing conventions, such as the 1884 Convention for the Protection of Submarine Telegraph Cables, were not designed to address such hybrid threats. Under this framework, if a country discovers a Russian vessel interfering with cables, the prescribed legal procedure involves collecting evidence and referring the matter to Russia for action – an entirely unrealistic scenario given current geopolitical tensions.&lt;/p&gt;
-
-&lt;p&gt;This legal ambiguity presents a dilemma: while enforcement efforts must remain within established legal frameworks, the existing conventions do not adequately address emerging threats. The Taskforce debated whether it would be possible to introduce an evolutionary interpretation of UNCLOS, incorporating evolving security concerns. Some Taskforce members argued that, under the Vienna Convention on the Law of Treaties, the interpretation of international law can be dynamic. Indeed, UNCLOS provisions have been revisited in other contexts, such as environmental protection, to reflect new developments. However, others stressed the risks of this approach, warning that novel legal interpretations could invite retaliatory actions from states that might also exploit such precedents for their own strategic purposes.&lt;/p&gt;
-
-&lt;p&gt;A related challenge identified by the Taskforce was the lack of transparency in flag state oversight of vessel insurance. Many designated vessels do not publicly disclose their insurance coverage, relying instead on self-reported compliance. This raises significant concerns, as incidents, such as the Alpha I tanker spill in Greece, have demonstrated the risks of inadequate insurance coverage for sanctioned vessels. IMO guidelines on insurance disclosures remain non-mandatory, and efforts to strengthen these regulations have met resistance from certain flag states. Participants debated whether the IMO could be leveraged to introduce stronger disclosure requirements for tanker insurance, compelling insurers to provide verifiable information on capital adequacy and financial transparency. This, in turn, could improve risk assessment and reduce the likelihood of uninsured vessels causing environmental damage.&lt;/p&gt;
-
-&lt;p&gt;However, the use of the IMO as a sanctions-enforcement tool remains controversial. Some Taskforce members emphasised that the IMO is a maritime safety and environmental protection body, not a sanctions-enforcement agency. Others argued that while the IMO should not be co-opted for political objectives, there is scope to use its regulatory mechanisms to address risks that overlap with the shadow fleet’s activities. Empowering the IMO to strengthen transparency requirements for insurance and flag state oversight could directly contribute to enforcement efforts without explicitly linking them to sanctions.&lt;/p&gt;
-
-&lt;h3 id=&quot;exploring-hard-security-responses&quot;&gt;Exploring Hard Security Responses&lt;/h3&gt;
-
-&lt;p&gt;Beyond legal and institutional frameworks, the Taskforce also explored the potential role of military partnerships in addressing the shadow fleet. The Joint Expeditionary Force (JEF), a UK-led coalition consisting predominantly of Nordic and Baltic states, was identified as a potential enforcement tool. Unlike NATO, which requires consensus for action, the JEF can operate with the agreement of just two member states, making it a more flexible mechanism for targeted interventions. Given that JEF states oversee key Russian oil export routes, including the Arctic, Baltic and Nordic straits, the English Channel and even the Strait of Gibraltar and the Suez Canal (due to the presence of UK overseas bases in Gibraltar and Cyprus), the coalition is well-positioned to monitor and report on shadow fleet activity.&lt;/p&gt;
-
-&lt;p&gt;The Taskforce considered how the JEF could be leveraged to enhance maritime domain awareness, which remains suboptimal in many countries that are overly reliant on AIS tracking, which shadow fleet vessels frequently manipulate to evade detection. While military interdiction of vessels remains a highly sensitive issue, the JEF’s role as an intelligence-gathering and monitoring entity could prove valuable. There was discussion about whether the JEF could conduct targeted surveillance operations, tracking sanctioned vessels and sharing intelligence with enforcement authorities. Another proposal involved the possibility of JEF vessels shadowing shadow fleet ships, demonstrating a deterrent presence without direct intervention. However, the legal and political implications of such actions would need to be carefully considered.&lt;/p&gt;
-
-&lt;p&gt;The Taskforce concluded that while international legal frameworks such as UNCLOS and the IMO remain foundational to maritime governance, they are not sufficient in isolation to address the complexities of the shadow fleet. A combination of diplomatic engagement, regulatory refinement, enhanced intelligence sharing and military deterrence will be necessary to curtail Russia’s shadow fleet illicit maritime activities. However, any enforcement strategy must carefully navigate the legal and political constraints inherent in the international maritime system to avoid unintended repercussions that could undermine broader maritime trade and security objectives.&lt;/p&gt;
-
-&lt;h3 id=&quot;implications-of-the-trump-administration&quot;&gt;Implications of the Trump Administration&lt;/h3&gt;
-
-&lt;p&gt;As the geopolitical landscape continues to evolve, the Taskforce discussed the potential ramifications of the new US administration for maritime sanctions enforcement. Given the significant role the US plays in global sanctions enforcement, any policy changes under the second Trump presidency could have wide-reaching consequences for the shadow fleet, Russian oil trade, and broader energy markets. Taskforce members also anticipated a greater focus on the Iranian shadow fleet, something all felt should be a focus of a future Taskforce meeting.&lt;/p&gt;
-
-&lt;p&gt;While some speculated that a change in leadership might lead to a weakening of sanctions enforcement against Russia, recent indications suggest that President Donald Trump may maintain and even tighten Russian sanctions, at least in the short term, particularly if they align with broader strategic objectives, such as controlling oil prices. Trump has made statements linking oil prices to the longevity of Russia’s war in Ukraine, arguing that lower oil revenues would exert financial pressure on Moscow and potentially shorten the conflict. Unlike previous approaches that primarily targeted individual vessels and owners, some Taskforce members argued that a more assertive enforcement strategy could involve placing pressure on the key infrastructure facilitating sanctioned oil trade, including ports, refineries and intermediaries in third countries. However, it remains unclear whether this strategy would be as effective against Russian oil trade as it has been with Iran, given the complexities of and evasion opportunities presented by the OPC and the diverse range of non-aligned countries willing to continue purchasing Russian crude.&lt;/p&gt;
-
-&lt;p&gt;As the US reassesses its foreign policy priorities in the coming months, close monitoring of policy statements and enforcement actions – particularly a greater focus on Iran – will be essential for anticipating the next phase of sanctions strategy.&lt;/p&gt;
-
-&lt;h3 id=&quot;recommendations&quot;&gt;Recommendations&lt;/h3&gt;
-
-&lt;p&gt;The Taskforce identified a number of actions to strengthen maritime sanctions and enhance their enforcement:&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Refine designations:&lt;/strong&gt; G7+ authorities should continue targeting shadow fleet vessels and key maritime facilitators and related infrastructure. To enhance compliance and enforcement effectiveness, designations should include specific criteria, such as breaching the OPC, ownership links to sanctioned entities, or engagement in deceptive shipping practices.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Expedite delisting for compliant vessels:&lt;/strong&gt; While strict enforcement remains a priority, authorities should facilitate delisting for vessels that demonstrate a commitment to compliance, provided they meet stringent regulatory conditions. Suspicious vessels should remain designated to prevent abuse of the delisting process. Such a system would incentivise behavioural change while mitigating risks of entrenching the shadow fleet’s parallel trade.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Grant licenses to safely scrap sanctioned tankers:&lt;/strong&gt; Designated vessels that are past their operational life expectancy and have deteriorated are at risk of being neglected or abandoned, as they cannot be disposed of in a safe manner due to both a lack of adequate insurance and sanctions-related barriers. The G7+ should explore the introduction of a pooled insurance scheme or licensing regime to enable the navigation of listed vessels to scrappage facilities.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Enhance flag state engagement:&lt;/strong&gt; Diplomatic efforts should frame compliance as an environmental and safety issue to encourage deregistration of sanctioned vessels. As larger registries take steps against the shadow fleet, further engagement with high-risk registries such as those of Gabon and Cameroon should be prioritised to limit their role in facilitating illicit operations.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Enhance maritime insurance oversight:&lt;/strong&gt; Authorities should mandate greater transparency in maritime insurance documentation, ensuring that insurers operating outside the IGP&amp;amp;I adhere to clear financial and compliance standards. The IMO should strengthen guidelines requiring public disclosure of insurance to mitigate environmental risks associated with shadow fleet operations by ensuring that vessels maintain adequate liability coverage.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Leverage international frameworks to strengthen sanctions enforcement:&lt;/strong&gt; Enforcement measures should align with existing international legal frameworks such as UNCLOS, while remaining effective in addressing contemporary security challenges such as hybrid warfare, shadow fleet activities and emerging security threats. While sanctions are not explicitly covered under UNCLOS, broader maritime security and environmental protection provisions can be utilised to enhance regulatory oversight. The IMO should be engaged to improve insurance transparency and flag state due diligence requirements. However, attempts to stretch UNCLOS beyond its intended scope should be approached cautiously, to avoid setting precedents that adversarial states could exploit.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Expand regional cooperation and maritime surveillance:&lt;/strong&gt; The JEF presents an opportunity for coordinated and enhanced targeted monitoring of shadow fleet activities. Expanding and following the example of the JEF’s role in monitoring shadow fleet movements, reporting sanctions violations, and deterring illicit activity through strategic presence could bolster existing enforcement mechanisms.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Monitor policy shifts in the US:&lt;/strong&gt; G7+ partners must monitor policy shifts under the new US administration and ensure alignment in enforcement strategies. While initial indications suggest that Trump may maintain Russian sanctions for now, potential changes in enforcement tactics could have significant implications. An expansion of sanctions activity against Iran and its oil export industry should also be anticipated. Proactive engagement with US policymakers will be essential to maintaining coordination and preventing enforcement gaps that could be exploited by the shadow fleet and its enablers.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;The second meeting of the RUSI Maritime Sanctions Taskforce reinforced the importance of adaptive enforcement measures to counter Russia’s evolving circumvention tactics. While progress has been made on designations and flag state engagement, further refinement is needed to ensure sanctions remain effective without creating unintended consequences. Strengthening diplomatic engagement, leveraging international frameworks, and ensuring greater clarity in enforcement actions will be key to maintaining pressure on Russia’s shadow fleet while upholding the integrity of global maritime regulations. The Taskforce will continue to monitor developments – including an anticipated increase in focus from the new US administration on Iranian targets – and provide recommendations to enhance collective efforts in tackling maritime sanctions evasion.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;strong&gt;Gonzalo Saiz&lt;/strong&gt; is a Research Fellow at the Centre for Finance and Security at RUSI, focusing on sanctions and counter-threat finance. His research focuses on sanctions implementation, circumvention and evasion tactics, and sanctions enforcement, primarily through SIFMANet (Sanctions and Illicit Finance Monitoring and Analysis Network). Gonzalo’s research on counter-threat finance includes work on the abuse of non-profit organisations for terrorist financing, crime-enabled terrorist financing, and the financing of right-wing extremism.&lt;/p&gt;</content><author><name>Gonzalo Saiz</name></author><summary type="html">This report presents findings from the meeting, which was held to examine the evolving strategies of the shadow fleet and provide operational recommendations to enhance collective enforcement efforts.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://i.imgur.com/GixhWDL.jpeg" /><media:content medium="image" url="https://i.imgur.com/GixhWDL.jpeg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
+&lt;p&gt;&lt;strong&gt;Kateryna Bondar&lt;/strong&gt; is a fellow with the Wadhwani AI Center at the Center for Strategic and International Studies (CSIS) in Washington, D.C. Before joining CSIS, she was an adviser to the government of Ukraine, where she was responsible for implementation of reforms in defense, the financial sector, and innovation ecosystem development.&lt;/p&gt;</content><author><name>Kateryna Bondar</name></author><summary type="html">On the battlefield I did not see a single Ukrainian soldier. Only drones. I saw them [Ukrainian soldiers] only when I surrendered. Only drones, and there are lots and lots of them. Guys, don’t come. It’s a drone war. — Surrendered Russian soldier</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://i.imgur.com/YTyafx5.jpeg" /><media:content medium="image" url="https://i.imgur.com/YTyafx5.jpeg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
