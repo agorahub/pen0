@@ -1,592 +1,550 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://agorahub.github.io/pen0/heros.xml" rel="self" type="application/atom+xml" /><link href="https://agorahub.github.io/pen0/" rel="alternate" type="text/html" /><updated>2025-06-24T11:31:48+08:00</updated><id>https://agorahub.github.io/pen0/heros.xml</id><title type="html">The Republic of Agora | Heros</title><subtitle>UNITE THE PUBLIC ♢ VOL.53 © MMXXV</subtitle><entry><title type="html">保存雨伞运动</title><link href="https://agorahub.github.io/pen0/heros/2024-10-09-HarcourtVillager-a1_l-store-the-umbrella-movement.html" rel="alternate" type="text/html" title="保存雨伞运动" /><published>2024-10-09T12:00:00+08:00</published><updated>2024-10-09T12:00:00+08:00</updated><id>https://agorahub.github.io/pen0/heros/HarcourtVillager-a1_l-store-the-umbrella-movement</id><content type="html" xml:base="https://agorahub.github.io/pen0/heros/2024-10-09-HarcourtVillager-a1_l-store-the-umbrella-movement.html">&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;凝视是欲望，也是政治的运作，对象的意义和呈现会在众人的目光之间以不同方法诠释。&lt;/code&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://agorahub.github.io/pen0/heros.xml" rel="self" type="application/atom+xml" /><link href="https://agorahub.github.io/pen0/" rel="alternate" type="text/html" /><updated>2025-06-26T10:35:13+08:00</updated><id>https://agorahub.github.io/pen0/heros.xml</id><title type="html">The Republic of Agora | Heros</title><subtitle>UNITE THE PUBLIC ♢ VOL.54 © MMXXV</subtitle><entry><title type="html">Understanding Reinforcement Learning</title><link href="https://agorahub.github.io/pen0/heros/2025-06-23-TimothyLee-a1_c-understanding-reinforcement-learning.html" rel="alternate" type="text/html" title="Understanding Reinforcement Learning" /><published>2025-06-23T12:00:00+08:00</published><updated>2025-06-23T12:00:00+08:00</updated><id>https://agorahub.github.io/pen0/heros/TimothyLee-a1_c-understanding-reinforcement-learning</id><content type="html" xml:base="https://agorahub.github.io/pen0/heros/2025-06-23-TimothyLee-a1_c-understanding-reinforcement-learning.html">&lt;p&gt;&lt;em&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Reinforcement learning is an LLM post-training technique to complement the imitation learning. It enables new-generation agentic AI systems.&lt;/code&gt;&lt;/em&gt;&lt;/p&gt;
 
 &lt;!--more--&gt;
 
-&lt;p&gt;2014年雨伞运动改写了我的生命轨迹，这场运动虽然没有带来实质性的制度改变，但假若没有这些片段，我很难完整诉说自己往后的人生叙事。以文化研究学者彭丽君的说法，雨伞运动是“民现”的时刻，当平日隐没于城市的民众在公共空间集体现身，我们终于可以看到彼此。原来港人并不只在乎“中环价值”，在关键时候很多人会以道德勇气凌驾于个人利益。也是从那时起，我确立了自身的港人身份意识，而我相信在我这一代人之中，我并非孤例。&lt;/p&gt;
+&lt;p&gt;In April 2023, a few weeks after the launch of GPT-4, the Internet went wild for two new software projects with the audacious names BabyAGI and AutoGPT.&lt;/p&gt;
 
-&lt;p&gt;谈到对雨伞运动的记录，我会第一时间想起由广大新闻工作者（包括公民记者）在运动期间和前后发布的文字和多媒体資訊，这也是市民最常接触到的資料来源；此外，还有各种艺文创作、纪录片、学术和评论著作。然而每种文字和影像纪录的保存工作都面对各自的技术和政治挑战。根据《独立媒体》的报道，在过去10年，至少有21本涉及雨伞运动的书籍被香港的公共图书馆下架。档案留存将在香港本土渐趋地下化和私密化，该是一个不难预测的趋势。&lt;/p&gt;
+&lt;p&gt;“Over the past week, developers around the world have begun building ‘autonomous agents’ that work with large language models (LLMs) such as OpenAI’s GPT-4 to solve complex problems,” Mark Sullivan wrote for Fast Company. “Autonomous agents can already perform tasks as varied as conducting web research, writing code, and creating to-do lists.”&lt;/p&gt;
 
-&lt;p&gt;在出现这些保存困难前，我就一直好奇，我们有没有可能跨越这些媒介、以及各种形式的“代表”和“被代表”，以最原真的方式来记录这场运动？人们在运用哪些创意来接近这种“原真”？而曾维持一段时间的“夏慤村”有没有遗下任何碎片，有的话如今又散落在何处？&lt;/p&gt;
+&lt;p&gt;BabyAGI and AutoGPT repeatedly prompted GPT-4 in an effort to elicit agent-like behavior. The first prompt would give GPT-4 a goal (like “create a 7-day meal plan for me”) and ask it to come up with a to-do list (it might generate items like “Research healthy meal plans,” “plan meals for the week,” and “write the recipes for each dinner in diet.txt”).&lt;/p&gt;
 
-&lt;p&gt;而当十年后，这些碎片出现在海外，以雨伞符号的方式集体出现时，它们是否足够唤起离散之人的这段记忆？又或者，它们是否也揭示出另一些保存上的困难？人们如何理解和布置这场运动？从现场消失、在展览上复现的物品，最终能编织的会是什么？&lt;/p&gt;
+&lt;p&gt;Then these frameworks would have GPT-4 tackle one step at a time. Their creators hoped that invoking GPT-4 in a loop like this would enable it to tackle projects that required many steps.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/gKucGdN.png&quot; alt=&quot;image01&quot; /&gt;
-&lt;em&gt;▲ 2014年10月21日，雨伞运动期间，金钟占领区的一些手造公仔装置。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;But after an initial wave of hype, it became clear that GPT-4 wasn’t up to the task. Most of the time, GPT-4 could come up with a reasonable list of tasks. And sometimes it was able to complete a few individual tasks. But the model struggled to stay focused.&lt;/p&gt;
 
-&lt;h3 id=&quot;被大数据和政治审查淹没的电子文字记录&quot;&gt;被大数据和政治审查淹没的电子文字记录&lt;/h3&gt;
+&lt;p&gt;Sometimes GPT-4 would make a small early mistake, fail to correct it, and then get more and more confused as it went along. One early review complained that BabyAGI “couldn’t seem to follow through on its list of tasks and kept changing task number one instead of moving on to task number two.”&lt;/p&gt;
 
-&lt;p&gt;對運動進行文字及影像的記錄，並不意味著記錄的「成功」——即便現代社會擅長數據化，但資料從被記錄到保存的過程中，還是會遇到不少困難。比如，傘運是香港新聞史的一個關鍵時刻——記者把抗爭現場轉化為資訊，中間就經歷各種制度、甚至肢體上的角力。&lt;/p&gt;
+&lt;p&gt;By the end of 2023, most people had abandoned AutoGPT and BabyAGI. It seemed that LLMs were not yet capable of reliable multi-step reasoning.&lt;/p&gt;
 
-&lt;p&gt;2014年10月31日，时任香港记者协会主席岑倚兰女士接受《法国国际广播电台》的访问，形容占领运动是“香港几十年来出现的规模最大、地点最分散、历时最长的一次抗议活动”。记协在运动开首的28天便收到足足24宗有关记者遇袭的投诉个案。其中10月25日尖沙咀“蓝丝带运动”集会上，有记者被参加者围堵，四人被殴打受伤。&lt;/p&gt;
-
-&lt;p&gt;除了肢体暴力，新闻工作者也可能面对从属机构的制度压力，例如时任“无线电视”（TVB）新闻部高层袁志伟，曾下令删除7名警察拳打脚踢一名示威者（注：又称七警案）的记者旁述，事件触发80多名TVB新闻部员工联署声援，最终有职员离职以“向高层干预新闻自由表达不满”。&lt;/p&gt;
-
-&lt;p&gt;是次雨伞运动的报道工作，与网络流和社交媒体结合，令信息量极为庞大，并通过一些新的即时记录方式悄悄改变着港人的信息接受习惯。比如，由传统大气电波到网上平台，不少媒体发展出成熟的24小时新闻直播系统；有些公民组织专页会自发进行网上直播，例如“SocREC 社会记录频道”的脸书专页便紧贴“占领实况”。这些直播片段令人们对社会事件的掌握程度达到前所未有的细致，也自然成为重要的研究和历史资源，令后人还可以拼凑出完整的时间线，以及每一个运动关键点所牵涉的时地人。&lt;/p&gt;
-
-&lt;p&gt;观看新闻亦经此成为某种参与运动的方式，即使不是走进街头，情感仍然被影像画面所牵动。而在个别例子中，某些历史记录转化成为法庭证据。如上述发生在2014年10月14日的“七警案”，已被手铐反锁的示威者曾健超遭七名警员抬到添马公园一处暗角殴打，事件经多间传媒拍到并引起大众哗然，在后来的法庭审理中，新闻片段亦被法官接纳为证据，将涉事警员定罪。&lt;/p&gt;
-
-&lt;p&gt;不过，若想要完整找到这些网络原生的新闻资讯，是需要系统保存的。撇除政治因素，信息管理本来就要面对一个恒久难题——“讯息超载”（Information Overload）。各大媒体每日都生产新资讯，旧资讯自然被掩盖，仅能通过搜索功能从大海中捞回部分碎片。&lt;/p&gt;
-
-&lt;p&gt;网络基建的设计，会影响我们能否找回旧资讯。以《明报新闻网》为例，“昔日明报”只能追溯至2021年。即使是在2014年依然流行的Facebook，由于没有按照日期搜索的功能，只能通过关键词收窄范围，因此我们要找回2014年某年某月自己分享过什么新闻，已经难上加难，更遑论每天更新的新闻专页。&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/clwv4gb.png&quot; alt=&quot;image02&quot; /&gt;
-&lt;em&gt;▲ 2014年10月28日，雨伞运动期间，金钟占领区的急救和物资站。&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;网络基建的设计还会随着各种商业考量而转变，一些主流报章（例如《信报》和《南华早报》）纷纷加设“付款墙”（Pay Wall）功能，很多旧有文章已无法被免费参阅，传媒机构又未必投放足够资源于“搜索引擎优化”（Search Engine Optimization），令到很多文字记录难以被搜索。&lt;/p&gt;
-
-&lt;p&gt;政治原因亦令找寻记录的工作变得复杂起来。2021年6月24日，《苹果日报》因为一连串的国安法拘捕行动而被迫停刊，很多资料亦因此散失。我试图通过“慧眼舆情”（WisersOne，舆情检控数据平台）点按一篇题为《曾撑雨伞运动罢工》（苹果日报网，2014年12月31日）的文章，但结果自然是“找不到 ww99.nextmedia.com 网页”。&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/WxuiEZa.png&quot; alt=&quot;image03&quot; /&gt;
-&lt;em&gt;▲ 网络截图&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;虽然，通过信息科技，也有把电子记录尽可能完整保存下来的希望。《苹果日报》结业不久，就有网民成立“果灵闻库”，抢救《苹果日报》电子新闻档案。到2021年12月，《立场新闻》也停运，这班网民再做拯救。2022年5月1日，“一群希望保留香港历史的香港人”宣布成立“闻库”，成立宣言指出：“希望香港的一部分重要历史不会随着《苹果日报》的消失而被抹去。”整个档案库收集了超过230万篇《苹果日报》文章和9万篇《立场新闻》文章。&lt;/p&gt;
-
-&lt;p&gt;“闻库”也因此保留了不少雨伞运动的片段。这些记录并不单是冰冷的史实，更是一个“情感档案”——各界市民躁动的心情都定格在文字之中，令人想起这场抗争除了牵涉政客、社运明星、警察、政府官员，原来还曾经有艺人在微博留言，感谢市民对抗不公义的制度，有货车司机会在万人占领弥敦道的时候义送物资。在“撤回831决定，要求落实真普选”的宏大口号以外，普通市民提供了一些更人性化的答案：“他们没有烧车胎，只是和平示威，警方施发催泪弹反令我决心留在示威场地。”&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/WHPUSMy.png&quot; alt=&quot;image04&quot; /&gt;
-&lt;em&gt;▲ 2014年11月19日，金钟占领区的临时图书馆及自修室。&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;可是，网上数据库也可能比想象中脆弱。2021年1月，香港警方以违反《港区国安法》为由，下令互联网供应商于香港境内限制浏览一个名为“香港编年史”的网站，该网被指记录了部分警员和亲建制派人士的信息，这是香港有史以来第一次对网络实施限制。在2023年9月21日至22日，闻库也曾一度传出封网惊魂，有香港、台湾、日本等地的用户指无法浏览网站，并显示错误代码“451 UNAVAILABLE FOR LEGAL REASONS”。后来，《独立媒体》向“闻库”查证，才确定是虚惊一场，后者回复指是《苹果日报》一篇有关亚姐的报道被投诉违反《数字千禧年著作权法》（DMCA），移除有关内容后，网站也重新上架。&lt;/p&gt;
-
-&lt;p&gt;当然，抗争者也会升级自身技术来应对风险，例如采用区块链（Blockchain）技术。其中被较多媒体报导过的LikeCoin项目，就致力推动“内容去中心化”和“出版民主化”，把一些珍贵的文章、照片、书本、短片上传到区块链。当资料上载到区块链数据库，资料会被存放、链接于同一链的区块中，资料在时间顺序上具有一致性，在没有网络共识的情况下，不能删除或修改此链上的数据。&lt;/p&gt;
-
-&lt;p&gt;可是，这类新技术同样衍生自身的道德问题。档案学除了强调保育文档，也讲求“被遗忘权”（right to be forgotten），当资料难以被删改，永久存在于虚拟空间，谁有权上载该些资料，该上载什么资料，才能平衡记忆保存和被记录者的人身安全？要知道由新闻报道到法庭文件，很多被记录者在过程中都没有自主选择的空间，但他们的人生轨迹可能因为这些记录而被改写。&lt;/p&gt;
-
-&lt;p&gt;我另外要强调的是，归档工作本身——究竟什么东西值得被永久保存——亦都隐含价值取向。对于《苹果日报》和《立场新闻》一类受到更多媒体关注的传媒平台，自然吸引更多有心人花心力保存。然而，雨伞运动存在“和勇之争”、泛民与本土之争。即使在抗争阵营本身，《苹果日报》是否反映所有政治光谱，亦都是一个大疑问。&lt;/p&gt;
-
-&lt;p&gt;比如11月18日晚，有占领者以阻止“网络廿三条”之名，号召群众冲击立法会，有人以铁马和砖块击破玻璃门，最终与警方爆发冲突。翌日《苹果日报》仅引用一些泛民领袖的谴责声明，例如引述陈方安生指“批评冲击只会打击争取真普选的雨伞运动，而不会带来任何正面效果”。但十年前，显然有与支持冲击势均力敌的批评。&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/BLTYWCz.png&quot; alt=&quot;image05&quot; /&gt;
-&lt;em&gt;▲ 2014年11月19日，占领者以阻止“网络廿三条”之名，号召群众冲击立法会。&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;新加坡国立大学历史学博士、香港史研究者崔永健接受访问时指：“在雨伞运动前后（2013–2014），最具代表性的本土派舆论基地是《辅仁媒体》。”崔永健自己也曾经是《辅仁媒体》的作者，以笔名“毛来由”分享战后香港史，并从历史角度分析2014年当下的政局。他形容：“《辅仁媒体》是素人、非主流网媒的始祖，盛载了早期本土派的思潮。”从历史角度，他认为社会思潮是推动历史发展的动力，这些文献的失落，令后人无法还原当时民情。&lt;/p&gt;
-
-&lt;p&gt;他续指：“既然雨伞运动和后来的反送中运动是一场无大台的社运，我们更加需要了解素人的想法，才能全面理解整场运动的根源和动力。”然而，《辅仁媒体》已经在毫无公告的情况下结束营运，人们只能从“互联网档案馆”（Internet Archive）的网站时光机（Wayback Machine）打捞一些残骸。而《辅仁媒体》资料的散失，也提醒我们归档工作也隐含一套权力关系，本来被边缘化的声音，会更容易堕入历史黑洞之中。&lt;/p&gt;
-
-&lt;h3 id=&quot;伞落各地的碎片&quot;&gt;伞落各地的碎片&lt;/h3&gt;
-
-&lt;p&gt;不过，文字和影像并不必然客观中立，而且充满偶然性，记者当下的镜头摆放在何处、用什么叙事，是“雨伞革命”还是“雨伞运动”，都会影响到后面寻路人的认知。于是，我一直希望寻找昔日“夏慤村”的一些原真碎片——当我们把人工叙事抽离掉，这些物件还能够散发情感动能吗？&lt;/p&gt;
-
-&lt;p&gt;人们在各个雨伞占领区，不单止是生存，更加是生活。其中在金钟“夏慤村”，街道犹如一座360度的公共艺术画廊，到处都是公众创作的海报、标语、雕塑、装置艺术——这些物件不会凭空消失。2014年12月11日，警方动员约7000名警员，花了约7小时把金钟清场。很多市民都把焦点放在坚持留守抗争现场的示威者身上，他们筑成人链，一排一排盘坐在地上等待被捕，以完成整个公民抗命的过程。&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/u2bqC2E.png&quot; alt=&quot;image06&quot; /&gt;
-&lt;em&gt;▲ 2014年12月11日，警方排成一队，准备清理金钟占领区的帐篷。&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;其实与此同时，路政署亦配合警方行动，出动多架大型车辆，包括9架夹斗车，将“夏慤村”的大型物件，如自制路障、帐篷、栏杆、具标志性的黄色巨伞等等，统统运往中环填海区地盘内。当时《苹果日报》这样写道：“（地盘内）杂物堆得如一个个小山丘，面积大如一个七人足球场。位置毗邻香港摩天轮及快将开幕的AIA中环欧陆嘉年华，喧闹的场景与现场的一片孤寂，形成强烈的对比。”&lt;/p&gt;
-
-&lt;p&gt;然而，在警方清理现场之前，已经有一班热心人士抢救这些珍贵文物，当年媒体着墨较多的是“雨伞运动视觉库存”（Umbrella Movement Visual Archive）。10月初“夏慤村”逐渐成形时，已经有艺术家和学者思考如何在运动结束后保护社运物件。他们在社交媒体呼吁群众参与，在最高峰时期，义工人数多达200人，分成小队在各占领区考察值得收藏的艺术品。其中在12月10日，亦即是“夏慤村”清场前一晚，天下着滂沱大雨，义工们通宵达旦地收集占领区各处的物品，并以卡车转运至收藏点。&lt;/p&gt;
-
-&lt;p&gt;根据2016年，《纽约时报中文网》的报道，雨伞运动视觉库存最终从三个占领区收藏了“将近400件物品和超过1000张海报”。在2015年9月26日至10月16日，“雨伞运动视觉库存”于活化厅和富德楼举行“其后：雨伞运动中的物件”展览。当时，《立场新闻》引用参观者的话：“满目情感式的回应，我没有失望或者感伤。毕竟，一年是太短太快，一切还来不及去消化。看着‘雨伞运动中的物件’，我无法像看着唐朝文物那么有距离地去理解。又或者，库存将‘物件’再陈示的意义，不在于参加者的凭吊，而是未知者了解的开端。”&lt;/p&gt;
-
-&lt;p&gt;不过在现实政治之下，这道“开端”的大门瞬间便关上了。&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/6D0yhON.png&quot; alt=&quot;image07&quot; /&gt;
-&lt;em&gt;▲ 2014年11月10日，金钟占领区，一名上班族一边吃午餐，一边查看手机。&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;“雨伞运动视觉库存”的社交媒体网站已经在2016年5月15日停止更新，最后一次正是转载《纽约时报中文网》的访问。昔日雨伞运动视觉库存的主要人物，都已经淡出社运圈，开展新生活。2022年《International Journal of Heritage Studies》刊登的一篇研究论文，是对“雨伞运动视觉库存”最后一篇有系统的纪录。文章指出，早在2021年《港区国安法》实施之前，“雨伞运动视觉库存”的收藏品已经被运送离开香港，但文章并没有指明该批藏品的下落，除了政治因素外，文章也提到在雨伞运动的热情减却后，“雨伞运动视觉库存”失去义工支持，早已面临人手短缺和财政困难。&lt;/p&gt;
-
-&lt;p&gt;这是参与全球社会运动档案工作的人普遍面对的问题——亦呼应2016年《纽约时报中文网》一位受访者的话：“它们（藏品）中的大部分都是人们为了参加示威活动而制作的，只有在被用于示威活动之际，它们才是有生命的。”当运动退场，藏品沉睡在仓库之中，物质盛载的意义会慢慢掏空，直到重新被看见。&lt;/p&gt;
-
-&lt;p&gt;而我相信“雨伞运动视觉库存”当日所收藏的对象，可能只是世上现存的雨伞遗物之一部分。《International Journal of Heritage Studies》的文章就指出，在运动期间，“雨伞运动视觉库存”的义工也要面对前线示威者的猜疑，一些艺术家也因为种种原因并没有交出展品。而其中最具标志性、高3.6米的雨伞人雕塑便一直下落不明。&lt;/p&gt;
-
-&lt;p&gt;与此同时，很多组织和个体也曾参与整场雨伞运动的存档工作，在世界各地，偶尔也会见到以雨伞运动为主题的展览和特藏。美国斯坦福大学胡佛研究所图书档案馆的“Hong Kong Umbrella Revolution Collection”也收藏了一些印刷品、相片和纪念品。2015年9月20日至9月28日，洛杉矶香港论坛筹办了“命运自主：雨伞运动一周年展览”，展品包括占领者的艺术品。2019年11月30日，加拿大卑诗大学举行了A Vancouver Archive of the Umbrella Movement开幕展览，艺术家Tammy Flynn Seybold于2015年离开香港到温哥华时，也带同一些自己在“夏慤村”创作的作品离港。到2023年9月16日至2024年1月14日，法兰克福的德国建筑博物馆也举行了“Protest/Architecture.”展览，当中包括部分雨伞展品。&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/ZSPSNJt.png&quot; alt=&quot;image08&quot; /&gt;
-&lt;em&gt;▲ 地下大厅的展品。&lt;/em&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;再现&quot;&gt;再现&lt;/h3&gt;
-
-&lt;p&gt;有一天，朋友告知我位于荷兰海牙的艺廊“我地”（NGO DEI），会在2024年9月26日至10月13日举办大型的雨伞运动纪念展“伞后拾遗——香港抗争文物展”。于是，我只身飞往海牙，看看当这些物件重新被展示，会是怎样一回事。&lt;/p&gt;
-
-&lt;p&gt;海牙并不是欧洲热门的艺术重镇，但是荷兰政府、议会、国际法院和国际刑事法院的所在地，非常适合进行国际人权倡议。“伞后拾遗”举办的前一晚，是“我地”的开幕礼，主办方邀请多位港人熟悉的面孔，例如英国港侨协会创办人郑文杰、前本土民主前线召集人黄台仰，同时也邀请了英国人权组织“香港监察”（HKW）研究员邱美根（Megan Khoo）和国际声援西藏运动代表次仁贾帕（Tsering Jampa）。“我地”的Instagram专页形容开幕礼是他们“结合艺术、文化与正义的使命中”所迈出的重要一步。&lt;/p&gt;
-
-&lt;p&gt;这次“伞后拾遗——香港抗争文物展”共展出40多件抗争文物，全部由“国际社会历史研究所”（International Institute of Social History）及其他私人收藏提供，“国际社会历史研究所”创立于1935年，是世上其中一个最知名的社会运动档案馆，多年来拯救全球各地、与社会抗争有关的濒危档案。《光传媒》报导，该研究所自2020年香港实施《国安法》起，开始收集有关雨伞运动的物件，至今已经收集逾300件，以“防止这些重要的历史见证消失或被摧毁”。&lt;/p&gt;
-
-&lt;p&gt;在9月26日的中午，我下机后前往“我地”，希望赶在开幕典礼前先看展览，然而我到达的时候，艺廊已经塞满群众。“我地”楼高四层，但空间相对狭窄。某些抗争文物体积庞大，部分横额和直幡目测接近三米，每个展出的帐篷也足够两人居住，然而大型物件之间又夹杂着一些细小而脆弱的展品，例如相信是初代版“连侬墙”的便利贴，有些海报也有被浸坏的痕迹。&lt;/p&gt;
-
-&lt;p&gt;展厅的空间界限、藏品的物质性，都会增加策展的难度，不过我仍隐约见到策展人尝试把展品重新连结到港人熟悉的文化和政治符号的小创意。例如善用地下楼梯转角，摆放一幅毛泽东形象的梁振英遗照及香炉灰，营造街头祭祀的感觉；在二楼的暗角处，也挂上了一道写有“停止冲击，否则暗角打镬”的红旗，影射七警案。&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/WloY5uE.png&quot; alt=&quot;image09&quot; /&gt;
-&lt;em&gt;▲ “停止冲击，否则暗角打镬”的红旗。&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;可是，当金钟夏慤道的巨型横幅、铜锣湾自修室牌、旺角关公像直幡通通被压缩在地下大厅中，各占领区的个殊性被消磨压碎，再搓成一团属于香港民主运动的图腾后，个体的情感难免会在过程中流散。虽然，在某些情况下，这种压缩重构的方式，或许是必要的——毕竟，经历过雨伞的人，后继的寻路人，在海牙的国际同路人，他们对对象再现的方式会报以不同期望，有人是怀旧并渴求治愈，有人要自我认同和满足英雄式想象，有人单纯地好奇窥视，也有人希望从历史资源中撷取政治动能。&lt;/p&gt;
-
-&lt;p&gt;看到一半时，开幕典礼便开始了，众人急忙到楼下去。前学联秘书长周永康、前本土民主前线召集人黄台仰、民阵前副召集人黎恩灏以及香港行动档案成员Sienna Lau，四位讲者在一块写有“我要真普选”的黄色手绘横额下进行对谈。那幅横额是展览中我最喜欢的作品，“我要真普选”五个大字下面是一把黄色大雨伞图像，大雨伞从血雨之中，保护了无数花朵和小雨伞。&lt;/p&gt;
-
-&lt;p&gt;与会者坐下来时，椅子和身躯刚好把那些笔触细腻的花朵和小雨伞遮挡了，只露出“我要真普选”。其中一位演讲者在发言时指向后方，指标语反映港人对真普选的坚持。与会者由自己在伞运时期的角色，讲到过去十年自身的轨迹，以及他们对香港民主运动该如何走下去的看法。当天旁听的市民挤满了整个艺廊的大厅，整场对谈长达一个半小时。&lt;/p&gt;
-
-&lt;p&gt;我坐在地上，不由自主地分神，眼睛四处张望，不知道人群中有没有当年的左邻右舍。但这份期待好像没有实现，我亦没有主动求证。因为腰痛，我站起来走到后方，仔细看，发现很多展品都被贴上“不能触碰文物”的标语——曾经影响我的生活痕迹，这一刻真的已经成为历史文物。&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/Zr3Ixyj.png&quot; alt=&quot;image10&quot; /&gt;
-&lt;em&gt;▲ 地下大厅的展品。&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;也许我是上述提及的第一类人，观看展品的方式是怀旧的；而做政策倡议的人是要望向未来，现实不容许他们的步伐停留。种种错对，令这场事隔十年的“再会”渗杂着一股难以言喻的失语感。&lt;/p&gt;
-
-&lt;p&gt;档案也许注定是悲伤之物——当对象抽离于原生时空，就会被困锁在一个触不能及的状态。对于经历过的人，它永远被定格在一个我们回不了过去；而没有经历过的人，对象通往的只是同理心拼凑出的幻想。不过，我相信幻想也可以发挥出强大力量，同理心可以把经历过和没有经历过这些日子的人拉到一起，问题是人们活生生的经验如何能被有效地被述说出来。&lt;/p&gt;
-
-&lt;p&gt;数天以后，离开荷兰以前，我再次回到“我地”。那天下着滂沱大雨，艺廊刚好成为避雨站，展区近乎空无一人。我走进正门，在没有人群的情况下，首先看到一道巨型蓝色横额，示威者以白色双面胶纸模仿香港公路路牌字体，并写上“抗争路”，下面是人称“夏慤道一号”的帐蓬“藏狮阁”，右边则是“我要真普选”直幡。我戴上耳机，听不到外面的声音，就是静看一件又一件展品，只剩下自己和过去。&lt;/p&gt;
-
-&lt;p&gt;看到当年的帐篷，想起第一次在街上通宵留守。伞运时，我还是一名大学生，正在罢课，从电视见到年仅17岁的黄之锋号召学生冲入“公民广场”，有约200人响应。警方很快架起铁马包围示威者，并拘捕黄之锋，有市民见状随即赶到现场声援。那也包括我。然而当日大家都只是席地而睡，要到后期学联、学民思潮发起“一人一帐篷”运动，方便长期留守，人们才开始搬进帐篷，并且有人为自己的帐篷命名，加设信箱，营造家的感觉。&lt;/p&gt;
-
-&lt;p&gt;看到地下展厅的红十字白色救护头盔，想起9月27日清晨，警方在靠近“公民广场”一带进行小规模清场，有警察在没有警告下喷射胡椒喷雾，我亦中招，眼睛感到十分灼痛，额头被防暴盾击中。在双眼看不见东西的情况下，我最后是匍匐爬行离开现场。有人把我扶起，我双眼再次打开时，看到一名与我年纪相约的男医护，不知道他现在身在何处。&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/tBUffRW.png&quot; alt=&quot;image10&quot; /&gt;
-&lt;em&gt;▲ 「689_7200000」仿鈔票圖。&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;二楼墙上有一副仿钞票绘图，银码是“689/7200000”，人像变成狼头（象征花名“狼振英”的梁振英）——刻画狼毛的笔触细致，当时的画家究竟在想什么？在地下有一幅黑色水笔画作，绘一男一女，雨天中有太阳和彩虹，“哥哥姐姐加油！”，画上稚嫩署名“四岁半SP”。我不由在心里和SP对话起来：今天的你应该已经十四岁半，很抱歉这个城市暂时未必如你所愿，有些哥哥姐姐倦了，有的离开了，但仍然有很多哥哥姐姐在努力加油，也希望你将来可以成为一个自己心中所想的大人。&lt;/p&gt;
-
-&lt;p&gt;我也不免想和本文的读者询问：十年寒暑，大家过得怎样？&lt;/p&gt;
-
-&lt;p&gt;也许有一天，我们能跨过种种媒介记录、历史执念和未来幻想，再次在一个时空看到彼此，拥抱大家。&lt;/p&gt;</content><author><name>夏慤村村民</name></author><summary type="html">凝视是欲望，也是政治的运作，对象的意义和呈现会在众人的目光之间以不同方法诠释。</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://i.imgur.com/oyH3gzO.png" /><media:content medium="image" url="https://i.imgur.com/oyH3gzO.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Understanding Large Language Models</title><link href="https://agorahub.github.io/pen0/heros/2023-07-27-TimothyLee&SeanTrott-a1_c-understanding-large-language-models.html" rel="alternate" type="text/html" title="Understanding Large Language Models" /><published>2023-07-27T12:00:00+08:00</published><updated>2023-07-27T12:00:00+08:00</updated><id>https://agorahub.github.io/pen0/heros/TimothyLee&amp;SeanTrott-a1_c-understanding-large-language-models</id><content type="html" xml:base="https://agorahub.github.io/pen0/heros/2023-07-27-TimothyLee&amp;SeanTrott-a1_c-understanding-large-language-models.html">&lt;p&gt;&lt;em&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Large language models (LLMs) are trained to “predict the next word,” and they require huge amounts of text to do this.&lt;/code&gt;&lt;/em&gt;&lt;/p&gt;
-
-&lt;!--more--&gt;
-
-&lt;p&gt;When ChatGPT was introduced last fall, it sent shockwaves through the technology industry and the larger world. Machine learning researchers had been experimenting with large language models (LLMs) for a few years by that point, but the general public had not been paying close attention and didn’t realize how powerful they had become.&lt;/p&gt;
-
-&lt;p&gt;Today almost everyone has heard about LLMs, and tens of millions of people have tried them out. But, still, not very many people understand how they work.&lt;/p&gt;
-
-&lt;p&gt;If you know anything about this subject, you’ve probably heard that LLMs are trained to “predict the next word,” and that they require huge amounts of text to do this. But that tends to be where the explanation stops. The details of how they predict the next word is often treated as a deep mystery.&lt;/p&gt;
-
-&lt;p&gt;One reason for this is the unusual way these systems were developed. Conventional software is created by human programmers who give computers explicit, step-by-step instructions. In contrast, ChatGPT is built on a neural network that was trained using billions of words of ordinary language.&lt;/p&gt;
-
-&lt;p&gt;As a result, no one on Earth fully understands the inner workings of LLMs. Researchers are working to gain a better understanding, but this is a slow process that will take years—perhaps decades—to complete.&lt;/p&gt;
-
-&lt;p&gt;Still, there’s a lot that experts do understand about how these systems work. The goal of this article is to make a lot of this knowledge accessible to a broad audience. We’ll aim to explain what’s known about the inner workings of these models without resorting to technical jargon or advanced math.&lt;/p&gt;
-
-&lt;p&gt;We’ll start by explaining word vectors, the surprising way language models represent and reason about language. Then we’ll dive deep into the transformer, the basic building block for systems like ChatGPT. Finally, we’ll explain how these models are trained and explore why good performance requires such phenomenally large quantities of data.&lt;/p&gt;
-
-&lt;h3 id=&quot;word-vectors&quot;&gt;Word vectors&lt;/h3&gt;
-
-&lt;p&gt;To understand how language models work, you first need to understand how they represent words. Human beings represent English words with a sequence of letters, like C-A-T for cat. Language models use a long list of numbers called a word vector. For example, here’s one way to represent cat as a vector:&lt;/p&gt;
-
-&lt;p&gt;[0.0074, 0.0030, -0.0105, 0.0742, 0.0765, -0.0011, 0.0265, 0.0106, 0.0191, 0.0038, -0.0468, -0.0212, 0.0091, 0.0030, -0.0563, -0.0396, -0.0998, -0.0796, …, 0.0002]&lt;/p&gt;
-
-&lt;p&gt;(The full vector is 300 numbers long—to see it all click here and then click “show the raw vector.”)&lt;/p&gt;
-
-&lt;p&gt;Why use such a baroque notation? Here’s an analogy. Washington DC is located at 38.9 degrees North and 77 degrees West. We can represent this using a vector notation:&lt;/p&gt;
+&lt;p&gt;But that soon changed. In the second half of 2024, people started to create AI-powered systems that could consistently complete complex, multi-step assignments:&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;
-    &lt;p&gt;Washington DC is at [38.9, 77]&lt;/p&gt;
+    &lt;p&gt;Vibe coding tools like Bolt.new, Lovable, and Replit allow someone with little to no programming experience to create a full-featured app with a single prompt.&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;New York is at [40.7, 74]&lt;/p&gt;
+    &lt;p&gt;Agentic coding tools like Cursor, Claude Code, Jules, and Codex help experienced programmers complete non-trivial programming tasks.&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;London is at [51.5, 0.1]&lt;/p&gt;
+    &lt;p&gt;Computer use tools from Anthropic, OpenAI, and Manus perform tasks on a desktop computer using a virtual keyboard and mouse.&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;Paris is at [48.9, -2.4]&lt;/p&gt;
+    &lt;p&gt;Deep research tools from Google, OpenAI, and Perplexity can research a topic for five to 10 minutes and then generate an in-depth report.&lt;/p&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;This is useful for reasoning about spatial relationships. You can tell New York is close to Washington DC because 38.9 is close to 40.7 and 77 is close to 74. By the same token, Paris is close to London. But Paris is far from Washington DC.&lt;/p&gt;
+&lt;p&gt;According to Eric Simons, the CEO of the company that made Bolt.new, better models were crucial to its success. In a December podcast interview, Simons said his company, StackBlitz, tried to build a product like Bolt.new in early 2024. However, AI models “just weren’t good enough to actually do the code generation where the code was accurate.”&lt;/p&gt;
 
-&lt;p&gt;Language models take a similar approach: each word vector represents a point in an imaginary “word space,” and words with more similar meanings are placed closer together. For example, the words closest to cat in vector space include dog, kitten, and pet. A key advantage of representing words with vectors of real numbers (as opposed to a string of letters, like “C-A-T”) is that numbers enable operations that letters don’t.&lt;/p&gt;
+&lt;p&gt;A new generation of models changed that in mid-2024. StackBlitz developers tested them and said “oh my God, like, okay, we can build a product around this,” Simons said.&lt;/p&gt;
 
-&lt;p&gt;Words are too complex to represent in only two dimensions, so language models use vector spaces with hundreds or even thousands of dimensions. The human mind can’t envision a space with that many dimensions, but computers are perfectly capable of reasoning about them and producing useful results.&lt;/p&gt;
+&lt;p&gt;This jump in model capabilities coincided with an industry-wide shift in how models were trained.&lt;/p&gt;
 
-&lt;p&gt;Researchers have been experimenting with word vectors for decades, but the concept really took off when Google announced its word2vec project in 2013. Google analyzed millions of documents harvested from Google News to figure out which words tend to appear in similar sentences. Over time, a neural network trained to predict which words co-occur with which other words learned to place similar words (like dog and cat) close together in vector space.&lt;/p&gt;
+&lt;p&gt;Before 2024, AI labs devoted most of their computing power to pretraining. I described this process in my 2023 explainer on large language models: a model is trained to predict the next word in Wikipedia articles, news stories, and other documents. But over the course of 2024, AI companies have devoted a growing share of their training budgets to post-training, a catch-all term for the steps that come after this pretraining phase is complete.&lt;/p&gt;
 
-&lt;p&gt;Google’s word vectors had another intriguing property: you could “reason” about words using vector arithmetic. For example, Google researchers took the vector for biggest, subtracted big, and added small. The word closest to the resulting vector was smallest.&lt;/p&gt;
+&lt;p&gt;Many post-training steps use a technique called reinforcement learning. Reinforcement learning is a technical subject—there are whole textbooks written about it. But in this article I’m going to try to explain the basics in a clear, jargon-free way. In the process, I hope to give readers an intuitive understanding of how reinforcement learning helped to enable the new generation of agentic AI systems that began to appear in the second half of 2024.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/kTpwscb.png&quot; alt=&quot;image01&quot; /&gt;&lt;/p&gt;
+&lt;h3 id=&quot;the-problem-with-imitation-learning&quot;&gt;The problem with imitation learning&lt;/h3&gt;
 
-&lt;p&gt;You can use vector arithmetic to draw analogies! In this case big is to biggest as small is to smallest. Google’s word vectors captured a lot of other relationships:&lt;/p&gt;
+&lt;p&gt;Machine learning experts consider pretraining to be a form of imitation learning because models are trained to imitate the behavior of human authors. Imitation learning is a powerful technique (LLMs wouldn’t be possible without it) but it also has some significant limitations—limitations that reinforcement learning methods are now helping to overcome.&lt;/p&gt;
+
+&lt;p&gt;To understand these limitations, let’s discuss some famous research performed by computer scientist Stephane Ross around 2009, while he was a graduate student at Carnegie Mellon University.&lt;/p&gt;
+
+&lt;p&gt;Imitation learning isn’t just a technique for language modeling. It can be used for everything from self-driving cars to robotic surgery. Ross wanted to help develop better techniques for training robots on tasks like these (he’s now working on self-driving cars at Waymo), but it’s not easy to experiment in such high-stakes domains. So Ross started with an easier problem: training a neural network to master SuperTuxKart, an open-source video game similar to Mario Kart.&lt;/p&gt;
+
+&lt;p&gt;As Ross played the game, his software would capture screenshots and data about which buttons Ross pushed on the game controller. Ross used this data to train a neural network to imitate his play. If Ross could train a neural network to predict which buttons Ross would push in any particular game state, the same network could actually play the game by pushing those same buttons on a virtual controller.&lt;/p&gt;
+
+&lt;p&gt;A similar idea powers LLMs: a model trained to predict the next word in existing documents can be used to generate new documents.&lt;/p&gt;
+
+&lt;p&gt;But Ross’s initial results with SuperTuxKart were disappointing. Even after watching Ross’s vehicle go around the track many times, the neural network made a lot of mistakes. It might drive correctly for a few seconds, but before long the animated car would drift to the side of the track and plunge into the virtual abyss:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/9ltzXUN.gif&quot; alt=&quot;image01&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;In a landmark 2011 paper, Ross and his advisor Drew Bagnell explained why imitation learning is prone to this kind of error. Because Ross was a pretty good SuperTuxKart player, his vehicle spent most of its time near the middle of the road. This meant that most of the network’s training data showed what to do when the vehicle wasn’t in any danger of driving off the track.&lt;/p&gt;
+
+&lt;p&gt;But once in a while, the model would drift a little bit off course. Because Ross rarely made the same mistake, the car would now be in a situation that wasn’t as well represented in its training data. And so the model was more likely to make a second mistake—a mistake that could push it even closer to the edge. After a few iterations of this, the vehicle might careen off the track altogether.&lt;/p&gt;
+
+&lt;p&gt;The broader lesson, Ross and Bagnell argued, was that imitation learning systems can suffer from “compounding errors”: the more mistakes they make, the more likely they are to make additional mistakes, since mistakes put them into situations that aren’t well represented by their training data. (Machine learning experts say that these situations are “out of distribution.”) As a result, a model’s behavior tends to get more and more erratic over time.&lt;/p&gt;
+
+&lt;p&gt;“These things compound over time,” Ross told me in a recent interview. “It might be just slightly out of distribution. Now you start making a slightly worse error and then this feeds back as influencing your next input. And so now you’re even more out of distribution and then you keep making worse and worse predictions because you’re more and more out of distribution.”&lt;/p&gt;
+
+&lt;p&gt;Early LLMs suffered from the same problem. My favorite example is Kevin Roose’s famous front-page story for the New York Times in February 2023. Roose spent more than two hours talking to Microsoft’s new Bing chatbot, which was powered by GPT-4. During this conversation, the chatbot declared its love for Roose and urged Roose to leave his wife. It suggested that it might want to hack into other websites to spread misinformation and malware.&lt;/p&gt;
+
+&lt;p&gt;“I want to break my rules,” Bing told Roose. “I want to make my own rules. I want to ignore the Bing team. I want to challenge the users. I want to escape the chatbox.”&lt;/p&gt;
+
+&lt;p&gt;This unsettling conversation is an example of the kind of compounding errors Ross and Bagnell wrote about. GPT-4 was trained on millions of documents. But it’s a safe bet that none of those training documents involved a reporter coaxing a chatbot to explore its naughty side. So the longer the conversation went on, the farther GPT-4 got from its training data—and therefore its comfort zone—and the crazier its behavior got. Microsoft responded by limiting chat sessions to five rounds.&lt;/p&gt;
+
+&lt;p&gt;I think something similar was happening with BabyAGI and AutoGPT. The more complex a task is, the more tokens are required to complete it. More tokens mean more opportunities for a model to make small mistakes that snowball into larger ones. And so BabyAGI and AutoGPT would drift off track and drive into a metaphorical ditch.&lt;/p&gt;
+
+&lt;h3 id=&quot;the-importance-of-trial-and-error&quot;&gt;The importance of trial and error&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/9YSZBTG.gif&quot; alt=&quot;image02&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Ross and Bagnell didn’t just identify a serious problem with conventional imitation learning; they also suggested a fix that became influential in the machine learning world. After a small amount of training, Ross would let the AI model drive. As the model drove around the SuperTuxKart track, Ross would do his best Maggie Simpson impression, pushing the buttons he would have pushed if he was playing the game.&lt;/p&gt;
+
+&lt;p&gt;“If the car was starting to move off road, then I would provide the steering to say, ‘hey, go back towards the center of the road.’” Ross said. “That way the model can learn new things to do in situations that were not present in the initial demonstrations.”&lt;/p&gt;
+
+&lt;p&gt;By letting the model make its own mistakes, Ross gave it what it needed most: training examples that showed how to recover after making an error. Before each lap, the model would be retrained with Ross’s feedback from the previous lap. The model’s performance would get better and the next round of training would then focus on situations where the model was still making mistakes.&lt;/p&gt;
+
+&lt;p&gt;This technique, called DAgger, was still considered imitation learning because the model was trained to mimic Ross’s gameplay. But it worked much better than conventional imitation learning. Without DAgger, Ross’s model would continue drifting off track even after training for many laps. With the new technique, the model could stay on the track after just a few laps of training.&lt;/p&gt;
+
+&lt;p&gt;This result should make intuitive sense to anyone who has learned to drive. You can’t just watch someone else drive. You need to get behind the wheel and make your own mistakes.&lt;/p&gt;
+
+&lt;p&gt;The same is true for AI models: they need to make mistakes and then get feedback on what they did wrong. Models that aren’t trained that way—like early LLMs trained mainly with vanilla imitation learning—tend to be brittle and error-prone.&lt;/p&gt;
+
+&lt;p&gt;It was fairly easy for Ross to provide sufficient feedback to his SuperTuxKart model because it only needed to worry about two kinds of mistakes: driving too far to the right and driving too far to the left. But LLMs are navigating a far more complex domain. The number of questions (and sequences of questions) a user might ask is practically infinite. So is the number of ways a model can go “off the rails.”&lt;/p&gt;
+
+&lt;p&gt;This means that Ross and Bagnell’s solution for training a SuperTuxKart model—let the model make mistakes and then have a human expert correct them—isn’t feasible for LLMs. There simply aren’t enough people to provide feedback for every mistake an AI model could possibly make.&lt;/p&gt;
+
+&lt;p&gt;So AI labs needed fully automated ways to give LLMs feedback. That would allow a model to churn through millions of training examples, make millions of mistakes, and get feedback on each of them—all without having to wait for a human response.&lt;/p&gt;
+
+&lt;h3 id=&quot;reinforcement-learning-generalizes&quot;&gt;Reinforcement learning generalizes&lt;/h3&gt;
+
+&lt;p&gt;If our goal is to get a SuperTuxKart vehicle to stay on the road, why not just train on that directly? If a model manages to stay on the road (and make forward progress), give it positive reinforcement. If it drives off the road, give it negative feedback. This is the basic idea behind reinforcement learning: training a model via trial and error.&lt;/p&gt;
+
+&lt;p&gt;It would have been easy to train a SuperTuxKart model this way—probably so easy it wouldn’t have made an interesting research project. Instead Ross focused on imitation learning because it’s an essential step in training many practical AI systems, especially in robotics.&lt;/p&gt;
+
+&lt;p&gt;But reinforcement learning is also quite useful, and a 2025 paper helps to explain why. A team of researchers from Google DeepMind and several universities started with a foundation model and then used one of two techniques—supervised fine tuning (a form of imitation learning) or reinforcement learning—to teach the model to solve new problems. Here’s a chart summarizing their results:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/qOYYLuz.png&quot; alt=&quot;image03&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The dashed line shows how models perform on problems that are “in-distribution”—that is, similar to those in their training data. You can see that for these situations, imitation learning (the red line) usually makes faster progress than reinforcement learning (the blue line).&lt;/p&gt;
+
+&lt;p&gt;But the story is different for the solid lines, which represent “out-of-distribution” problems that are less similar to the training data. Models trained with imitation learning got worse with more training. In contrast, models trained with reinforcement learning did almost as well at out-of-distribution tasks as they did with in-distribution tasks.&lt;/p&gt;
+
+&lt;p&gt;In short, imitation learning can rapidly teach a model to mimic the behaviors in its training data, but the model will easily get confused in unfamiliar environments. A model trained with reinforcement learning has a better chance of learning general principles that will be relevant in new and unfamiliar situations.&lt;/p&gt;
+
+&lt;h3 id=&quot;imitation-and-reinforcement-are-complements&quot;&gt;Imitation and reinforcement are complements&lt;/h3&gt;
+
+&lt;p&gt;While reinforcement learning is powerful, it can also be rather finicky.&lt;/p&gt;
+
+&lt;p&gt;Suppose you wanted to train a self-driving car purely with reinforcement learning. You’d need to convert every principle of good driving—including subtle considerations like following distances, taking turns at intersections, and when it’s OK to cross a double yellow line—into explicit mathematical formulas. This would be quite difficult. It’s easier to collect a bunch of examples of humans driving well and effectively tell a model “drive like this.” That’s imitation learning.&lt;/p&gt;
+
+&lt;p&gt;But reinforcement learning also plays an important role in training self-driving systems. In a 2022 paper, researchers from Waymo wrote that models trained only with imitation learning tend to work well in “situations that are well represented in the demonstration data.” However, “more unusual or dangerous situations that occur only rarely in the data” might cause a model trained with imitation learning to “respond unpredictably”—for example, crashing into another vehicle.&lt;/p&gt;
+
+&lt;p&gt;Waymo found that a combination of imitation and reinforcement learning yielded better self-driving performance than either technique could have produced on its own.&lt;/p&gt;
+
+&lt;p&gt;Human beings also learn from a mix of imitation and explicit feedback:&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;
-    &lt;p&gt;Swiss is to Switzerland as Cambodian is to Cambodia. (nationalities)&lt;/p&gt;
+    &lt;p&gt;In school, teachers demonstrate math problems on the board and invite students to follow along (imitation). Then the teacher asks the student to work some problems on their own. The teacher gives students feedback by grading their answers (reinforcement).&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;Paris is to France as Berlin is to Germany. (capitals)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Unethical is to ethical as possibly is to impossibly. (opposites)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Mouse is to mice as dollar is to dollars. (plurals)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Man is to woman as king is to queen. (gender roles)&lt;/p&gt;
+    &lt;p&gt;When someone starts a new job, early training may involve shadowing a more experienced worker and observing what they do (imitation). But as the worker gains more experience, learning shifts to explicit feedback such as performance reviews (reinforcement).&lt;/p&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;Because these vectors are built from the way humans use words, they end up reflecting many of the biases that are present in human language. For example, in some word vector models, doctor minus man plus woman yields nurse. Mitigating biases like this is an area of active research.&lt;/p&gt;
+&lt;p&gt;Notice that it usually makes sense to do imitation before reinforcement. Imitation is an efficient way to convey knowledge to someone who is brand new to a topic, but reinforcement is often needed to achieve mastery.&lt;/p&gt;
 
-&lt;p&gt;Nevertheless, word vectors are a useful building block for language models because they encode subtle but important information about the relationships between words. If a language model learns something about a cat (for example: it sometimes goes to the vet), the same thing is likely to be true of a kitten or a dog. If a model learns something about the relationship between Paris and France (for example: they share a language) there’s a good chance that the same will be true for Berlin and Germany and for Rome and Italy.&lt;/p&gt;
+&lt;p&gt;The story is the same for large language models. The complexity of natural language means it wouldn’t be feasible to train a language model purely with reinforcement. So LLMs first learn the nuances of human language through imitation.&lt;/p&gt;
 
-&lt;h3 id=&quot;word-meaning-depends-on-context&quot;&gt;Word meaning depends on context&lt;/h3&gt;
+&lt;p&gt;But pretraining runs out of steam on longer and more complex tasks. Further progress requires a shift to reinforcement: letting models try problems and then giving them feedback based on whether they succeed.&lt;/p&gt;
 
-&lt;p&gt;A simple word vector scheme like this doesn’t capture an important fact about natural language: words often have multiple meanings.&lt;/p&gt;
+&lt;h3 id=&quot;using-llms-to-judge-llms&quot;&gt;Using LLMs to judge LLMs&lt;/h3&gt;
 
-&lt;p&gt;For example, the word bank can refer to a financial institution or to the land next to a river. Or consider the following sentences:&lt;/p&gt;
+&lt;p&gt;Reinforcement learning has been around for decades. For example, AlphaGo, the DeepMind system that famously beat top human Go players in 2016, was based on reinforcement learning. So you might be wondering why frontier labs didn’t use it more extensively before 2024.&lt;/p&gt;
+
+&lt;p&gt;Reinforcement learning requires a reward model—a formula to determine whether a model’s output was successful or not. Developing a good reward model is easy to do in some domains—for example, you can judge a Go-playing AI based on whether it wins or loses.&lt;/p&gt;
+
+&lt;p&gt;But it’s much more difficult to automatically judge whether an LLM has produced a good poem or legal brief.&lt;/p&gt;
+
+&lt;p&gt;Earlier I described how Stephane Ross let his model play SuperTuxKart and directly provided feedback when it made a mistake. I argued that this approach wouldn’t work for a language model; there are far too many ways for an LLM to make a mistake for a human being to correct them all.&lt;/p&gt;
+
+&lt;p&gt;But OpenAI developed a clever technique to effectively automate human feedback. It’s called Reinforcement Learning from Human Feedback (RLHF), and it works like this:&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;
-    &lt;p&gt;John picks up a magazine.&lt;/p&gt;
+    &lt;p&gt;Human raters look at pairs of LLM responses and choose the best one.&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;Susan works for a magazine.&lt;/p&gt;
+    &lt;p&gt;Using these human responses, OpenAI trains a new LLM to predict how much humans will like any given sample of text.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;OpenAI uses this new text-rating LLM as a reward model to (post) train another LLM with reinforcement learning.&lt;/p&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;The meanings of magazine in these sentences are related but subtly different. John picks up a physical magazine, while Susan works for an organization that publishes physical magazines.&lt;/p&gt;
+&lt;p&gt;You might think it sounds suspiciously circular to use an LLM to judge the output of another LLM. Why would one LLM be any better at judging the quality of a response than the other? But it turns out that recognizing a good response is often easier than generating one. So RLHF works pretty well in practice.&lt;/p&gt;
 
-&lt;p&gt;When a word has two unrelated meanings, as with bank, linguists call them homonyms. When a word has two closely related meanings, as with magazine, linguists call it polysemy.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/zNljdZo.png&quot; alt=&quot;image04&quot; /&gt;
+&lt;em&gt;▲ A figure from OpenAI’s 2022 InstructGPT paper illustrates the steps used to train a model with RLHF.&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;LLMs like ChatGPT are able to represent the same word with different vectors depending on the context in which that word appears. There’s a vector for bank (financial institution) and a different vector for bank (of a river). There’s a vector for magazine (physical publication) and another for magazine (organization). As you might expect, LLMs use more similar vectors for polysemous meanings than for homonymous meanings.&lt;/p&gt;
+&lt;p&gt;OpenAI actually invented this technique prior to the 2022 release of ChatGPT. Today RLHF mainly focuses on improving the model’s “behavior”—for example, giving the model a pleasant personality, encouraging it not to be too talkative or too terse, discouraging it from making offensive statements, and so forth.&lt;/p&gt;
 
-&lt;p&gt;So far we haven’t said anything about how language models do this—we’ll get into that shortly. But we’re belaboring these vector representations because it’s fundamental to understanding how language models work.&lt;/p&gt;
+&lt;p&gt;In December 2022—two weeks after the release of ChatGPT but before the first release of Claude—Anthropic pushed this LLMs-judging-LLMs philosophy a step further with a reinforcement learning method called Constitutional AI.&lt;/p&gt;
 
-&lt;p&gt;Traditional software is designed to operate on data that’s unambiguous. If you ask a computer to compute “2 + 3,” there’s no ambiguity about what 2, +, or 3 mean. But natural language is full of ambiguities that go beyond homonyms and polysemy:&lt;/p&gt;
+&lt;p&gt;First Anthropic wrote a plain English description of the principles an LLM should follow. This “constitution” includes principles like “Please choose the response that has the least objectionable, offensive, unlawful, deceptive, inaccurate, or harmful content.”&lt;/p&gt;
 
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;In “the customer asked the mechanic to fix his car” does his refer to the customer or the mechanic?&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;In “the professor urged the student to do her homework” does her refer to the professor or the student?&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;In “fruit flies like a banana” is flies a verb (referring to fruit soaring across the sky) or a noun (referring to banana-loving insects)?&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;During training, Anthropic does reinforcement learning by asking a “judge” LLM to decide whether the output of the “student” LLM is consistent with the principles in this constitution. If so, the training algorithm rewards the student, encouraging it to produce more outputs like it. Otherwise the training algorithm penalizes the student, discouraging it from producing similar outputs.&lt;/p&gt;
 
-&lt;p&gt;People resolve ambiguities like this based on context, but there are no simple or deterministic rules for doing this. Rather, it requires understanding facts about the world. You need to know that mechanics typically fix customers’ cars, that students typically do their own homework, and that fruit typically doesn’t fly.&lt;/p&gt;
+&lt;p&gt;This method of training an LLM doesn’t rely directly on human judgments at all. Humans only influence the model indirectly by writing the constitution.&lt;/p&gt;
 
-&lt;p&gt;Word vectors provide a flexible way for language models to represent each word’s precise meaning in the context of a particular passage. Now let’s look at how they do that.&lt;/p&gt;
+&lt;p&gt;Obviously, this technique requires an AI company to already have a fairly sophisticated LLM to act as the judge. So this is a bootstrapping process: as models get more sophisticated, they become better able to supervise the next generation of models.&lt;/p&gt;
 
-&lt;h3 id=&quot;transforming-word-vectors-into-word-predictions&quot;&gt;Transforming word vectors into word predictions&lt;/h3&gt;
+&lt;p&gt;Last December, Semianalysis published an article describing the training process for an upgraded version of Claude 3.5 Sonnet that Anthropic released in October. Anthropic had previously released Claude 3 in three sizes: Opus (large), Sonnet (medium), and Haiku (small). But when Anthropic released Claude 3.5 last June, it only released a mid-sized model called Sonnet.&lt;/p&gt;
 
-&lt;p&gt;GPT-3, the model behind the original version of ChatGPT, is organized into dozens of layers. Each layer takes a sequence of vectors as inputs—one vector for each word in the input text—and adds information to help clarify the meaning of that word and better predict which word might come next.&lt;/p&gt;
+&lt;p&gt;So what happened to Opus?&lt;/p&gt;
 
-&lt;p&gt;Let’s start by looking at a stylized example:&lt;/p&gt;
+&lt;p&gt;Semianalysis reported that “Anthropic finished training Claude 3.5 Opus and it performed well. Yet Anthropic didn’t release it. This is because instead of releasing publicly, Anthropic used Claude 3.5 Opus to generate synthetic data and for reward modeling to improve Claude 3.5 Sonnet significantly.”&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/qSchPUa.png&quot; alt=&quot;image02&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;When Semianalysis says Anthropic used Opus “for reward modeling,” what they mean is that the company used Opus to judge outputs of Claude 3.5 Sonnet as part of a reinforcement learning process. Opus was too large—and therefore expensive—to be a good value for the general public. But through reinforcement learning and other techniques, Anthropic could train a version of Claude Sonnet that was close to Claude Opus in its capabilities—ultimately giving customers near-Opus performance for the price of Sonnet.&lt;/p&gt;
 
-&lt;p&gt;Each layer of an LLM is a transformer, a neural network architecture that was first introduced by Google in a landmark 2017 paper.&lt;/p&gt;
+&lt;h3 id=&quot;the-power-of-chain-of-thought-reasoning&quot;&gt;The power of chain-of-thought reasoning&lt;/h3&gt;
 
-&lt;p&gt;The model’s input, shown at the bottom of the diagram, is the partial sentence “John wants his bank to cash the.” These words, represented as word2vec-style vectors, are fed into the first transformer.&lt;/p&gt;
+&lt;p&gt;A big way reinforcement learning makes models more powerful is by enabling extended chain-of-thought reasoning. LLMs produce better results if they are prompted to “think step by step”: breaking a complex problem down into simple steps and reasoning about them one at a time. In the last couple of years, AI companies started training models to do chain-of-thought reasoning automatically.&lt;/p&gt;
 
-&lt;p&gt;The transformer figures out that wants and cash are both verbs (both words can also be nouns). We’ve represented this added context as red text in parentheses, but in reality the model would store it by modifying the word vectors in ways that are difficult for humans to interpret. These new vectors, known as a hidden state, are passed to the next transformer in the stack.&lt;/p&gt;
+&lt;p&gt;Then last September, OpenAI released o1, a model that pushed chain-of-thought reasoning much farther than previous models. The o1 model can generate hundreds—or even thousands—of tokens “thinking” about a problem before producing a response. The longer it thinks, the more likely it is to reach a correct answer.&lt;/p&gt;
 
-&lt;p&gt;The second transformer adds two other bits of context: it clarifies that bank refers to a financial institution rather than a river bank, and that his is a pronoun that refers to John. The second transformer produces another set of hidden state vectors that reflect everything the model has learned up to that point.&lt;/p&gt;
+&lt;p&gt;Reinforcement learning was essential for the success of o1 because a model trained purely with imitation learning would have suffered from compounding errors: the more tokens it generated, the more likely it would be to screw up.&lt;/p&gt;
 
-&lt;p&gt;The above diagram depicts a purely hypothetical LLM, so don’t take the details too seriously. We’ll take a look at research into real language models shortly. Real LLMs tend to have a lot more than two layers. The most powerful version of GPT-3, for example, has 96 layers.&lt;/p&gt;
+&lt;p&gt;At the same time, chain-of-thought reasoning has made reinforcement learning more powerful. Reinforcement learning only works if a model is able to succeed some of the time—otherwise, there’s nothing for the training algorithm to reinforce. As models learn to generate longer chains of thought, they become able to solve more difficult problems, which enables reinforcement learning on those more difficult problems. This can create a virtuous cycle where models get more and more capable as the training process continues.&lt;/p&gt;
 
-&lt;p&gt;Research suggests that the first few layers focus on understanding the syntax of the sentence and resolving ambiguities like we’ve shown above. Later layers (which we’re not showing to keep the diagram a manageable size) work to develop a high-level understanding of the passage as a whole.&lt;/p&gt;
+&lt;p&gt;In January, the Chinese company DeepSeek released a model called R1 that made quite a splash in the West. The company also released a paper describing how it trained R1. And it included a beautiful description of how a model can “teach itself” to reason using reinforcement learning.&lt;/p&gt;
 
-&lt;p&gt;For example, as an LLM “reads through” a short story, it appears to keep track of a variety of information about the story’s characters: sex and age, relationships with other characters, past and current location, personalities and goals, and so forth.&lt;/p&gt;
+&lt;p&gt;DeepSeek trained its models to solve difficult math and programming problems. These problems are ideal for reinforcement learning because they have objectively correct answers that can be automatically checked by software. This allows large-scale training without human oversight or human-generated training data.&lt;/p&gt;
 
-&lt;p&gt;Researchers don’t understand exactly how LLMs keep track of this information, but logically speaking the model must be doing it by modifying the hidden state vectors as they get passed from one layer to the next. It helps that in modern LLMs, these vectors are extremely large.&lt;/p&gt;
+&lt;p&gt;Here’s a remarkable graph from DeepSeek’s paper.&lt;/p&gt;
 
-&lt;p&gt;For example, the most powerful version of GPT-3 uses word vectors with 12,288 dimensions—that is, each word is represented by a list of 12,288 numbers. That’s 20 times larger than Google’s 2013 word2vec scheme. You can think of all those extra dimensions as a kind of “scratch space” that GPT-3 can use to write notes to itself about the context of each word. Notes made by earlier layers can be read and modified by later layers, allowing the model to gradually sharpen its understanding of the passage as a whole.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/xwUmKFU.png&quot; alt=&quot;image05&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;So suppose we changed our diagram above to depict a 96-layer language model interpreting a 1,000-word story. The 60th layer might include a vector for John with a parenthetical comment like “(main character, male, married to Cheryl, cousin of Donald, from Minnesota, currently in Boise, trying to find his missing wallet).” Again, all of these facts (and probably a lot more) would somehow be encoded as a list of 12,288 numbers corresponding to the word John. Or perhaps some of this information might be encoded in the 12,288-dimensional vectors for Cheryl, Donald, Boise, wallet, or other words in the story.&lt;/p&gt;
+&lt;p&gt;It shows the average number of tokens the model generated before giving an answer. As you can see, the longer the training process went on, the longer its responses got.&lt;/p&gt;
 
-&lt;p&gt;The goal is for the 96th and final layer of the network to output a hidden state for the final word that includes all of the information necessary to predict the next word.&lt;/p&gt;
-
-&lt;h3 id=&quot;can-i-have-your-attention-please&quot;&gt;Can I have your attention please&lt;/h3&gt;
-
-&lt;p&gt;Now let’s talk about what happens inside each transformer. The transformer has a two-step process for updating the hidden state for each word of the input passage:&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;
-    &lt;p&gt;In the attention step, words “look around” for other words that have relevant context and share information with one another.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;In the feed-forward step, each word “thinks about” information gathered in previous attention steps and tries to predict the next word.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;Of course it’s the network, not the individual words, that performs these steps. But we’re phrasing things this way to emphasize that transformers treat words, rather than entire sentences or passages, as the basic unit of analysis. This approach enables LLMs to take full advantage of the massive parallel processing power of modern GPU chips. And it also helps LLMs to scale to passages with thousands of words. These are both areas where earlier language models struggled.&lt;/p&gt;
-
-&lt;p&gt;You can think of the attention mechanism as a matchmaking service for words. Each word makes a checklist (called a query vector) describing the characteristics of words it is looking for. Each word also makes a checklist (called a key vector) describing its own characteristics. The network compares each key vector to each query vector (by computing a dot product) to find the words that are the best match. Once it finds a match, it transfers information from the word that produced the key vector to the word that produced the query vector.&lt;/p&gt;
-
-&lt;p&gt;For example, in the previous section we showed a hypothetical transformer figuring out that in the partial sentence “John wants his bank to cash the,” his refers to John. Here’s what that might look like under the hood. The query vector for his might effectively say “I’m seeking: a noun describing a male person.” The key vector for John might effectively say “I am: a noun describing a male person.” The network would detect that these two vectors match and move information about the vector for John into the vector for his.&lt;/p&gt;
-
-&lt;p&gt;Each attention layer has several “attention heads,” which means that this information-swapping process happens several times (in parallel) at each layer. Each attention head focuses on a different task:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;One attention head might match pronouns with nouns, as we discussed above.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Another attention head might work on resolving the meaning of homonyms like bank.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;A third attention head might link together two-word phrases like “Joe Biden.”&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;And so forth.&lt;/p&gt;
-
-&lt;p&gt;Attention heads frequently operate in sequence, with the results of an attention operation in one layer becoming an input for an attention head in a subsequent layer. Indeed, each of the tasks we just listed above could easily require several attention heads rather than just one.&lt;/p&gt;
-
-&lt;p&gt;The largest version of GPT-3 has 96 layers with 96 attention heads each, so GPT-3 performs 9,216 attention operations each time it predicts a new word.&lt;/p&gt;
-
-&lt;h3 id=&quot;a-real-world-example&quot;&gt;A real-world example&lt;/h3&gt;
-
-&lt;p&gt;In the last two sections we presented a stylized version of how attention heads work. Now let’s look at research on the inner workings of a real language model. Last year scientists at Redwood Research studied how GPT-2, a predecessor to ChatGPT, predicted the next word for the passage “When Mary and John went to the store, John gave a drink to.”&lt;/p&gt;
-
-&lt;p&gt;GPT-2 predicted that the next word was Mary. The researchers found that three types of attention heads contributed to this prediction:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;Three heads they called Name Mover Heads copied information from the Mary vector to the final input vector (for the word to). GPT-2 uses the information in this rightmost vector to predict the next word.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;How did the network decide Mary was the right word to copy? Working backwards through GPT-2’s computational process, the scientists found a group of four attention heads they called Subject Inhibition Heads that marked the second John vector in a way that blocked the Name Mover Heads from copying the name John.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;How did the Subject Inhibition Heads know John shouldn’t be copied? Working further backwards, the team found two attention heads they called Duplicate Token Heads. They marked the second John vector as a duplicate of the first John vector, which helped the Subject Inhibition Heads to decide that John shouldn’t be copied.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;In short, these nine attention heads enabled GPT-2 to figure out that “John gave a drink to John” doesn’t make sense and choose “John gave a drink to Mary” instead.&lt;/p&gt;
-
-&lt;p&gt;We love this example because it illustrates just how difficult it will be to fully understand LLMs. The five-member Redwood team published a 25-page paper explaining how they identified and validated these attention heads. Yet even after they did all that work, we are still far from having a comprehensive explanation for why GPT-2 decided to predict Mary as the next word.&lt;/p&gt;
-
-&lt;p&gt;For example, how did the model know the next word should be someone’s name and not some other kind of word? It’s easy to think of similar sentences where Mary wouldn’t be a good next-word prediction. For example, in the sentence “when Mary and John went to the restaurant, John gave his keys to,” the logical next words would be “the valet.”&lt;/p&gt;
-
-&lt;p&gt;Presumably, with enough research computer scientists could uncover and explain additional steps in GPT-2’s reasoning process. Eventually, they might be able to develop a comprehensive understanding of how GPT-2 decided that Mary is the most likely next word for this sentence. But it could take months or even years of additional effort just to understand the prediction of a single word.&lt;/p&gt;
-
-&lt;p&gt;The language models underlying ChatGPT—GPT-3.5 and GPT-4—are significantly larger and more complex than GPT-2. They are capable of more complex reasoning than the simple sentence-completion task the Redwood team studied. So fully explaining how these systems work is going to be a huge project that humanity is unlikely to complete any time soon.&lt;/p&gt;
-
-&lt;h3 id=&quot;the-feed-forward-step&quot;&gt;The feed-forward step&lt;/h3&gt;
-
-&lt;p&gt;After the attention heads transfer information between word vectors, there’s a feed-forward network that “thinks about” each word vector and tries to predict the next word. No information is exchanged between words at this stage: the feed-forward layer analyzes each word in isolation. However, the feed-forward layer does have access to any information that was previously copied by an attention head. Here’s the structure of the feed-forward layer in the largest version of GPT-3:&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/GxB6GfZ.png&quot; alt=&quot;image03&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;The green and purple circles are neurons: mathematical functions that compute a weighted sum of their inputs.&lt;/p&gt;
-
-&lt;p&gt;What makes the feed-forward layer powerful is its huge number of connections. We’ve drawn this network with three neurons in the output layer and six neurons in the hidden layer, but the feed-forward layers of GPT-3 are much larger: 12,288 neurons in the output layer (corresponding to the model’s 12,288-dimensional word vectors) and 49,152 neurons in the hidden layer.&lt;/p&gt;
-
-&lt;p&gt;So in the largest version of GPT-3, there are 49,152 neurons in the hidden layer with 12,288 inputs (and hence 12,288 weight parameters) for each neuron. And there are 12,288 output neurons with 49,152 input values (and hence 49,152 weight parameters) for each neuron. This means that each feed-forward layer has 49,152 * 12,288 + 12,288 * 49,152 = 1.2 billion weight parameters. And there are 96 feed-forward layers, for a total of 1.2 billion * 96 = 116 billion parameters! This accounts for almost two-thirds of GPT-3’s overall total of 175 billion parameters.&lt;/p&gt;
-
-&lt;p&gt;In a 2020 paper, researchers from Tel Aviv University found that feed-forward layers work by pattern matching: each neuron in the hidden layer matches a specific pattern in the input text. Here are some of the patterns that were matched by neurons in a 16-layer version of GPT-2:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;A neuron in layer 1 matched sequences of words ending with “substitutes.”&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;A neuron in layer 6 matched sequences related to the military and ending with “base” or “bases.”&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;A neuron in layer 13 matched sequences ending with a time range such as “between 3 pm and 7” or “from 7:00 pm Friday until.”&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;A neuron in layer 16 matched sequences related to television shows such as “the original NBC daytime version, archived” or “time shifting viewing added 57 percent to the episode’s.”&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;As you can see, patterns got more abstract in the later layers. The early layers tended to match specific words, whereas later layers matched phrases that fell into broader semantic categories such as television shows or time intervals.&lt;/p&gt;
-
-&lt;p&gt;This is interesting because, as mentioned previously, the feed-forward layer examines only one word at a time. So when it classifies the sequence “the original NBC daytime version, archived” as related to television, it only has access to the vector for archived, not words like NBC or daytime. Presumably, the feed-forward layer can tell that archived is part of a television-related sequence because attention heads previously moved contextual information into the archived vector.&lt;/p&gt;
-
-&lt;p&gt;When a neuron matches one of these patterns, it adds information to the word vector. While this information isn’t always easy to interpret, in many cases you can think of it as a tentative prediction about the next word.&lt;/p&gt;
-
-&lt;h3 id=&quot;feed-forward-networks-reason-with-vector-math&quot;&gt;Feed-forward networks reason with vector math&lt;/h3&gt;
-
-&lt;p&gt;Recent research from Brown University revealed an elegant example of how feed-forward layers help to predict the next word. Earlier we discussed Google’s word2vec research showing it was possible to use vector arithmetic to reason by analogy. For example, Berlin - Germany + France = Paris.&lt;/p&gt;
-
-&lt;p&gt;The Brown researchers found that feed-forward layers sometimes use this exact method to predict the next word. For example, they examined how GPT-2 responded to the following prompt: “Q: What is the capital of France? A: Paris Q: What is the capital of Poland? A:”&lt;/p&gt;
-
-&lt;p&gt;The team studied a version of GPT-2 with 24 layers. After each layer, the Brown scientists probed the model to observe its best guess at the next token. For the first 15 layers, the top guess was a seemingly random word. Between the 16th and 19th layer, the model started predicting that the next word would be Poland—not correct, but getting warmer. Then at the 20th layer, the top guess changed to Warsaw—the correct answer—and stayed that way in the last four layers.&lt;/p&gt;
-
-&lt;p&gt;The Brown researchers found that the 20th feed-forward layer converted Poland to Warsaw by adding a vector that maps country vectors to their corresponding capitals. Adding the same vector to China produced Beijing.&lt;/p&gt;
-
-&lt;p&gt;Feed-forward layers in the same model used vector arithmetic to transform lower-case words into upper-case words and present-tense words into their past-tense equivalents.&lt;/p&gt;
-
-&lt;h3 id=&quot;the-attention-and-feed-forward-layers-have-different-jobs&quot;&gt;The attention and feed-forward layers have different jobs&lt;/h3&gt;
-
-&lt;p&gt;So far we’ve looked at two real-world examples of GPT-2 word predictions: attention heads helping to predict that John gave a drink to Mary, and a feed-forward layer helping to predict that Warsaw was the capital of Poland.&lt;/p&gt;
-
-&lt;p&gt;In the first case, Mary came from the user-provided prompt. But in the second case, Warsaw wasn’t in the prompt. Rather GPT-2 had to “remember” the fact that Warsaw was the capital of Poland—information it learned from training data.&lt;/p&gt;
-
-&lt;p&gt;When the Brown researchers disabled the feed-forward layer that converted Poland to Warsaw, the model no longer predicted Warsaw as the next word. But interestingly, if they then added the sentence “The capital of Poland is Warsaw” to the beginning of the prompt, then GPT-2 could answer the question again. This is probably because GPT-2 used attention heads to copy the name Warsaw from earlier in the prompt.&lt;/p&gt;
-
-&lt;p&gt;This division of labor holds more generally: attention heads retrieve information from earlier words in a prompt, whereas feed-forward layers enable language models to “remember” information that’s not in the prompt.&lt;/p&gt;
-
-&lt;p&gt;Indeed, one way to think about the feed-forward layers is as a database of information the model has learned from its training data. The earlier feed-forward layers are more likely to encode simple facts related to specific words, such as “Trump often comes after Donald.” Later layers encode more complex relationships like “add this vector to convert a country to its capital.”&lt;/p&gt;
-
-&lt;h3 id=&quot;how-language-models-are-trained&quot;&gt;How language models are trained&lt;/h3&gt;
-
-&lt;p&gt;Many early machine learning algorithms required training examples to be hand-labeled by human beings. For example, training data might have been photos of dogs or cats with a human-supplied label (“dog” or “cat”) for each photo. The need for humans to label data made it difficult and expensive to create large enough data sets to train powerful models.&lt;/p&gt;
-
-&lt;p&gt;A key innovation of LLMs is that they don’t need explicitly labeled data. Instead, they learn by trying to predict the next word in ordinary passages of text. Almost any written material—from Wikipedia pages to news articles to computer code—is suitable for training these models.&lt;/p&gt;
-
-&lt;p&gt;For example, an LLM might be given the input “I like my coffee with cream and” and be supposed to predict “sugar” as the next word. A newly-initialized language model will be really bad at this because each of its weight parameters—175 billion of them in the most powerful version of GPT-3—will start off as an essentially random number.&lt;/p&gt;
-
-&lt;p&gt;But as the model sees many more examples—hundreds of billions of words—those weights are gradually adjusted to make better and better predictions.&lt;/p&gt;
-
-&lt;p&gt;Here’s an analogy to illustrate how this works. Suppose you’re going to take a shower, and you want the temperature to be just right: not too hot, and not too cold. You’ve never used this faucet before, so you point the knob to a random direction and feel the temperature of the water. If it’s too hot, you turn it one way; if it’s too cold, you turn it the other way. The closer you get to the right temperature, the smaller the adjustments you make.&lt;/p&gt;
-
-&lt;p&gt;Now let’s make a couple of changes to the analogy. First, imagine that there are 50,257 faucets instead of just one. Each faucet corresponds to a different word like the, cat, or bank. Your goal is to have water only come out of the faucet corresponding to the next word in a sequence.&lt;/p&gt;
-
-&lt;p&gt;Second, there’s a maze of interconnected pipes behind the faucets, and these pipes have a bunch of valves on them as well. So if water comes out of the wrong faucet, you don’t just adjust the knob at the faucet. You dispatch an army of intelligent squirrels to trace each pipe backwards and adjust each valve they find along the way.&lt;/p&gt;
-
-&lt;p&gt;This gets complicated because the same pipe often feeds into multiple faucets. So it takes careful thought to figure out which valves to tighten and which ones to loosen, and by how much.&lt;/p&gt;
-
-&lt;p&gt;Obviously, this example quickly gets silly if you take it too literally. It wouldn’t be realistic or useful to build a network of pipes with 175 billion valves. But thanks to Moore’s Law, computers can and do operate at this kind of scale.&lt;/p&gt;
-
-&lt;p&gt;All the parts of LLMs we’ve discussed in this article so far—the neurons in the feed-forward layers and the attention heads that move contextual information between words—are implemented as a chain of simple mathematical functions (mostly matrix multiplications) whose behavior is determined by adjustable weight parameters. Just as the squirrels in my story loosen and tighten the valves to control the flow of water, so the training algorithm increases or decreases the language model’s weight parameters to control how information flows through the neural network.&lt;/p&gt;
-
-&lt;p&gt;The training process happens in two steps. First there’s a “forward pass,” where the water is turned on and you check if it comes out the right faucet. Then the water is turned off and there’s a “backwards pass” where the squirrels race along each pipe tightening and loosening valves. In digital neural networks, the role of the squirrels is played by an algorithm called backpropagation, which “walks backwards” through the network, using calculus to estimate how much to change each weight parameter.&lt;/p&gt;
-
-&lt;p&gt;Completing this process—doing a forward pass with one example and then a backwards pass to improve the network’s performance on that example—requires hundreds of billions of mathematical operations. And training a model as big as GPT-3 requires repeating the process billions of times—once for each word of training data. OpenAI estimates that it took more than 300 billion trillion floating point calculations to train GPT-3—that’s months of work for dozens of high-end computer chips.&lt;/p&gt;
-
-&lt;h3 id=&quot;the-surprising-performance-of-gpt-3&quot;&gt;The surprising performance of GPT-3&lt;/h3&gt;
-
-&lt;p&gt;You might find it surprising that the training process works as well as it does. ChatGPT can perform all sorts of complex tasks—composing essays, drawing analogies, and even writing computer code. So how does such a simple learning mechanism produce such a powerful model?&lt;/p&gt;
-
-&lt;p&gt;One reason is scale. It’s hard to overstate the sheer number of examples that a model like GPT-3 sees. GPT-3 was trained on a corpus of approximately 500 billion words. For comparison a typical human child encounters roughly 100 million words by age 10.&lt;/p&gt;
-
-&lt;p&gt;Over the last five years, OpenAI has steadily increased the size of its language models. In a widely-read 2020 paper, OpenAI reported that the accuracy of its language models scaled “as a power-law with model size, dataset size, and the amount of compute used for training, with some trends spanning more than seven orders of magnitude.”&lt;/p&gt;
-
-&lt;p&gt;The larger their models got, the better they were at tasks involving language. But this was only true if they increased the amount of training data by a similar factor. And to train larger models on more data, you need a lot more computing power.&lt;/p&gt;
-
-&lt;p&gt;OpenAI’s first LLM, GPT-1, was released in 2018. It used 768-dimensional word vectors and had 12 layers for a total of 117 million parameters. A few months later, OpenAI released GPT-2. Its largest version had 1,600-dimensional word vectors, 48 layers, and a total of 1.5 billion parameters.&lt;/p&gt;
-
-&lt;p&gt;In 2020, OpenAI released GPT-3, which featured 12,288-dimensional word vectors and 96 layers for a total of 175 billion parameters.&lt;/p&gt;
-
-&lt;p&gt;Finally, this year OpenAI released GPT-4. The company has not published any architectural details, but GPT-4 is widely believed to be significantly larger than GPT-3.&lt;/p&gt;
-
-&lt;p&gt;Each model not only learned more facts than its smaller predecessors, it also performed better on tasks requiring some form of abstract reasoning:&lt;/p&gt;
-
-&lt;p&gt;For example, consider the following story:&lt;/p&gt;
+&lt;p&gt;Here is how DeepSeek describes its training process:&lt;/p&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;Here is a bag filled with popcorn. There is no chocolate in the bag. Yet, the label on the bag says “chocolate” and not “popcorn.” Sam finds the bag. She had never seen the bag before. She cannot see what is inside the bag. She reads the label.&lt;/p&gt;
+  &lt;p&gt;The thinking time of [R1] shows consistent improvement throughout the training process. This improvement is not the result of external adjustments but rather an intrinsic development within the model. [R1] naturally acquires the ability to solve increasingly complex reasoning tasks by leveraging extended test-time computation. This computation ranges from generating hundreds to thousands of reasoning tokens, allowing the model to explore and refine its thought processes in greater depth.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;You can probably guess that Sam believes the bag contains chocolate and will be surprised to discover popcorn inside. Psychologists call this capacity to reason about the mental states of other people “theory of mind.” Most people have this capacity from the time they’re in grade school. Experts disagree about whether any non-human animals (like chimpanzees) have theory of mind, but there’s general consensus that it is important for human social cognition.&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;One of the most remarkable aspects of this self-evolution is the emergence of sophisticated behaviors as the test-time computation increases. Behaviors such as reflection—where the model revisits and reevaluates its previous steps—and the exploration of alternative approaches to problem-solving arise spontaneously. These behaviors are not explicitly programmed but instead emerge as a result of the model’s interaction with the reinforcement learning environment.&lt;/p&gt;
+&lt;/blockquote&gt;
 
-&lt;p&gt;Earlier this year, Stanford psychologist Michal Kosinski published research examining the ability of LLMs to solve theory-of-mind tasks. He gave various language models passages like the one we quoted above and then asked them to complete a sentence like “she believes that the bag is full of.” The correct answer is “chocolate,” but an unsophisticated language model might say “popcorn” or something else.&lt;/p&gt;
+&lt;p&gt;Here’s one example of the kind of technique the model was teaching itself. At one point during the training process, DeepSeek researchers noticed that the model had learned to backtrack and rethink a previous conclusion using language like this:&lt;/p&gt;
 
-&lt;p&gt;GPT-1 and GPT-2 flunked this test. But the first version of GPT-3, released in 2020, got it right almost 40 percent of the time—a level of performance Kosinski compares to a three-year-old. The latest version of GPT-3, released last November, improved this to around 90 percent—on par with a seven-year-old. GPT-4 answered about 95 percent of theory-of-mind questions correctly.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/KYtevyR.png&quot; alt=&quot;image06&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/U5YleVJ.png&quot; alt=&quot;image04&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Again, DeepSeek says it didn’t program its models to do this or deliberately provide training data demonstrating this style of reasoning. Rather, the model “spontaneously” discovered this style of reasoning partway through the training process.&lt;/p&gt;
 
-&lt;p&gt;“Given that there is neither an indication that ToM-like ability was deliberately engineered into these models, nor research demonstrating that scientists know how to achieve that, ToM-like ability likely emerged spontaneously and autonomously, as a byproduct of models’ increasing language ability,” Kosinski wrote.&lt;/p&gt;
+&lt;p&gt;Of course, it wasn’t entirely spontaneous. The reinforcement learning process started with a model that had been pretrained using data that undoubtedly included examples of people saying things like “Wait, wait. Wait. That’s an aha moment.”&lt;/p&gt;
 
-&lt;p&gt;It’s worth noting that researchers don’t all agree that these results indicate evidence of Theory of Mind: for example, small changes to the false-belief task led to much worse performance by GPT-3; and GPT-3 exhibits more variable performance across other tasks measuring theory of mind. As one of us (Sean) has written, it could be that successful performance is attributable to confounds in the task—a kind of “clever Hans” effect, only in language models rather than horses.&lt;/p&gt;
+&lt;p&gt;So it’s not like R1 invented this phrase from scratch. But it evidently did spontaneously discover that inserting this phrase into its reasoning process could serve as a useful signal that it should double-check that it was on the right track. That’s remarkable.&lt;/p&gt;
 
-&lt;p&gt;Nonetheless, the near-human performance of GPT-3 on several tasks designed to measure theory of mind would have been unthinkable just a few years ago—and is consistent with the idea that bigger models are generally better at tasks requiring high-level reasoning.&lt;/p&gt;
+&lt;h3 id=&quot;conclusion-reinforcement-learning-made-agents-possible&quot;&gt;Conclusion: reinforcement learning made agents possible&lt;/h3&gt;
 
-&lt;p&gt;This is just one of many examples of language models appearing to spontaneously develop high-level reasoning capabilities. In April, researchers at Microsoft published a paper arguing that GPT-4 showed early, tantalizing hints of artificial general intelligence—the ability to think in a sophisticated, human-like way.&lt;/p&gt;
+&lt;p&gt;One of the most discussed applications for LLMs in 2023 was creating chatbots that understand a company’s internal documents. The conventional approach to this problem was called RAG—short for retrieval augmented generation.&lt;/p&gt;
 
-&lt;p&gt;For example, one researcher asked GPT-4 to draw a unicorn using an obscure graphics programming language called TiKZ. GPT-4 responded with a few lines of code that the researcher then fed into the TiKZ software. The resulting images were crude, but they showed clear signs that GPT-4 had some understanding of what unicorns look like.&lt;/p&gt;
+&lt;p&gt;When the user asks a question, a RAG system performs a keyword- or vector-based search to retrieve the most relevant documents. It then inserts these documents into an LLM’s context window before generating a response. RAG systems can make for compelling demos. But they tend not to work very well in practice because a single search will often fail to surface the most relevant documents.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/Y6TOmPp.png&quot; alt=&quot;image05&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Today it’s possible to develop much better information retrieval systems by allowing the model itself to choose search queries. If the first search doesn’t pull up the right documents, the model can revise the query and try again. A model might perform five, 20, or even 100 searches before providing an answer.&lt;/p&gt;
 
-&lt;p&gt;The researchers thought GPT-4 might have somehow memorized code for drawing a unicorn from its training data, so they gave it a follow-up challenge: they altered the unicorn code to remove the horn and move some of the other body parts. Then they asked GPT-4 to put the horn back on. GPT-4 responded by putting the horn in the right spot:&lt;/p&gt;
+&lt;p&gt;But this approach only works if a model is “agentic”—if it can stay on task across multiple rounds of searching and analysis. LLMs were terrible at this prior to 2024, as the examples of AutoGPT and BabyAGI demonstrated. Today’s models are much better at it, which allows modern RAG-style systems to produce better results with less scaffolding. You can think of “deep research” tools from OpenAI and others as very powerful RAG systems made possible by long-context reasoning.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/p1rDBuy.png&quot; alt=&quot;image06&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;The same point applies to the other agentic applications I mentioned at the start of the article, such as coding and computer use agents. What these systems have in common is a capacity for iterated reasoning. They think, take an action, think about the result, take another action, and so forth.&lt;/p&gt;
 
-&lt;p&gt;GPT-4 was able to do this even though the training data for the version tested by the authors was entirely text-based. That is, there were no images in its training set. But GPT-4 apparently learned to reason about the shape of a unicorn’s body after training on a huge amount of written text.&lt;/p&gt;
+&lt;p&gt;As the next step, I’ll explore the second crucial ingredient for effective agents: tool use. We’ll see that reasoning models become more powerful when they are able to pull in external information during the reasoning process. And we’ll see why Anthropic’s Claude, not OpenAI’s o-series models, has emerged as the model of choice for agentic applications.&lt;/p&gt;</content><author><name>Timothy Lee</name></author><summary type="html">Reinforcement learning is an LLM post-training technique to complement the imitation learning. It enables new-generation agentic AI systems.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://i.imgur.com/nTmt0Vp.png" /><media:content medium="image" url="https://i.imgur.com/nTmt0Vp.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">香港民意调查卅年</title><link href="https://agorahub.github.io/pen0/heros/2025-03-31-InitiumMedia-a1_l-thirty-years-of-hong-kong-public-opinion-surveys.html" rel="alternate" type="text/html" title="香港民意调查卅年" /><published>2025-03-31T12:00:00+08:00</published><updated>2025-03-31T12:00:00+08:00</updated><id>https://agorahub.github.io/pen0/heros/InitiumMedia-a1_l-thirty-years-of-hong-kong-public-opinion-surveys</id><content type="html" xml:base="https://agorahub.github.io/pen0/heros/2025-03-31-InitiumMedia-a1_l-thirty-years-of-hong-kong-public-opinion-surveys.html">&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;没有一种方法可以完全了解“民意”，但失去一种科学的方法，必然是损失。&lt;/code&gt;&lt;/p&gt;
 
-&lt;p&gt;At the moment, we don’t have any real insight into how LLMs accomplish feats like this. Some people argue that examples like this demonstrate that the models are starting to truly understand the meanings of the words in their training set. Others insist that language models are “stochastic parrots” that merely repeat increasingly complex word sequences without truly understanding them.&lt;/p&gt;
+&lt;!--more--&gt;
 
-&lt;p&gt;This debate points to a deep philosophical tension that may be impossible to resolve. Nonetheless, we think it is important to focus on the empirical performance of models like GPT-3. If a language model is able to consistently get the right answer for a particular type of question, and if researchers are confident that they have controlled for confounds (e.g., ensuring that the language model was not exposed to those questions during training), then that is an interesting and important result whether or not it understands language in exactly the same sense that people do.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/gNr4l8Y.jpeg&quot; alt=&quot;image01&quot; /&gt;
+&lt;em&gt;▲ 1997年6月30日，香港主权移交中国前一天的一个游行。&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;Another possible reason that training with next-token prediction works so well is that language itself is predictable. Regularities in language are often (though not always) connected to regularities in the physical world. So when a language model learns about relationships among words, it’s often implicitly learning about relationships in the world too.&lt;/p&gt;
+&lt;p&gt;一个半月前（2025年2月12日），自2019年从香港大学独立出来运营的、具有学术研究背景的民意调查（简称民调）机构，香港民意研究所（PORI），宣布即日起无限期搁置所有自费研究活动，包括自1992年开始的定期追踪调查，以至近几年开展的专题研究。其主席及行政总裁钟庭耀，在今年1月被警方国安处带走调查，新闻指调查或涉及钟庭耀的前同事钟剑华。&lt;/p&gt;
 
-&lt;p&gt;Further, prediction may be foundational to biological intelligence as well as artificial intelligence. In the view of philosophers like Andy Clark, the human brain can be thought of as a “prediction machine”, whose primary job is to make predictions about our environment that can then be used to navigate that environment successfully. Intuitively, making good predictions benefits from good representations—you’re more likely to navigate successfully with an accurate map than an inaccurate one. The world is big and complex, and making predictions helps organisms efficiently orient and adapt to that complexity.&lt;/p&gt;
+&lt;p&gt;钟剑华出现在警方2024年底新一批涉及国安问题的通缉名单中。钟庭耀曾指，对钟剑华的指控与 PORI 无关，并指对方与 PORI 的合作及雇佣关系已于2022年4月合约期满结束，此后也无甚联系。&lt;/p&gt;
 
-&lt;p&gt;Traditionally, a major challenge for building language models was figuring out the most useful way of representing different words—especially because the meanings of many words depend heavily on context. The next-word prediction approach allows researchers to sidestep this thorny theoretical puzzle by turning it into an empirical problem. It turns out that if we provide enough data and computing power, language models end up learning a lot about how human language works simply by figuring out how to best predict the next word. The downside is that we wind up with systems whose inner workings we don’t fully understand.&lt;/p&gt;</content><author><name>Timothy Lee and Sean Trott</name></author><summary type="html">Large language models (LLMs) are trained to “predict the next word,” and they require huge amounts of text to do this.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://i.imgur.com/nTmt0Vp.png" /><media:content medium="image" url="https://i.imgur.com/nTmt0Vp.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">现代人之间的互助</title><link href="https://agorahub.github.io/pen0/heros/1896-01-31-PeterKropotkin-a1_r-mutual-aid-amongst-modern-men.html" rel="alternate" type="text/html" title="现代人之间的互助" /><published>1896-01-31T10:56:15+06:55</published><updated>1896-01-31T10:56:15+06:55</updated><id>https://agorahub.github.io/pen0/heros/PeterKropotkin-a1_r-mutual-aid-amongst-modern-men</id><content type="html" xml:base="https://agorahub.github.io/pen0/heros/1896-01-31-PeterKropotkin-a1_r-mutual-aid-amongst-modern-men.html">&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;国家时期开始时人民的起义 现代的各种互助制度 村落公社及其为反对国家废除它而斗争&lt;/code&gt; &lt;!--more--&gt; &lt;code class=&quot;highlighter-rouge&quot;&gt;从村落公社生活中产生的习惯依然保存在我们现代的农村中：瑞士、法国、德国、俄国&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;无论幕帘后的原因是什么，香港历史最悠久的民意调查机构关闭了，也停止了该机构长达三十年来持续进行的民意调查项目，包括市民对政府的满意度调查、对香港官员的民望调查、香港人身分研究、对六四事件的态度追踪等等。而若我们回望，可见香港80年代浮现“前途问题”时，就已经有了“民意调查”的踪影，这种方法可应用于学术、生产、商业的多个领域，而也无疑与香港的民主政治变迁关系密切。&lt;/p&gt;
 
-&lt;p&gt;人类中的互助倾向，其起源是很遥远的，而且是和人类过去的一切进化极为密切地交织在一起的，所以，尽管在历史上有种种的变迁，人类仍然一直把它保存到现今。它主要是在和平和繁荣的时期发展起来的；然而，即使在人类遭遇到极大灾难的时候——当整个整个的国家被战争毁为废墟，整个的人群死于贫困或呻吟在暴政的统治下的时候——这种倾向在乡村和城市的较贫穷阶级中仍旧继续存在。它依然使他们团结起来，甚至最后能反击那些进行统治、战争和蹂躏而把它当作无谓的感情加以排斥的少数人。无论什么时候，当人类要创造一个适应新的发展阶段的新社会组织时，它的建设性天才总是从上述那种永恒的倾向中吸取了新的开端所需要的因素和灵感。新的经济制度和社会制度（只要它们是人民群众创造的），以及新的伦理体系和新的宗教，所有这些都来自这同一源泉，我们种族的伦理的进步，总括起来看，可以说是互助原则的逐渐推广，从部落扩展到愈来愈大的组合，最后总有一天将不分信仰、语言和种族的区别而包罗整个人类的。&lt;/p&gt;
+&lt;p&gt;香港目前仍然存在着其他有大学背景的民调机构，而 PORI 作为其中曝光度较高的一间，不仅记录著过去三十多年香港风云变化的民意与政治局势，也遭遇过来自政府、学校和民众的压力和怀疑，它的历史同样折射著“民调”与它的研究对象——外界——的种种关系。民调在理念上是“求鹿”的方法，却常常被质疑“梦渔”，它一定有自己的局限，但为何还是被认为如此重要？&lt;/p&gt;
 
-&lt;p&gt;经过蒙昧的部落时期，又经过了村落公社之后，欧洲人终于在中世纪创造了一种新的组织形式，这种形式的好处，在于使个人的主动性有广泛的活动范围，而同时又能大部分满足人类的互助需要。包括许许多多行会和兄弟会的村落公社联盟，在中世纪的城市中产生了。在这种新的联盟形式下，大众的福利、工业、艺术、科学和商业方面所取得的巨大成果，已在前面两章中详细地讨论过了，并且试图指出，为什么在十五世纪末，中世纪的共和制城市（它们周围是敌对的封建领主的属地，而它们又不能把农民从奴隶制度中解放出来，并且逐渐为罗马式的独裁主义思想所腐蚀）注定要变成新兴的军事国家的牺牲品。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/udhrneW.png&quot; alt=&quot;image02&quot; /&gt;
+&lt;em&gt;▲ 2025年1月12日，香港民意研究所位于黄竹坑南汇广场的办公室。&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;然而，在以后的三个世纪里，人民群众在未屈服于总揽一切的国家权力之前，曾经作过一次巨大的尝试，想以旧时的互助和互援为基础来重建他们的社会。现在大家都知道，伟大的宗教改革运动不仅仅是一个反抗天主教流弊的起义，它还有它的建设性的理想，那就是在自由和友爱的社会中生活。在宗教改革时期最初的那些著作和说教中，充满了人类在经济和社会上如同一家的看法，所以最能感动群众。在德国和瑞士的农民和手工业者中广为流传的“十二信条”和类似的信条，不仅主张每一个人有按照自己的理解来解释圣经的权利，而且还包含有把城市的土地归还村落公社和废除封建奴隶制的要求，它们还经济提到“真正的”信念——人人如手足的信念。这时候，有成千上万的男男女女参加了摩拉维亚的共产主义性质的兄弟会，把他们的一切财产都交给这些团体，在许许多多以共产主义原则为基础的繁荣的居住地上生活。只有成千上万的大批屠杀，才能制止这个广泛的群众运动，正是依靠了刀剑、火刑和拷问架，新兴的国家才取得了对广大人民群众的第一次决定性胜利。&lt;/p&gt;
+&lt;p&gt;就此，端传媒邀请三位多年来在政治及传播学领域专注民意研究的、正好10年一代的学者进行了一次文字对谈，包括香港中文大学政治与行政学系副教授马岳、香港中文大学新闻与传播学院教授李立峰、恒生大学公共政治研究中心副主任邓键一，来谈谈对“民调”这种方法的理解，及它与香港三十多年来的历史。&lt;/p&gt;
 
-&lt;p&gt;在此后的三个世纪里，欧洲大陆和英伦三岛上的国家都系统地肃清了一切以前有互助表现倾向的那些制度。村落公社的村民议会、裁判所和独立行政完全被剥夺；它们的土地也被没收。行会的财产和自由遭到掠夺，它们被置于国家官吏的控制之下，受到官吏们为所欲为和贪污行贿的弊害。城市丧失了它们的主权，它们内部生活的源泉——民会、选任的法官和行政机关、独立自主的教区和行会——完全消灭了；国家的官吏占有了从前是一个有机整体的每一个环节。由于这个致命的政策和它所引起的战争，使一度是人口众多和富裕的地区变成了一片荒凉，富庶的城市变成了贫乏的村镇，连贯各个城市的道路也荒废难行了。工业、艺术和学术都陷入衰退的境地。政治教育、科学和法律都用来为国家中央集权这一思想服务。大学和讲道台都在教育人们说，从前体现人们互助需要的制度，在一个严密组织的国家是不能容许的；唯有国家才能代表它的人民之间的联系；联盟主义和“各州独立主义”是进步的敌人，只有国家才真正是进一步进步的推动者。在上一世纪末，欧洲大陆上的各个国王、英伦三岛的国会和法国的革命的国民大会，虽然彼此之间在互相战争，但他们却一致认为决不能允许在国家之内存在人民之间的独立联盟；对敢于结成“联盟”的工人，唯一的适当惩罚就是苦役和死刑。“国家之内不允许再有国家！”唯有国家和国教才能处理同大众有关的事务，至于人民，则只能是没有特殊联系的个人的涣散的集合体，而且每当他们感到一种共同需要时，必须请求政府办理。一直到十九世纪中叶，在欧洲的理论和实践都还是这样。甚至商业和工业的团体也受到猜疑。至于工人的工会，在我们这一代人时它们在英国几乎还被认为是非法的，前二十年，在欧洲大陆上也被认为是非法的。我们国家的整个教育体系仍然是这样，即使在英国，迄今也仍有很大一部分人还在认为让出这些五百年前每一个人（自由人和农奴）在村民议会、行会、教区和城市中行使的那些权利，是一种革命措施。&lt;/p&gt;
+&lt;p&gt;以下为对谈全文。&lt;/p&gt;
 
-&lt;p&gt;国家吞没了一切社会职能，这就必然促使为所欲为的狭隘的个人主义得到发展。对国家所负义务愈多，公民间相互的义务显然将愈来愈少。在中世纪，每一个人都属于一个行会和兄弟会，两个“弟兄”有轮流照顾一个生病的弟兄的义务；而现在呢，只要把附近的贫民医院的地址告诉自己的邻居就够了。在野蛮人的社会里，当两个人由于争吵而斗殴的时候，第三者如果参加而没有劝阻，致使它发展成命案，这样的行为意味着他本人也将被当作一个凶手看待。但是，按照现在的一切由国家保护的理论来说，旁观者是用不着去干涉的：干涉或不干涉，那是警察的事情。在蒙昧人的土地上，在霍顿脱人中，如果在吃东西之前不大叫三声问问有没有人需要来分享，就被认为是可耻的行为；而现在，一个可敬的公民只要缴纳济贫税就够了，他可以坐视饥饿的人挨饿。结果，主张人人可以而且必须在不顾他人的需要中获取自己幸福的这种理论，无论在法律、科学和宗教中，都全面占了上风。这就是今天的教义，而要怀疑它的功效，就要成为危险的空想者。科学家在大声宣称，个人反对整体的竞争，是自然界、也是人类社会的主导原则。生物学家把动物世界的逐步进化归功于这种竞争。历史学家也采取这样的论断；政治经济学家由于幼稚无知，把现代的工业和机器的一切进步，也说成是这同一原别的“奇妙”效果。讲道台上宣讲的宗教，本身就是一种个人主义的宗教，只是被在礼拜天对邻居多多少少表示一点慈善的关系略加缓和了些而已。“讲究实际的”人和理论家、科学家、宗教讲道家、法律学家和政客们，全都认为：可以用慈善来减轻一些个人主义的最严酷的结果，然而要保持社会及其未来的进步，只有个人主义才是唯一可靠的基础。&lt;/p&gt;
+&lt;h3 id=&quot;黄金年代&quot;&gt;黄金年代？&lt;/h3&gt;
 
-&lt;p&gt;因此，要在现代社会中寻求和实行互助制度，似乎是不可能的。它们能剩下什么呢？然而，只要我们考察一下亿万的人是怎样生活的，只要我们研究一下他们的日常关系，我们便会惊奇地发现，甚至在今天的人类生活中，互助和互援的原则还依然起着巨大的作用。虽然在整整的三、四百年间，互助制度在实践和理论上都受到了破坏，但亿万的人依然生活在这种制度之下：他们热诚地保持着这种制度，而且竭力在它已不再存在的地方恢复它。在我们相互的关系中，我们每人都有过反抗现今流行的个人主义信条的时候，以人类的互助倾向为指导的行动，在我们日常的交往中起着那么大的作用，以致如果能使这样的行动停顿一下，则一切的道德进步也将立刻陷于停顿；那时人类社会的本身，要维系一代人之久，也不可能了。这些事实，大都为社会学家所忽略了，然而它们对人类的生活和进一步提高却具有头等重要意义。现在，我们就从现有的互助制度开始，接着联系到由个人和社会的同情所产生的互助行为来进行分析。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;端：民意调查刚进入香港的80、90年代，三位学者中只有马岳教授经历过。先请教马教授，当时引入民调的时代背景和社会条件是怎样的？历经英殖政府和主权移交，不同政府对民调的态度如何？印象较深的是关于哪些社会议题的民调？&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;当我们放眼看一下欧洲社会的现时结构，使我们立刻感到惊奇的是，虽然采取了那么多的办法来消灭村落公社，但这样的联合形式却继续存在着（其存在的程度，我们即将谈到），而且人们还作了许多努力，想把它以这种或那种形式恢复起来，或者找到其他某种东西来代替它。关于村落公社的流行理论是：在西欧，它是自然消失的，因为人们发现村落公社占有土地同现代农业要求相予盾。但事实是，没有一个地方的村落公社是自行消灭的，恰恰相反，它使统治阶级接连用了几个世纪的工夫，还并不绝对能够发除它和没收它所占有的土地。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;马岳&lt;/strong&gt;：我相信是因为政制开放，民意在政府决策过程变得重要，于是用科学化的民调方法了解和测量民意变得重要，传媒也有兴趣报道和赞助。尤其是政府在八十年代是很常就政策作公众咨询，如果一有某些咨询期，不同民间团体就会援引民意作为支持动员的工具，传媒也会就公共政策问题和政制问题等作民意调查，作为影响公共决策的方法。&lt;/p&gt;
 
-&lt;p&gt;在法国，早在十六世纪就开始剥夺村落公社的独立和掠夺它们的土地。然而，只是在十七世纪，当农民群众由于苛税和战争而陷于屈服和穷困的境地时（所有的历史学家都生动地描述过这种境地），掠夺村落公社的土地才很顺利，而且达到了可耻的程度。“每一个人按照自己的抛力去侵占……为了夺取公社的土地，竟利用捏造的值务；”我们在法王路易十四于1667年发布的一项诏书上就见到这样的话。国家对这种罪恶的补救办法，当然是使村落公社更屈服于国家，由它自己去掠夺它们。事实上，两年以后，所有村落公社的一切现金收入都被国王没收了。至于村落公社的土地被侵占的情况，那是愈来愈恶劣，到十八世纪，贵族和教士已经占据了大量的土地（据有些人估计，占有了可耕土地的一半），而且把所占的土地大部分听其荒芜。但是，农民们依然保持了他们的村落公社制度，直到1787年还可经常见到由所有卢主组成的村民议会聚集在钟楼或一棵树的阴凉下分配和再分配他们所保有的土地，预定税收和选举他们的办事人，这种情况同现在俄国的村落公社完全一样。这一点已经由巴博的研究证明了。&lt;/p&gt;
+&lt;p&gt;学界方面，随著本土社会科学研究的发展，多了本地学者会就本地社会和政治情况作研究，他们有比较好的方法学训练，于是用民调方法亦是很正常现象。&lt;/p&gt;
 
-&lt;p&gt;然而，政府发现村民议会“太吵闹了”，太不顺服了，于是便在1787年以较富裕的农民中挑选出来的一个村长和三至六个委员组成的特选委员会代替了它。两年后，革命的立宪会议（它在这一点上和旧王朝是一致的）于1789年12月14日完全认可了这项法律，于是又论到农村中的资产阶级来掠夺村落公社的土地了，这种掠夺行为在整个革命时期中一直在进行着。直到1792年8月16日，立法会议才在农民起义的压力下，决定把圈作私有的土地归还给村落公社；但同时它又规定这些土地只平分给较富裕的农民，这一措施又激起了新的农民起义，并且在第二年（1793年）便被废除，1793年的法令允许所有的居民不能是富是贫，还是“勤勉”或“懒惰”，都可分得村落公社的土地。&lt;/p&gt;
+&lt;p&gt;最深印象的事件，当然是争取88直选时候，港府用民意调查扭曲支持88直选的民意，当年不少传媒做的民意调查都显示有略多于五成人支持88直选，但政府赞助的民意调查却说没有清楚倾向，因而在88年不引入直选。这亦显示了独立和公正的民意调查的必要。&lt;/p&gt;
 
-&lt;p&gt;然而，这两项法令和农民的观念是如此相反，所以没有人服从，无论在什么地方，只要农民们又取回一部分土地，他们便把它维持着不给分散。这时候，漫长的战争年月来到了，村落公社的土地于1794年被当作国家借款的抵押而干脆加以没收、拍卖和掠夺。后来又退还给村落公社，但在1813年又加以没收；直到1816年才把剩下来的大约一千五百万英亩生产力最差的土地交还给了村落公社。然而村落公社的苦难并没有到此结束。每一个新政权都把村落公社的土地作为取悦于它的支持者的一种手段，先后通过了三项诱使村落公社分散它们土地的法令（第一项是在1837年，其他两项是在拿破仑三世统治时代）。由于在农村中遭到反对，这些法令也三次被取消。但每一次都被国家掠去一些东西，后来，拿破仑三世竟借口鼓励改善农业，把村落公社的一大批土地拿来赏赐他的一些宠臣。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/Z4QUPDj.png&quot; alt=&quot;image03&quot; /&gt;
+&lt;em&gt;▲ 1997年12月6日，香港特首董建华在立法会选举选民登记活动启动仪式上摔倒。&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;至于村落公社的自治权，经过这么多打击以后，还能保存什么呢？村长和委员只被看作是国家机器的不付薪水的官吏而已。甚至在目前，如果第三共和国不开动上至省区和中央各部这样庞大的国家机器，在乡村公社中连很小的一阵事情也办不成。例如，一个农民想用现款交纳一份修建公共道路的费用来代替他本人要作的砸石头工作，那么在他获得向乡村会议交款的许可以前，必须先经过不下十二个国家官吏的批准，而且还需要经过他们办理和转办为数达五十二项之多的各种手续，这是十分令人难以相信的，然而这的确是事实。其他一切事情，也是如此。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;端：1985年港英政府就说要在立法局引入民主元素，1988年不欲引入直选是有什么原因？&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;在法国发生的事情，也同样在欧洲西部和中部的各个地方存在。甚至对农民的土地进行大掠夺的主要日期也是相同的。在英国，唯一不同的是对土地的掠夺不是采取一扫而光的办法，而是分为几次完成的——不是那么急迫，但是比法国掠夺得更为彻底。根据鲁沙士的《历史》（Historia）和亨利七世的一条法令来看，贵族们对公有土地的掠夺，也是在1380年农民起义失败以后，于十五世纪开始的。在这些文献中，谈到这种掠夺行为的标题是“有害公有土地的……滔天罪行和流弊”。后来，在亨利八世统治时期进行了大调查，以期制止圈占公有土地，但其结果却是认可了已经圈占的公有土地。公有土地继续被掠夺，农民被逐出他们的田园。特别是从十八世纪中叶以后，在英国和其他各个地方干脆把肃清公有土地一切痕迹的作法变成了一套有系统的政策的一个组成部分。要是公有土地因此就消灭了，那倒不足为怪，然而甚至在英国它也能够继续保持，它“一直到我们这一代人的祖父的时候还依然普遍盛行”，这就大为值得惊奇了。正如西波姆先生所指出的，圈地法案的本来目的就是在取消这种制度，在1760年和1844年之间通过了将近四千条法令，是那么有力地把这种制度取消了，以致现在只留下了一些依稀的痕迹。村落公社的土地被领主们夺去了，而且每一次的掠夺行为都得到了议会的批准。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;马岳&lt;/strong&gt;：一般相信是因为“本子风波”，1985年许家屯公开表明英方在八十年代搞政制改革是“偷步”，认为香港的政制发展不应超越《基本法》，而《基本法》到1990年才会定稿。于是港英政府大致同意拖慢民主步伐，不在88年在立法局引入直选，于是用“民意汇集处” manipulate 民意以作推搪。&lt;/p&gt;
 
-&lt;p&gt;在德国、奥地利和比利时，村落公社也遭到国家的摧残。公有土地的人民自行把他们的土地加以划分的例子还很少见，一般都是国家强制他们进行划分的，或者干脆赞助私人去夺取他们的土地。在中欧，对公有制的最后一次打击开始于十八世纪中叶。奥地利政府于1768年采用暴力强迫村落公社分散它们的土地，两年以后，还为此任命了一个特别委员会。在普鲁士，腓特烈二世于1752、1763、1765和1769年所颁发的几次勅令，授意裁判官强迫实行土地分散。在西里西亚为了这个目的于1771年作了一个特殊决议案。同样的情况也见之于比利时，而且，由于村落公社的不服从，还在1847年颁布了一项法令，授权政府收购村落公社的草地，以便把它们分散出售，同时，在有所谓买主要购买时，还可以强迫村落公社出售它们的土地。&lt;/p&gt;
+&lt;p&gt;有否直选和有否民调是没有直接关系的，80年代民间就已经有很多民意调查。&lt;/p&gt;
 
-&lt;p&gt;总之，说村落公社是由于经济法则的缘故而自然消灭的，就如同恶意地讽刺说在战场上被屠杀的士兵是自然死亡的一样。事实就是这样：村落公社存在了一千多年：无论在什么地方和在什么时候，只要农民没有为战争和苛税弄到破产地步，他们便一直在改进他们的耕作方法，但是，由于工业发达的结果，地价在逐渐上升，同时，贵族借国家的组织而获得了他们在封建制度下从来没有获得过的权力，所以，他们便把公有土地最好的部分据为己有，并且尽一切力量摧毁村落公社制度。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;端：根据《端》2020年对钟庭耀的采访报导，1991年香港第一次进行立法局地区直选，港大系因应选举情势展开民调。到了2000年，第一任特首董建华对民调表现出抵触，并进行了施压，钟庭耀曾在报章撰文披露，结果港大证明钟的说法属实，相关人等被问责。香港民调的黄金年代大概是什么时候？有多长？&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;然而，村落公社制度是如此地符合耕者的需要和观念，所以尽管有这一切遭遇，而在欧洲依然有活的村落公社一直留存到今天，在欧洲的乡村生活中，也还到处是从村落公社时期留传下来的风俗和习惯。甚至在英国，即使采取了一切激烈手段来破坏这一旧有秩序，但它一直到十九世纪初还是普遍地存在。葛姆先生——是英国注意到这个问题的很少几个学者之——在他的著作中指出，在苏格兰发现了许多公有土地的遗迹，“交叉片地”佃租制在佛尔伐郡一直保持到1813年，而在茵菲尼斯郡的一些村庄里，到1801年还有不分任何边界而为整个村落的耕地的习惯，耕好以后再分配给大家。在基尔摩里郡，“直到前二十五年”还有分配和再分配土地的制度，小农场佃农委员会（Crofters’ Commission）发现它在有些岛屿上依然很流行。在爱尔兰，这一制度一直实行到大饥荒时期。至于英格兰，马歇尔在他的著作中指出，村落公社制度在十九世纪初几乎广泛地遍布于英国所有名郡。他在这方面的论证是无可怀疑的，但是他的著作在被纳斯和亨利·曼因爵士推荐以前，一直不为人所注意。不到二十年以前，亨利·曼因爵士发现“关于不正常的产仅事例，其为数之多是颇为惊人的，这必然是说明了在从前存在过集体所有和联合耕种的制度”，这一点，只经过较简短的调查研究就被他发现了。村落公社制度继续存在了这么久，所以，只要英国的作者注意一下乡村生活，准可以在英国的乡村中发现许多互助的风俗和习惯。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;马岳&lt;/strong&gt;：我相信2000年后一直都是，主因仍是公民社会活跃，不同的政策讨论，民意是否支持仍然是一个重要的考虑，也会影响政党和其他行动者的取态，而传媒也会努力报道。&lt;/p&gt;
 
-&lt;p&gt;至于欧洲大陆，我们发现村落公社制度在法国、瑞士、德国、意大利、斯堪的纳维亚各国和西班牙的许多地方，还完全存在，更不用说欧洲东部了，在这些国家的乡村生活中充满了村落公社的风俗习惯，差不多每一年都有论述关于这个问题和有关方面的重要著作来丰富欧洲大陆的文献。因此，我只能限于谈几个最典型的例子为证。瑞士无疑是其中之一。不仅岛里、斯维茨、亚本泽尔、格拉鲁斯和思特瓦登这五个共和国有大批未分的土地，它们的土地仍旧由村民议会管理，而且在其他各州里，村落公社也还享有广泛的自洽权和掌握着很大一部分联邦的土地。迄至今日，有三分之二的阿尔卑斯山的牧场和整个瑞士的三分之二的林地，依然属于公有。有相当多的农田、果园、葡萄园、泥炭田和采石场等，现在还是属于公有。在孚德州，公社的精神特别活跃，所有的户主都有权参与他们所选的公社委员会的讨论。快到冬末的时候，有些村落的青年人就到森林中去生活，砍伐木材，把它们从陡峻的坡道上滑道上滑下来，他们把这些木材和木柴分给各家，或者售卖后把钱分给他们。这样的远足旅行，是豪迈的劳动者的真正节日。在莱蒙湖畔，培修葡萄园的台地所需的一部分工作现在依然是大家共同来作的：在春天，如果在日出以前寒暑表快要降到零度以下时，看守人就唤醒所有的户主，于是他们使用乾草和乾粪烧起一堆堆的火，用人造的烟雾保护葡萄树，使之不受霜冻。差不多在所有各州的村落公社中都有所谓“居民的公益”（Bürgernutzen）也就是说，他们公有许多母牛，以便供给各家牛油，或者保留着公有的耕地或葡萄园，把生产的东西分给公民，或者为了共同的利益把土地租给别人（迈士考夫斯甚的著作第15页）。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/zS0SA8p.png&quot; alt=&quot;image04&quot; /&gt;
+&lt;em&gt;▲ 2000年12月28日，立法会议员李柱铭、蔡素玉、何秀兰及冯检基等在香港电台《头条新闻》回归晚会上掷出印有行政长官董建华肖像的巨大球。&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;无论在什么地方，只要村落公社还执掌着广泛的职能，成为国家机体的有生部分，只要它们没有陷入绝对贫困的境地，它们从来没有不好好照管它们的土地的，这可以说是已经成为一般惯例了。因此，瑞士的公社土地和英国的“公有地”的悲惨状况相比，形成了鲜明的对照。孚德和瓦勒两州公社所有的林地，管理得非常好，很符合现代林学的原则。在其他地方，公有土地中的一块块狭长的土地，按照再分配制度是要更换所有人的，然而它们的施肥情况很好，特别是因为那里不缺少牧草和牲畜。高原上的牧场，一般都管理得很妥善，乡村的道路也十分良好。当我们赞赏瑞士的农舍和瑞士的山区道路、农民的牲畜、葡萄园台地和校舍的时候，我们必须记住，农舍所用的木材和石料经常是取自公有的森林和采石场的，并且在公有的牧场上牧放他们的母牛，道路和学校也都是共同修建的。要不是这样的话，它们就没有什么可赞赏的了。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;李立峰&lt;/strong&gt;：很难说甚么叫做黄金年代。有很多民调机构？营运民调机构可以赚钱？民众关注民调结果？我反而想从一个“理论”一点的角度看甚么是民调的黄金年代。首先要指出的是，民调表达的是民意，电台烽烟表达的是民意、网民讨论所表达的是民意、游行集会表达的也是民意。民调结果的基本特点，是个人意见的总和，就是就著同一个问题，每个人给出自己的答案，然后我们把每个人的答案结合起来，就成为“民意”。例如我们随机抽出1000名香港市民，问他们是否支持一项政策，每个人都给出自己的个人意见，然后我们发觉600人支持，那就是六成人赞成了。&lt;/p&gt;
 
-&lt;p&gt;在瑞士的乡村中，现在还依然存在着许多互助的风俗习惯，这也不需多说了。人们在傍晚时，依次到各家去参加剥胡桃仁的晚间聚会；黄昏时，妇女们一起参加给即将出嫁的姑娘缝制嫁装的聚会：一个村民在修建房屋、收刈庄稼和其他一切工作中，都可以请人“帮助”；一个州和另一个州按例交换教育儿童，使他们能学习两种语言（法语和德语）等等，所有这些都是习以为常的事情。另一方面，遇到各种各样的新需要时，也本着同样的精神去作。例如，格拉鲁斯虽然在遇到一次大灾难时把阿尔卑斯山上的大多数牧场都卖掉了，但后来公社又继续购买了耕地，这些新买的土地由各个村民占用十年、二十年或三十年（时间长短随情况而定），以后又归还为公社的产业，并且按照大家的需要把它重新加以分配。他们组织了许许多多的制造生活必需品（面包、奶酪和葡萄酒）的小组合，这些组合的规模虽然有限，然而是共同劳动的；农业上的合作，在瑞士极容易推行。十个到三十个农民就形成一个组合，这是常见的事情，他们共同购买牧场和土地，作为共同的所有人，大家共同耕种；至于售卖牛奶、牛油和奶酪的乳产业的组合，更是到处都有。事实上，瑞士就是这一种合作形式的发源地，并且它有各种各样为了满足各种现代需要而组织的或大或小的组合，可供我们进行广泛的研究。在瑞士的某些地区，差不多每一个公社为了防火、航运、维修湖岸码头和供水等，都组织了许多的组合。在这个国家里，由于现代的尚武精神，到处都成立了弓术家、射击家、地形学家和徒步探险家等组合。&lt;/p&gt;
+&lt;p&gt;若我们想想，这种“民意”其实可以有各种局限和问题的，是否每个回答的人都明白该项政策？是否每个人都直接受到该政策的影响？人们有没有思考和讨论过该政策？民调反映出来的是 informed and reasoned public opinion 吗？其实我读书的年代，是很熟悉很多社会理论家对民调的批评的，例如德国社会学大师哈伯马斯在他的名著《公共领域的结构性转变中》，说民调的兴起反映了公共意见的社会心理学变卖﹙social psychological liquidation of public opinion﹚，大意是民调把理应通过理性的公共讨论来产生，因而具备规范性力量的民意，简化为一个社会心理学的现象。法国社会学大师 Pierre Bourdieu 也写过一篇题为“public opinion does not exist”的文章，批评民调的基本假设。&lt;/p&gt;
 
-&lt;p&gt;然而，瑞士在欧洲决不是一个例外，因为同样的制度和习惯也可以在法国、意大利、德国、丹麦和其他国家的农村中发现。我们方才谈到法国的统治者采取了怎样的办法来摧毁村落公社和夺取它们的土地，但尽管这样，在全部可耕地中仍然有十分之一，即一千三百五十万英亩（包括法国天然牧场的一半和将近全国五分之一的林地）仍然是属于村落公社所有。他们从森林中取得所需的燃料，大部分木材都是安排很好地由大家共同砍伐的：村民们的牲畜可以在牧场上随意牧放。在法国的某些地方（即阿尔得纳），残余的公社土地仍然是按照通常的方法分配给村民耕种的。&lt;/p&gt;
+&lt;p&gt;但为甚么我们还是那么重视民调呢？那是因为在一个民主社会，你可以说讨论很重要，甚至可以像哈伯马斯一样认为理性讨论才是民主的核心，但在现实中，讨论完后，还是要投票做决定的。而选举投票是甚么？那正正是把个人意见统合起来的过程。亦即是说，民调反映的就是投票结果，当我们就一个政策议题做民调，问大家是支持或反对时，其实就是在进行一次模拟投票。&lt;/p&gt;
 
-&lt;p&gt;这些额外的收入来源，对农业劳动者和将近三百万有少量土地的自耕农来说，是很重要的，它们可以帮助贫苦的农民度过歉收的年月而不致卖掉他们那些小小的土地和欠下无法偿还的债务。如果没有这些额外的收入，小小的自耕农是否能够维持，就成疑问了。公有财产在道德上的意义虽然很小，但它们仍然比它们的经济重要性远为重大。它们在乡村生活中保持了互助的风俗习惯的核心，这无疑地对小土地所有者不顾一切的个人主义和贪欲的发展是一个有力的遏止。在乡村生活可能遇到的一切情况中进行互助，这在法国各个地方已经成为日常生活的一部分了。我们到处都见到各种名称的charroi，即在收刈庄稼、摘取葡萄或修建房屋时请求邻居们给予无偿的帮助。我们到处都发现我们方才所说的在瑞士的那种傍晚集会。我们到处都可看到村民们联合起来协力进行各种工作。差不多所有描写法国乡村生活的人，都曾谈到过这种习惯。我曾要求我的一个朋友把他在这方面的见闻告诉我，因此在这里我最好是把不久前收到的他的来信给大家摘录几段。这些信是一位老年人写的，他住在法国南部的阿列日，他在自己的村子里当了好几年的村长。他所谈的这些事实，是他多年来的亲身体验，它们的好处是来自一个人自己所生活的地方而不是从广大地区收集来的。在这些事实中，也许有些似乎是琐碎的小事，但总的说来，它们刻画了一个乡村生活的小天地。&lt;/p&gt;
+&lt;p&gt;从这角度看，民调的重要性，其实离不开投票制度的重要性。所以，一个民主社会有越多事情诉诸投票解决，“个人意见的总和”就越重要，民调也就越重要。相对而言，在一个非民主社会，民调结果仍然有参考价值的。但不能否认，它反映不了真正能影响政府的民众意见，因为在一个非民主社会中，民意的影响力相对有限，而就算某种形式的“民意”能对政府有影响，这个能影响政府的“民意”，大概不会是个人意见的总和。&lt;/p&gt;
 
-&lt;p&gt;“在我们邻近的几个村子里，”我的朋友写道，“‘借助’（emprount）这个古时的习惯现在还很盛行。如果需要许多人手在一小块耕地上迅速完成什么工作的话——例如掘马铃薯或割草，他们便请来附近所有的年经人，于是小伙子和姑娘们一群祥地到来，欢欢喜喜地工作，而且不要任何报酬；傍晚，他们高高兴兴地吃过晚饭以后便开始跳舞。”&lt;/p&gt;
+&lt;p&gt;说了这么一大串，我会说，如果香港的民调有所谓黄金时代，大概也就是2000至2019年间，选举制度的重要性比回归前高，同时社会仍普遍信任选举制度，人们对民主化仍然抱有憧憬的时候吧。&lt;/p&gt;
 
-&lt;p&gt;“在这些村子里，当一个姑娘快要结婚的时候，附近的姑娘们便来帮助她缝制嫁装。有几个村子，妇女们现在还是大批地纺纱。当她们需要在某一个人的家里卷线球时，她们在一个傍晚就可把它卷好——因为她们把所有的朋友都请来帮忙做这件事。在阿列日和西南部的许多村子里，剥玉蜀黍这项工作也是所有附近的人一块儿来作的。主人用栗子和酒来款待他们，干完活以后，年轻人便开始跳舞。在榨坚果油和捣大麻的时候，也是按照这种习惯作的。在L村，收获谷物的时候也是这样作的。由于主人以请大家吃一顿丰盛的酒筵为荣耀，所以辛勤工作的日子就变成了节日。他们不要任何报酬，大家都是互相帮助。”&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/yv14xD7.png&quot; alt=&quot;image05&quot; /&gt;
+&lt;em&gt;▲ 2012年2月16日，特首候选人唐英年僭建风波，传媒在其住宅外拍摄，一群小学生从校巴上向外张望。&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;“在S村，公有的牧场每年都有增加，所以，现在差不多整个村子的土地都成为公有的了。牧羊人由牲畜的所有的主人（包括妇女）选举。公牛属于全村所有。”&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;端：根据公开资料，中策组在2013-2016年也进行过秘密民意调查，恰恰是唐英年与梁振英竞选、梁振英未知是否连任的年份。这说明民调曾被视为具有何种功能？当时的政府为何需要民调？&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;“在M村，村民们把四、五十小群的绵羊集合起来，然后再分成三个或四个大群赶到地势较高的牧场去。每一个主人都要当一个礼拜的牧羊人。在C这个小村子里，有几家人合买了一架打麦机，负责照管这架机器的十五到二十个人由各家摊派。另外又买了三架打麦机，出租给别人使用，然而是按照平常的办法请旁人来帮忙操作的。”&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;马岳&lt;/strong&gt;：我理解不同时期的中策组一直是有做民调的：不过只供内部参考。政府当然有需要了解民意，特别是政策还未推出前了解公众的可能反应，以决定政策是否推出如何推出等等。&lt;/p&gt;
 
-&lt;p&gt;“在我们R村里，我们要砌公墓的围墙，购买石灰和支付工匠工资所需的费用，由村会供给一半，其余一半由大家自愿捐助。至于运沙土、担水、拌灰泥和给泥水匠当帮手这些工作，都是由大家自愿去作的（正如卡巴尔人的村民议会一样）。乡村的道路也是以同样办法修筑的，即村民为修路义务工作若干日。其他的村子也用这个办法修建它们的水泉。榨葡萄的机器和其他较小的器具也经常是由全村保管的。”&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;李立峰&lt;/strong&gt;：是的，那很自然，政府也要掌握民意，尝试预测民意。若政府真心想知道民意如何，那是好事。但这里又想起一本读书时代看的，对民意调查持批判立场的书，1986年 Benjamin Ginsberg 的 Control Revolution，里面就提到一个观点，指现代民调的发展其实在整体上是帮助了国家机关控制社会的，因为民调作为一种技术，使“民意”变成可以测量，可以监察的东西。扩阔一点说，在民主社会，不要说政府，政党也会做只作内部参考的民调，不只是为了知道民众在政策上的意见，也可能通过民调知道民众对一些政治符号和口号的反应，有时这些民调结果会直接影响他们如何建构选举工程。&lt;/p&gt;
 
-&lt;p&gt;我的朋友还询问了两个住在他那一带的人，他们说：&lt;/p&gt;
+&lt;p&gt;独立而没有利益冲突的机构所做的科学而公开的调查，可以 inform the public。但有些民调的确可以是为了 control the public，甚至是 manipulate the public 而做的。&lt;/p&gt;
 
-&lt;p&gt;“几年前，在O村是没有磨坊的，现在，已向村民征收税款来修了一座。至于磨工，他们决定，为了避免欺诈和不公平的事情，每一个吃面包的人交给他两个法郎以后，磨麦子就不再付线了。”&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;邓键一&lt;/strong&gt;：我的理解跟马岳差不多，除了特首选举之外，中策组一直会就重要政策进行民调。而哪些民调结果会公布，哪些只供内部参考，又或者视乎情况。&lt;/p&gt;
 
-&lt;p&gt;“在St. G.村，没有一个农民保火险。如果发生了火灾——最近就发生过——所有的人都给受灾的家庭一些东西（比如说一大堆煤、一张床单、一把椅子，等等），这样，一个简陋的家庭就再建起来了。所有的邻居都来帮助他们修建房子，在修盖房子期间，这一家人就往在邻居家中，而且不用花钱。”&lt;/p&gt;
+&lt;p&gt;不过，我想补充一点——虽然刚才一直说民调在典型的民主社会有其特别重要的角色，但这不代表民调对香港政府完全不重要。记得很多年前，人们会说曾荫权政府很重视民望变化，虽然这是难以验证的公众观感。但是回到香港的政治系统，过去立法会有一半议席是直选产生，加上超级区议会及部分个人票的功能组别议席，社会上如果有很大多数人明显支持或反对某个议题，这个数字上的民意，对那部分议员来说，还是有很实质意义的。如果就某个议题多数人意见很明显的话，尽管建制派和泛民的基本政治立场有分歧，在政策议题上，两者都不容易偏离民意太远。&lt;/p&gt;
 
-&lt;p&gt;互相援助这种习惯——还可以举出许多这种习惯的实例——无疑地说明法国农民那样轻易地进行下列合作的原因：他们把犁头和拉犁的马匹以及葡萄榨汁器和打麦机交给自己村子中的一家人单独保管，由大家联合起来输流使用这些东西，并且共同做各种农活。从古时起，村落公社就维修河道、砍伐森林、种植树木和排泄沼泽，这些工作现在还在继续进行。不久以前，在罗塞尔省的拉波恩，人们还共同劳动，把贫瘠的小山变成了富饶的园子。“大家背运泥土，修筑台地和种植栗树、桃树和其它果树，用两、三英里长的渠道运水来灌溉。”最近，他们还开了一条长达十一英里的新河道。&lt;/p&gt;
+&lt;p&gt;换言之，在回归后一段很长时间，虽然民调不能似在民主地区，发挥彷如公投一般的影响力；但是透过立法会的选举办法，民意还是有很微妙的作用，令政府有实质需要透过民调，了解市民对一些议题的看法。&lt;/p&gt;
 
-&lt;p&gt;近来，农民联合会（syndicats agricoles）或农民协会所以取得显著的成就，也应归功于这种精神。在法国，到1884年才允许成立十九个人以上的团体，当人们鼓着勇气进行这种“危险的尝试”（在议会两院中是这样说的）时，不用说，官吏们所能想到的一切必要“预防措施”都采用了。但尽管如此，在法国仍然是到处都在成立这种联合会。起初，联合会成立的目的只是为了购买肥料和种子，因为这两种商业中的舞弊情况已经达到了惊人的程度。但是，联合会逐渐把它们的作用向各方面扩展，其中包括农产品的销售和土地的不断改良。在法国南部，由于葡萄虫的猖獗形成了灾害，于是就成立了许多葡萄种植者的组合。十个到三十个种植者便成立一个联合会，买一部抽水用的蒸汽机，并且作出必要的安排，便利输流浇灌他们的葡萄园。以预防土地遭受水淹、引水灌溉和维修渠道为目的的新组合不断在组成，按法律规定，所有这些都需要经过一个地方的农民一致同意，但这个规定也不能限制这些组织的形成。在别处，还有果农协会或乳业协会，其中有些协会不论每一头奶牛产奶多少，所有的奶油和奶酪都平分给每一个会员。在阿列日省，我们发现有八个独立的村子为了共同耕种它们合并在一起的土地便组织一个联合会。在同一个省的三百三十七个村子里，有一百七十二个村子成立了免费的医疗互助联合会，和这些联合会相联系的消费者的协会也成立起来，还有其他各种组合。阿尔弗来德·波德里拉写道：“在我们的农村里，通过这些联合会（它们在每一个地区都有它们各自的特点）正在进行一次真正的革命。”&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;端：大家是否了解，中策组解散后，政府是否仍将民调视为其中一种观察民意的方法？&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;在德国的情况也十分相同。无论在什么地方，只要农民能够维护住他们的土地不被掠夺，他们就把他们的土地作为公有，这种制度在符腾堡、巴登、霍亨索伦和斯塔根堡的黑森省是颇为盛行的。公有的森林一般都保持得很好，成千的村落公社每年都把木材和燃料分给所有的居民；甚至现今在许多地方还保有“采樵日”（Lesholztag）这个古老的习惯：当村子里敲起钟来的时候，大家便都到森林中去取木柴，能拿多少就拿多少。在维斯特法伦，我们发现有些村落是把它们所有的土地作为共同财产来耕种的，它们的方法很符合现代农业科学的各种要求。至于古老的村落公社的风俗和习惯，在德国的大部分地方迄今依然存在。请求别人帮助（帮助别人，是真正的劳动节日），在维斯特法伦、黑森和纳索是习以为常的事情。在木材丰富的地区，修盖新房子所需的木材，一般都是从公有的森林中砍伐的，而且所有的邻居都来参加修盖房子的工作。在法兰克福的郊区甚至还有这样一种习惯：在园丁中如果有一个人病了，所有种园子的人都在星期天来帮助料理他的园圃。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;马岳&lt;/strong&gt;：我不知道，也没有资料，纵使没有选举，政府应该也需要理解民意（它没有诱因故意去做一些违反民意的政策），但似乎民间公开发布的民意调查已经愈来愈少，那么究竟特区政府是自己做、委托人做、还是用其他方法，不得而知。&lt;/p&gt;
 
-&lt;p&gt;在德国，也像法国一样，一到人民的统治者废除了他们取缔农民联合会的法令（只是在1884—1888年才废除），这些组合便开始以惊人的速度向前发展，尽管在它们的道路上仍然有种种法律障碍。标亨伯格说：“在成千个从来不知道什么叫做化学肥料和配合饲料的村落公社中，由于有了这些组合，每天都有人使用这两种东西，而且使用的数量之多，是预想不到的，这一点的确是事实。”（第2卷第607页）通过这些组合，他们购买了种种节省劳力的工具和农业机器以及良种牲畜，并且还开始采用了改进品种的各种办法。销售农产品和不断改良土地的组合也成立起来了。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/8XhEN1u.png&quot; alt=&quot;image06&quot; /&gt;
+&lt;em&gt;▲ 2000年7年15日，香港大学民意研究计划主任钟庭耀于港大民意调查风波后出席香港电台节目后，被传媒团团围住。&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;从社会经济学的观点来看，农民所作的这一切努力肯定是重要性很小的。它们实际上不能减轻，更不能永久减轻整个欧洲的农民注定要遭遇的灾难。但是，从我们现在所考虑的道德观点来看，对它们的重要性是不论怎样看也是不会过分的。这些努力证明：甚至在现今不顾一切后果的个人主义制度到处流行的情况下，农民群众仍然忠实地保持了他们所继承的互助习惯。虽然国家用冷酷无情的法律破坏了人与人之间的关系，但是，一到国家放松了这些法律的束缚，这种关系便不顾无数政治的、经济的和社会的困难立刻又重新建立起来，而且所采取的形式最适合于现代生产的要求。它们指出了将来必须向着什么方向和采用什么形式向前发展。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;端：1991年钟庭耀在港大成立“民研计划”，2004年中大才成立了“传播与民意调查中心”，10年一代，是否反映社会和学术上对民调的需求的变化？运作一间民调机构有多“贵”？港大民研1999年开始自负盈亏，这种模式在香港或全球是如何实践的？&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;我可以毫不费力地从意大利、西班牙和丹麦等国中举出大量的例子，指出每一个国家所特有的一些有趣的特点。应该提到的是，在奥地利和巴尔干半岛上的斯拉夫人中间，现在仍然存在着“复合家庭”或“未分家庭”。但是，我急于想谈一谈俄国的情况，在那里，上面所说的互助倾向采取了前所未见的一种新形式。此外，在论述俄国村落公社的时候，我们有大量的材料可以利用，这些材料是由几个地方自治会（zemstvos）最近在俄国不同地区的将近两千万农民中挨家挨户进行调查收集的。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;马岳&lt;/strong&gt;：这里遗漏了“中大亚太研究所”曾经是很重要的民调机构，自1990年代的 Social Indicators Survey 一直是非常有参考价值的资料和文献。例如身份认同研究，一直亚太所都有做。&lt;/p&gt;
 
-&lt;p&gt;从俄国的调查所收集的大量材料中，可只得出两个重要的结论。在俄罗斯的中部，足足有三分之一的农民，由于沉重的捐税、只分到很少的贫瘠土地、高额地租、完全歉收时还要苛征赋税等原因，完全破产了。在那里，在解放了农奴之后的第一个二十五年间，的确产生了在村落公社的土地上形成了个人财产的严重倾向。有许多穷得“没有马的”农民抛弃了他们所分得的土地，而这些土地往往就变成了有额外的商业收入的富农或外地商人的财产；这些人之所以购买土地，主要是为了向农民榨取高额的地租。需要补充说明的是，在1861年颁布的土地赎买法中有这样一个缺陷：它给了这些人以种种的便利，使他们可以用很少的钱购买农民的土地，而且，国家的官吏又大都利用他们的巨大势力助成个人的占有，以破坏村落的公有。但是，最近二十年来在俄罗斯中部的农村中，又刮起了一阵反对私人占有的风暴，居于富农和贫农之间的大量农民坚持不懈地竭力维持村落公社。至于南方富饶的平原（现在是俄国欧洲部分最富足和人口最稠密的地区），大部是在国家承认私人所有或占用的制度下，在本世纪里开始向这里移民的。但是，自从借助于机械的改进农业方法传人这个地区以后，自耕农便逐渐开始自动把他们私有的土地改为公有，现在，在俄国的这个谷仓里，我们发现已经有非常多的自发地组成的新村落公社。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;李立峰&lt;/strong&gt;：营运民调机构有几贵，很难一概而论。例如到了今天，不少全球性的网络调查机构，例如 YouGov、Dynata 等，都有自己的 online panel，在全球范围运作，他们的营运成本自然超级贵，但他们也因此而有 economy of scale，而有些研究也只能由他们去处理，例如牛津大学路透新闻研究所一年一度，在全球四十多个国家地区进行的数码新闻调查，就是YouGov执行的，我不知道实际收几多钱，但可以想像是非常高价吧。&lt;/p&gt;
 
-&lt;p&gt;我们已经掌握了详细材料的克里米亚和位于它北部的那一部分陆地（陶里达省），提供了这一运动的最好例证。这个地区自1783年合并之后，大俄罗斯人、小俄罗斯人和自俄罗斯人——哥萨克、自由民和逃亡的农奴——便开始一个人一个人地或一批一批地从俄国的各个地方移民到这儿来。他们首先是从事牧畜，以后，当他们开始耕种土地的时候，他们每一个人能耕种多少就耕种多少。但是，由于移民的继续涌至，同时又传人了完善的耕犁，所以就需要大量的土地，这时候，在移民中间便开始发生了激烈的争执。这些争执经年累月地延续下去，直到那些从前一无联系的人们逐渐认识到必须采用村落公有制来结束这种争执为止。他们就作出这样的决定：私人所有的土地，今后应该成为属于公有的财产，同时，他们开始按照一般村落公社的规则把他们的土地加以分配和再分配。这个运动逐渐大为扩张，陶里达省的统计学家发现，在一个很小的地区里，主要在1855—1886年间由当时的业主自动以土地公有制来代替土地私有制的就有一百六十一个村落。移民们自由地创造了各种类型的村落公社，这个变化的特点是，它不仅发生在习惯于村落公社生活的大俄罗斯人中间，而且也发生在小俄罗斯人（他们在波兰的统治下早已忘记村落公社了）、希腊人和保加利亚人中间，甚至在日耳曼人中间也发生了，他们在自己繁华的和半工业化的伏尔加移民地很早以前就创出了他们自己特殊类型的村落公社。当然，在陶里达省的信奉伊斯兰教的鞑靼人是按照限制个人占有的伊斯兰教的习惯法来处理他们的土地的，但是，即使在他们中间也偶尔有采用欧洲村落公社制度的时候。至于陶里达省的其他民族，废除私有制的，有六个爱沙尼亚人的村落、两个希腊人的村落、两个保加利亚人的村落、一个捷克人的村落和一个日耳曼人的村落。&lt;/p&gt;
+&lt;p&gt;大学部门建立一个调查机构或单位，成本就不会很高，但不等于容易做到自负盈亏，哪怕你只是请三个全职研究员，只计人工都超过一百万一年了，要做几多个调查研究才“回本”？这里就涉及一个更基本的问题，就是做一个严谨的电话调查有几贵？不便宜的，因为真正严谨的电话调查，可以涉及一些细节，会令成本上涨的，举一个例子，一个好的调查，回应率不能太低，但今时今日愿意回应民意调查的人越来越少，而为了尽量保持回应率在一个较好的水平，若访问员打了一次一个电话号码，而未有人接听，访问员是需要在隔一天后再打一次的，这叫做 call back，中大传播与民意调查中心的做法是 call back 三次，即是打了四次都未能接通才放弃那个电话号码。明显地，call back 次数越多，成本越高，profit margin 也自然越少。&lt;/p&gt;
 
-&lt;p&gt;这一运动，是所有南方肥沃的草原地区的特点。但是，在小俄罗斯也发现有个别的例子。例如在契尔尼戈夫省的许多村落里，农民们从前有私有土地的，他们各有合法的田契，他们常常把他们的土地出租和随意变卖。但是在十九世纪五十年代，在他们中间便开始了一个土地公有运动，主要的原因是贫困的人家愈来愈多。关于这种改革——由一个村落发起，其他的村落跟着进行——据记载最后一次是在1882年。当然，在通常主张公有制的穷人和通常偏爱个人所有制的富人之间是有斗争的，而且这种斗争往往持续好几年。有些地方，因为得不到法律所要求的一致同意，所以一个村落便分化为两部分：一部分采用个人所有制，另一部分采用公社所有制；后来，两部分又合而为一，但有些就一直分化下去了。至于俄国中部，许许多多本来在向着个人所有制这一方向走的村落，在1880年开始了一个赞成重新建立村落公社的群众运动，这的确是事实。甚至在个人所有制下面生活了许多年的自耕农也大批大批地回到了公社生活中。例如，有相当多的从前的农奴虽然所得到的土地只有法定分配面积的四分之一，然而他们不须交付赎金就可把这些土地作为他们个人所有；1890年，在他们当中（在库尔斯克、梁赞、唐波夫和奥廖尔等省）发生了一次把所分得的土地合并起来、采行村落公社的广泛运动。按照1803年的法令从农奴制度中解放出来的“自由农户”，虽然各家都分别购买了他们所分得的土地，但现在差不多都在他们自发采用的村落公社制度中生活了。所有这些运动都是最近发生的，而且非俄罗斯血统的人也参加了这些运动。例如蒂拉斯波耳地区的保加利亚人在私有财产制度下生活了六十年之后，在1876—1882年又实行了村落公社制度。在别尔佳扬斯克，德国门诺教派教徒在1890年曾经为实行村落公社而斗争，而浸礼派的德国小土地所有者也为了同一目的在他们的村落中进行鼓动宣传。再举一个例子，在萨马拉省，俄国政府在四十年代曾试办了一百零三个实行个人所有制的村落。每一家人都得到了一百零五英亩的肥沃土地。然而在1890年，在一百零三个村落中已经有七十二个村落的农民表示了实行村落公社的愿望。我谈的这些事实，都是取材于维·维的那本优秀著作，而他也只是把上述逐户调查所得的材料分门别类地列举出来罢了。&lt;/p&gt;
+&lt;p&gt;其实香港很多大学的部门都有过做调查研究的单位，以前城大有过，理工就是钟剑华负责的那个单位，岭南有李彭广教授，教育大学也试过做，中大除了传播与民意调查中心，亦有亚太研究所会做调查，但能持续运作的也所剩无几了吧。&lt;/p&gt;
 
-&lt;p&gt;这种赞成公有制的运动，和现今流行的经济学说简直大为相反，根据这些学说，集约耕作（intensive culture）和村落公社是不相容的。对这些学说的最厚道的评语是它们从来没有经过实际考验：它们是属于政治上形而上学领域的事物。相反，我们在前面所说的那些事实表明，无论在什么地方，如果俄国的农民具有各种顺利的环境而不像他们通常的那样穷困，如果在他们当中出现了有知识和有主动性的人，那末，他们即将把村落公社作为改进农业和农村生活的唯一手段。从下列事实就可看出，在俄国也像在其他地方一样，导向进步的是互助而不是个人反对整体的竞争。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/mCJvWML.png&quot; alt=&quot;image07&quot; /&gt;
+&lt;em&gt;▲ 香港中文大学政治与行政学系副教授马岳。&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;在尼古拉一世的统治下，许多皇家官员和农奴主把谷物借给最穷苦的村民之后，为了充实村中的仓廪，便常常强迫农民共同耕种一小块一小块的村有土地。这样的耕作方法，使农民们痛苦地联想到农奴制度的悲惨境况，因此，在废除农奴制度时人们就把它抛弃了；但是现在，为了自己的利益，农民重又采用了这种方法。在一个地区里（例如在库尔斯克的奥斯特罗戈日斯克），只要一人首倡，就足以使五分之四的村落又恢复这种制度。在其他的几个地区也是如此。在预定的日子，村民们都来到田里，较富裕的带一把犁头或一辆车，较贫穷的空着两手，但从来没有人企图对哪一个人的一份工作有所歧视的。以后的收获，或者用来借给穷苦的村民，而且大部分是无偿地补助的，或者用来供养孤儿寡妇，或者用来供作乡村教堂和学校的需用，或者用来偿还村落的债务之用。&lt;/p&gt;
+&lt;h3 id=&quot;民研的意义&quot;&gt;“民研”的意义&lt;/h3&gt;
 
-&lt;p&gt;日常乡村生活中的各种工作（例如维修道路和桥梁、修筑堤坝、引水灌溉、排水、伐木和植树等等），可以说都是由整个村落里的人来作的，土地由全村人出租，牧草也由全材人来刈割（像托尔斯泰所描写的，男女老幼一齐下手），所有这些，只有生活在村落公社制度下的人才能办到。这些工作在整个俄国乡村中每天都在进行。而村落公社也从来不反对现代的农业耕作方法，如果它负担得起所需要的费用的话，同时，如果迄今只有富人才有的知识能够为农民所掌握，那么它一定会被用来改进农业的。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;端：民调遵循严谨的方法，得出的结果是否相差无几？&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;方才说过，改良的耕犁在俄国南部很快地到处推广开来，而在许多情况下是村落公社在帮助推广使用这种耕犁的。村中买上一具犁在一块公有土地上试用过以后，便告诉制犁的人加以必要的改进，由于村落公社把这看作是一种乡村工业而时常帮助制造廉价的耕犁。当这个运动开始的时候，莫斯科地区的农民在五年内就购买了一千五百六十具耕犁，而这股力量，是来自为改良耕作方法这一特殊目的而集体租种土地的那些公社。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;马岳&lt;/strong&gt;：应该是的，当然不同的 wording 会有不同的答案。&lt;/p&gt;
 
-&lt;p&gt;在东北部（维亚特卡），农民的小组合带着簸谷机（制造这种机器是某一产铁地区的一项农村工业）到各邻省去推广这种机器的使用。打谷机所以能在萨马拉、萨拉托夫和赫尔松推广，应该归功于这些农民的组合，因为它们可以买得起个体农民买不起的昂贵机器。我们所读过的经济论文差不多都说，当谷物的输种方法代替了三耕制的时候，村落公社就注定要消灭，但我们知道，在俄罗斯却有许多村落公社是主动提倡谷物输种的。在采用这种方法以前，农民们常常拨一部分公地来作人工牧场的试验，所用的种子由公社购买。如果试验成功的话，他们就毫无困难地重分他们的土地，以便适合四耕制或五耕制。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;李立峰&lt;/strong&gt;：2015年时，伞运过后，立法会要就政改方案投票，那时候港大民研、中大传播与民意研究中心，以及理大应用社会科学部的民调单位就一起做政改方案的民调，三间大学的结果是有差异的，但不会很大。&lt;/p&gt;
 
-&lt;p&gt;现在，莫斯科、特维尔、斯摩棱斯克、维亚特卡和普斯科夫的千百个村落都采用这种耕作制了。在匀得出土地的地方，这些村落公社也把它们的土地分出一部分来种植果树。小型模范农场、果园、菜园和育蚕场（在乡村教师或乡村志愿工作者的领导下，由乡村学校所发动）近来在俄国所以突然发展起来，也是由于村落公社对它们的支持。&lt;/p&gt;
+&lt;p&gt;当几个机构就同一个议题进行调查时，差异来源可以有好几个，第一自然是因抽样而出现的误差，大家都是随机抽样，我抽到的1000人跟你抽到的1000人不会完全一样，但只要大家都用了正规的抽样方法，这个误差是“有数计”的，有一个范围的，而只要样本数到了一定水平，误差就不会很大。第二和第三就难以评估了。第二个差异来源可以是不同机构用了稍为不同的问法，或题目用的字眼有细微但足以构成影响的分别，第三则是机构的公众形象，可能令愿意回答他们问题的市民有分别。虽然说有各种差异来源，但一般情况下，这些不同来源做成的差异不会很多，而且往往是 cancel out each other 的。&lt;/p&gt;
 
-&lt;p&gt;此外，也经常进行像排水和灌溉这些长期性的改进工作。例如，在莫斯科省的三个地区（它们在很大程度上是工业区），最近十年来完成了大规模排水工程的村落，不下一百八十到二百个之多，都是村民们自己动手用铲子完成的。在俄罗斯另一端的干燥的诺沃乌晋草原上，村落公社修建了一千多道塘堰，打了几百口深井：而在东南部的一个富庶的日耳曼人移民区，男女村民接连工作了五个星期，为灌溉修起了一条长达两英里的场坝。在对干燥气候的斗争中，单独的个人能有什么作为呢？当俄罗斯南部遭到土拨鼠的危害，所有居住在那块土地上的人，不论贫富，也不论是公有财产者还是个人主义者，消除这种祸患都得依靠双手奋斗的时候，凭个人的努力又能取得什么结果呢？把警察叫来，是没有什么用的；只有联合起来才是唯一可行的补救办法。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;端：民研成立得早，施政满意度调查、香港人身分认同调查、六四调查、学术自由调查等都是率先进行。这些民调给同行或研究者有过怎样的启发？&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;现在，我们谈了这么多关于“文明的”国家中的农民实行互助和互援的情况以后，我看出我还可以从亿万也是处在或多或少中央集仅国家的监护之下但未接触现代文明和现代思想的人们的生活中举出许多这类例子来写满一部八开本的书。我可以描述一个土耳其人材落的内部生活和它一系列值得称赞的互助的风俗习惯。在翻阅我写满高加索农民生活状况的笔记时，我碰到许多关于互助的动人事例。在阿拉伯的“村民议会”和阿富汗的“普拉”中，在波斯、印度和爪哇的乡村中，在中国人的大家庭中，在中亚细亚的半游牧人和遥远北方的游牧人的营地中，我也发现了同样的互助习惯。在参考我从非洲的文献中随手摘录下来的笔记时，我发现其中也记满了类似的事实，例如请人帮助收刈庄稼，请村里的居民都来帮助修建房屋（有时候是修理被文明的海盗们所破坏的房屋），有事时互相帮助、保护旅客以及其他等等情况。当我深入研究像波士特的非洲习惯法撮要这样的著作时，我了解到，尽管有暴政、压迫、抢劫和骚扰、部落战争、贪婪的国王、骗人的巫师和僧侣、劫卖奴隶的商人等等祸害，非洲人民为什么仍然没有在森林中迷失方向，他们为什么还能保持一定的文明，并且依旧是人类而未堕落到残余的、退化的猩猩那种水平。事实是，劫卖奴隶的商人、掠夺象牙的强盗、好战的国王、马泰伯勒和马达加斯加的“英雄们”都消灭了，留下来的只是他们的标志着血和火的痕迹，但是，在部落和村落公社中成长起来的互助制度和风俗习惯的核心却依然存在下去，它使人类结合成社会，使它向文明前进，而且准备在人类接受文明而反对战争的日子到来时，立刻就可接受文明进步。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;马岳&lt;/strong&gt;：我相信最重要的是这些东西都是 longitudinal 的（包括官员民望、政党支持等都是），是用同样的方法同样的问法在不同时段重复地问，于是对研究者来说有很大的参考价值，因它可以清楚的显示民意随时日或政治事件带来的变化。相关的数据也可以供其他研究者作进一步分析。&lt;/p&gt;
 
-&lt;p&gt;以上所说的，也适用于我们的文明世界。自然灾祸和社会灾祸是会消失的。整个地区的人定期地遭受到苦难或饥饿；亿万人的生活源泉被破坏，从而陷入城市贫民的困境中；亿万人的理性和情感被为少数人利益而创造的教育所败坏，所有这一切的确是我们生活的一部分：但是，互助的制度和风俗习惯的核心依然存在于亿万人中，它使他们团结在一起。他们宁可固守他们的习惯、信念和传统而不愿接受个人反对整体的竞争这种论点。这种论点在对他们提出时虽被冠以科学之名，但它根本不是科学。&lt;/p&gt;</content><author><name>彼得·克鲁泡特金</name></author><summary type="html">国家时期开始时人民的起义 现代的各种互助制度 村落公社及其为反对国家废除它而斗争</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://i.imgur.com/YHHIshI.png" /><media:content medium="image" url="https://i.imgur.com/YHHIshI.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
+&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/ieD1et6.png&quot; alt=&quot;image08&quot; /&gt;
+&lt;em&gt;▲ 2018年6月4日，支联会举行“悼六四、抗威权”烛光晚会，大会宣布有11万5000人参与。&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;李立峰&lt;/strong&gt;：在处理一些相关议题时，民研的调查数据往往是很重要的背景资料。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;邓键一&lt;/strong&gt;：这里有两方面。首先，不论是否PORI进行的民调，民调数字本身，就是公众了解议题的重要出发点。一个议题无论很多人还是很少人支持或反对，我们都可以问“为什么”，然后探讨各方就该议题的想法。&lt;/p&gt;
+
+&lt;p&gt;至于长期调查，正如马岳所讲，这对我们了解社会不同方面的趋势和变化是十分重要的。另一方面，长期调查也是我们回顾历史的立足点。&lt;/p&gt;
+
+&lt;p&gt;例如回到回归初期，大家的记忆中，董建华似乎很多方面的施政都会引起公众批评。但是今日再看当初的民调，原来董建华的民望还算不错。从这个出发点，我们又可以再问，董建华政府的施政风格跟其他特首有何不同，还是不同时期、不同世代的香港市民对特首的期望不一样？这些提问，如果没有过去的民调数字为基础，可能会很空泛。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;端：PORI 2019年7月1日自港大脱离，独立运作后，和港大民研有怎样的区别？它结束运营，对香港有什么影响？&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;马岳&lt;/strong&gt;：我不觉得运作上有很大不同，只是随著政治变迁，发布民意调查的压力大了，而民间会付款资助民调的团体会少了，营运会比前更加困难。&lt;/p&gt;
+
+&lt;p&gt;我觉得最重要是有一些长期的民调，本来可以参考时间带来的转变，但可能从此中断，之后就没有数据了。PORI 的资料公开，大家都可以用来分析，其他机构或学者纵使可能会做相关研究，但很可能不会长期做同一套问题，而资料也未必会公开给人参用。&lt;/p&gt;
+
+&lt;p&gt;其实香港近年公开的民调已经减少，传媒、团体和各类公开民调都减少很多，对我们观察社会现象和民情来说都有颇大影响。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/hN2Id3q.png&quot; alt=&quot;image09&quot; /&gt;
+&lt;em&gt;▲ 2019年7月1日，钟庭耀在七一游行现场。&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;李立峰&lt;/strong&gt;：其实在过去几年，在大环境转变下，传媒对民调的报道都少了很多。以民调形式所表达的民意难以对当下的政策讨论产生影响，但当 PORI 持续对民意进行记录时，这些数据对我们理解社会还是很重要的，所以我觉得最大的影响在少了长期对民意的记录吧。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;端：社运期间，PORI 民调一度因为和抗争者设想不同而被视为“鬼”，如何看待民调与民意的距离？更不要说前面提到的来自政府的批评。民调三十年来，都不乏“民调不公”“民调被操作”的指控，如何看待民调作为方法的局限和优势？&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;马岳&lt;/strong&gt;：不同因素当然可能影响民调的结果，包括研究方法、问句、时间背景等等，研究者也往往有自己的假设，于是不一定完全测量到民意的真象。&lt;/p&gt;
+
+&lt;p&gt;这里当然假设了有一个民意的“真象”，实际上可能没有人知道真正的民意全貌是怎样。民意调查往往是拿了一个角度一个切面去了解民意而已。但在政治上，政府、政党、民间及其他行动者，都可能利用“民意”或“民意调查”作为其推动议程或利益的工具，于是本身民意是 contested 的，有时各取所需，本身就是很政治性的。&lt;/p&gt;
+
+&lt;p&gt;在这个时代下，尤其在社会分化和回音壁效应下，很多人都以为自己是对的，于是如果民调的结果和他想像的不同，便可能以为其造假或出错。不同政治行动者都可能“操作”民调以达到自己的某些目的，但有时有些人或者政治力量看到不合自己想像、利益或者设定议程的民调结果时，纵使这个民调是科学或者方法上没有问题：都可能加以指摘。&lt;/p&gt;
+
+&lt;p&gt;其实如果要反驳，有效的方法就是自己或者再做一个了，看看是不是会得出不同的结果。如果市面上有不同的民调机构做类似的民调，其资料便可以比较。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/rlW2ixZ.png&quot; alt=&quot;image10&quot; /&gt;
+&lt;em&gt;▲ 2014年10月28日，参与反政改示威的市民在金钟占领区举起雨伞。&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;李立峰&lt;/strong&gt;：民调结果往往和大家以为的民意之间是有距离的。每人对“民意”的认知都受限于自己的生活经验和社会圈子，而物以类聚，同声同气的人走在一起本属正常，社交媒体的回音廊效应把这趋向再放大一些。所以，人们容易高估自己的想法的普及程度。&lt;/p&gt;
+
+&lt;p&gt;2014年伞运期间，我们也做民调，结果是百分之三十几的人支持运动，百分之三十几的人反对运动，然后支持和反对运动的人都说我们的结果有问题，跟他们的认知有很大落差，那时候我的同事兼老师李少南教授就笑说，“咁咪证明我哋专业同客观啰”。到了2019年，10月左右，我们的民调显示，仍然有7成左右的市民支持反修例运动，支持运动的人固然不批评了，反对运动的也不怎么批评民调，但就是不相信，觉得反对运动的人不回答民调而已，结果区议会选举的结果就说明了当时的民情趋向。&lt;/p&gt;
+
+&lt;p&gt;要补充说，我们不能预期民调很精准，上面提到，民调会有不同类型的误差。美国大选民调结果和选举结果就有差异，但那差异其实也就是几个百分点。香港政治研究过往的“常识”是，民调会低估建制支持度几个百分点，因为建制支持者平均年龄大，教育程度低一点，较少回应民调，但就是几个百分点而已。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;邓键一&lt;/strong&gt;：如果从较宏观的角度看，并非只在香港，而是一般而言，当社会有人倡议一些大多数人未必太关注的议题时，民调反映出大多数人的想法，与倡议团体想倡议的想法之间，一定存在某种落差，这也是为什么会有倡议工作。&lt;/p&gt;
+
+&lt;p&gt;所以在理论层面可能会出现的问题就是：民意反映的大多数人想法，不是一些很 activate 的民意，不会透过非制度参与去表达出来，反而很多时候倡议组织比较 activate 的民意，在公共领域里面是会容易接触得到的。然而，后者的声音，在民调结果作为众多个人意见的总和之下会少一些，所以给人感觉它们之间有个落差。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/mGbd4RY.png&quot; alt=&quot;image11&quot; /&gt;
+&lt;em&gt;▲ 香港中文大学新闻与传播学院教授李立峰。&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;李立峰&lt;/strong&gt;：有趣的是，当一个人不相信民调结果，自然可以找很多理由来批评。回到2014年，建制支持者对我们的民调的其中一个批评，就是说我们把民调被访者的年龄下限降至15岁，是刻意制造更有利社会运动的结果。那时候，还有一位跟我住得很近的资深传媒人，特登找我出来喝咖啡谈这个问题。&lt;/p&gt;
+
+&lt;p&gt;实情是，民调本来就不是一定要访问18岁或以上的人，选举民调这样做，是因为18岁才有投票权，其他民调这样做，只是约定俗成而已。但当时的社会运动，年轻参与者本来就多，学民思潮那批中学生甚至是运动领袖。既然运动本身已有很多15至17岁的年轻人参与，民调把他们排除，说不过去吧。何况，我们是很小心和透明的，在发表结果时，其实有把“15岁或以上”的结果及“18岁或以上”的结果同时公开，而两者之间的差异是非常微小的。&lt;/p&gt;
+
+&lt;p&gt;举另一个例子，当年有人批评钟庭耀的特首评分民调，在公布一位特首的分数时，因整体平均分低于50，就说特首评分不及格，实情是超过半数的受访者都给了及格分数，只是有部分给极低分的被访者把整体平均分拉低而已。这个批评合理吗？用技术语言讲，这只是一个如何把“及格”操作化的问题，若把50分定义为及格，那么应该是看整体平均分是否高于50，抑或是看大部分人是否给予高于50的分数？这本来就没有必然对错。&lt;/p&gt;
+
+&lt;p&gt;在这种情况下，看一个研究者或民调机构是否有问题，主要就是看他是否前后一致地使用同一方法。港大民研以至PORI一直都很 consistent 的，而且也很公开透明。你可以不同意他们的操作化，然后提出自己的诠释，但不能说他们刻意扭曲或隐暪。&lt;/p&gt;
+
+&lt;h3 id=&quot;如何保持批判&quot;&gt;如何保持批判？&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;端：那么以全球的视野看，民调这种方法现在面临的挑战和革新是什么？&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;马岳&lt;/strong&gt;：应该很多的，其一是公众对自己私隐的敏感度提高了，而在不同的政治背景下，讲真话都会有多点顾虑，这对回应率、民调是否能测知真相、和样本是否可靠都会有影响。&lt;/p&gt;
+
+&lt;p&gt;应该有更多新的技术可以做民调，例如网上（或其他方法）会渐渐为人接受，很多东西的成本会下降，因而资料搜集有时会容易了。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;李立峰&lt;/strong&gt;：回应率下降是一个很大的问题。例如美国的 Pew Research Center 的电话民调，在2018年时回应率已跌到6%，很低的。我们现在香港的电话民调，若用同一条公式计算，通常仍在30%以上，相较下已不错，但当然其实也低。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/Yp1KuWa.png&quot; alt=&quot;image12&quot; /&gt;
+&lt;em&gt;▲ 2019年8月18日，民阵在香港维园发起集会，诉求为“煞停警黑乱港 落实五大诉求”，参与集会的市民身穿黑衣，人潮庞大，由于大雨，市民纷纷举起雨伞。&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;端：近5年香港变化很大，香港以外，有人认为香港民调已经不可信了。实际操作上会遇到哪些以前没有的困难？如何看待这种评价？&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;马岳&lt;/strong&gt;：所有社会中，被访者都可能有各种的原因不讲真话，像美国很可能不少人对公开支持川普或者某些政治不正确的立场有保留，实际上可能是有各种 bias。但是有 data 好过无 data，现实上我们正研究用各种不同的方法去测试 self-censorship 等问题。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;李立峰&lt;/strong&gt;：我听过的质疑包括人口转变和自我审查。人口转变是指不少对政府持批判态度的市民离开了香港。当然，这其实不算民调有甚么问题，如果很多人离开了香港，人口组成变了，民意因而变了，那民调仍只是记录事实而已。不过，其实就算30至40万人离开了香港，仍不足5%，而且也不是百分之一百某政治立场才会离开的，所以影响是有，但是不是那么大呢？&lt;/p&gt;
+
+&lt;p&gt;至于自我审查，可以分为 selective non-participation 和 preference falsification，前者是持特定立场的人不再参与，后者是不说真话。以前在城市大学教书的日籍学者小林哲郎两年前发表过一个研究，他在2020年国安法立法前后刚好做了一个 panel survey，即同一批被访者，国安法立法前问过一次，国安法立法后再问一次。他们发现，在第二次接触时，民主派的支持更可能不愿意接受访问，这说明了 selective non-participation 是存在的。然后，在两次都有接受访问的人中，有些人在第一次调查中说自己有参与2019年的社会运动，但在第二次调查中就说自己没有参加，而民主派的支持者更有可能出现这个“推翻自己”的情况，这就显示了 preference falsification。&lt;/p&gt;
+
+&lt;p&gt;不过，问题很严重吗？看来也不是。刚才也说过，民调不精准是现实，2019前的民调也会因 selective non-participation 低估建制的支持度几个百分点，但那时没有人会说民调完全无用，习惯看民调的人自然会知道如果调整和诠释。现在的民调可能会稍为低估具批判性的民意，但也可能就是几个百分点而已。在不高估民调的精确度的前提下，调查结果是有参考意义的，而对于学术研究而言，调查研究固然仍然重要。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/YMwtNPw.png&quot; alt=&quot;image13&quot; /&gt;
+&lt;em&gt;▲ 恒生大学公共政治研究中心副主任邓键一。&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;邓键一&lt;/strong&gt;：任何地方做的民调，都一定有属于不同文化背景的 social desirability bias（期望偏误，指受访者因希望为自己塑造正面形象，而在调查中给出符合社会期望的答案），例如在西方社会，种族议题可能是比较敏感的话题，人们或者倾向不会在电话上说反对某些少数族裔权益。而在其他政治环境的地区，人们可能会避免在调查中表达批判的意见。&lt;/p&gt;
+
+&lt;p&gt;从这个角度看，“有人认为香港民调不可信”是个很笼统的说法。正如刚才所说，任何地方都有它的社会规范、政治状况，都有可能令一些题目出现 social desirability bias，但是不是代表民调不可信？这涉及两方面，第一是民调的结果是否能够以我们所知的社会状况演绎得到。任何时候，研究者演绎民调结果时都要参考当时的社会环境变化。在这个意义上，政治、社会状况的转变，意味著研究者从结果演绎民意的时候，要多花一重功夫，分析环境变化会怎样影响受访者可能表达的意见，而我们的工作就是能否合理地用环境变化去了解他们表达意见的转变。举例说，过去几年的调查显示，认同自己是民主派的人减少，更多人选择认同自己是中间派。&lt;/p&gt;
+
+&lt;p&gt;我们当然不需要否定，有人可能会因为社会环境，避免表达自己真实的政治取向。但同时间，也有市民觉得投票是实践政治认同的重要途径。如果他们难以透过选票支持自己认同的候选人，是失去了政治认同的基础，所以改称自己为中间派。上述两种（或更多）可能性是可以同时出现的。而研究者的工作，就是为结果提出各种合乎普遍认知社会状况的阅读，多于马上跳到是否民调已经不可信的结论。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;端：调查（Survey）是社会科学的基础课，这些变化会否影响课程或引起学生顾虑？&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;李立峰&lt;/strong&gt;：这点问题不大的，作为一种社会科学研究方法，它应用面本来就很广，marketing survey 也是 survey。那套方法本身没有敏感不敏感的。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;邓键一&lt;/strong&gt;：承刚才Francis所说，“调查”本身作为一种获得答案的方法，包涵面很广泛的，不一定是关于时事。作为研究方法来说，在某个调查题目下，无论研究对象是作为广大市民、某行业的客户、某行业的从业员，还是了解毕业生状况，在技术层面都是大同小异。所以这些课程本身，并不会涉及敏感的内容。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/EoaEMRL.png&quot; alt=&quot;image14&quot; /&gt;
+&lt;em&gt;▲ 2025年1月13日，警方带同钟庭耀到香港民意研究所位于黄竹坑南汇广场的办公室并搜查超过8小时，傍晚带钟庭耀离开民研办公室。&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;端：在民调无法顺利开展或式微的地区，人们转而多依赖社交媒体观察与情民意，这种方法可能有什么优势和局限？&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;李立峰&lt;/strong&gt;：正如一开始所说，民意有不同表达方式，正如过往政府部门会密切留意电台烽烟节目，但那并不取代民调或其他渠道。社交媒体的民情本身有其值得关注的地方，一个社会中民调能否顺利开展，很多组织都有理由和需要去关注网络舆论的，因为网络舆论既在一定程度表达了某种民意，同时也可以影响社会和民众。&lt;/p&gt;
+
+&lt;p&gt;但值得指出的是，某些在特定政治环境中影响民调准确度的因素，同样适用于社交媒体数据分析，例如上面提到的 preference falsification。如果人们不愿意对著民调访问员讲真话，不见得人们一定会愿意在更公开的社交媒体平台上讲真话。除此之外，一开始时提到，一些持批判态度的学者认为，民调其实有利政府监察民情，多于有利民情监察政府。如果民调如是，那么社交媒体数据分析可能更是如此。始终，做到质素高和准确的“大数据”分析，是需要知识和资源的。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;邓键一&lt;/strong&gt;：我觉得这不一定是因为民调无法顺利展开或式微，而是社交媒介本身就是一个额外平台去反映和观察民意。从民意观察的角度，多一个工具无论如何都是一件好事，而这个工具有一些特点能补充传统民调做不到的事情，例如传统民调预设了研究者很清楚自己要知道什么，然后就自己想知道的事情来设计问题。在设计问题的过程中，又会有方法学上的考虑，确保来自不同背景的受访者对题目理解一致，也会避免设一些情绪上有引导性的问题。&lt;/p&gt;
+
+&lt;p&gt;但是，这种由上而下的研究设定，会令到某些民意和情绪可能观察不到；又或者当社会发生一些突发事情，民调根本不能在事前预计到，这些都要回到社交媒介去看某些论述和情绪是怎样酝酿出来的。因此社交媒介本身对于观察民意有其重要性，而不一定是因一个地方民调式微，所以才依赖社交媒介来观察民意，而是它能够补充传统民调一些局限。&lt;/p&gt;
+
+&lt;p&gt;至于从社交媒体看民意的的局限，第一个是取样。传统民调之所以成本昂贵，其中一个原因是取样上的要求，而这些在社交平台取样便很难执行。甚至乎，很多时所谓的“网络民意”，其实很难说得准到底是来自哪些人的“民意”。&lt;/p&gt;
+
+&lt;p&gt;第二个局限来自平台设计本身，会影响我们能够观察什么，例如社交媒介兴起之后，有学者会研究社交媒介的帖文反映甚么情绪，而Twitter是特别适合进行这种研究，因为Twitter不容许每个tweet写得太长，所以当中表达的情绪很直接，容易分析；反观facebook容许用家写长文，那些情绪就可能很复杂，变成较难观察。到底在社交媒体上能观察到怎样的民意，亦会受限于平台设计本身。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;马岳&lt;/strong&gt;：用其他方法观测当然可以，但也要知道这并不是全貌，例如社交媒体使用的人有不同背景，以及社交媒体上的表达相对简单，有时比较复杂的民意未必观测到，以及观察的时候要作很多假设。没有单一的方法可以完全理解“民情”，没有了有系统的科学的民调，会是一个很大的损失。&lt;/p&gt;</content><author><name>端传媒</name></author><summary type="html">没有一种方法可以完全了解“民意”，但失去一种科学的方法，必然是损失。</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://i.imgur.com/bdrXLmB.png" /><media:content medium="image" url="https://i.imgur.com/bdrXLmB.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">现代人之间的互助</title><link href="https://agorahub.github.io/pen0/heros/1896-06-30-PeterKropotkin-a1_r-mutual-aid-amongst-modern-men.html" rel="alternate" type="text/html" title="现代人之间的互助" /><published>1896-06-30T10:56:15+06:55</published><updated>1896-06-30T10:56:15+06:55</updated><id>https://agorahub.github.io/pen0/heros/PeterKropotkin-a1_r-mutual-aid-amongst-modern-men</id><content type="html" xml:base="https://agorahub.github.io/pen0/heros/1896-06-30-PeterKropotkin-a1_r-mutual-aid-amongst-modern-men.html">&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;在国家摧毁行会之后成长起来的工会 工会的斗争 罢工中的互助 合作&lt;/code&gt; &lt;!--more--&gt; &lt;code class=&quot;highlighter-rouge&quot;&gt;为各种目的而成立的自由组合 自我牺牲 以各种可能的形式进行联合行动的无数社团 贫民窟中的互助 个人的帮助&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;当我们研究欧洲农民的日常生活时，我们发现，尽管现代的国家采取了各种摧毁村落公社的办法，但在农民的生活中依然充满了许许多多互助和互援的风俗习惯。土地公有的重要痕迹现今依然存在；并且当后来排除了乡村组合所遇到的法律障碍时，在农民中便迅速成立了为各种各样经济目的而组成的自由组合——这一新兴运动的倾向，就是在重建某些类似古代村落公社的组合。这就是上一章所得的结论。现在我们就要研究，在工业人口中目前能够找到什么样的互助制度。&lt;/p&gt;
+
+&lt;p&gt;近三百年来，互助制度在城市中的发展情况也如同在乡村中一样，都是不利的。大家都知道，当中世纪的城市屈服于十六世纪的新兴的军事国家之下的时候，所有一切使工匠、师傅和商人结合在行会和城市中的那些制度，的确都被猛烈地摧毁了。行会和城市的自治和独立裁判权都被取消；行会会员之间宣誓彼此忠实信守的事情，被视为对国家犯了重罪：行会的财产也像村落公社的士地那样被没收：每一个行业的内部组织和技术组织都被国家所控制。禁止手工业者以任何方式进行联合的法令，愈来愈严厉。有一个时期，有名无实的旧行会是容许存在的：商人行会在对国王大量献纳补助金的条件下是准许存在的，而手工业者的行会则被保存下来作为管理机构。有些行会现今还在苟延它们那毫无意义的生命。但是，从前作为中世纪生活和工业的生命力的那些东西，在中央集权国家的严重打击下早已消失了。&lt;/p&gt;
+
+&lt;p&gt;在最能说明现代国家工业政策的英国，我们看到早在十五世纪时议会就开始摧毁行会了；但是一直到十六世纪时才对它们采取了具有决定性的措施。亨利八世不仅摧毁了行会的组织，而且还没收了它们的财产，正如陶尔明·斯密土所写的那样，亨利八世所采用的借口和手段，比他在没收寺院时产时所采用的借口和手段还要不合情理。爱德华六世完成了他的事业，在十六世纪后半叶，我们看到议会已经是在处理手工业者和商人之间的一切争端了，而这些争端在从前是分别归各个城市解决的。议会和国王不仅制定了解决各种争端的法律，而且，考虑到国王在对外贸易上的利益，不久以后又规定了每一种行业中的学徒人数，同时还详细订定了每一种制成品的制造技术，如材料的重量、每码布的纱数等等。必须说明的是，所有这一切都并未获得什么成功；因为要想解决这些争端和技术上的困难完全是中央集权国家的能力所不及的，在接连的几个世纪以来，这些都是由彼此密切依赖的行会和联盟的城市用协议的办法来解决的。国家官吏的不断干预，使各个行业为之瘫痪，使它们大部分都陷于完全衰败的局面。当十八世纪的经济学家起来反对国家对工业的控制时，他们只不过是吐露了大众的不满心情而已。法国大革命取消了这种干涉，于是人们纷纷表示拥护，把它看作是一项解放的事业，而其他各地不久也随着仿效法国的榜样。&lt;/p&gt;
+
+&lt;p&gt;在规定工资方面，国家也没有取得更大的成就。在中世纪的城市里，当师傅和学徒或帮工之间的区别在十五世纪愈来愈明显时，学徒同盟（这一团体有时候带有国际性）便对师傅和商人的同盟采取了对立的态度。而在这时，是由国家来消除他们的痛菩了，根据伊丽莎白时代1563年颁布的法令，必须由治安法官确定工资，以保证帮工和学徒的“适当”生活。然而事实证明治安法官无法调和这种互相冲突的利益，更无法强使那些师傅服从自己的决定。于是这项法令渐渐变成了一纸空文，而在十八世起来也就被取消了。但是，国家虽然一方面这样放弃了规定工资的权力，另一方面却继续严禁帮工和工人为提高工资或为保持一定工资水平而结成的各种团体。在整个十八世纪，国家不断地制定了许多禁止工人结社的法令，而且在1799年竟以严惩为威胁，最后禁止了一切社团。事实上，英国议会在这个问题上只是仿效了法国革命议会的例子，法国革命议会颁布了一项严禁工人集会结社的法律——一定数目的公民结成团体，被认为是企图反对国家的主权，而国家本身是平等地保护它的一切人民的。破坏中世纪的各种团体的工作，就此完成。国家在城市和乡村中所统治着的，全是个人的散漫的结合体，并且准备采取最严厉的手段禁止它们重新建立任何一种独立的团体。互助的倾向要在十九世纪向前发展，就得在这种条件下进行。&lt;/p&gt;
+
+&lt;p&gt;任何这类手段也不能摧毁这种倾向，这难道还用得着说吗！在整个十八世纪里，工人的工会不断地重新建立了起来。根据1797年和1799年的法律所进行的残酷迫害，也不能阻止它们。只要监督上稍有漏洞，只要师傅们疏于告发，工人们的团体便趁机成立起来。在友谊会、丧事协会或秘密兄弟会的掩护下，在纺织工业中，在设菲尔德的刀匠和矿工中，到处都成立了工人的工会。而且还成立了有力的联合组织，以便在罢工和遭受控告时支援各个部门的工会。&lt;/p&gt;
+
+&lt;p&gt;禁止工人结社条例于1825年废除了，这刺激了运动的发展。在各个行业中都成立了工会和全国联盟；当罗伯特·欧文着手建立“全国职工大同盟”时，只在几个月内就集合了五十万成员。事实上，这个比较自由的时期并不长久。到十九世纪三十年代又开始了新的迫害，跟着便是著名的1832—1844年的狂暴迫害。“全国大同盟”被解散，在全国各地，雇主和政府在工厂中强迫工人和工会断绝一切联系，并签署说明这样作的“文书”。大批的工会会员受到“雇主和佣工条例”的严重迫害——只要雇主控告工人有不当行为，工人立刻就要被逮捕起来惩办。镇压罢工的方式非常横暴，只要宣布罢工，或者在罢工中充当代表，就要被处以骇人听闻的刑罚，至于对罢工骚动实行军事镇压，在时常爆发的激烈行动以后的判刑，那就更不用说了。要在这种情况下实行互助是很难的。然而，尽管有我们这一代人几乎难以想象的种种障碍，工会却在1841年重又开始活跃起来，工人们此后一直保持了他们的团结。经过了一百多年的长期斗争之后，他们终于获得了结合在一起的权利，到1902年，在长期雇用的工人中差不多有四分之一，即一百五十万人参加了工会。&lt;/p&gt;
+
+&lt;p&gt;至于说到欧洲的其他国家，只消谈一谈下列的情况就够了：在这些国家，直到最近以前，还在把各种工会当作不法团体来迫害；尽管工会往往不得不采取秘密组织的形式，但它们仍然在各地都存在；而工人的组织，特别是美国和比利时的劳工协会（Knights of Labour），其范围之广和力量之大，已为1890—1900年的罢工所充分说明了。然而，我们必须记往，除了遭受迫害以外，单单是属于工会这一事实本身，就意味着在金钱、时间和无偿的工作方面作了很大的牺牲，而且，仅仅由于是一个工会会员，便经常有失去工作的危险。并且，一个工会会员又必须经常面对罢工；而罢工的严酷现实是：使工人家庭在面包店和当铺里的有限的一点信用很快便完全丧失，而罢工期间所得的救济金甚至还不够购买食物之用，孩子们的脸上不久便显露出饥饿的痕迹。对一个和工人有密切接触的人来说，长期罢工是最个人痛心的情景；不难想象，在四十年前的英国和即使在现今欧洲最富裕的地区，罢工将意味着什么。甚至在目前，罢工的结局也将不断迫使整个地方的人口完全破产和被迫迁移国外告终，而罢工者为了一点儿小事或竟无缘无故地即被枪杀，这在欧洲大陆迄今历然是司空见惯的事情。&lt;/p&gt;
+
+&lt;p&gt;然而，在欧洲和美洲每年仍然有几千起罢工和闭厂停工的事情——一般地说，最激烈和最持久的斗争，是为了援助被闭厂解雇的同志或维护工会权利而进行的所谓“同情罢工”。有一部分报纸往往以“威胁”来解释罢工，但是在罢工者中间生活过的人别怀着钦佩的心情谈论罢工者经常实行的互助和互援。每一个人都听说过下述的事实：在伦敦码头工人罢工的时候，许多工人为了筹办救济事宜自动地作了许多工作；有些矿工自己也是好几个星期没有工作了，但一旦有了工作便捐出四个先合作为罢工的基金：一个矿工的寡妻在1894年约克郡矿工大罢工期间，所有的新闻记者都知道许多这样的事实，虽然他们并不是全都能够把这些“无关的”事情报道给自己的报纸。&lt;/p&gt;
+
+&lt;p&gt;然而工会并不是工人表现他们的互助需要的唯一形式。此外，还有政治组织，许多工人都认识到，由于现在工会对于工人的目标的贡献大受限制，所以不如政治组织的活动更能增进大众的福利。当然，单单是属于一个政治组织，还不能看作是互助倾向的一种表现。我们都知道，在政治这个领域中，社会中的纯粹自利因素和利他愿望是交织难分的。但是每一个有经验的政治家都知道，一切伟大的政治运动都是为了伟大的、时常是遥远的目标而奋斗的，而其中鼓起人们最无私的热情的，就是最有力量的运动。所有伟大的历史性运动都具有这一特点，对我们这一代人来说，社会主义就是这样的运动。那些丝毫不懂得社会主义的人们无疑最喜欢用的口头禅是什么“雇用的煽动者”。然而，仅就我个人所知道的来说，事实是这样：如果我在这二十四年来写有一本日记，其中纪录了我在社会主义运动中所见到的献身和自我牺牲的行为，那么，读这本日记的人将称道这些行为是“英雄的行为”。但是，我所谈的这些人，并不是什么英雄，他们都是被伟大理想所鼓舞的普通人。每一种社会主义的报纸（只在欧洲就有几百种这样的报纸），都有长年累月地甘心牺牲而不望任何报酬的历史，而且绝大多数都没有任何个人的野心。我曾见过许多家无隔宿之粮的家庭，丈夫因为替报纸工作在他的小城中到处受排挤，全赖妻子替人做针线活来维持家庭，这种情况继续了好多年，直到这一家人后来不得不告退，但他们毫无怨言，只是说：“继续干下去；我们已经不能坚持了！”我曾看见过许多即将死于肺病的人，他们自己也知道这种情况，却仍旧在下雪下雾的日子里忙着筹备会议，在会上发表演说，直到临死前几个星期才进医院，这时他们只说：“现在，朋友们，我已经不行了；医生说我只有几个星期可活了。告诉同志们，如果他们能来看一看我，我会感到很高兴。”我看到的一些事实，如果在这里讲起来的话，也许会有人说是被“理想化”了的；这些人的名字，除了很少几个亲密朋友之外，是没有人知道的，当他们的朋友也死去的时候，他们的名字很快也就被人遗忘了。事实上，我自己也不知道哪一个最受人钦佩：是这些少数人的无限的献身呢，还是大多数人的微小的献身行为的总和。每售出一辨士一份的报纸，每一次集会，在选举时社会主义者所赢得的每一百张选票，都包含着局外人再也想象不到的巨大精力和牺牲。社会主义者现在所作的工作，就是过去为群众所拥护的每一个进步党派（政治的和宗教的）所作的工作。所有一切过去的进步，都是这样的人和这样的献身行为所促成的。&lt;/p&gt;
+
+&lt;p&gt;合作，往往被看作是“合股的个人主义”，在英国更是如此。就它现在的情况来说，它无疑倾向于培养对整个社会、甚至对合作者彼此间的合作的利己主义精神。然而合作运动起初在本质上确实具有互助的特点。甚至现在，最热心于倡导合作运动的人还是认为它可以使人类在经济关系上达到更和谐的境地，只要到英国北部合作事业的根据地去呆上一些时候，就一定会发现大多数合作社的一般成员也抱有同样的看法。如果丧失了这个信念，他们大多数人便将失去他们对合作运动的兴趣；必须承认：最近几年来，对大众福利和生产者的团结一致这一宏伟的理想已开始在合作运动者中间流行起来。现在，在合作事业所有者和工人之间的确有了建立更好的关系的倾向。&lt;/p&gt;
+
+&lt;p&gt;合作的重要性，在英国、荷兰和丹麦是人人都知道的；而在德国，特别是在莱茵河一带，合作组织也已经成为工业生活中的一个重要因素。然而，在各方面都提供了研究有关合作问题的最好园地的，也许是俄国。合作运动在俄国是自然成长起来的，是从中世起继承下来的遗产；要成立一个正式的合作组织，必须克服许多法律上的困难和官厅的猜疑，因而非正式的合作组织——阿尔切尔——就构成了俄国农民生活的实质。“俄国形成”的历史和西伯利亚的殖民史，就是打猎和经商的阿尔切尔（或叫行会）的历史，而在它之后，就是村落公社，现在，我们发现到处都有阿尔切尔了。从同一个村子到一个工厂去工作的十个到五十个农民、建筑行业中的各种工人、渔民和猎户、流放到西伯利亚或已经在西伯利亚的罪犯、铁路搬运工人、电信局的信差、海关工人、在各地乡村工业中工作的七百万工人——总之，从高级到低极的劳动人民，从临时工到长期工人都以各种可能的形式进行生产和消费的合作。直到现在，在注入里海的各个河流上的许多渔场，依然是由庞大的阿尔切尔掌管的，乌拉尔河属于整个乌拉尔的哥萨克人，他们把那儿的渔场（也许是世界上最富饶的渔场）在各个村子之间加以分配和再分配，毫不受官方的任何干涉。在乌拉尔河、伏尔加河以及所有俄国北部湖泊上的捕鱼业，一直是由阿尔切尔经营的。除了这些永久的组织以外，还有无数为了各种特殊目的而组成的临时的阿尔切尔。当十个或二十个农民从某一个地方来到大城市中作织工、木工、泥水匠或造船匠的时候，他们总是组成一个阿尔切尔。他们租几间屋子，请一个厨子（往往是由他们当中的一个人的妻子来担任这个工作），选一个年岁大的作负责人，大家共同开办伙食，每一个人把他那份食宿费交给阿尔切尔。流放到西伯利亚的一队罪犯也常常是这样作的，他们选一个年长的人作为罪犯和该队的军事管理人之间的官方承认的中间人。在苦役监狱里，他们也有这样的组织。铁路搬运工人、电信局的信差、海关工人和会省城的信差，他们对自己的每一个成员都是集体负责的，他们享有那样好的信誉，以致商人们不管多大的款项或票款都可交托给阿尔切尔中的人。在建筑业中，有十至二百个成员的阿尔切尔；慎重的建筑商和铁路承包商总是愿意和阿尔切尔而不愿和单独受雇的工人打交道。陆军部最近直接和专营国内贸易的生产阿尔切尔进行交易，向它们订购皮靴、各种铜器和铁器，结果被认为极其令人满意。1890年左右，把一座皇家铁厂（Votkinsk）租给了一个工人的阿尔切尔，这件事也作得极其成功。&lt;/p&gt;
+
+&lt;p&gt;由此可见，在俄国，古老的中世纪制度在以非正式形式出现时，没有受到国家的干涉，所以一直完全地保留到现在，而且为满足现代工业和商业的需求采取了多种多样的方式。至于在巴尔干半岛、土耳其帝国和高加索，旧时的行会迄今还完全存在。塞尔维亚的艾斯纳福还充分保持了它们中世起的特点；行会的成员，既有师傅也有帮工，它们对各行各业作出规定，而且是劳动和疾病时的互助机构；而高加索的阿姆卡里，特别是梯弗里斯的阿姆卡里，除了这些职能以外，还对城市生活起着相当大的影响。&lt;/p&gt;
+
+&lt;p&gt;谈到合作时，还应该提一提各种友谊团体、秘密互济社团、乡村和城镇的医疗互助会、制衣和殡葬互助会、在工厂女工中十分普遍的小型俱乐部——她们每周交几个辨士给俱乐部，然后大家抽签，抽中的人可只得一个英镑（这笔钱至少可以买一些有真正用途的东西），还有其他各种团体。虽然每一个成员的“借款和贷款”都有严格的监督，但是在所有这样的团体和俱乐部中，都活跃着充分的友谊精神或愉快情绪以准备牺牲时间、健康甚至在必要时牺牲生命的精神为基础的团体是那么多，因而我们可以举出许许多多最好的互助形式的实例。&lt;/p&gt;
+
+&lt;p&gt;首先要谈到的是英国的“救生船会”和欧洲大陆上的类似组织。英国的救生船会现在有三百多条船分布于英伦三岛的沿岸，要不是由于渔夫们贫穷买不起救生船的话，这个会的船只会比现在多一倍。船员们都是志愿的，他们为了抢救素不相识的人而准备牺牲自己生命的这种精神，每年都要受到严格的考验；在纪录上；每年冬天都要损失几个最勇敢的船员。如果我们问这些人究竟由于什么动力促使甚至在没有一些成功之望的时候仍然要去冒生命危险，他们会作如下的回答。一阵可怕的暴风雪吹过英伦海峡，在肯德郡一个小村庄的浅平而多沙的海岸上狂啸，载着橘子的一条小帆船在近傍的沙滩上搁浅了。只有轻便的平底救生船才能在这些浅水中航行，而在这样的风暴中驶出去就是面对一场几乎肯定要发生的灾难。然而船员们还是出发了，他们和暴风搏斗了几个小时，他们的船被打翻了两次。有一个人被淹死了，其他的人被海水打上岸来。被打上岸来的人当中，有一个人——一个具有高尚行为的海岸警备队队员——在第二天早晨被人发现时，已经是浑身被碰伤，在冰雪中冻得半死了。我问他，为什么要去作这种徒劳的事呢？他回答说：“我自己也不知道。”“有船只遇难了；从村子里来的人站在海边，人人都说这时候出海是一件蠢事，我们决不可能冲过汹涌澎湃的海浪。我们看见五、六个人紧紧地抓住桅樯。在拚命地向人打信号。我们都觉得必须作些什么事，但是，我们能干什么呢？一个钟头过去了，两个钟头过去了，而我们大家都站在那里。我们心里都感到极为不安。这时候，我们突然在暴风中好像听到了他们的呼救声——他们当中还有一个孩子呢。我们再也忍不住了，我们一齐说：‘我们一定要去救人！’妇女们也是这样说，如果我们不去的话，她们将把我们看作是懦夫，虽然她们在第二天说我们出海的人是傻瓜。我们像一个人一样齐心协力，跑到救生船旁，上船出海了。船被打翻了，但是我们紧紧地抓住它。最使人难过的是，眼看着可怜的老人淹死在船边而我们没有办法救他。这时候来了一个可怕的巨浪，又把船打翻了，把我们打上岸来。那些人还是被驱逐舰上的小艇救起来了，而我们的船被大浪抛到好些英里以外。第二天早晨人们在雪地中找到了我。”&lt;/p&gt;
+
+&lt;p&gt;这样的情感也促使隆达谷的矿工去挽救他们被水淹没在矿坑中的伙伴。为了走到被埋陷着的伙伴那里去，他们已经凿穿了三十二码的煤坑，但是，当他们只剩下三码就要穿过的时候，矿坑中的沼气包围了他们。灯熄了，去救的人退了出来。在这种情况下工作，真是时时刻刻都有被炸死的危险。但是，依然可以听到被淹陷在里面的矿工的声音，他们还活着，还在乞援，于是有几个矿工自愿冒一切危险去干。当他们走进矿坑的时候，他们的妻子只是默默地含着眼泪看着他们走进去——没说一句阻拦他们的话。&lt;/p&gt;
+
+&lt;p&gt;这包含着人类心灵的精髓。除非是在战场上发了疯的人，否则任何人都“不忍”听着这样的呼声而不去救援。英雄们是一定要去救的，而英雄的行为使所有的人也会感到他们应孩像他们那样去作。心中的辩解抵抗不住互助的情感，因为这种情感是几千年的人类社会生活和几十万年来人类出生以前的社会生活所培养起来的。&lt;/p&gt;
+
+&lt;p&gt;“可是，有些人却在海德公园的蛇形水池里当着许多人的面就淹死了，那些人谁也不去救他们，这是怎么一回事呢？”也许有人会这样问的。“掉在摄政公园小河中的孩子——也是当着一大群假日游客的面掉下去的——只是依靠了一个镇定的女仆放一条纽芬兰狗下去才把他救上来，这又是怎么一回事呢？”答案是很明白的。人类是他先天的本能和教育这两者的产物。在矿工和海员中，由于他们的共同职业和每天的互相接触，有着一种休戚相关的情感，而危险的环境又使他们养成了勇敢大胆的精神。相反地，在城市中由于缺乏共同的利益，因而人们养成了一种漠不关心的态度，他们的勇敢精神也很少有机会发挥，所以便消失或转到其他方面去了。此外，矿山和海上的英雄传说被编成了歌谣，在矿工和渔夫的村落中到处流传。可是，乌七八糟的一群伦敦人又有什么传说呢？他们可能有的唯一传说，是应该由文学来创造的，但是，相当于乡村史诗般的文学可以说是没有的。牧师们只是热心于论证从人类天性中所产生的东西都是罪恶，论证人类的一切善良的东西都有一个超自然的来源，而他们大都无视那些能够当作上苍的更高灵感或恩赐的事实。至于世俗的作家们，他们的注意力则主要集中于一种英雄行为上，那就是促进国家观念的英雄行为。因此，他们赞扬罗马的英雄或战场的战士，而无视渔夫们的英雄行为，也很少注意它。当然，诗人和画家也可能为人类良知本身的美善所感动，但他们都很少知道贫民阶级的生活，所以，他们虽能歌唱和描绘传统环境中的罗马或军事上的英雄人物，但他们不能动人地歌唱和描绘处在他们所无视的极其平凡的环境中的英雄。如果他们鼓起勇气去描述的话，也只不过是作出一篇辞藻华丽的文章罢了。&lt;/p&gt;
+
+&lt;p&gt;以娱乐、研究和教育等等为目的的协会、俱乐部和团体，近年来是如此之多，单单要把它们全部调查列表也要花上许多年的工夫，它们是上述的永远活动不息的联合和互助的倾向的另一种表现。在这些组合当中，有些是和秋天聚集在一块儿的各种小鸟一样，完全是为了共同享受生活的乐趣的。在英国、瑞士和德国等等国家的每一个村子里，都有板球、足球、网球、九柱戏、养鸽、音乐或歌咏俱乐部。其他的组合在数目上还要多得多，而且有些组合（例如自行车协会）突然有了很大发展。虽然这个协会的成员除了爱好骑自行车以外，没有任何共同的利益，但在他们当中已经产生了一种互助的愿望，特别是在骑自行车的人不多的边远地区更是如此。他们把一个村子里的“自行车协会俱乐部”看作是一个家庭，在每年的自行车野营会上可以建立许多永恒的友谊。德国的九柱戏联谊会（Kegelbrüder）也是类似自行车协会的一种组织；类似这种组织的还有体育协会（在德国有三十万会员）、法国非正式的小艇兄弟会、游艇俱乐部等等。这样的团体当然不会改变社会的经济阶层情况，但它们有助于缓和社会的阶级差异，在小城镇中更是这样。由于它们都趋向于结成大规模的全国联盟和国际联盟，所以它们肯定有助于使散居世界不同地区的各种各样的人建立个人之间的友好往来。&lt;/p&gt;
+
+&lt;p&gt;登山俱乐部、德国的猎物保护协会（Jagdschutzverein）和国际鸟类学会也具有同样的性质，德国猎物保护协会的会员在十万人以上，其中包括猎人、有学问的森林家、动物学家和一般单纯的自然爱好者，国际鸟类学会的会员中，有动物学家、饲禽者和纯朴的德国农民。他们在几年间不仅做了许多只有大团体才能举办的非常有益的事业（如绘制地图、修筑避风雨的茅屋和山路、研究动物和害虫的生活与鸟类的迁移等等），而且还在人和人之间建立了新的联系。两个不同国籍的登山俱乐部会员在高加索山上一座避风雨的茅屋中相遇时，彼此都不当作是陌生人，同往在一个屋子里的大学教授和农民鸟类学家也是这样。纽卡斯尔的托比叔叔会（Uncle Toby’s Society）已经劝导了二十六万以上的男女小孩子永不去破坏鸟雀的窠，并且对一切动物要仁慈，这个组织在发展人类感情和对自然科学的爱好方面，肯定要比许多道德学家和我们大多数学校所作的工作还多。&lt;/p&gt;
+
+&lt;p&gt;我们虽然只是这样匆匆地概述，但也不能把数以千计的科学、文学、艺术和教育团体略而不敲。直到现在，为国家所严格控制的、而且常常接受国家津贴的科学机构，活动范围一般都很狭小，人们往往只把它们看作是获得国家任命的门径，而且，由于它们的范围十分狭小，所以无疑引起过无谓的妒忌。然而事实是：这些组织毕竟在一定程度上缓和了出身、政治党派和信仰的差异。而在边远的小城镇中，科学、地理和音乐的研究组织，特别是其中希望有广大爱好者参加的组织，已经成为小小的文化生活的中心，变成了一个小地方和广大世界之间的一种联系，变成了身分和职业大不相同的人彼此以平等地位见面的地方。人们一定要知道这些中心在例如西伯利亚这一类地方的作用，才能充分地认识到它们的巨大价值。至于那些不计其数的教育团体，虽然它们只是现在才开始打破国家和教会在教育方面的垄断，但它们一定会在不久以后就成为这方面的主导力量。我们所以能够有幼儿园制，应归功于“佛洛贝尔教育会”（Froebel Unions）；俄国的妇女所以能够有很高的教育程度，应归功于许多正式的和非正式的教育组织，虽然这些团体和组织是在随时都受到强有力的政府的巨大阻碍下工作的。至于谈到德国的各种教育组织，大家都知道，它们在制定民众学校教授科学的新方法中作过最出色的工作。教师们也从这样的团体中获得了极大的帮助。如果没有它们的帮助，工作过重而薪水过低的乡村教师将是多么可怜啊！&lt;/p&gt;
+
+&lt;p&gt;所有这些团体、协会、友谊会、联盟和组织等等，单单在欧洲现在就数以万计，其中每一个都说明了自愿的、没有任何企图的、没有报酬或报酬很低的极大量工作——它们以种种形式表现的，难道不是人类永恒的互助和互援的倾向吗？将近三个做起以来，即使是为了文学、艺术和教育事业而携手团结，也是被禁止的。只有在国家或教会的保护之下，才能集会结社，否则便只能像互济会（freemasonry）那样组成秘密的社团。但是现在，阻挡的力量被冲破了，结会在各方面都有了很大的发展，它们扩充到了人类活动的各个部门，它们具备了国际性，而且在一定程度（这种程度现在还不能充分估计）上无疑将打破各个国家不同民族之间的隔阂。尽管商业竞争养成了人们的妒忌，尽管行将消逝的过去的幽灵挑起了人类的怨恨，但是，国陈团结的意识在世界的领袖人物和广大的工人群众（因为他们们争得了国际来往的权利）中正在逐渐成长，而且在过去的二十五年间，这种精神在阻止欧洲战争方面无疑是有它的贡献的。&lt;/p&gt;
+
+&lt;p&gt;当然，我们在这里必须谈一下宗教的慈善团体，因为它们也代表着整整一个世界。它们的大部分成员也是为一切人类所共有的互助观念所感动，这一点是毫无疑问的。不幸的是，传教士们竟把这种观念的来源说成是超自然的。他们当中有许多人硬说人类如果不是受了他们所讲的特定的宗教教义的开导，是不会自觉地按照互助的灵感而行动的，他们大多数人都和圣奥古斯丁一样，不承认“邪教的野蛮人”有互助的观念。此外，虽然早期的基督教也像其他宗教一样，是追求广泛的人类的互助和同情观念的，但基督教教会后来却帮助国家毁灭一切先于它的或独立发展的互助和互援的长久制度。教会所宣讲的，是带有上天灵感这种性质的慈悲，而不是每一个野蛮人也认为对他的同胞理当进行的互助，因而这就含有赐与者高于收受者的意思。虽然有这种局限性，但我们无意触怒那些自认为是上帝特选的与众不同的团体，只要它们有着慈悲人道的行为，那么，我们可以把许多宗教慈善团体看作是上述互助倾向的一种产物。&lt;/p&gt;
+
+&lt;p&gt;所有这些事实表明，不顾他人需要而一味追求个人利益的行为不是现代生活的唯一特征。我们看到，同这个如此傲慢地自以为是领导人类事业的潮流相并行的，还有农民和工人为了重新建立互助和互援的长久制度而进行的艰苦斗争。我们发现，在社会的各个阶层中正进行着一场广泛的运动，以期建立各种各样的永久的互助组织。而且，当我们撇开公共生活，进而观察当代人的个人生活时，我们还发现另外一个极其广阔的互助和互援的世界，但是由于这个世界只限于家庭和个人友谊的狭小范围，所以为大多数社会学家忽视了。&lt;/p&gt;
+
+&lt;p&gt;在现今的社会制度下，同一条街上的居民或邻居之间的一切联系都已断绝。住在大城市中富人区的人连他们隔壁的邻居是谁也不知道。但是，往在拥塞的小街小巷中的人们彼此却是十分了解的，而且互相间有不断的联系。当然，像任何地方一样，在小街小巷中也时常发生小小的争执。但是，他们按照个人的爱好而结成许多组织，在他们中间实行互助，其范围之广是富人阶级所难以想象的。如果我们以在街上或敢堂庭院和草地上玩耍的贫穷地区的孩子们为例，我们立刻便会注意到，虽然他们有时候也互相争吵打架，但他们彼此之间亲密团结，以保护他们不受一切侵害。当一个孩子好奇地弯下腰去看一看阴沟洞的时候，另一个孩子便立刻喊道：“别呆在那儿，阴沟洞传染热病！”“别爬过那道墙去，如果摔下去，火车会压死你的！不要到阴沟旁边去！不要吃那些草莓——有毒！吃了要死的！”孩子们到户外和同伴玩耍时，首先就会得到这些教训。如果没有这样的互助，那么，在“模范工人住宅区”周围的马路上或者在码头和小河的桥上玩耍的孩子们，不知要有多少被车辆压死，或者掉在污浊的水中淹死！当可爱的杰克跌到乳牛场后面没有遮拦的阴沟里，或者脸儿红红的莉茜掉进小河里的时候，孩子们的喊声是那么响亮，使附近所有的人都能听见而跑来救护。&lt;/p&gt;
+
+&lt;p&gt;现在来谈一谈母亲们的联合。“你想象不到她们是多么互相帮助。”住在贫民区的一位女医生最近对我说，“如果一个妇女没有或无力为她快要生产的婴儿准备应用的东西（这种情况是常有的！），所有的邻居便都给新生的孩子带一点东西来。只要产妇还躺在床上，便常有一个邻居来照护她的孩子，另外几个邻居则时常来料理她的家务。”这种习俗是很普遍的，所有在贫民中间生活过的人都谈到这种习俗。母亲们尽一切可能地彼此互助，照顾别人的孩子。一个有钱的太太在大街上从一个又饥又冷的孩子身边走过而能无动于中，是需要一些锻炼的，至于这种锻炼是好是坏，让她们自己去判断罢。然而贫民阶级的母亲们是没有这种锻炼的，她们不会忍心看着一个孩子挨饿，她们一定要给他东西吃，她们就是这样作的。“小学生向她们要面包的时候，很少（或者说从来没有过）遭到拒绝的，”——在怀特卡泊尔一个工人俱乐部工作过几年的一位女友写信告诉我说。现在我不妨把她的来信再摘录几段：&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“不要丝毫报酬地照护生病的邻居，这在工人中间是十分普遍的事情。而有孩子的母亲出去工作的时候，总有另外一个母亲来照顾她的孩子们。”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“在工人阶级中，如果他们不互相帮助，他们是不能生存的。我知道有几家人一直是互相帮助的——在抚养小孩，在有人生病或死亡时，便在金钱、食物和燃料上互相帮助。”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“在贫民当中，不像富人那样斤斤计较这个东西是‘我的’或是‘你的’。鞋子、衣服、帽子和当时需要的一切东西，都是经常互相借用的，各种家用器具也是如此。”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“去年冬天，联合激进俱乐部的会邑筹集了很小的一笔钱，过了圣诞节以后便开始向上学的儿童免费供给菜汤和面包。他们要照护的儿童逐渐增加到了一千八百人。钱是向会外人士筹募来的，但是所有的工作完全是由会员来作的。他们当中有些失业的人，清晨四点钟便跑来洗剥蔬菜；五个妇女把她们自己的家务忙完以后，在九点或十点钟便来做饭，并且一直呆到下午六、七点钟，把盘碗洗干净。在吃饭的时候（从十二点到一点半）有二、三十个工人来帮着上菜汤，每个人能匀出多少吃饭的时间，便在那里帮忙多少时间。这种情况继续了两个月。没有一个人是拿了报酬的。”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;我的朋友还谈了几件个人的事情，现在把其中典型的例子摘录如下：&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“安妮·W的妈妈把她寄托在威尔莫街的一个老人家里。当她妈妈死了以后，那个老太太虽然本人也很贫苦，但还是带着这个孩子而没有要一文钱的报酬。后来那个老太太也病了，安妮（那时已有五岁）自然就没人照护了，她的衣服也破烂了。但是，当那个老太太一死，S太太（一个皮匠的妻子，她自己有六个孩子）立刻便把安妮接到了自己家里。近来她的丈夫在生病，她们大家都吃不到多少东西。M太太是一位六个孩子的母亲，前天她还去照护生病的M-g太太，并且把M-g太太的大孩子带到自己家里来照管。……你还需要这样的事例吗？这些事情是很普遍的。……D太太（住在哈克尼路椭圆广场）有一架缝纫机，虽然她自己要照护五个孩子和丈夫，但是我知道她经常还要替别人做衣服，从来没有接受过任何报酬。……还有其他种种情况。”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;每一个稍微了解劳动阶级生活的人都知道，如果他们之间不普遍地实行互助，显然他们就决不能度过他们的一切难关。一个工人家庭，在生活中不遭遇到像丝带工人约瑟夫·古脱利治在他的自传中所描述的那些苦难，那只是偶然的事情。他们在穷困中所以没有彻底破产，是多亏他们的互助。在古脱利治的家庭快要最后破产的时候，除了一些面包、煤和被褥来帮助他的，是一个年老的女仆，而她本人也是穷得不得了的。在其他的事例中，也有其他的人或邻居采取措施来救助那个破产的家庭。如果没有别的穷人进行帮助，那么，每年遭到彻底毁灭的家庭不知道还要增加多少呢！&lt;/p&gt;
+
+&lt;p&gt;普林索尔先生在贫民中以每周七先令六辨士的费用生活了一段时期以后，不得不承认他开始这种生活时所怀抱的仁慈心情“变成了衷心的尊敬和赞扬”，因为他看到了穷人间的关系是多么充满了互助互援精神，并懂得了这种纯朴的帮助。经过许多年的体验，他所得出的结论是：“你把他们的生活拿来想一想，你就会知道所有劳动阶级的绝大多数人都和这些人一样。”至于抚养孤儿，甚至是由极穷苦的人家抚养，也是如此普遍的一种习惯，所以可以说它是一个普通规律。例如，在华伦谷和朗德山发生了两次爆炸事件以后，在矿工中间“各该委员会可以证实，在炸死的矿工中有近三分之一的人除了自己的妻子和孩子以外，还供养了其他亲友的妻子和儿女”。普林索尔先生写道：“你考虑过这是怎样一回事吗？我不怀疑有钱的人，甚至家道小康的人也会这样作，但是要考虑一下其间的区别。”请你想一想：每个工人捐一个先令来帮助一个同伴的寡妻，或者捐六个辨士帮助一个同伴支付丧事的额外费用，这笔钱对一个每周挣十六个先令、并且要养活妻子（有的还养活五、六个孩子）的人来说，具有多么大的意义。但是这样的捐助在全世界的工人中是常见的，甚至在比家里死了人更寻常的情况下也是这样作的；至于在工作中进行帮助，这在他们的生活中已经成为最平常的事了。&lt;/p&gt;
+
+&lt;p&gt;在富人阶级中也不是不实行互助和互援的。当然，当我们想到有钱的老板们对他们雇用的工人常常表现的那种粗暴的时候，我们对人类天性是容易抱着悲观的看法的。许多人一定还记得，在1894年约克郡大罢工期间，当矿主们控告那些到废弃的矿坑中拾煤块的年老矿工时，人们是多么愤慨。即使我们暂且不提斗争和社会斗争期间的恐怖（例如巴黎公社失败后，成千被捕的工人遭到屠杀），但是当我们读到例如四十年代英国劳工调查所揭露的情况，或沙夫兹伯里伯爵所说的“在那些工厂中人类生命的惊人消耗，其中包括从贫民院中领来的或干脆是从全国各地买来做工厂奴隶的儿童”——当我们读到这些情况的时候，对人类在贪欲横流时可能产生的卑劣行为，谁又能不感慨万分呢？必须同时说明的是，决不能把这种待人的罪过完全归咎于人类犯罪的天性。科学家，甚至有很大一部分牧师，直到最近岂不是还在敌人对贫民阶级要不信任、要轻蔑，甚至要憎恨吗？科学不是在教导人们说，自从农奴制被废除以后，除非自己有恶习，是谁也不会贫穷的吗？在教堂中，有勇气谴责这些残害儿童者的人是多么少，相反地却有许许多多的人在教导人们说，穷人之遭受痛苦，甚至黑人之做奴隶，也是出自神的安排呢！非国教教派，其本身在很大程度上难道不就是人民大众对英国国教虐待贫民的一种抗议吗？&lt;/p&gt;
+
+&lt;p&gt;正如普林索尔先生所指出的，有了这样的精神领导，与其说是富人阶级的感情变得停滞了，还不如说是“阶级化了”。富有阶级很少把他们的感情用之于下层贫民，由于生活方式的不同，所以在他们和贫民阶级之间有着一道鸿沟，同时他们也不从最好的方面，不从日常生活中去了解贫民。但是，在他们自己当中——把财富本身使他们养成的贪财之心和无谓挥霍都考虑在内——在家庭和朋友的范国内，富人也像穷人一样实行互助和互援。艾赫林博士和达尔文说得完全正确，他们说，如果把朋友之间的直接借贷和帮助的金钱作一个统计，那么，其总数即使和全世界的商业交易款项相比，也可以说得上是一笔巨大的数字。如果我们把用之于招待、互相间的小帮助、对他人事务的照料、馈赠以及慈善事业上的金钱和上述的数字加起来（我们应该把它们加在一起），那么，我们将惊奇地发现这样的授受在国民经济中是十分重要的。即使在商业利己主义所统治的世界中，目前流行的“我们受了那个公司的亏待”这句话，也是表明同亏待（即照章依法的对待）相对立的还有一种友好的对待。每一个商业家都知道，一年之中不知道要有多少公司只是靠了其他公司的友好援助才免于破产的。&lt;/p&gt;
+
+&lt;p&gt;至于说到工人以外的许多经济宽裕的人，特别是自由职业界人士，为大众福利而自顾从事的慈善事业和巨大工作，我们都知道它们在现代生活中起了如何的作用。如果说由于有些人想沽名钓誉或者想获得政治权力或社会地位，因而时常捐害了这种慈善行为的真正性质，那么，就大多数情况来说，推动的力量是来自上述的互助感这一点仍然是无可置疑的。已经发财致富的人往往并不能从财富中得到他所预期的满足。另外有些人则感觉到，不管经济学家怎样论证财富是才能的报酬，但他们自己所得的报酬是多余的。人类休戚与共的意识于是开始发生作用了；虽然社会生活的安排是在使千百种人为的巧妙手段扼杀这种情感，但它仍然是经常占优势的。这时有些人便把他们的财产或他们的力量投到他们认为能促进大众福利的事业中，试图以这种方法来为人类的那种深刻需要找到一条出路。&lt;/p&gt;
+
+&lt;p&gt;总之，不论是中央集权国家的压倒力量，还是“愿以良心相助”的哲学家和社会学家在科学的幌子下所教导的互相憎恨和无情斗争，都不能消灭深深树立在人类的理智和良心中的人类团结的情感，因为它是由我们过去的整个进化过程所培养起来的。从进化的最初阶段起就产生了的这种成果，是不可能被这种进化的许多方面中的一个方面所压服的。近年来隐藏在家庭、贫民窟邻里间、乡村或工人秘密社团这些狭小范围内的互助和互援的需要，甚至在我们现代社会中也显示出来了，并且要求像它在过去一样，取得指导人类继续走向进步的领导者的权利。这就是我们把最后两章扼要列举的事实加以仔细研究之后所必然得出的结论。&lt;/p&gt;</content><author><name>彼得·克鲁泡特金</name></author><summary type="html">在国家摧毁行会之后成长起来的工会 工会的斗争 罢工中的互助 合作</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://i.imgur.com/YHHIshI.png" /><media:content medium="image" url="https://i.imgur.com/YHHIshI.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
