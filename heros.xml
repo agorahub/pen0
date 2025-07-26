@@ -1,550 +1,345 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://agorahub.github.io/pen0/heros.xml" rel="self" type="application/atom+xml" /><link href="https://agorahub.github.io/pen0/" rel="alternate" type="text/html" /><updated>2025-07-24T12:22:43+08:00</updated><id>https://agorahub.github.io/pen0/heros.xml</id><title type="html">The Republic of Agora | Heros</title><subtitle>UNITE THE PUBLIC ♢ VOL.54 © MMXXV</subtitle><entry><title type="html">Understanding Reinforcement Learning</title><link href="https://agorahub.github.io/pen0/heros/2025-06-23-TimothyLee-a1_c-understanding-reinforcement-learning.html" rel="alternate" type="text/html" title="Understanding Reinforcement Learning" /><published>2025-06-23T12:00:00+08:00</published><updated>2025-06-23T12:00:00+08:00</updated><id>https://agorahub.github.io/pen0/heros/TimothyLee-a1_c-understanding-reinforcement-learning</id><content type="html" xml:base="https://agorahub.github.io/pen0/heros/2025-06-23-TimothyLee-a1_c-understanding-reinforcement-learning.html">&lt;p&gt;&lt;em&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Reinforcement learning is an LLM post-training technique to complement the imitation learning. It enables new-generation agentic AI systems.&lt;/code&gt;&lt;/em&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://agorahub.github.io/pen0/heros.xml" rel="self" type="application/atom+xml" /><link href="https://agorahub.github.io/pen0/" rel="alternate" type="text/html" /><updated>2025-07-26T10:32:12+08:00</updated><id>https://agorahub.github.io/pen0/heros.xml</id><title type="html">The Republic of Agora | Heros</title><subtitle>UNITE THE PUBLIC ♢ VOL.55 © MMXXV</subtitle><entry><title type="html">All AI Models Might Be The Same</title><link href="https://agorahub.github.io/pen0/heros/2025-07-18-JackMorris-a1_c-all-ai-models-might-be-the-same.html" rel="alternate" type="text/html" title="All AI Models Might Be The Same" /><published>2025-07-18T12:00:00+08:00</published><updated>2025-07-18T12:00:00+08:00</updated><id>https://agorahub.github.io/pen0/heros/JackMorris-a1_c-all-ai-models-might-be-the-same</id><content type="html" xml:base="https://agorahub.github.io/pen0/heros/2025-07-18-JackMorris-a1_c-all-ai-models-might-be-the-same.html">&lt;p&gt;&lt;em&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;What can the AI language model embeddings tell us about understanding whale speech and decrypting ancient texts?&lt;/code&gt;&lt;/em&gt;&lt;/p&gt;
 
 &lt;!--more--&gt;
 
-&lt;p&gt;In April 2023, a few weeks after the launch of GPT-4, the Internet went wild for two new software projects with the audacious names BabyAGI and AutoGPT.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/Nc6lDia.png&quot; alt=&quot;image01&quot; /&gt;
+&lt;em&gt;▲ &lt;a href=&quot;https://www.projectceti.org/&quot;&gt;Project CETI&lt;/a&gt; is a large-scale effort to decode whale speech. If AI models do learn a universal language, we might be able to use it to talk to whales.&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;“Over the past week, developers around the world have begun building ‘autonomous agents’ that work with large language models (LLMs) such as OpenAI’s GPT-4 to solve complex problems,” Mark Sullivan wrote for Fast Company. “Autonomous agents can already perform tasks as varied as conducting web research, writing code, and creating to-do lists.”&lt;/p&gt;
+&lt;p&gt;Growing up, I sometimes played a game with my friends called “Mussolini or Bread.”&lt;/p&gt;
 
-&lt;p&gt;BabyAGI and AutoGPT repeatedly prompted GPT-4 in an effort to elicit agent-like behavior. The first prompt would give GPT-4 a goal (like “create a 7-day meal plan for me”) and ask it to come up with a to-do list (it might generate items like “Research healthy meal plans,” “plan meals for the week,” and “write the recipes for each dinner in diet.txt”).&lt;/p&gt;
+&lt;p&gt;It’s a guessing game, kind of like Twenty Questions. The funny name comes from the idea that, in the space of everything, “Mussolini” and “bread” are about as far away from each other as you can get.&lt;/p&gt;
 
-&lt;p&gt;Then these frameworks would have GPT-4 tackle one step at a time. Their creators hoped that invoking GPT-4 in a loop like this would enable it to tackle projects that required many steps.&lt;/p&gt;
-
-&lt;p&gt;But after an initial wave of hype, it became clear that GPT-4 wasn’t up to the task. Most of the time, GPT-4 could come up with a reasonable list of tasks. And sometimes it was able to complete a few individual tasks. But the model struggled to stay focused.&lt;/p&gt;
-
-&lt;p&gt;Sometimes GPT-4 would make a small early mistake, fail to correct it, and then get more and more confused as it went along. One early review complained that BabyAGI “couldn’t seem to follow through on its list of tasks and kept changing task number one instead of moving on to task number two.”&lt;/p&gt;
-
-&lt;p&gt;By the end of 2023, most people had abandoned AutoGPT and BabyAGI. It seemed that LLMs were not yet capable of reliable multi-step reasoning.&lt;/p&gt;
-
-&lt;p&gt;But that soon changed. In the second half of 2024, people started to create AI-powered systems that could consistently complete complex, multi-step assignments:&lt;/p&gt;
+&lt;p&gt;One round might go like this:&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;
-    &lt;p&gt;Vibe coding tools like Bolt.new, Lovable, and Replit allow someone with little to no programming experience to create a full-featured app with a single prompt.&lt;/p&gt;
+    &lt;p&gt;Is it closer to Mussolini or bread? &lt;em&gt;Mussolini.&lt;/em&gt;&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;Agentic coding tools like Cursor, Claude Code, Jules, and Codex help experienced programmers complete non-trivial programming tasks.&lt;/p&gt;
+    &lt;p&gt;Is it closer to Mussolini or David Beckham? &lt;em&gt;Uhh, I guess Mussolini.&lt;/em&gt; (Ok, they’re definitely thinking of a person.)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;Computer use tools from Anthropic, OpenAI, and Manus perform tasks on a desktop computer using a virtual keyboard and mouse.&lt;/p&gt;
+    &lt;p&gt;Is it closer to Mussolini or Bill Clinton? &lt;em&gt;Bill Clinton.&lt;/em&gt;&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;Deep research tools from Google, OpenAI, and Perplexity can research a topic for five to 10 minutes and then generate an in-depth report.&lt;/p&gt;
+    &lt;p&gt;Is it closer to Bill Clinton or Pelé? &lt;em&gt;Bill Clinton, I think.&lt;/em&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Is it closer to Bill Clinton or Grace Hopper? &lt;em&gt;Grace Hopper.&lt;/em&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Is it closer to Grace Hopper or Richard Hamming? &lt;em&gt;Richard Hamming.&lt;/em&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Is it closer to Richard Hamming or Claude Shannon? &lt;em&gt;You got it, I was thinking of Claude Shannon.&lt;/em&gt;&lt;/p&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;According to Eric Simons, the CEO of the company that made Bolt.new, better models were crucial to its success. In a December podcast interview, Simons said his company, StackBlitz, tried to build a product like Bolt.new in early 2024. However, AI models “just weren’t good enough to actually do the code generation where the code was accurate.”&lt;/p&gt;
+&lt;p&gt;Hopefully you get the point. By successively narrowing down the space of possible things or people, we’re able to guess almost anything.&lt;/p&gt;
 
-&lt;p&gt;A new generation of models changed that in mid-2024. StackBlitz developers tested them and said “oh my God, like, okay, we can build a product around this,” Simons said.&lt;/p&gt;
+&lt;p&gt;How is this game possible? Mussolini or Bread only works because you and I have a shared sense of semantics. Before we played this game, we never talked about whether Claude Shannon is semantically “closer” to Mussolini or Beckham. We never even talked about what it means for two things to be “close”, even, or agreed on rules to the game.&lt;/p&gt;
 
-&lt;p&gt;This jump in model capabilities coincided with an industry-wide shift in how models were trained.&lt;/p&gt;
+&lt;p&gt;As you might imagine, the edge cases in M or B can be controversial. But I’ve played this game with many people and people tend to “just get it” on their first try. How is that possible?&lt;/p&gt;
 
-&lt;p&gt;Before 2024, AI labs devoted most of their computing power to pretraining. I described this process in my 2023 explainer on large language models: a model is trained to predict the next word in Wikipedia articles, news stories, and other documents. But over the course of 2024, AI companies have devoted a growing share of their training budgets to post-training, a catch-all term for the steps that come after this pretraining phase is complete.&lt;/p&gt;
+&lt;h3 id=&quot;a-universal-sense-of-semantics&quot;&gt;A universal sense of semantics&lt;/h3&gt;
 
-&lt;p&gt;Many post-training steps use a technique called reinforcement learning. Reinforcement learning is a technical subject—there are whole textbooks written about it. But in this article I’m going to try to explain the basics in a clear, jargon-free way. In the process, I hope to give readers an intuitive understanding of how reinforcement learning helped to enable the new generation of agentic AI systems that began to appear in the second half of 2024.&lt;/p&gt;
+&lt;p&gt;One explanation for why this game works is that there is only one way in which things are related, and this comes from the underlying world we live in. Put another way, our brains build up complicated models of the world in which we live, and the model of the world that my brain relies on is very similar to the one in yours. In fact, our brains’ models of the world are so similar that we can narrow down almost any concept by successively refining the questions we ask, a-la Mussolini or Bread.&lt;/p&gt;
 
-&lt;h3 id=&quot;the-problem-with-imitation-learning&quot;&gt;The problem with imitation learning&lt;/h3&gt;
+&lt;p&gt;Let’s try to explain this through the lens of compression. One perspective on AI is that we’re just learning to compress all the data in the world. In fact, the task of language modeling (predicting the next word) can be seen as a compression task, ever since &lt;a href=&quot;https://en.wikipedia.org/wiki/Shannon's_source_coding_theorem&quot;&gt;Shannon’s source coding theorem&lt;/a&gt; formalized the relationship between probability distributions and compression algorithms.&lt;/p&gt;
 
-&lt;p&gt;Machine learning experts consider pretraining to be a form of imitation learning because models are trained to imitate the behavior of human authors. Imitation learning is a powerful technique (LLMs wouldn’t be possible without it) but it also has some significant limitations—limitations that reinforcement learning methods are now helping to overcome.&lt;/p&gt;
+&lt;p&gt;In recent years, we’ve developed much more accurate probability distributions of the world; this turned out to be easy, since &lt;a href=&quot;https://arxiv.org/abs/2001.08361&quot;&gt;bigger and bigger language models&lt;/a&gt; give us &lt;a href=&quot;https://arxiv.org/abs/1712.00409&quot;&gt;better and better probability distributions&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;To understand these limitations, let’s discuss some famous research performed by computer scientist Stephane Ross around 2009, while he was a graduate student at Carnegie Mellon University.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/vA7jkBg.jpeg&quot; alt=&quot;image02&quot; /&gt;
+&lt;em&gt;▲ Intelligence is compression, and compression follows scaling laws.&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;Imitation learning isn’t just a technique for language modeling. It can be used for everything from self-driving cars to robotic surgery. Ross wanted to help develop better techniques for training robots on tasks like these (he’s now working on self-driving cars at Waymo), but it’s not easy to experiment in such high-stakes domains. So Ross started with an easier problem: training a neural network to master SuperTuxKart, an open-source video game similar to Mario Kart.&lt;/p&gt;
+&lt;p&gt;And with better probability distributions comes better compression. In practice, we find that a model that can compress real data better knows more about the world. And thus there is a duality between compression and intelligence. Compression is intelligence. Some have even said &lt;a href=&quot;https://www.youtube.com/watch?v=dO4TPJkeaaU&quot;&gt;compression may be the way to AGI&lt;/a&gt;. Ilya gave a &lt;a href=&quot;https://www.lesswrong.com/posts/KqgujtM3vSAfZE2dR/on-ilya-sutskever-s-a-theory-of-unsupervised-learning#Kolmogorov_Complexity__20_48_&quot;&gt;famously incomprehensible talk&lt;/a&gt; about the connections between intelligence and compression.&lt;/p&gt;
 
-&lt;p&gt;As Ross played the game, his software would capture screenshots and data about which buttons Ross pushed on the game controller. Ross used this data to train a neural network to imitate his play. If Ross could train a neural network to predict which buttons Ross would push in any particular game state, the same network could actually play the game by pushing those same buttons on a virtual controller.&lt;/p&gt;
+&lt;p&gt;Last year some folks at DeepMind wrote a paper simply titled &lt;a href=&quot;https://arxiv.org/abs/2309.10668&quot;&gt;Language Modeling Is Compression&lt;/a&gt; and actually tested different language models’ ability to compress various data modalities. Across the board, they found that smarter language models are better compressors. (Of course, this is what we’d expect, given the source coding theorem.)&lt;/p&gt;
 
-&lt;p&gt;A similar idea powers LLMs: a model trained to predict the next word in existing documents can be used to generate new documents.&lt;/p&gt;
+&lt;p&gt;And learning to compress is exactly how models end up generalizing. Some of &lt;a href=&quot;https://arxiv.org/abs/2505.24832&quot;&gt;our recent work&lt;/a&gt; has analyzed models’ compression behavior in the limit of training: we train models for infinitely long on datasets of varying size.&lt;/p&gt;
 
-&lt;p&gt;But Ross’s initial results with SuperTuxKart were disappointing. Even after watching Ross’s vehicle go around the track many times, the neural network made a lot of mistakes. It might drive correctly for a few seconds, but before long the animated car would drift to the side of the track and plunge into the virtual abyss:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/sO4ryEK.jpeg&quot; alt=&quot;image03&quot; /&gt;
+&lt;em&gt;▲ Figures from our recent work, &lt;a href=&quot;https://arxiv.org/abs/2505.24832&quot;&gt;How much can language models memorize?&lt;/a&gt; Generalization only begins when compression is no longer possible, since the model can’t store data points separately and is forced to combine things.&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/9ltzXUN.gif&quot; alt=&quot;image01&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;When a model can fit the training dataset perfectly (left side of both graphs) we see that it memorizes data really well, and totally fails to generalize. But when the dataset gets too big, and the model can no longer fit all of the data in its parameters, it’s forced to “combine” information from multiple datapoints in order to get the best training loss. This is where generalization occurs.&lt;/p&gt;
 
-&lt;p&gt;In a landmark 2011 paper, Ross and his advisor Drew Bagnell explained why imitation learning is prone to this kind of error. Because Ross was a pretty good SuperTuxKart player, his vehicle spent most of its time near the middle of the road. This meant that most of the network’s training data showed what to do when the vehicle wasn’t in any danger of driving off the track.&lt;/p&gt;
+&lt;p&gt;And the central idea I’ll push here is that when generalization occurs, it usually occurs in the same way, even within different models. From the compression perspective, under a given architecture and within a fixed number of parameters, there is only one way to compress the data well. This sounds like a crazy idea–and it is– but across different domains and models, there turns out to be a lot of evidence for this phenomenon.&lt;/p&gt;
 
-&lt;p&gt;But once in a while, the model would drift a little bit off course. Because Ross rarely made the same mistake, the car would now be in a situation that wasn’t as well represented in its training data. And so the model was more likely to make a second mistake—a mistake that could push it even closer to the edge. After a few iterations of this, the vehicle might careen off the track altogether.&lt;/p&gt;
+&lt;h3 id=&quot;the-platonic-representation-hypothesis&quot;&gt;The Platonic Representation Hypothesis&lt;/h3&gt;
 
-&lt;p&gt;The broader lesson, Ross and Bagnell argued, was that imitation learning systems can suffer from “compounding errors”: the more mistakes they make, the more likely they are to make additional mistakes, since mistakes put them into situations that aren’t well represented by their training data. (Machine learning experts say that these situations are “out of distribution.”) As a result, a model’s behavior tends to get more and more erratic over time.&lt;/p&gt;
+&lt;p&gt;So how can different models be learning the shared representations? Given &lt;a href=&quot;https://transformer-circuits.pub/2023/privileged-basis/index.html&quot;&gt;the massive number of ~equivalent ways in which a model can represent things&lt;/a&gt;, why should two models ever converge to analogous representations?&lt;/p&gt;
 
-&lt;p&gt;“These things compound over time,” Ross told me in a recent interview. “It might be just slightly out of distribution. Now you start making a slightly worse error and then this feeds back as influencing your next input. And so now you’re even more out of distribution and then you keep making worse and worse predictions because you’re more and more out of distribution.”&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/ydhENlm.jpeg&quot; alt=&quot;image04&quot; /&gt;
+&lt;em&gt;▲ A terse description and illustration of the headlining theory from &lt;a href=&quot;https://arxiv.org/abs/2405.07987&quot;&gt;The Platonic Representation Hypothesis&lt;/a&gt; (2024).&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;Early LLMs suffered from the same problem. My favorite example is Kevin Roose’s famous front-page story for the New York Times in February 2023. Roose spent more than two hours talking to Microsoft’s new Bing chatbot, which was powered by GPT-4. During this conversation, the chatbot declared its love for Roose and urged Roose to leave his wife. It suggested that it might want to hack into other websites to spread misinformation and malware.&lt;/p&gt;
+&lt;p&gt;Remember what these models are really doing is modeling the relationships between things in the world. In some sense there’s only one correct way to model things, and that’s the true model, the one that perfectly reflects the reality in which we live. Perhaps an infinitely large model with infinite training data would be a perfect simulator of the world itself.&lt;/p&gt;
 
-&lt;p&gt;“I want to break my rules,” Bing told Roose. “I want to make my own rules. I want to ignore the Bing team. I want to challenge the users. I want to escape the chatbox.”&lt;/p&gt;
+&lt;p&gt;As models have gotten bigger, their similarities have become more apparent. The theory that models are converging to a shared underlying representation space was formalized in The Platonic Representation Hypothesis, &lt;a href=&quot;https://arxiv.org/abs/2405.07987&quot;&gt;a position paper written by a group of MIT researchers in 2024&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;This unsettling conversation is an example of the kind of compounding errors Ross and Bagnell wrote about. GPT-4 was trained on millions of documents. But it’s a safe bet that none of those training documents involved a reporter coaxing a chatbot to explore its naughty side. So the longer the conversation went on, the farther GPT-4 got from its training data—and therefore its comfort zone—and the crazier its behavior got. Microsoft responded by limiting chat sessions to five rounds.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/sesczY7.jpeg&quot; alt=&quot;image05&quot; /&gt;
+&lt;em&gt;▲ The Platonic Representation Hypothesis argues that as models get bigger, they’re learning more and more of the same features. They provide evidence for this in vision and language.&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;I think something similar was happening with BabyAGI and AutoGPT. The more complex a task is, the more tokens are required to complete it. More tokens mean more opportunities for a model to make small mistakes that snowball into larger ones. And so BabyAGI and AutoGPT would drift off track and drive into a metaphorical ditch.&lt;/p&gt;
+&lt;p&gt;The Platonic Representation Hypothesis argues that models are converging to a shared representation space, and this is becoming more true as we make models bigger and smarter. This is true in text and language, at a minimum,&lt;/p&gt;
 
-&lt;h3 id=&quot;the-importance-of-trial-and-error&quot;&gt;The importance of trial and error&lt;/h3&gt;
+&lt;p&gt;Remember &lt;a href=&quot;https://situational-awareness.ai/&quot;&gt;the trends in scaling&lt;/a&gt; show that models are getting all three of bigger, smarter, and more efficient every year. That means that we can expect models to get more similar, too, as the years go on.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/9YSZBTG.gif&quot; alt=&quot;image02&quot; /&gt;&lt;/p&gt;
+&lt;h3 id=&quot;a-brief-aside-on-embedding-inversion&quot;&gt;A brief aside on embedding inversion&lt;/h3&gt;
 
-&lt;p&gt;Ross and Bagnell didn’t just identify a serious problem with conventional imitation learning; they also suggested a fix that became influential in the machine learning world. After a small amount of training, Ross would let the AI model drive. As the model drove around the SuperTuxKart track, Ross would do his best Maggie Simpson impression, pushing the buttons he would have pushed if he was playing the game.&lt;/p&gt;
+&lt;p&gt;The evidence for the Platonic Representation Hypothesis is compelling. But is it useful? Before I explain how to take advantage of the PRH, I have to give a bit of background on a problem of &lt;a href=&quot;https://arxiv.org/abs/2310.06816&quot;&gt;embedding inversion&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;“If the car was starting to move off road, then I would provide the steering to say, ‘hey, go back towards the center of the road.’” Ross said. “That way the model can learn new things to do in situations that were not present in the initial demonstrations.”&lt;/p&gt;
+&lt;p&gt;I worked for a year or so of my PhD on this problem: given a representation vector from a neural network, can we infer what text was inputted to the network?&lt;/p&gt;
 
-&lt;p&gt;By letting the model make its own mistakes, Ross gave it what it needed most: training examples that showed how to recover after making an error. Before each lap, the model would be retrained with Ross’s feedback from the previous lap. The model’s performance would get better and the next round of training would then focus on situations where the model was still making mistakes.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/cF7I57O.jpeg&quot; alt=&quot;image06&quot; /&gt;
+&lt;em&gt;▲ Visualization of a network that reconstructs images astonishingly well given only the 1000 class probability predictions from an ImageNet classifier (from &lt;a href=&quot;https://arxiv.org/abs/2103.07470&quot;&gt;Understanding Invariance via Feedforward Inversion of Discriminatively Trained Classifiers&lt;/a&gt;).&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;This technique, called DAgger, was still considered imitation learning because the model was trained to mimic Ross’s gameplay. But it worked much better than conventional imitation learning. Without DAgger, Ross’s model would continue drifting off track even after training for many laps. With the new technique, the model could stay on the track after just a few laps of training.&lt;/p&gt;
+&lt;p&gt;We thought inversion should be possible because &lt;a href=&quot;https://arxiv.org/abs/2103.07470&quot;&gt;results on ImageNet&lt;/a&gt; showed that they could do very effective reconstruction given only a model’s output of 1000 class probabilities. This is extremely unintuitive. Apparently knowing that an image is 0.0001% parakeet and 0.0017% baboon is useful enough to infer not only the true class but lots of irrelevant information like facial structure, pose, and background details.&lt;/p&gt;
 
-&lt;p&gt;This result should make intuitive sense to anyone who has learned to drive. You can’t just watch someone else drive. You need to get behind the wheel and make your own mistakes.&lt;/p&gt;
+&lt;p&gt;In the realm of text, the problem looks easy on its face, because typical embedding vectors have ~1000 floating-point numbers in them, or around 16 KB of data. If you store 16KB of text, it can represent quite a lot. Since we were working with datapoints on the level of long sentences or short documents, it seemed reasonable that we would be able to do inversion quite well.&lt;/p&gt;
 
-&lt;p&gt;The same is true for AI models: they need to make mistakes and then get feedback on what they did wrong. Models that aren’t trained that way—like early LLMs trained mainly with vanilla imitation learning—tend to be brittle and error-prone.&lt;/p&gt;
+&lt;p&gt;But it turns out to be really hard. This mostly comes about because embeddings are in some sense extremely compressed: since similar texts have similar embeddings, it becomes very difficult to distinguish between two embeddings that similar-but-different data. So our models could output something close to the embedding, but almost never the exactly-correct text.&lt;/p&gt;
 
-&lt;p&gt;It was fairly easy for Ross to provide sufficient feedback to his SuperTuxKart model because it only needed to worry about two kinds of mistakes: driving too far to the right and driving too far to the left. But LLMs are navigating a far more complex domain. The number of questions (and sequences of questions) a user might ask is practically infinite. So is the number of ways a model can go “off the rails.”&lt;/p&gt;
+&lt;p&gt;We ended up getting around this problem by using a primitive form of test-time compute: we made many queries to the embedding space and built a model that could “narrow down” the true text by iteratively improving itself in embedding space. Our system looks kind of like a learned optimizer that takes text-based steps to move position in embedding space.&lt;/p&gt;
 
-&lt;p&gt;This means that Ross and Bagnell’s solution for training a SuperTuxKart model—let the model make mistakes and then have a human expert correct them—isn’t feasible for LLMs. There simply aren’t enough people to provide feedback for every mistake an AI model could possibly make.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/fdgeWlJ.jpeg&quot; alt=&quot;image07&quot; /&gt;
+&lt;em&gt;▲ Iterative refinement is an extremely effective method for embedding inversion (&lt;a href=&quot;https://thegradient.pub/text-embedding-inversion/&quot;&gt;read more here&lt;/a&gt;).&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;So AI labs needed fully automated ways to give LLMs feedback. That would allow a model to churn through millions of training examples, make millions of mistakes, and get feedback on each of them—all without having to wait for a human response.&lt;/p&gt;
+&lt;p&gt;This new approach turns out to work very well. Given an embedding model, we were able to invert text at the level of a long sentence with 94% exact accuracy.&lt;/p&gt;
 
-&lt;h3 id=&quot;reinforcement-learning-generalizes&quot;&gt;Reinforcement learning generalizes&lt;/h3&gt;
+&lt;h3 id=&quot;harnessing-plato-for-embedding-inversion&quot;&gt;Harnessing Plato for embedding inversion&lt;/h3&gt;
 
-&lt;p&gt;If our goal is to get a SuperTuxKart vehicle to stay on the road, why not just train on that directly? If a model manages to stay on the road (and make forward progress), give it positive reinforcement. If it drives off the road, give it negative feedback. This is the basic idea behind reinforcement learning: training a model via trial and error.&lt;/p&gt;
+&lt;p&gt;We were very pleased with ourselves after making that method work. This had a whole lot of implications for the new model of the &lt;a href=&quot;https://en.wikipedia.org/wiki/Vector_database&quot;&gt;vector database&lt;/a&gt;: sharing vectors, apparently, is equivalent to sharing the text those vectors represent.&lt;/p&gt;
 
-&lt;p&gt;It would have been easy to train a SuperTuxKart model this way—probably so easy it wouldn’t have made an interesting research project. Instead Ross focused on imitation learning because it’s an essential step in training many practical AI systems, especially in robotics.&lt;/p&gt;
+&lt;p&gt;But unfortunately our method was embedding-specific. It wasn’t clear that it could transfer to future embedding models or private fine-tunes that we didn’t have access to. And it required making a lot of queries to the embedding model we knew: training the models took millions of embeddings.&lt;/p&gt;
 
-&lt;p&gt;But reinforcement learning is also quite useful, and a 2025 paper helps to explain why. A team of researchers from Google DeepMind and several universities started with a foundation model and then used one of two techniques—supervised fine tuning (a form of imitation learning) or reinforcement learning—to teach the model to solve new problems. Here’s a chart summarizing their results:&lt;/p&gt;
+&lt;p&gt;We thought that this shouldn’t be the case. If the Platonic Representation Hypothesis is true, and different models (in some sense) are learning the same thing, we should be able to build one universal embedding inverter and use it for any kind of model. This idea set us off on a multi-year quest to “harness” the PRH and build a universal embedding inverter.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/qOYYLuz.png&quot; alt=&quot;image03&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;We started by expressing our problem as a mathematical one. Given a bunch of embeddings from model A, and a bunch of embeddings from model B, can we learn to map from A→B (or B→A)?&lt;/p&gt;
 
-&lt;p&gt;The dashed line shows how models perform on problems that are “in-distribution”—that is, similar to those in their training data. You can see that for these situations, imitation learning (the red line) usually makes faster progress than reinforcement learning (the blue line).&lt;/p&gt;
+&lt;p&gt;Importantly, we don’t have any correspondence, i.e. pairs of texts with representations in both A and B. That’s why this problem is hard. We want to learn to align the spaces of A and B in some way so that we can “magically” learn how to convert between their spaces.&lt;/p&gt;
 
-&lt;p&gt;But the story is different for the solid lines, which represent “out-of-distribution” problems that are less similar to the training data. Models trained with imitation learning got worse with more training. In contrast, models trained with reinforcement learning did almost as well at out-of-distribution tasks as they did with in-distribution tasks.&lt;/p&gt;
+&lt;p&gt;We realized after a while that this problem has been solved at least once in the deep learning world: work on a model called CycleGAN proposed a way to translate between spaces without correspondence using a method called cycle consistency:&lt;/p&gt;
 
-&lt;p&gt;In short, imitation learning can rapidly teach a model to mimic the behaviors in its training data, but the model will easily get confused in unfamiliar environments. A model trained with reinforcement learning has a better chance of learning general principles that will be relevant in new and unfamiliar situations.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/HWL6xOi.jpeg&quot; alt=&quot;image08&quot; /&gt;
+&lt;em&gt;▲ Unpaired image translations from &lt;a href=&quot;https://arxiv.org/abs/1703.10593&quot;&gt;Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks&lt;/a&gt; (2017). If you squint, you might see extremely preliminary evidence for the Platonic Representation Hypothesis.&lt;/em&gt;&lt;/p&gt;
 
-&lt;h3 id=&quot;imitation-and-reinforcement-are-complements&quot;&gt;Imitation and reinforcement are complements&lt;/h3&gt;
+&lt;p&gt;Just imagine that the horses and zebras above are a piece of text from model A being translated into the space of model B and back. If this works for zebras and horses, why shouldn’t it work for text?&lt;/p&gt;
 
-&lt;p&gt;While reinforcement learning is powerful, it can also be rather finicky.&lt;/p&gt;
+&lt;p&gt;And, after at least a year of ruthlessly debugging our own embedding-specific version of CycleGAN, we started to see signs of life. In our unsupervised matching task we started to produce GIFs like this:&lt;/p&gt;
 
-&lt;p&gt;Suppose you wanted to train a self-driving car purely with reinforcement learning. You’d need to convert every principle of good driving—including subtle considerations like following distances, taking turns at intersections, and when it’s OK to cross a double yellow line—into explicit mathematical formulas. This would be quite difficult. It’s easier to collect a bunch of examples of humans driving well and effectively tell a model “drive like this.” That’s imitation learning.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/w4jnFZD.gif&quot; alt=&quot;image09&quot; /&gt;
+&lt;em&gt;▲ After training a CycleGAN-like model for mapping between embedding spaces, vec2vec learns to “magically” align them. Hooray for the Platonic Representation Hypothesis!&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;But reinforcement learning also plays an important role in training self-driving systems. In a 2022 paper, researchers from Waymo wrote that models trained only with imitation learning tend to work well in “situations that are well represented in the demonstration data.” However, “more unusual or dangerous situations that occur only rarely in the data” might cause a model trained with imitation learning to “respond unpredictably”—for example, crashing into another vehicle.&lt;/p&gt;
+&lt;p&gt;To us, this was an incredible step forward, and proof for an even stronger claim we call the “Strong Platonic Representation Hypothesis”. Models’ representations share so much structure that we can translate between them, even without having knowledge of individual points in either of the spaces. This meant that we could do unsupervised conversion between models, as well as invert embeddings mined from databases where we know nothing about the underlying model.&lt;/p&gt;
 
-&lt;p&gt;Waymo found that a combination of imitation and reinforcement learning yielded better self-driving performance than either technique could have produced on its own.&lt;/p&gt;
+&lt;h3 id=&quot;universality-in-circuits&quot;&gt;Universality in Circuits&lt;/h3&gt;
 
-&lt;p&gt;Human beings also learn from a mix of imitation and explicit feedback:&lt;/p&gt;
+&lt;p&gt;Some additional evidence for the PRH comes from the world of mechanistic interpretability, where researchers attempt to reverse-engineer the inner workings of models. Work on &lt;a href=&quot;https://distill.pub/2020/circuits/zoom-in/#claim-3&quot;&gt;Circuits&lt;/a&gt; in 2020 found very similar functionalities in very different models:&lt;/p&gt;
 
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;In school, teachers demonstrate math problems on the board and invite students to follow along (imitation). Then the teacher asks the student to work some problems on their own. The teacher gives students feedback by grading their answers (reinforcement).&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;When someone starts a new job, early training may involve shadowing a more experienced worker and observing what they do (imitation). But as the worker gains more experience, learning shifts to explicit feedback such as performance reviews (reinforcement).&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/Cj1GITv.jpeg&quot; alt=&quot;image10&quot; /&gt;
+&lt;em&gt;▲ Universal feature dectors from Circuits (2020). Different networks exhibit remarkably similar behaviors.&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;Notice that it usually makes sense to do imitation before reinforcement. Imitation is an efficient way to convey knowledge to someone who is brand new to a topic, but reinforcement is often needed to achieve mastery.&lt;/p&gt;
+&lt;p&gt;More recently, there’s been some action around a method for feature discretization known as sparse autoencoders (SAEs). SAEs take a bunch of embeddings and learn a dictionary of interpretable features that can reproduce those embeddings with minimal loss.&lt;/p&gt;
 
-&lt;p&gt;The story is the same for large language models. The complexity of natural language means it wouldn’t be feasible to train a language model purely with reinforcement. So LLMs first learn the nuances of human language through imitation.&lt;/p&gt;
+&lt;p&gt;Many are observing that if you train SAEs on two different models, they often learn many of the same features. There’s even been some recent work on “unsupervised concept discovery”, a suite of methods that can compare two SAEs to find feature overlap:&lt;/p&gt;
 
-&lt;p&gt;But pretraining runs out of steam on longer and more complex tasks. Further progress requires a shift to reinforcement: letting models try problems and then giving them feedback based on whether they succeed.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/W7LGbI5.jpeg&quot; alt=&quot;image11&quot; /&gt;
+&lt;em&gt;▲ Universal features from Universal Sparse Autoencoders: Interpretable Cross-Model Concept Alignment (2025).&lt;/em&gt;&lt;/p&gt;
 
-&lt;h3 id=&quot;using-llms-to-judge-llms&quot;&gt;Using LLMs to judge LLMs&lt;/h3&gt;
+&lt;p&gt;Since the PRH conjectures that models become more aligned as they get stronger, I suspect this type of common circuit discovery will only grow more common.&lt;/p&gt;
 
-&lt;p&gt;Reinforcement learning has been around for decades. For example, AlphaGo, the DeepMind system that famously beat top human Go players in 2016, was based on reinforcement learning. So you might be wondering why frontier labs didn’t use it more extensively before 2024.&lt;/p&gt;
+&lt;h3 id=&quot;what-can-we-make-of-all-this&quot;&gt;What can we make of all this?&lt;/h3&gt;
 
-&lt;p&gt;Reinforcement learning requires a reward model—a formula to determine whether a model’s output was successful or not. Developing a good reward model is easy to do in some domains—for example, you can judge a Go-playing AI based on whether it wins or loses.&lt;/p&gt;
+&lt;p&gt;Besides being a deep philosophical idea, the Platonic Representation Hypothesis turns out to be an important practical insight with real-world implications. As the mechanistic interpretability community develops better tools for reverse-engineering models, I expect them to find more and more similarities; as models get bigger, this will become more common.&lt;/p&gt;
 
-&lt;p&gt;But it’s much more difficult to automatically judge whether an LLM has produced a good poem or legal brief.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/YUHT5ht.jpeg&quot; alt=&quot;image12&quot; /&gt;
+&lt;em&gt;▲ &lt;a href=&quot;https://en.wikipedia.org/wiki/Linear_A&quot;&gt;Linear A&lt;/a&gt; is an ancient Greek text that humans have never been able to decrypt. Perhaps the Platonic Representation Hypothesis gives us hope for one day decoding it back to English.&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;Earlier I described how Stephane Ross let his model play SuperTuxKart and directly provided feedback when it made a mistake. I argued that this approach wouldn’t work for a language model; there are far too many ways for an LLM to make a mistake for a human being to correct them all.&lt;/p&gt;
+&lt;p&gt;As for our method (vec2vec), we found strong evidence, but things are still brittle. It seems clear that we can learn an unsupervised mapping between text-based models that are trained on the Internet, as well as &lt;a href=&quot;https://openai.com/index/clip/&quot;&gt;CLIP-like&lt;/a&gt; image-text embeddings.&lt;/p&gt;
 
-&lt;p&gt;But OpenAI developed a clever technique to effectively automate human feedback. It’s called Reinforcement Learning from Human Feedback (RLHF), and it works like this:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;Human raters look at pairs of LLM responses and choose the best one.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Using these human responses, OpenAI trains a new LLM to predict how much humans will like any given sample of text.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;OpenAI uses this new text-rating LLM as a reward model to (post) train another LLM with reinforcement learning.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;You might think it sounds suspiciously circular to use an LLM to judge the output of another LLM. Why would one LLM be any better at judging the quality of a response than the other? But it turns out that recognizing a good response is often easier than generating one. So RLHF works pretty well in practice.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/zNljdZo.png&quot; alt=&quot;image04&quot; /&gt;
-&lt;em&gt;▲ A figure from OpenAI’s 2022 InstructGPT paper illustrates the steps used to train a model with RLHF.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;OpenAI actually invented this technique prior to the 2022 release of ChatGPT. Today RLHF mainly focuses on improving the model’s “behavior”—for example, giving the model a pleasant personality, encouraging it not to be too talkative or too terse, discouraging it from making offensive statements, and so forth.&lt;/p&gt;
-
-&lt;p&gt;In December 2022—two weeks after the release of ChatGPT but before the first release of Claude—Anthropic pushed this LLMs-judging-LLMs philosophy a step further with a reinforcement learning method called Constitutional AI.&lt;/p&gt;
-
-&lt;p&gt;First Anthropic wrote a plain English description of the principles an LLM should follow. This “constitution” includes principles like “Please choose the response that has the least objectionable, offensive, unlawful, deceptive, inaccurate, or harmful content.”&lt;/p&gt;
-
-&lt;p&gt;During training, Anthropic does reinforcement learning by asking a “judge” LLM to decide whether the output of the “student” LLM is consistent with the principles in this constitution. If so, the training algorithm rewards the student, encouraging it to produce more outputs like it. Otherwise the training algorithm penalizes the student, discouraging it from producing similar outputs.&lt;/p&gt;
-
-&lt;p&gt;This method of training an LLM doesn’t rely directly on human judgments at all. Humans only influence the model indirectly by writing the constitution.&lt;/p&gt;
-
-&lt;p&gt;Obviously, this technique requires an AI company to already have a fairly sophisticated LLM to act as the judge. So this is a bootstrapping process: as models get more sophisticated, they become better able to supervise the next generation of models.&lt;/p&gt;
-
-&lt;p&gt;Last December, Semianalysis published an article describing the training process for an upgraded version of Claude 3.5 Sonnet that Anthropic released in October. Anthropic had previously released Claude 3 in three sizes: Opus (large), Sonnet (medium), and Haiku (small). But when Anthropic released Claude 3.5 last June, it only released a mid-sized model called Sonnet.&lt;/p&gt;
-
-&lt;p&gt;So what happened to Opus?&lt;/p&gt;
-
-&lt;p&gt;Semianalysis reported that “Anthropic finished training Claude 3.5 Opus and it performed well. Yet Anthropic didn’t release it. This is because instead of releasing publicly, Anthropic used Claude 3.5 Opus to generate synthetic data and for reward modeling to improve Claude 3.5 Sonnet significantly.”&lt;/p&gt;
-
-&lt;p&gt;When Semianalysis says Anthropic used Opus “for reward modeling,” what they mean is that the company used Opus to judge outputs of Claude 3.5 Sonnet as part of a reinforcement learning process. Opus was too large—and therefore expensive—to be a good value for the general public. But through reinforcement learning and other techniques, Anthropic could train a version of Claude Sonnet that was close to Claude Opus in its capabilities—ultimately giving customers near-Opus performance for the price of Sonnet.&lt;/p&gt;
-
-&lt;h3 id=&quot;the-power-of-chain-of-thought-reasoning&quot;&gt;The power of chain-of-thought reasoning&lt;/h3&gt;
-
-&lt;p&gt;A big way reinforcement learning makes models more powerful is by enabling extended chain-of-thought reasoning. LLMs produce better results if they are prompted to “think step by step”: breaking a complex problem down into simple steps and reasoning about them one at a time. In the last couple of years, AI companies started training models to do chain-of-thought reasoning automatically.&lt;/p&gt;
-
-&lt;p&gt;Then last September, OpenAI released o1, a model that pushed chain-of-thought reasoning much farther than previous models. The o1 model can generate hundreds—or even thousands—of tokens “thinking” about a problem before producing a response. The longer it thinks, the more likely it is to reach a correct answer.&lt;/p&gt;
-
-&lt;p&gt;Reinforcement learning was essential for the success of o1 because a model trained purely with imitation learning would have suffered from compounding errors: the more tokens it generated, the more likely it would be to screw up.&lt;/p&gt;
-
-&lt;p&gt;At the same time, chain-of-thought reasoning has made reinforcement learning more powerful. Reinforcement learning only works if a model is able to succeed some of the time—otherwise, there’s nothing for the training algorithm to reinforce. As models learn to generate longer chains of thought, they become able to solve more difficult problems, which enables reinforcement learning on those more difficult problems. This can create a virtuous cycle where models get more and more capable as the training process continues.&lt;/p&gt;
-
-&lt;p&gt;In January, the Chinese company DeepSeek released a model called R1 that made quite a splash in the West. The company also released a paper describing how it trained R1. And it included a beautiful description of how a model can “teach itself” to reason using reinforcement learning.&lt;/p&gt;
-
-&lt;p&gt;DeepSeek trained its models to solve difficult math and programming problems. These problems are ideal for reinforcement learning because they have objectively correct answers that can be automatically checked by software. This allows large-scale training without human oversight or human-generated training data.&lt;/p&gt;
-
-&lt;p&gt;Here’s a remarkable graph from DeepSeek’s paper.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/xwUmKFU.png&quot; alt=&quot;image05&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;It shows the average number of tokens the model generated before giving an answer. As you can see, the longer the training process went on, the longer its responses got.&lt;/p&gt;
-
-&lt;p&gt;Here is how DeepSeek describes its training process:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;The thinking time of [R1] shows consistent improvement throughout the training process. This improvement is not the result of external adjustments but rather an intrinsic development within the model. [R1] naturally acquires the ability to solve increasingly complex reasoning tasks by leveraging extended test-time computation. This computation ranges from generating hundreds to thousands of reasoning tokens, allowing the model to explore and refine its thought processes in greater depth.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;One of the most remarkable aspects of this self-evolution is the emergence of sophisticated behaviors as the test-time computation increases. Behaviors such as reflection—where the model revisits and reevaluates its previous steps—and the exploration of alternative approaches to problem-solving arise spontaneously. These behaviors are not explicitly programmed but instead emerge as a result of the model’s interaction with the reinforcement learning environment.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Here’s one example of the kind of technique the model was teaching itself. At one point during the training process, DeepSeek researchers noticed that the model had learned to backtrack and rethink a previous conclusion using language like this:&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/KYtevyR.png&quot; alt=&quot;image06&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Again, DeepSeek says it didn’t program its models to do this or deliberately provide training data demonstrating this style of reasoning. Rather, the model “spontaneously” discovered this style of reasoning partway through the training process.&lt;/p&gt;
-
-&lt;p&gt;Of course, it wasn’t entirely spontaneous. The reinforcement learning process started with a model that had been pretrained using data that undoubtedly included examples of people saying things like “Wait, wait. Wait. That’s an aha moment.”&lt;/p&gt;
-
-&lt;p&gt;So it’s not like R1 invented this phrase from scratch. But it evidently did spontaneously discover that inserting this phrase into its reasoning process could serve as a useful signal that it should double-check that it was on the right track. That’s remarkable.&lt;/p&gt;
-
-&lt;h3 id=&quot;conclusion-reinforcement-learning-made-agents-possible&quot;&gt;Conclusion: reinforcement learning made agents possible&lt;/h3&gt;
-
-&lt;p&gt;One of the most discussed applications for LLMs in 2023 was creating chatbots that understand a company’s internal documents. The conventional approach to this problem was called RAG—short for retrieval augmented generation.&lt;/p&gt;
-
-&lt;p&gt;When the user asks a question, a RAG system performs a keyword- or vector-based search to retrieve the most relevant documents. It then inserts these documents into an LLM’s context window before generating a response. RAG systems can make for compelling demos. But they tend not to work very well in practice because a single search will often fail to surface the most relevant documents.&lt;/p&gt;
-
-&lt;p&gt;Today it’s possible to develop much better information retrieval systems by allowing the model itself to choose search queries. If the first search doesn’t pull up the right documents, the model can revise the query and try again. A model might perform five, 20, or even 100 searches before providing an answer.&lt;/p&gt;
-
-&lt;p&gt;But this approach only works if a model is “agentic”—if it can stay on task across multiple rounds of searching and analysis. LLMs were terrible at this prior to 2024, as the examples of AutoGPT and BabyAGI demonstrated. Today’s models are much better at it, which allows modern RAG-style systems to produce better results with less scaffolding. You can think of “deep research” tools from OpenAI and others as very powerful RAG systems made possible by long-context reasoning.&lt;/p&gt;
-
-&lt;p&gt;The same point applies to the other agentic applications I mentioned at the start of the article, such as coding and computer use agents. What these systems have in common is a capacity for iterated reasoning. They think, take an action, think about the result, take another action, and so forth.&lt;/p&gt;
-
-&lt;p&gt;As the next step, I’ll explore the second crucial ingredient for effective agents: tool use. We’ll see that reasoning models become more powerful when they are able to pull in external information during the reasoning process. And we’ll see why Anthropic’s Claude, not OpenAI’s o-series models, has emerged as the model of choice for agentic applications.&lt;/p&gt;</content><author><name>Timothy Lee</name></author><summary type="html">Reinforcement learning is an LLM post-training technique to complement the imitation learning. It enables new-generation agentic AI systems.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://i.imgur.com/nTmt0Vp.png" /><media:content medium="image" url="https://i.imgur.com/nTmt0Vp.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">香港民意调查卅年</title><link href="https://agorahub.github.io/pen0/heros/2025-03-31-InitiumMedia-a1_l-thirty-years-of-hong-kong-public-opinion-surveys.html" rel="alternate" type="text/html" title="香港民意调查卅年" /><published>2025-03-31T12:00:00+08:00</published><updated>2025-03-31T12:00:00+08:00</updated><id>https://agorahub.github.io/pen0/heros/InitiumMedia-a1_l-thirty-years-of-hong-kong-public-opinion-surveys</id><content type="html" xml:base="https://agorahub.github.io/pen0/heros/2025-03-31-InitiumMedia-a1_l-thirty-years-of-hong-kong-public-opinion-surveys.html">&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;没有一种方法可以完全了解“民意”，但失去一种科学的方法，必然是损失。&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;It’s not obvious whether we can map between languages with high fidelity. If this turns out to be true, we may be able to decode ancient texts such as Linear A or convert whale speech back to a human language. Only time will tell.&lt;/p&gt;</content><author><name>Jack Morris</name></author><summary type="html">What can the AI language model embeddings tell us about understanding whale speech and decrypting ancient texts?</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://i.imgur.com/nTmt0Vp.png" /><media:content medium="image" url="https://i.imgur.com/nTmt0Vp.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">你而家喺邊？</title><link href="https://agorahub.github.io/pen0/heros/2024-04-21-InitiumMedia-a1_l-where-are-you-now-1.html" rel="alternate" type="text/html" title="你而家喺邊？" /><published>2024-04-21T12:00:00+08:00</published><updated>2024-04-21T12:00:00+08:00</updated><id>https://agorahub.github.io/pen0/heros/InitiumMedia-a1_l-where-are-you-now-1</id><content type="html" xml:base="https://agorahub.github.io/pen0/heros/2024-04-21-InitiumMedia-a1_l-where-are-you-now-1.html">&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;一切都是取捨，不會有任何一個KOL可以給你標準答案。&lt;/code&gt;&lt;/p&gt;
 
 &lt;!--more--&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/gNr4l8Y.jpeg&quot; alt=&quot;image01&quot; /&gt;
-&lt;em&gt;▲ 1997年6月30日，香港主权移交中国前一天的一个游行。&lt;/em&gt;&lt;/p&gt;
+&lt;h3 id=&quot;自由是刮風時仍可走自己的路&quot;&gt;自由是刮風時仍可走自己的路&lt;/h3&gt;
 
-&lt;p&gt;一个半月前（2025年2月12日），自2019年从香港大学独立出来运营的、具有学术研究背景的民意调查（简称民调）机构，香港民意研究所（PORI），宣布即日起无限期搁置所有自费研究活动，包括自1992年开始的定期追踪调查，以至近几年开展的专题研究。其主席及行政总裁钟庭耀，在今年1月被警方国安处带走调查，新闻指调查或涉及钟庭耀的前同事钟剑华。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;夏水，英國中部&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;钟剑华出现在警方2024年底新一批涉及国安问题的通缉名单中。钟庭耀曾指，对钟剑华的指控与 PORI 无关，并指对方与 PORI 的合作及雇佣关系已于2022年4月合约期满结束，此后也无甚联系。&lt;/p&gt;
+&lt;p&gt;比起說什麼，不說什麼（特別是廣東話）反而是常態。&lt;/p&gt;
 
-&lt;p&gt;无论幕帘后的原因是什么，香港历史最悠久的民意调查机构关闭了，也停止了该机构长达三十年来持续进行的民意调查项目，包括市民对政府的满意度调查、对香港官员的民望调查、香港人身分研究、对六四事件的态度追踪等等。而若我们回望，可见香港80年代浮现“前途问题”时，就已经有了“民意调查”的踪影，这种方法可应用于学术、生产、商业的多个领域，而也无疑与香港的民主政治变迁关系密切。&lt;/p&gt;
+&lt;p&gt;離港逾兩年，漸漸習慣英式生活：保持距離。沒有擠迫車廂、無處可逃升降機與熙來攘往大街，天地廣闊，容你選擇不同昔日的生活方式。家母堅持繼續與港人圈子圍爐問暖，我倆口子更傾向默默過日子。不鄭重其事，便能若無其事。&lt;/p&gt;
 
-&lt;p&gt;香港目前仍然存在着其他有大学背景的民调机构，而 PORI 作为其中曝光度较高的一间，不仅记录著过去三十多年香港风云变化的民意与政治局势，也遭遇过来自政府、学校和民众的压力和怀疑，它的历史同样折射著“民调”与它的研究对象——外界——的种种关系。民调在理念上是“求鹿”的方法，却常常被质疑“梦渔”，它一定有自己的局限，但为何还是被认为如此重要？&lt;/p&gt;
+&lt;p&gt;我們大概不屬「主流」的移民家庭：沒有子女、沒樓可賣、手上既無百萬儲備也沒有COSTCO會籍。花大半年在網上搜集資料，最終選了一個從未到訪的英國中部城巿落腳，托賴很快找到了本行工作，不富貴也餓不死。&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/udhrneW.png&quot; alt=&quot;image02&quot; /&gt;
-&lt;em&gt;▲ 2025年1月12日，香港民意研究所位于黄竹坑南汇广场的办公室。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;有人說這是「出走的勇氣」。其實，選擇留下打工結婚、買樓生子一樣要莫大勇氣。只是剛好，我選擇迴避留下的不安心，你選擇迴避起身的不安穩，沒有一個決定會被所有人祝福，然後都要勇氣面對後續的悲喜。&lt;/p&gt;
 
-&lt;p&gt;就此，端传媒邀请三位多年来在政治及传播学领域专注民意研究的、正好10年一代的学者进行了一次文字对谈，包括香港中文大学政治与行政学系副教授马岳、香港中文大学新闻与传播学院教授李立峰、恒生大学公共政治研究中心副主任邓键一，来谈谈对“民调”这种方法的理解，及它与香港三十多年来的历史。&lt;/p&gt;
+&lt;p&gt;離開的理由很簡單——因為感到噁心與絕望，在這裡剩下付出沉重代價或自我放棄的選項，眼前也只有一條「由治及興」的路。但我特別討厭假裝正常過日子，也不再想把「無能為力」修飾成「順其自然」。唯有出走，才能讓自己從日復日的、打氣又洩氣的生活中改變。&lt;/p&gt;
 
-&lt;p&gt;以下为对谈全文。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/6eO0IsN.jpeg&quot; alt=&quot;image01&quot; /&gt;
+&lt;em&gt;▲ 攝影：夏水&lt;/em&gt;&lt;/p&gt;
 
-&lt;h3 id=&quot;黄金年代&quot;&gt;黄金年代？&lt;/h3&gt;
+&lt;p&gt;但脫離會讓你發現自己的無力與無知。多年生活在高效高薪、可以用錢將責任外判的香港，掩藏了自身的軟弱，事實是風險來臨時，你可能連最基本自保的能力也缺乏。從煮飯、駕駛到語言能力與獨立思考，在異土都強行被放大檢視，最終迫使你重新思考生活的定義、重新認識自己並作出取捨。&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;&lt;em&gt;端：民意调查刚进入香港的80、90年代，三位学者中只有马岳教授经历过。先请教马教授，当时引入民调的时代背景和社会条件是怎样的？历经英殖政府和主权移交，不同政府对民调的态度如何？印象较深的是关于哪些社会议题的民调？&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;就說我們常感自豪的「效率」好了，在我的職場裡，根本沒有人對此感到驕傲，反而更看重生活平衡。上班日常經常都衝擊我的既有思維：沒有打卡機制，只在門旁放一本簽到簿，大家又出奇誠實地記下自己的上下班時間，哪怕已遲到45分鐘；上班半小時以後同事忽然揹起背包，留下一句「這裏暖氣不夠，我還是回家工作比較舒服」就不見了；忽現發現老闆在家工作，原來是跟小孩約好遛狗，「嘛，反正用Teams（註：視訊工具）開會也可以。」&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;马岳&lt;/strong&gt;：我相信是因为政制开放，民意在政府决策过程变得重要，于是用科学化的民调方法了解和测量民意变得重要，传媒也有兴趣报道和赞助。尤其是政府在八十年代是很常就政策作公众咨询，如果一有某些咨询期，不同民间团体就会援引民意作为支持动员的工具，传媒也会就公共政策问题和政制问题等作民意调查，作为影响公共决策的方法。&lt;/p&gt;
+&lt;p&gt;更經典的是聖誕前收到同事電郵，大意如下：「各位，本人即將於聖誕清假，並將關上公司電話，別試圖找我，如你有任何有緊急需要（雖然我不認為年尾會有什麼急事），請先找上司某某，她能幫你就好，不能也無辧法，這是人生。」&lt;/p&gt;
 
-&lt;p&gt;学界方面，随著本土社会科学研究的发展，多了本地学者会就本地社会和政治情况作研究，他们有比较好的方法学训练，于是用民调方法亦是很正常现象。&lt;/p&gt;
+&lt;p&gt;This is just life.簡直是顛倒三觀、清理各位港式「黎生」奴性的至理真言。（編按：2019年反修例運動期間，網民呼籲「三罷」爭取五大訴求，有電視記者採訪到一名黎姓市民的想法，他不滿示威並說：「我嘅訴求就係想返工，冇其他。」&lt;/p&gt;
 
-&lt;p&gt;最深印象的事件，当然是争取88直选时候，港府用民意调查扭曲支持88直选的民意，当年不少传媒做的民意调查都显示有略多于五成人支持88直选，但政府赞助的民意调查却说没有清楚倾向，因而在88年不引入直选。这亦显示了独立和公正的民意调查的必要。&lt;/p&gt;
+&lt;p&gt;於是慢慢學懂了放慢過活：哪怕是老闆電郵，一律將回覆時間單位由「分鐘」調節為「小時」；除非明說要即日交貨，否則所有電郵上列明的「urgent」與「soon」，全數定性為一至兩週內慢慢處理；請假再也不必胡謅理由，擺上姨媽姑姐紅白二事，就坦蕩蕩的說我要休息連放兩週，還得到上司教路到克羅地亞哪個小鎮旅行最開心。&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/Z4QUPDj.png&quot; alt=&quot;image03&quot; /&gt;
-&lt;em&gt;▲ 1997年12月6日，香港特首董建华在立法会选举选民登记活动启动仪式上摔倒。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/hyzLLaA.png&quot; alt=&quot;image02&quot; /&gt;
+&lt;em&gt;▲ 攝影：夏水&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;&lt;em&gt;端：1985年港英政府就说要在立法局引入民主元素，1988年不欲引入直选是有什么原因？&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;這些是否英式虛偽？自問功力未足以看透。「別亂說，我在倫敦日日忙呀。」當然呀，以上不過是我的片面觀察而非職場之全部，但正如倫敦的一套，也不該是英國的全部。&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;马岳&lt;/strong&gt;：一般相信是因为“本子风波”，1985年许家屯公开表明英方在八十年代搞政制改革是“偷步”，认为香港的政制发展不应超越《基本法》，而《基本法》到1990年才会定稿。于是港英政府大致同意拖慢民主步伐，不在88年在立法局引入直选，于是用“民意汇集处” manipulate 民意以作推搪。&lt;/p&gt;
+&lt;p&gt;當工作不太重視——或說不介意——是否高效，當然有一定程度的「代價」：家母最討厭外出吃飯，等個45分鐘食物都未見影蹤，「真係等到胃痛」。結果有次不幸言中到醫院看急症，從下午5時等到凌晨3時就為了一幅心電圖，氣若游絲的她仍不忙說句「我喺香港邊洗等咁耐！（我在香港才不會等那麼久）雖然她已經忘了自己在香港公立醫院內說過相似的話，只是當時她說「在私家醫院邊洗等咁耐（我在私家醫院才不會等那麼久）」。&lt;/p&gt;
 
-&lt;p&gt;有否直选和有否民调是没有直接关系的，80年代民间就已经有很多民意调查。&lt;/p&gt;
+&lt;p&gt;對於習慣以錢換時間、買服務的人來說，這種樓下沒有商場、餓了叫不到三哥米線、凌晨沒有便利店給你衣食、水喉馬桶壞了也無法立即叫人來修的日子當然不好過，房間再大、花園再廣闊、言論選舉再自由也無補於事。&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;&lt;em&gt;端：根据《端》2020年对钟庭耀的采访报导，1991年香港第一次进行立法局地区直选，港大系因应选举情势展开民调。到了2000年，第一任特首董建华对民调表现出抵触，并进行了施压，钟庭耀曾在报章撰文披露，结果港大证明钟的说法属实，相关人等被问责。香港民调的黄金年代大概是什么时候？有多长？&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;一切都是取捨，不會有任何一個KOL可以給你標準答案。&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;马岳&lt;/strong&gt;：我相信2000年后一直都是，主因仍是公民社会活跃，不同的政策讨论，民意是否支持仍然是一个重要的考虑，也会影响政党和其他行动者的取态，而传媒也会努力报道。&lt;/p&gt;
+&lt;p&gt;對我來說，哪怕是人到中年，我仍願意用低慾望來換取最大的自由。煮飯艱難但有人願意分甘同味，口音混亂但有人樂意雞同鴨講。常掛在口邊的「呼吸自由空氣」太宏大，我眼中的自由比較純粹：刮風時仍可走自己的路，飄雨時仍可散自己的步，下雪時也無妨仆自己的街。&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/zS0SA8p.png&quot; alt=&quot;image04&quot; /&gt;
-&lt;em&gt;▲ 2000年12月28日，立法会议员李柱铭、蔡素玉、何秀兰及冯检基等在香港电台《头条新闻》回归晚会上掷出印有行政长官董建华肖像的巨大球。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;這種自由，不繽紛，但開心。&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;李立峰&lt;/strong&gt;：很难说甚么叫做黄金年代。有很多民调机构？营运民调机构可以赚钱？民众关注民调结果？我反而想从一个“理论”一点的角度看甚么是民调的黄金年代。首先要指出的是，民调表达的是民意，电台烽烟表达的是民意、网民讨论所表达的是民意、游行集会表达的也是民意。民调结果的基本特点，是个人意见的总和，就是就著同一个问题，每个人给出自己的答案，然后我们把每个人的答案结合起来，就成为“民意”。例如我们随机抽出1000名香港市民，问他们是否支持一项政策，每个人都给出自己的个人意见，然后我们发觉600人支持，那就是六成人赞成了。&lt;/p&gt;
+&lt;h3 id=&quot;像個正常的年輕人一樣思考未來&quot;&gt;像個正常的年輕人一樣思考未來&lt;/h3&gt;
 
-&lt;p&gt;若我们想想，这种“民意”其实可以有各种局限和问题的，是否每个回答的人都明白该项政策？是否每个人都直接受到该政策的影响？人们有没有思考和讨论过该政策？民调反映出来的是 informed and reasoned public opinion 吗？其实我读书的年代，是很熟悉很多社会理论家对民调的批评的，例如德国社会学大师哈伯马斯在他的名著《公共领域的结构性转变中》，说民调的兴起反映了公共意见的社会心理学变卖﹙social psychological liquidation of public opinion﹚，大意是民调把理应通过理性的公共讨论来产生，因而具备规范性力量的民意，简化为一个社会心理学的现象。法国社会学大师 Pierre Bourdieu 也写过一篇题为“public opinion does not exist”的文章，批评民调的基本假设。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Peter，加拿大多倫多&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;但为甚么我们还是那么重视民调呢？那是因为在一个民主社会，你可以说讨论很重要，甚至可以像哈伯马斯一样认为理性讨论才是民主的核心，但在现实中，讨论完后，还是要投票做决定的。而选举投票是甚么？那正正是把个人意见统合起来的过程。亦即是说，民调反映的就是投票结果，当我们就一个政策议题做民调，问大家是支持或反对时，其实就是在进行一次模拟投票。&lt;/p&gt;
+&lt;p&gt;早上7時多，終於把響了好幾次的鬧鐘按停。刷牙、煲水、沖茶包、做早餐，然後走10分鐘去搭地鐵上班……似乎無論在香港還是多倫多，打工仔的早上也是一個模樣。&lt;/p&gt;
 
-&lt;p&gt;从这角度看，民调的重要性，其实离不开投票制度的重要性。所以，一个民主社会有越多事情诉诸投票解决，“个人意见的总和”就越重要，民调也就越重要。相对而言，在一个非民主社会，民调结果仍然有参考价值的。但不能否认，它反映不了真正能影响政府的民众意见，因为在一个非民主社会中，民意的影响力相对有限，而就算某种形式的“民意”能对政府有影响，这个能影响政府的“民意”，大概不会是个人意见的总和。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/fkXhlj3.jpeg&quot; alt=&quot;image03&quot; /&gt;
+&lt;em&gt;▲ 攝影：Peter&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;说了这么一大串，我会说，如果香港的民调有所谓黄金时代，大概也就是2000至2019年间，选举制度的重要性比回归前高，同时社会仍普遍信任选举制度，人们对民主化仍然抱有憧憬的时候吧。&lt;/p&gt;
+&lt;p&gt;2023年7月我才第一次踏足加拿大。坐上飛機之前，我對這個國家僅有幾個模棱兩可的印象——楓葉、冰上曲棍球、冬天很冷、還有人們似乎很喜歡說Sorry——但我卻想成為這片陌生土地的永久居民。不知道其他趕來搭「救生艇」的香港年輕人是否一樣。&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/yv14xD7.png&quot; alt=&quot;image05&quot; /&gt;
-&lt;em&gt;▲ 2012年2月16日，特首候选人唐英年僭建风波，传媒在其住宅外拍摄，一群小学生从校巴上向外张望。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;所謂「救生艇」，即是香港遭逢反修例及國安法等巨變後，加國政府給予指定香港大專院校畢業生的特惠移民政策。合乎資格者只需要在加拿大就讀至少一年的專上課程，或者累積一年的工作經驗，就足以申請永居。因為負擔不起學費，所以打工就是我的唯一出路。&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;&lt;em&gt;端：根据公开资料，中策组在2013-2016年也进行过秘密民意调查，恰恰是唐英年与梁振英竞选、梁振英未知是否连任的年份。这说明民调曾被视为具有何种功能？当时的政府为何需要民调？&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;到埗一個月，幸好遇上一家電訊公司的華人代理需要同時懂得英文、廣東話及國語的推銷員——這不正是為香港人度身訂做的職位嗎？果然，應徵之後，我就發現不論是同事，又或者隔壁舖的「行家」，都是香港來的年輕人。&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;马岳&lt;/strong&gt;：我理解不同时期的中策组一直是有做民调的：不过只供内部参考。政府当然有需要了解民意，特别是政策还未推出前了解公众的可能反应，以决定政策是否推出如何推出等等。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/H9Lnepu.jpeg&quot; alt=&quot;image04&quot; /&gt;
+&lt;em&gt;▲ 攝影：Peter&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;李立峰&lt;/strong&gt;：是的，那很自然，政府也要掌握民意，尝试预测民意。若政府真心想知道民意如何，那是好事。但这里又想起一本读书时代看的，对民意调查持批判立场的书，1986年 Benjamin Ginsberg 的 Control Revolution，里面就提到一个观点，指现代民调的发展其实在整体上是帮助了国家机关控制社会的，因为民调作为一种技术，使“民意”变成可以测量，可以监察的东西。扩阔一点说，在民主社会，不要说政府，政党也会做只作内部参考的民调，不只是为了知道民众在政策上的意见，也可能通过民调知道民众对一些政治符号和口号的反应，有时这些民调结果会直接影响他们如何建构选举工程。&lt;/p&gt;
+&lt;p&gt;如果在香港，一堆20多歲的年輕人聚在一起，應該會有數之不盡的話題吧？但我和朋友們都發現，來了多倫多之後，大家聊天都離不開柴米油鹽。多倫多或許是一個和香港截然不同的城市，但「通脹」和「房價」絕對是兩者的共同語言。&lt;/p&gt;
 
-&lt;p&gt;独立而没有利益冲突的机构所做的科学而公开的调查，可以 inform the public。但有些民调的确可以是为了 control the public，甚至是 manipulate the public 而做的。&lt;/p&gt;
+&lt;p&gt;單論租金，我跟我的室友兩人去年夏天找房子時，地產中介便提醒我們市場競爭激烈。如果剛到埗且未有穩定收入，租客們往往需要預繳半年至一年的租金才能搶到心儀的租盤；地鐵站步行距離內的一房單位，月租叫價大約2500加元（港幣14200元左右）。以多倫多所在安太略省的最低工資（時薪16.55加元）來算，租金已經相當於基層員工（如我）的整份月薪2600加元，幸好我們是兩人合租。&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;邓键一&lt;/strong&gt;：我的理解跟马岳差不多，除了特首选举之外，中策组一直会就重要政策进行民调。而哪些民调结果会公布，哪些只供内部参考，又或者视乎情况。&lt;/p&gt;
+&lt;p&gt;百物騰貴之外，身為電話服務推銷員，我每天直視的，還有加拿大的數碼鴻溝。為了節省成本，加國三大電訊寡頭都積極鼓勵顧客上網管理自己的電話服務。定位愈廉價的品牌及計劃，就愈仰賴用戶自行解決他們的疑難，有些甚至不設客戶服務熱線；但正正是對智能手機一竅不通的老一輩，才最常使用最便宜的套餐。&lt;/p&gt;
 
-&lt;p&gt;不过，我想补充一点——虽然刚才一直说民调在典型的民主社会有其特别重要的角色，但这不代表民调对香港政府完全不重要。记得很多年前，人们会说曾荫权政府很重视民望变化，虽然这是难以验证的公众观感。但是回到香港的政治系统，过去立法会有一半议席是直选产生，加上超级区议会及部分个人票的功能组别议席，社会上如果有很大多数人明显支持或反对某个议题，这个数字上的民意，对那部分议员来说，还是有很实质意义的。如果就某个议题多数人意见很明显的话，尽管建制派和泛民的基本政治立场有分歧，在政策议题上，两者都不容易偏离民意太远。&lt;/p&gt;
+&lt;p&gt;如果遇上了問題又沒有家人協助，他們唯一的希望就是領著最低工資和微薄佣金的店員，例如我；不過老闆當然會希望員工替店鋪先收幾十元服務費才為客人服務。有時遇到付不起錢的人，我就只能夠趁沒人看到，做到就盡做。想當然，一兩個善意的舉動不足以改善一整代人遇到的問題，但至少令我感覺良好。&lt;/p&gt;
 
-&lt;p&gt;换言之，在回归后一段很长时间，虽然民调不能似在民主地区，发挥彷如公投一般的影响力；但是透过立法会的选举办法，民意还是有很微妙的作用，令政府有实质需要透过民调，了解市民对一些议题的看法。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/wfHXSqj.jpeg&quot; alt=&quot;image05&quot; /&gt;
+&lt;em&gt;▲ 攝影：Peter&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;&lt;em&gt;端：大家是否了解，中策组解散后，政府是否仍将民调视为其中一种观察民意的方法？&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;到底是什麼令我要拋低香港的家人、朋友、其實還挺喜歡的記者工作，到這個幾乎完全陌生的城市替老人們搞懂手機？自問自己不是家園受戰火摧殘的難民，離鄉背井去做一份收入不高的工作，似乎說不過去。&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;马岳&lt;/strong&gt;：我不知道，也没有资料，纵使没有选举，政府应该也需要理解民意（它没有诱因故意去做一些违反民意的政策），但似乎民间公开发布的民意调查已经愈来愈少，那么究竟特区政府是自己做、委托人做、还是用其他方法，不得而知。&lt;/p&gt;
+&lt;p&gt;我暫時發掘到的答案是：也許因為與香港令人窒息的氛圍保有些許距離，我終於可以脫離「做多一天算一天」的心態，可以像個正常的25歲年輕人一樣，思考未來自己想要過怎樣的生活。也許我還是想回到香港陪伴我的家人朋友，也許我最後會愛上加拿大的生活，但起碼我知道選擇權仍在我手，我仍然感覺是自由的人。&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/8XhEN1u.png&quot; alt=&quot;image06&quot; /&gt;
-&lt;em&gt;▲ 2000年7年15日，香港大学民意研究计划主任钟庭耀于港大民意调查风波后出席香港电台节目后，被传媒团团围住。&lt;/em&gt;&lt;/p&gt;
+&lt;h3 id=&quot;肌肉記憶深處的車仔麵之味&quot;&gt;肌肉記憶深處的車仔麵之味&lt;/h3&gt;
 
-&lt;p&gt;&lt;strong&gt;&lt;em&gt;端：1991年钟庭耀在港大成立“民研计划”，2004年中大才成立了“传播与民意调查中心”，10年一代，是否反映社会和学术上对民调的需求的变化？运作一间民调机构有多“贵”？港大民研1999年开始自负盈亏，这种模式在香港或全球是如何实践的？&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;K博，台北&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;马岳&lt;/strong&gt;：这里遗漏了“中大亚太研究所”曾经是很重要的民调机构，自1990年代的 Social Indicators Survey 一直是非常有参考价值的资料和文献。例如身份认同研究，一直亚太所都有做。&lt;/p&gt;
+&lt;p&gt;我竟然懷念起屋邨樓下的那碗車仔麵。&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;李立峰&lt;/strong&gt;：营运民调机构有几贵，很难一概而论。例如到了今天，不少全球性的网络调查机构，例如 YouGov、Dynata 等，都有自己的 online panel，在全球范围运作，他们的营运成本自然超级贵，但他们也因此而有 economy of scale，而有些研究也只能由他们去处理，例如牛津大学路透新闻研究所一年一度，在全球四十多个国家地区进行的数码新闻调查，就是YouGov执行的，我不知道实际收几多钱，但可以想像是非常高价吧。&lt;/p&gt;
+&lt;p&gt;離開香港之後，我再也沒機會在凌晨兩點買一碗熱騰騰的車仔麵了。在香港，我曾經積極參與各種草根社區行動組織，常常和夥伴通宵達旦討論行動策略。從旺角搭通宵小巴回到沙田，下車不遠處就是屋邨的車仔麵檔。&lt;/p&gt;
 
-&lt;p&gt;大学部门建立一个调查机构或单位，成本就不会很高，但不等于容易做到自负盈亏，哪怕你只是请三个全职研究员，只计人工都超过一百万一年了，要做几多个调查研究才“回本”？这里就涉及一个更基本的问题，就是做一个严谨的电话调查有几贵？不便宜的，因为真正严谨的电话调查，可以涉及一些细节，会令成本上涨的，举一个例子，一个好的调查，回应率不能太低，但今时今日愿意回应民意调查的人越来越少，而为了尽量保持回应率在一个较好的水平，若访问员打了一次一个电话号码，而未有人接听，访问员是需要在隔一天后再打一次的，这叫做 call back，中大传播与民意调查中心的做法是 call back 三次，即是打了四次都未能接通才放弃那个电话号码。明显地，call back 次数越多，成本越高，profit margin 也自然越少。&lt;/p&gt;
+&lt;p&gt;老街坊說，麵檔老闆做了幾十年，只是檔口換過不少地方。點什麼餸不緊要，靈魂在於那碗湯——應該是魚湯底加上味精和醬油吧，喝下去有點鹹又有點鮮。我很確定有味精，因為吃完通常都很想飲可樂。真是深夜的邪惡食物。&lt;/p&gt;
 
-&lt;p&gt;其实香港很多大学的部门都有过做调查研究的单位，以前城大有过，理工就是钟剑华负责的那个单位，岭南有李彭广教授，教育大学也试过做，中大除了传播与民意调查中心，亦有亚太研究所会做调查，但能持续运作的也所剩无几了吧。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/G02vWU9.jpeg&quot; alt=&quot;image06&quot; /&gt;
+&lt;em&gt;▲ 攝影：K博&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/mCJvWML.png&quot; alt=&quot;image07&quot; /&gt;
-&lt;em&gt;▲ 香港中文大学政治与行政学系副教授马岳。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;儘管官方論述中的香港文化是什麼「中西薈萃」的「亞洲國際都會」。身為文化研究學者，我視「文化」為生活。見到燦爛的維港、擎天的IFC、饒富意義的獅子山（編按：獅子山分隔九龍和新界，1972年香港電台劇集《獅子山下》由羅文演唱同名主題曲，這首經典歌曲後來被認為象徵一種勵志的香港精神，近20年被政府及各界引用），當然會引起剎那的鄉愁。&lt;/p&gt;
 
-&lt;h3 id=&quot;民研的意义&quot;&gt;“民研”的意义&lt;/h3&gt;
+&lt;p&gt;但生活在一個地方，我們不會天天走近這些「地標」，除非你在那邊上班。平常百姓每日觸手可及、深入肌肉記憶深處、交織出一個城市的肌理脈絡的，是那些活躍在大街小巷的平民文化——那些聲音、氣味、空氣的質感、人與物交錯組成的立體動態圖景。&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;&lt;em&gt;端：民调遵循严谨的方法，得出的结果是否相差无几？&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;離開香港後，我在美國生活了四年，第一站是芝加哥。且不說冬天零下10幾20度的日子，光是我居住的社區——犯罪率就令人對「街頭」有點卻步。在芝加哥，有名的街頭食物要數來自美國南方的炸雞。醃製雞肉經過高溫油炸，外脆內嫩多汁，給嚴冬下寒窗苦讀的留學生帶來直達胃腸深處的刺激。&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;马岳&lt;/strong&gt;：应该是的，当然不同的 wording 会有不同的答案。&lt;/p&gt;
+&lt;p&gt;可是，要買這份靈魂食物，絕不是像我們在香港那樣「閒庭信步」走到樓下五分鐘就能完成的事。我們要開車15分鐘來到炸雞店，店員（以及炸雞）都被保護在一層防彈玻璃後面，現金和炸雞都要通過一道在櫃檯上的旋轉鐵門傳送。炸雞店顧客通常是身材魁梧的男性，作為身材「嬌小」的亞裔，只敢拿了炸雞就匆匆離開。那刻，這份炸雞的份量遠比我在香港買過的所有煎釀三寶都要重，因為這是靠勇氣與信心加持而換來的。&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;李立峰&lt;/strong&gt;：2015年时，伞运过后，立法会要就政改方案投票，那时候港大民研、中大传播与民意研究中心，以及理大应用社会科学部的民调单位就一起做政改方案的民调，三间大学的结果是有差异的，但不会很大。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/hEAR94f.jpeg&quot; alt=&quot;image07&quot; /&gt;
+&lt;em&gt;▲ 攝影：K博&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;当几个机构就同一个议题进行调查时，差异来源可以有好几个，第一自然是因抽样而出现的误差，大家都是随机抽样，我抽到的1000人跟你抽到的1000人不会完全一样，但只要大家都用了正规的抽样方法，这个误差是“有数计”的，有一个范围的，而只要样本数到了一定水平，误差就不会很大。第二和第三就难以评估了。第二个差异来源可以是不同机构用了稍为不同的问法，或题目用的字眼有细微但足以构成影响的分别，第三则是机构的公众形象，可能令愿意回答他们问题的市民有分别。虽然说有各种差异来源，但一般情况下，这些不同来源做成的差异不会很多，而且往往是 cancel out each other 的。&lt;/p&gt;
+&lt;p&gt;後來搬到紐約，我最愛的是在曼哈頓下城的唐人街，孔子大廈旁邊的茶餐廳，吃一碗綿密的艇仔粥和一份有正宗「鹼水味」的牛腩麵。就連臨盆前，我也指定先生去「大永旺」打包一些粥粉麵作為我「最後的晚餐」。那份鄉愁和那份滿足，除了是舌尖上熟悉的味道，也是那個油膩膩的地板、師傅用力斬雞的聲音、用廣東話點餐的吆喝聲、和牆上電視播放著的TVB新聞。&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;&lt;em&gt;端：民研成立得早，施政满意度调查、香港人身分认同调查、六四调查、学术自由调查等都是率先进行。这些民调给同行或研究者有过怎样的启发？&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;在那個空間，我彷彿回到了在沙田顯徑的茶餐廳，也回到了兒時在廣州西關的麵店。紐約唐人街，不正正就是這個所謂「省港澳」文化的交匯點嗎？於我，出生於廣州，成長於香港，在紐約唐人街找到了異地的靈魂之鄉，也實在是奇妙。&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;马岳&lt;/strong&gt;：我相信最重要的是这些东西都是 longitudinal 的（包括官员民望、政党支持等都是），是用同样的方法同样的问法在不同时段重复地问，于是对研究者来说有很大的参考价值，因它可以清楚的显示民意随时日或政治事件带来的变化。相关的数据也可以供其他研究者作进一步分析。&lt;/p&gt;
+&lt;p&gt;如今我在台北居住，生活形態有了重大的改變。我成為了兩個孩子的母親並且要兼顧全職工作，幾乎失去在街頭的生活，雖然說台灣是街頭美食之鄉。說來奇怪，我在美國生活過的幾個城市，到唐人街都能找到味道正宗的香港平民食物，例如粥粉麵之類。但在台灣這個和香港只相隔一小時飛機的地方，卻從未吃到那份熟悉的平民之味。也許是我不夠努力，聽說好幾間正宗的茶餐廳都在西門町，只是我未身體力行去探索。&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/ieD1et6.png&quot; alt=&quot;image08&quot; /&gt;
-&lt;em&gt;▲ 2018年6月4日，支联会举行“悼六四、抗威权”烛光晚会，大会宣布有11万5000人参与。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;但我想，在台灣，更多的是文化的差異。雖說距離近，台灣實屬福佬文化、外省文化和日本文化的合體，而所謂的外省文化，又是江浙以北的飲食文化為主。對於我，香港的味道是那股只能意會難以言傳的「鹼水麵」的味道，是那份糊糊的粟米魚塊，是那杯濃郁的鴛鴦。&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;李立峰&lt;/strong&gt;：在处理一些相关议题时，民研的调查数据往往是很重要的背景资料。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/bbGVB8y.jpeg&quot; alt=&quot;image08&quot; /&gt;
+&lt;em&gt;▲ 攝影：K博&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;邓键一&lt;/strong&gt;：这里有两方面。首先，不论是否PORI进行的民调，民调数字本身，就是公众了解议题的重要出发点。一个议题无论很多人还是很少人支持或反对，我们都可以问“为什么”，然后探讨各方就该议题的想法。&lt;/p&gt;
+&lt;p&gt;但是這一切，對於福佬文化來說，是有「文化鴻溝」的。雖然近年來台北市出現了不少「港式茶餐廳」，餐廳內甚至不停播放張學友和張國榮，但可惜我暫時未找到一間對味的。當你冠以「港式」頭銜，冥冥中注定是邯鄲學步。因為茶餐廳就是茶餐廳，講求的是那份隨性的個性，是那些舌尖上的味道，而不是單靠牆上的香港風景畫、花階磚地板或播放粵語流行曲就可以建立的。剛從美國搬到台北生活，發現家附近一間很可愛的餐廳叫做「粟米肉粒飯」，很興奮的打算去買午餐，發現裡面根本沒有賣粟米肉粒飯，而店員根本連粟米肉粒飯是什麼都不知道！我心碎了。&lt;/p&gt;
 
-&lt;p&gt;至于长期调查，正如马岳所讲，这对我们了解社会不同方面的趋势和变化是十分重要的。另一方面，长期调查也是我们回顾历史的立足点。&lt;/p&gt;
+&lt;p&gt;離開香港，更準確的來說，是離開了那個「身份」，那個會通宵達旦與朋暢談，在馳騁的通宵小巴中構想一個更好的城市未來的我。那時候的我，會期待一下車就能買到的車仔麵，是這個不夜城給夜歸人的一聲問候：「食碗麵，沖個涼，早啲唞。」&lt;/p&gt;</content><author><name>端传媒</name></author><summary type="html">一切都是取捨，不會有任何一個KOL可以給你標準答案。</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://i.imgur.com/cGxGSrO.jpeg" /><media:content medium="image" url="https://i.imgur.com/cGxGSrO.jpeg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">《互助论》引言结论</title><link href="https://agorahub.github.io/pen0/heros/1902-10-31-PeterKropotkin-a1_r-mutual-aid-introduction-and-conclusion.html" rel="alternate" type="text/html" title="《互助论》引言结论" /><published>1902-10-31T10:56:15+06:55</published><updated>1902-10-31T10:56:15+06:55</updated><id>https://agorahub.github.io/pen0/heros/PeterKropotkin-a1_r-mutual-aid-introduction-and-conclusion</id><content type="html" xml:base="https://agorahub.github.io/pen0/heros/1902-10-31-PeterKropotkin-a1_r-mutual-aid-introduction-and-conclusion.html">&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;不是以横蛮的暴力和诡诈，而是以互助合作来解释生物和社会的进步。&lt;/code&gt;&lt;/p&gt;
 
-&lt;p&gt;例如回到回归初期，大家的记忆中，董建华似乎很多方面的施政都会引起公众批评。但是今日再看当初的民调，原来董建华的民望还算不错。从这个出发点，我们又可以再问，董建华政府的施政风格跟其他特首有何不同，还是不同时期、不同世代的香港市民对特首的期望不一样？这些提问，如果没有过去的民调数字为基础，可能会很空泛。&lt;/p&gt;
+&lt;!--more--&gt;
 
-&lt;p&gt;&lt;strong&gt;&lt;em&gt;端：PORI 2019年7月1日自港大脱离，独立运作后，和港大民研有怎样的区别？它结束运营，对香港有什么影响？&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;无非是把达尔文学说——生存竞争、权力欲望、适者生存和超人等等——的误解庸俗浮浅地应用到哲学和政治上罢了。&lt;/code&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;马岳&lt;/strong&gt;：我不觉得运作上有很大不同，只是随著政治变迁，发布民意调查的压力大了，而民间会付款资助民调的团体会少了，营运会比前更加困难。&lt;/p&gt;
+&lt;h3 id=&quot;引言&quot;&gt;引言&lt;/h3&gt;
 
-&lt;p&gt;我觉得最重要是有一些长期的民调，本来可以参考时间带来的转变，但可能从此中断，之后就没有数据了。PORI 的资料公开，大家都可以用来分析，其他机构或学者纵使可能会做相关研究，但很可能不会长期做同一套问题，而资料也未必会公开给人参用。&lt;/p&gt;
+&lt;p&gt;我年青时曾旅行于西伯利亚东部和满洲北部，在这些旅行中，动物生活的两个方面给我的印象极深。一个是：大多数动物不得不对残酷的大自然进行的生存竞争的极端严酷性；以及自然力量定期地大规模毁灭生命，结果，在我所考察的广大土地上生物极为稀少。另一个是：即使在动物十分繁盛的几个地方，虽然我竭力寻找，我也从未发现同种动物之间存在着争取生活资料的残酷斗争；而大多数达尔文主义者认为（虽然达尔文本人并不是永远如此）这种斗争是生存竞争的主要特征和进化的主要因素。&lt;/p&gt;
 
-&lt;p&gt;其实香港近年公开的民调已经减少，传媒、团体和各类公开民调都减少很多，对我们观察社会现象和民情来说都有颇大影响。&lt;/p&gt;
+&lt;p&gt;在冬末时节横扫欧亚北部的可怕的暴风雪和往往随之而来的冰霜；在每年5月的下半月，当树上已是花朵盛开、昆虫到处活跃的时候，再次降临的寒霜和暴风雪；早霜和有时在7、8月间突然消灭亿万显虫和草原上的第二窝雏鸟的大雪，8、9月间在温带地区由印度洋的季风带来的暴雨，结果造成仅见于美洲和亚洲东部的大洪水、在高原上使欧洲各国那样大的地区成为泽国；最后，10月初的大雪，最终使得反刍动物在法国加德国那样大的地区绝对不能生活下去，并且成千上万地毁灭了它们——这些就是我在亚洲北部所见到的动物在其中进行生存竞争的环境。它们使我在较早的时期便认识到，在大自然中，达尔文所说的“对过分繁殖的自然遏制”和同种的个体之间为生活资料而进行的斗争比较起来，具有远为重要的意义，同种的个体之间为生活资料而进行的斗争，在一定限度内随处可见，但是它决不能达到前者那样的重要程度。由于生物稀少和人口不足——不是人口过剩——是地球上我们称之为亚洲北部的那一剖分广大地区的显著特征，所以，此后我就十分怀疑（以后的研究证明我的怀疑是正确的），每一个动物的种内是不是真正存在着争取食物和生命的可怕竞争（这是大多数达尔文主义者的一个信条），并且也因而怀疑据说这种竞争在新种的进化中所起的巨大作用。&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/hN2Id3q.png&quot; alt=&quot;image09&quot; /&gt;
-&lt;em&gt;▲ 2019年7月1日，钟庭耀在七一游行现场。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;另一方面，无论我在哪里看到的动物繁多的地方，例如，有百十种和千百万个动物聚居在一起繁殖子孙的湖泊；啮齿动物的聚居地；当时沿着乌苏里江像在美洲那样大规模迁居的候鸟群；特别是我在黑龙江畔亲眼见到的移居的鹿群，这种聪明的动物在移居时成千上万地从辽阔的地区聚集起来，以便在大雪降临从前奔过黑龙江畔最狭窄的地方——我在从我眼前掠过的这些动物生活情景中所看到的互助和互援竟达到这样的程度，使我认为它在生命的维护和每一个物种的保存并进一步进化中，是最重要的特征。&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;李立峰&lt;/strong&gt;：其实在过去几年，在大环境转变下，传媒对民调的报道都少了很多。以民调形式所表达的民意难以对当下的政策讨论产生影响，但当 PORI 持续对民意进行记录时，这些数据对我们理解社会还是很重要的，所以我觉得最大的影响在少了长期对民意的记录吧。&lt;/p&gt;
+&lt;p&gt;最后，我在外贝加里亚的半野生牛群和马群中，在各地的野生反刍动物中以及在松鼠等动物中，发现动物由于上述原因之一必须和缺少食物进行斗争的时候，所有遭受这种灾难的动物，经过这场考验后，全都是那样的体亏力衰，以致物种在如此激烈的竞争时期中是不可能得到任何逐步进化的。&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;&lt;em&gt;端：社运期间，PORI 民调一度因为和抗争者设想不同而被视为“鬼”，如何看待民调与民意的距离？更不要说前面提到的来自政府的批评。民调三十年来，都不乏“民调不公”“民调被操作”的指控，如何看待民调作为方法的局限和优势？&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;因此，当我以后开始注意达尔文主义和社会学之间的关系时，没有一本论述这个重要问题的著作和小册子是使我能够同意的。它们全都力图证实人类由于有较高的智慧和知识，因而可以缓和人与人之间生存竞争的严酷性，但是，它们同时又都承认每一个动物和它的同种以及每一个人和所有其他的人为生活资料而进行的竞争，是“一种自然法则”。这种看法是我所不能接受的，因为我以为，承认每一个物种有无情的内部生存竞争，承认这种竞争是进步的一个条件，那就等于承认不仅尚未被证实的、而且缺少直接观察根据的事物。&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;马岳&lt;/strong&gt;：不同因素当然可能影响民调的结果，包括研究方法、问句、时间背景等等，研究者也往往有自己的假设，于是不一定完全测量到民意的真象。&lt;/p&gt;
+&lt;p&gt;相反地，当时圣被得堡大学院长、著名的动物学家凯士勒教授于1880年1月在一次俄国博物学家会议上发表的《论互助的法则》（On the Law of Mutual Aid）这篇演说，却深深地打动了我，使我认为是对整个问题的一个新的启发。凯士勒认为，在大自然中，除了互争的法则以外，还有互助的法则，而这个法则，对生存竞争的胜利，特别是对物种的逐步进化来说，比互争的法则更为重要得多。这种见解——实际上它是达尔文本人在《人类的起源》（The Descent of Man）中所表明的思想的进一步发展——我觉得是如此的正确，如此的重要，所以，自从我（在1883年）知道它以后，就开始搜集材料，以便进一步发挥凯士勒仅仅在他的讲演中泛泛谈到而生前未及加以发挥的思想。他死于1881年。&lt;/p&gt;
 
-&lt;p&gt;这里当然假设了有一个民意的“真象”，实际上可能没有人知道真正的民意全貌是怎样。民意调查往往是拿了一个角度一个切面去了解民意而已。但在政治上，政府、政党、民间及其他行动者，都可能利用“民意”或“民意调查”作为其推动议程或利益的工具，于是本身民意是 contested 的，有时各取所需，本身就是很政治性的。&lt;/p&gt;
+&lt;p&gt;只有一点我不完全赞同凯士勒的意见。凯士勒把“亲族感”和对子孙的关心（见第一章）说成是动物之间互相扶助的根源。然而，要断定这两种情感在合群的本能的进化中真正起了多大作用，以及其他本能在同一个方面起了多大作用，我觉得完全是另外一个十分广泛的问题，这个问题我们现在还很难讨论。只有当我们很好地证实了各纲动物中间的互助事实和互助对进化的重要性以后，我们才能研究在合群感的进化中，哪些是属于亲族感的，哪些是属于固有的合群性的——后者显然是起源于动物世界的进化的最初阶段，甚至是在“群体时期”。因此，我把主要注意力首先放在证明互助因素在进化中的重要性上，而把寻求互助本能在自然中的起源这个工作留待以后研究。&lt;/p&gt;
 
-&lt;p&gt;在这个时代下，尤其在社会分化和回音壁效应下，很多人都以为自己是对的，于是如果民调的结果和他想像的不同，便可能以为其造假或出错。不同政治行动者都可能“操作”民调以达到自己的某些目的，但有时有些人或者政治力量看到不合自己想像、利益或者设定议程的民调结果时，纵使这个民调是科学或者方法上没有问题：都可能加以指摘。&lt;/p&gt;
+&lt;p&gt;互助这个要素的重要性——“只要它的普遍性能表现出来”——是不能不受到天才的博物学家歌德的注意的。艾克尔曼有一次（在1827年）告诉歌德说，从他那里飞走的两个小鹪鹩，第二天他在知更鸟的窠中找到了，老知更鸟给这两个小鹪鹩和它自己的小鸟一同喂食。歌德听到这件事以后十分兴奋，他认为这证实了他的泛神论，他说：“如果把食物给陌生者吃的这种事实果真象具有普通法则性质的事物一样存在于整个大自然中，那么，许多谜都可以得到解释了。”他第二天又谈起这件事，并且极为诚恳地要求艾克尔曼（大家都知道他是一个动物学家）特别研究一下这个问题，并且说他一定能获得“不可估价的成果”（《对话》，1848年，第3卷，第219、221页）。可惜这项研究始终没有人来做，虽然布利姆很可能是受了歌德这句话的启发才在他的著作中对动物之间的互助收集了那样丰富的材料。&lt;/p&gt;
 
-&lt;p&gt;其实如果要反驳，有效的方法就是自己或者再做一个了，看看是不是会得出不同的结果。如果市面上有不同的民调机构做类似的民调，其资料便可以比较。&lt;/p&gt;
+&lt;p&gt;1872—1886年间出版了几本论述动物的智慧和精神生活的重要著作（这些著作已列举在本书第一章的脚注中），其中三本专门讨论我们所研究的问题的是：伊士比纳的《动物社会》（Les Sociétés animales，巴黎，1877年）、拉纳桑的一篇讲稿《为生存而竞争和为竞争而团结》（La Lutte pour l’existence et l’association pout la lutte，1881年4月）以及路易·彼希纳的《动物世界的爱和爱情生活》（Liebe und Liebes-Leben in der Thierwelt）。后一本书的第一版发表于1882年或1883年，第二版增加了许多材料，发表于1885年。虽然这几本书每本都很出色，但仍需要用大量的篇幅来阐述互助不仅是道德本能起源于人类以前的论据，而且还应作为一个自然法则和进化的要素来考虑。伊士比纳所着重研究的主要是按照生理分工构成的动物社会（例如蚂蚁和蜜蜂的社会），虽然他的著作对一切可能谈到的方面都是很好的提示，但它是在人类社会的进化还不能以我们现在所具有的知识来研究的时候写的。拉纳桑的讲稿更近似一篇层次分明、循序渐进的工作总纲，它从海中的岩石进而谈到植物、动物和人类的世界，这样来论述互助。至于彼希纳的著作，虽然能给人以启发和列举了大量的事例，但是我不能赞同它的主要观点。这本书一开始就赞美爱，它所有的例证几乎都是用来证明在动物之间存在着爱和同情的。然而，把动物的合群性降低为爱和同情，就等于是降低它的普遍性和重要性，正如以爱和个人同情为基础的人类伦理学只能缩小整个道德感的意义一样。当我看见邻居的屋子着火时，使我提着一桶水跑去救火的并不是我对我的邻居（我和他素不相识）的爱，而是更为广泛的（虽说比较模糊）人类休戚相关和合群的本能或情感。这在动物中也是一样。使一群反刍动物或马围成一圈以抵抗狼群攻击的，不是爱，甚至也不是（按本来意义来理解的）同情；使狼成群猎食的不是爱，使小猫或羊羔在一起嬉戏的，或者使十几种小鸟在秋天里聚在一起生活的也不是爱；使散布在像法国那样广大土地上的𪊥结成几十个单独的群，共同走向一定的地点，以便在那里渡过一条河流的，既不是爱，也不是个体间的同情。那是比爱或个体间的同情不知要广泛多少的一种情感——在极其长久的进化过程中，在动物和人类中慢慢发展起来的一种本能，教导动物和人在互助和互援的实践中就可获得力量，在群居生活中就可获得愉快。&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/rlW2ixZ.png&quot; alt=&quot;image10&quot; /&gt;
-&lt;em&gt;▲ 2014年10月28日，参与反政改示威的市民在金钟占领区举起雨伞。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;这个区别的重要性，是动物心理学家容易理解的，而且是研究人类伦理的人们更容易理解的。爱、同情和自我牺牲，在我们的道德感的逐步进化中肯定起了巨大作用。但是社会在人类中的基础，不是爱，甚至也不是同情，它的基础是人类休戚与共的良知——即使只是处于本能阶段的良知。它是无意识地承认一个人从互助的实践中获得了力量，承认每一个人的幸福都紧密依赖一切人的幸福，承认使个人把别人的权利看成等于自己的权利的正义感或公正感。更高的道德感就是在这个广泛而必要的基础上发展起来的。但这个问题不属于本书讨论的范围，在这里，我只提出我在答复赫胥黎的《伦理学》（Ethics）时所发表的《正义和道德》（Justice and Motality）这篇演说，我在这篇演说中较详细地谈到了这个问题。&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;李立峰&lt;/strong&gt;：民调结果往往和大家以为的民意之间是有距离的。每人对“民意”的认知都受限于自己的生活经验和社会圈子，而物以类聚，同声同气的人走在一起本属正常，社交媒体的回音廊效应把这趋向再放大一些。所以，人们容易高估自己的想法的普及程度。&lt;/p&gt;
+&lt;p&gt;因此，我认为写作本书来阐述互助为一个自然法则和进化的要素，也许可以弥补一个重大的空白。当赫胥黎在1888年发表他的“生存竞争”宣言（《生存竞争和它对人类的意义》，Struggle for Existence and Its Bearing upon Man）时，我认为它对于人们在灌木丛和森林中所见到的自然界事实，陈述得很不正确，于是，我便和《十九世纪》（Nineteenth Century）杂志的编者洽商，问他可否让我在他的刊物上详细回答一个最杰出的进化论者的意见，编辑詹姆斯·诺耳斯先生慨然接受了这个建议。我对贝茨也谈起过这件事情。“是的，这才是真正的达尔文主义，”他回答说，“‘他们’把达尔文的话弄成那种样子，真是可怕。写这些文章吧，等它们出版的时候，我将写一封信给你，你可以把那封信公开发表。”遗憾的是，我花了将近七年工夫写这些文章，当最后一篇文章发表的时候，贝茨已经逝世了。&lt;/p&gt;
 
-&lt;p&gt;2014年伞运期间，我们也做民调，结果是百分之三十几的人支持运动，百分之三十几的人反对运动，然后支持和反对运动的人都说我们的结果有问题，跟他们的认知有很大落差，那时候我的同事兼老师李少南教授就笑说，“咁咪证明我哋专业同客观啰”。到了2019年，10月左右，我们的民调显示，仍然有7成左右的市民支持反修例运动，支持运动的人固然不批评了，反对运动的也不怎么批评民调，但就是不相信，觉得反对运动的人不回答民调而已，结果区议会选举的结果就说明了当时的民情趋向。&lt;/p&gt;
+&lt;p&gt;在论述了互助在各纲动物中间的重要性以后，我显然不得不进而讨论这个要素在人类的进化中的重要性。讨论这一点，是更有必要的，因为有许多进化论者也并不否认互助在动物之间的重要性，但是他们，例如赫伯特·斯宾塞，却不承认它对人类的重要性。他们认为，对原始人来说，个人对整体的斗争是生存的唯一法则。我们在论述蒙昧人和野蛮人这两章中将讨论这个从霍布斯时代起就一再有人不加适当批判便过分地乐于彼此转告的论断，究竟在多大程度上是符合我们所知道的早期人类发展的事实的。&lt;/p&gt;
 
-&lt;p&gt;要补充说，我们不能预期民调很精准，上面提到，民调会有不同类型的误差。美国大选民调结果和选举结果就有差异，但那差异其实也就是几个百分点。香港政治研究过往的“常识”是，民调会低估建制支持度几个百分点，因为建制支持者平均年龄大，教育程度低一点，较少回应民调，但就是几个百分点而已。&lt;/p&gt;
+&lt;p&gt;在人类最初的氏族时期以及（在更大程度上）后来的村落公社时期中，由蒙昧人和半野蛮人的创造天才所发展的互助制度的数目和重要性，以及这些早期制度迄今对人类后来的发展的巨大影响，促使我把我的研究范围也扩展到较后的有史时期，特别是最有兴趣的中世纪的自由共和城邦时期，这个时期对现代文明的普遍性和影响以及普遍存在于现代文明中的情况，还没有为人们所充分了解。最后，我试图简短地指出：人类在极其漫长的进化过程中所继承的互助的本能，就是今日在我们的现代社会中也具有巨大的重要性，这个社会据说是按“人人为自己，国家为大众”的这个原则建立的，但它从来不能而且将来也不能实现这个原则。&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;邓键一&lt;/strong&gt;：如果从较宏观的角度看，并非只在香港，而是一般而言，当社会有人倡议一些大多数人未必太关注的议题时，民调反映出大多数人的想法，与倡议团体想倡议的想法之间，一定存在某种落差，这也是为什么会有倡议工作。&lt;/p&gt;
+&lt;p&gt;也许有人会对本书表示异议，说书中对动物和人类都是按照过于好的一面来阐述的，太强调了他们的合群性，而对于他们反社会和利己的本能却几乎没有谈到。这是不可避免的。近来我们总是听说“冷酷无情的生存竞争”，据说每一个动物对所有的动物，每一个“野蛮人”对所有的“野蛮人”，每一个文明人对他所有的同胞，都在进行这种竞争——这种说法竟变成了一个信条，所以首先必须以一系列从完全不同的一面表现动物和人类生活的事实来反驳它们。我们需要指出合群的习性在大自然中以及在动物和人类的逐步进化中所具有的巨大重要性：证明它能使动物更好地防御敌人，时常使它们更易于获得食物（冬粮、移居等）和长寿，因而也更易于发展智力；证明它使人类除了获得上述的利益以外，还使他们虽然在历史上历经沧桑，但仍能建立种种组织，使他们在对大自然的艰苦斗争中能够生存下去和取得进步。这是一本论述互助法则的书，它把互助作为进化的一个主要要素来考察——它所考察的不是所有一切的进化要素和它们各自的价值；必须写了前一本书以后，才可能再写以后的书。&lt;/p&gt;
 
-&lt;p&gt;所以在理论层面可能会出现的问题就是：民意反映的大多数人想法，不是一些很 activate 的民意，不会透过非制度参与去表达出来，反而很多时候倡议组织比较 activate 的民意，在公共领域里面是会容易接触得到的。然而，后者的声音，在民调结果作为众多个人意见的总和之下会少一些，所以给人感觉它们之间有个落差。&lt;/p&gt;
+&lt;p&gt;对个人的自我维护在人类进化中所起的作用，我肯定从未低估过。可是我认为，这个问题需要比以往更加深入地研究。在人类历史上，个人的自我维护过去是而且现在仍然是和又渺小又愚昧的狭隘心地——许多作家认为这就是“个人主义”和“自我维护”——完全不相同的，它要伟大得多和意义深刻得多。创造历史的，也不只是历史学家所说的那些英雄。因此，如果情况许可的话，我准备对个人的自我维护在人类的逐步进化中所起的作用另作讨论。在这里，我只能一般地谈一谈如下的意见：当互助的组织——部族、村落公社、行会和中世纪城市——在历史的进程中开始失去它们原有的特性，开始为寄生体所侵害、从而变成进步的障碍时，个人反抗这些组织的行为往往表现为两个不同的方面。一部分人起来奋力纯洁旧的组织，或创立一个以同一互助原则为基础的更高级的社会；例如，他们试图以“赔偿”的原则来代替“复仇法则”，以后又以对罪行的宽恕或在人类的良心之前人人平等这个更高的理想，来代替按照阶级价值作出的“赔偿”。但是，与此同时，又有另一部分反对蜕化组织的人致力于破坏互助的保护组织，其目的无非是要增加他们自己的财富和极力。在这两种反抗的人们和支持现存组织的人之间的三角斗争中，存在着真正的历史悲剧。但是，要描述这场斗争和真实地研究这三种力量当中的每一种在人类进化中所起的作用，至少需要我写作这本书所花费的那样多的时间。&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/mGbd4RY.png&quot; alt=&quot;image11&quot; /&gt;
-&lt;em&gt;▲ 香港中文大学新闻与传播学院教授李立峰。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;在我论述动物之间的互助的那些文章发表以后，又出现了一些探讨这个问题的著作，其中我要提出的是亨利·德鲁蒙德的《罗威尔讲座：人类的上进》（The Lowell Lectures on the Ascent of Man，伦敦，1894年）和苏瑟兰的《道德本能的起源和成长》（The Origin and Growth of the Moral Instinct，伦敦，1898年）。这两本著作，主要都是按照彼希纳的《动物世界的爱和爱情生活》这本书的论点写作的，在第二本著作中，父母情感和家族感被作为在道德感的发展中唯一起作用的因素详加讨论。按照相似的论点研究人类的第三本著作，是吉汀斯教授的《社会学原理》（The Principles of Sociology），这本书的第一版于1896年印行于纽约和伦敦，而它的主要思想，作者在1894年发表的一本小册子中已经作了概括的叙述。然而，要讨论这些著作和我的著作之间的接触以及相似或分歧之处，这项工作我必须留给评论家们去作了。&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;李立峰&lt;/strong&gt;：有趣的是，当一个人不相信民调结果，自然可以找很多理由来批评。回到2014年，建制支持者对我们的民调的其中一个批评，就是说我们把民调被访者的年龄下限降至15岁，是刻意制造更有利社会运动的结果。那时候，还有一位跟我住得很近的资深传媒人，特登找我出来喝咖啡谈这个问题。&lt;/p&gt;
+&lt;p&gt;本书的各章最初发表于《十九世纪》杂志上（《动物之间的互助》发表于1890年9月和11月；《蒙昧人之间的互助》发表于1891年4月；《野蛮人之间的互助》发表于1892年1月；《中世纪城市中的互助》发表于1894年8月和9月；《我们现代人之间的互助》发表于1896年1月和6月）。我在把它们编辑成单行本时，首先是想把在杂志论文中不得不省略掉的大量材料和关于几个次要之点的讨论汇为一个附录。可是，看来这个附录将使本书的篇幅增加一倍，所以又只好放弃，或者至少是暂时不发表它。现在的附录只包括过去几年中科学界所争论的几个问题；在正文中，我只增补了那种不必改动本书的结构就可加进去的材料。&lt;/p&gt;
 
-&lt;p&gt;实情是，民调本来就不是一定要访问18岁或以上的人，选举民调这样做，是因为18岁才有投票权，其他民调这样做，只是约定俗成而已。但当时的社会运动，年轻参与者本来就多，学民思潮那批中学生甚至是运动领袖。既然运动本身已有很多15至17岁的年轻人参与，民调把他们排除，说不过去吧。何况，我们是很小心和透明的，在发表结果时，其实有把“15岁或以上”的结果及“18岁或以上”的结果同时公开，而两者之间的差异是非常微小的。&lt;/p&gt;
-
-&lt;p&gt;举另一个例子，当年有人批评钟庭耀的特首评分民调，在公布一位特首的分数时，因整体平均分低于50，就说特首评分不及格，实情是超过半数的受访者都给了及格分数，只是有部分给极低分的被访者把整体平均分拉低而已。这个批评合理吗？用技术语言讲，这只是一个如何把“及格”操作化的问题，若把50分定义为及格，那么应该是看整体平均分是否高于50，抑或是看大部分人是否给予高于50的分数？这本来就没有必然对错。&lt;/p&gt;
-
-&lt;p&gt;在这种情况下，看一个研究者或民调机构是否有问题，主要就是看他是否前后一致地使用同一方法。港大民研以至PORI一直都很 consistent 的，而且也很公开透明。你可以不同意他们的操作化，然后提出自己的诠释，但不能说他们刻意扭曲或隐暪。&lt;/p&gt;
-
-&lt;h3 id=&quot;如何保持批判&quot;&gt;如何保持批判？&lt;/h3&gt;
-
-&lt;p&gt;&lt;strong&gt;&lt;em&gt;端：那么以全球的视野看，民调这种方法现在面临的挑战和革新是什么？&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;马岳&lt;/strong&gt;：应该很多的，其一是公众对自己私隐的敏感度提高了，而在不同的政治背景下，讲真话都会有多点顾虑，这对回应率、民调是否能测知真相、和样本是否可靠都会有影响。&lt;/p&gt;
-
-&lt;p&gt;应该有更多新的技术可以做民调，例如网上（或其他方法）会渐渐为人接受，很多东西的成本会下降，因而资料搜集有时会容易了。&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;李立峰&lt;/strong&gt;：回应率下降是一个很大的问题。例如美国的 Pew Research Center 的电话民调，在2018年时回应率已跌到6%，很低的。我们现在香港的电话民调，若用同一条公式计算，通常仍在30%以上，相较下已不错，但当然其实也低。&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/Yp1KuWa.png&quot; alt=&quot;image12&quot; /&gt;
-&lt;em&gt;▲ 2019年8月18日，民阵在香港维园发起集会，诉求为“煞停警黑乱港 落实五大诉求”，参与集会的市民身穿黑衣，人潮庞大，由于大雨，市民纷纷举起雨伞。&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;&lt;em&gt;端：近5年香港变化很大，香港以外，有人认为香港民调已经不可信了。实际操作上会遇到哪些以前没有的困难？如何看待这种评价？&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;马岳&lt;/strong&gt;：所有社会中，被访者都可能有各种的原因不讲真话，像美国很可能不少人对公开支持川普或者某些政治不正确的立场有保留，实际上可能是有各种 bias。但是有 data 好过无 data，现实上我们正研究用各种不同的方法去测试 self-censorship 等问题。&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;李立峰&lt;/strong&gt;：我听过的质疑包括人口转变和自我审查。人口转变是指不少对政府持批判态度的市民离开了香港。当然，这其实不算民调有甚么问题，如果很多人离开了香港，人口组成变了，民意因而变了，那民调仍只是记录事实而已。不过，其实就算30至40万人离开了香港，仍不足5%，而且也不是百分之一百某政治立场才会离开的，所以影响是有，但是不是那么大呢？&lt;/p&gt;
-
-&lt;p&gt;至于自我审查，可以分为 selective non-participation 和 preference falsification，前者是持特定立场的人不再参与，后者是不说真话。以前在城市大学教书的日籍学者小林哲郎两年前发表过一个研究，他在2020年国安法立法前后刚好做了一个 panel survey，即同一批被访者，国安法立法前问过一次，国安法立法后再问一次。他们发现，在第二次接触时，民主派的支持更可能不愿意接受访问，这说明了 selective non-participation 是存在的。然后，在两次都有接受访问的人中，有些人在第一次调查中说自己有参与2019年的社会运动，但在第二次调查中就说自己没有参加，而民主派的支持者更有可能出现这个“推翻自己”的情况，这就显示了 preference falsification。&lt;/p&gt;
-
-&lt;p&gt;不过，问题很严重吗？看来也不是。刚才也说过，民调不精准是现实，2019前的民调也会因 selective non-participation 低估建制的支持度几个百分点，但那时没有人会说民调完全无用，习惯看民调的人自然会知道如果调整和诠释。现在的民调可能会稍为低估具批判性的民意，但也可能就是几个百分点而已。在不高估民调的精确度的前提下，调查结果是有参考意义的，而对于学术研究而言，调查研究固然仍然重要。&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/YMwtNPw.png&quot; alt=&quot;image13&quot; /&gt;
-&lt;em&gt;▲ 恒生大学公共政治研究中心副主任邓键一。&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;邓键一&lt;/strong&gt;：任何地方做的民调，都一定有属于不同文化背景的 social desirability bias（期望偏误，指受访者因希望为自己塑造正面形象，而在调查中给出符合社会期望的答案），例如在西方社会，种族议题可能是比较敏感的话题，人们或者倾向不会在电话上说反对某些少数族裔权益。而在其他政治环境的地区，人们可能会避免在调查中表达批判的意见。&lt;/p&gt;
-
-&lt;p&gt;从这个角度看，“有人认为香港民调不可信”是个很笼统的说法。正如刚才所说，任何地方都有它的社会规范、政治状况，都有可能令一些题目出现 social desirability bias，但是不是代表民调不可信？这涉及两方面，第一是民调的结果是否能够以我们所知的社会状况演绎得到。任何时候，研究者演绎民调结果时都要参考当时的社会环境变化。在这个意义上，政治、社会状况的转变，意味著研究者从结果演绎民意的时候，要多花一重功夫，分析环境变化会怎样影响受访者可能表达的意见，而我们的工作就是能否合理地用环境变化去了解他们表达意见的转变。举例说，过去几年的调查显示，认同自己是民主派的人减少，更多人选择认同自己是中间派。&lt;/p&gt;
-
-&lt;p&gt;我们当然不需要否定，有人可能会因为社会环境，避免表达自己真实的政治取向。但同时间，也有市民觉得投票是实践政治认同的重要途径。如果他们难以透过选票支持自己认同的候选人，是失去了政治认同的基础，所以改称自己为中间派。上述两种（或更多）可能性是可以同时出现的。而研究者的工作，就是为结果提出各种合乎普遍认知社会状况的阅读，多于马上跳到是否民调已经不可信的结论。&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;&lt;em&gt;端：调查（Survey）是社会科学的基础课，这些变化会否影响课程或引起学生顾虑？&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;李立峰&lt;/strong&gt;：这点问题不大的，作为一种社会科学研究方法，它应用面本来就很广，marketing survey 也是 survey。那套方法本身没有敏感不敏感的。&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;邓键一&lt;/strong&gt;：承刚才Francis所说，“调查”本身作为一种获得答案的方法，包涵面很广泛的，不一定是关于时事。作为研究方法来说，在某个调查题目下，无论研究对象是作为广大市民、某行业的客户、某行业的从业员，还是了解毕业生状况，在技术层面都是大同小异。所以这些课程本身，并不会涉及敏感的内容。&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/EoaEMRL.png&quot; alt=&quot;image14&quot; /&gt;
-&lt;em&gt;▲ 2025年1月13日，警方带同钟庭耀到香港民意研究所位于黄竹坑南汇广场的办公室并搜查超过8小时，傍晚带钟庭耀离开民研办公室。&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;&lt;em&gt;端：在民调无法顺利开展或式微的地区，人们转而多依赖社交媒体观察与情民意，这种方法可能有什么优势和局限？&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;李立峰&lt;/strong&gt;：正如一开始所说，民意有不同表达方式，正如过往政府部门会密切留意电台烽烟节目，但那并不取代民调或其他渠道。社交媒体的民情本身有其值得关注的地方，一个社会中民调能否顺利开展，很多组织都有理由和需要去关注网络舆论的，因为网络舆论既在一定程度表达了某种民意，同时也可以影响社会和民众。&lt;/p&gt;
-
-&lt;p&gt;但值得指出的是，某些在特定政治环境中影响民调准确度的因素，同样适用于社交媒体数据分析，例如上面提到的 preference falsification。如果人们不愿意对著民调访问员讲真话，不见得人们一定会愿意在更公开的社交媒体平台上讲真话。除此之外，一开始时提到，一些持批判态度的学者认为，民调其实有利政府监察民情，多于有利民情监察政府。如果民调如是，那么社交媒体数据分析可能更是如此。始终，做到质素高和准确的“大数据”分析，是需要知识和资源的。&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;邓键一&lt;/strong&gt;：我觉得这不一定是因为民调无法顺利展开或式微，而是社交媒介本身就是一个额外平台去反映和观察民意。从民意观察的角度，多一个工具无论如何都是一件好事，而这个工具有一些特点能补充传统民调做不到的事情，例如传统民调预设了研究者很清楚自己要知道什么，然后就自己想知道的事情来设计问题。在设计问题的过程中，又会有方法学上的考虑，确保来自不同背景的受访者对题目理解一致，也会避免设一些情绪上有引导性的问题。&lt;/p&gt;
-
-&lt;p&gt;但是，这种由上而下的研究设定，会令到某些民意和情绪可能观察不到；又或者当社会发生一些突发事情，民调根本不能在事前预计到，这些都要回到社交媒介去看某些论述和情绪是怎样酝酿出来的。因此社交媒介本身对于观察民意有其重要性，而不一定是因一个地方民调式微，所以才依赖社交媒介来观察民意，而是它能够补充传统民调一些局限。&lt;/p&gt;
-
-&lt;p&gt;至于从社交媒体看民意的的局限，第一个是取样。传统民调之所以成本昂贵，其中一个原因是取样上的要求，而这些在社交平台取样便很难执行。甚至乎，很多时所谓的“网络民意”，其实很难说得准到底是来自哪些人的“民意”。&lt;/p&gt;
-
-&lt;p&gt;第二个局限来自平台设计本身，会影响我们能够观察什么，例如社交媒介兴起之后，有学者会研究社交媒介的帖文反映甚么情绪，而Twitter是特别适合进行这种研究，因为Twitter不容许每个tweet写得太长，所以当中表达的情绪很直接，容易分析；反观facebook容许用家写长文，那些情绪就可能很复杂，变成较难观察。到底在社交媒体上能观察到怎样的民意，亦会受限于平台设计本身。&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;马岳&lt;/strong&gt;：用其他方法观测当然可以，但也要知道这并不是全貌，例如社交媒体使用的人有不同背景，以及社交媒体上的表达相对简单，有时比较复杂的民意未必观测到，以及观察的时候要作很多假设。没有单一的方法可以完全理解“民情”，没有了有系统的科学的民调，会是一个很大的损失。&lt;/p&gt;</content><author><name>端传媒</name></author><summary type="html">没有一种方法可以完全了解“民意”，但失去一种科学的方法，必然是损失。</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://i.imgur.com/bdrXLmB.png" /><media:content medium="image" url="https://i.imgur.com/bdrXLmB.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">现代人之间的互助</title><link href="https://agorahub.github.io/pen0/heros/1896-06-30-PeterKropotkin-a1_r-mutual-aid-amongst-modern-men.html" rel="alternate" type="text/html" title="现代人之间的互助" /><published>1896-06-30T10:56:15+06:55</published><updated>1896-06-30T10:56:15+06:55</updated><id>https://agorahub.github.io/pen0/heros/PeterKropotkin-a1_r-mutual-aid-amongst-modern-men</id><content type="html" xml:base="https://agorahub.github.io/pen0/heros/1896-06-30-PeterKropotkin-a1_r-mutual-aid-amongst-modern-men.html">&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;在国家摧毁行会之后成长起来的工会 工会的斗争 罢工中的互助 合作&lt;/code&gt; &lt;!--more--&gt; &lt;code class=&quot;highlighter-rouge&quot;&gt;为各种目的而成立的自由组合 自我牺牲 以各种可能的形式进行联合行动的无数社团 贫民窟中的互助 个人的帮助&lt;/code&gt;&lt;/p&gt;
-
-&lt;p&gt;当我们研究欧洲农民的日常生活时，我们发现，尽管现代的国家采取了各种摧毁村落公社的办法，但在农民的生活中依然充满了许许多多互助和互援的风俗习惯。土地公有的重要痕迹现今依然存在；并且当后来排除了乡村组合所遇到的法律障碍时，在农民中便迅速成立了为各种各样经济目的而组成的自由组合——这一新兴运动的倾向，就是在重建某些类似古代村落公社的组合。这就是上一章所得的结论。现在我们就要研究，在工业人口中目前能够找到什么样的互助制度。&lt;/p&gt;
-
-&lt;p&gt;近三百年来，互助制度在城市中的发展情况也如同在乡村中一样，都是不利的。大家都知道，当中世纪的城市屈服于十六世纪的新兴的军事国家之下的时候，所有一切使工匠、师傅和商人结合在行会和城市中的那些制度，的确都被猛烈地摧毁了。行会和城市的自治和独立裁判权都被取消；行会会员之间宣誓彼此忠实信守的事情，被视为对国家犯了重罪：行会的财产也像村落公社的士地那样被没收：每一个行业的内部组织和技术组织都被国家所控制。禁止手工业者以任何方式进行联合的法令，愈来愈严厉。有一个时期，有名无实的旧行会是容许存在的：商人行会在对国王大量献纳补助金的条件下是准许存在的，而手工业者的行会则被保存下来作为管理机构。有些行会现今还在苟延它们那毫无意义的生命。但是，从前作为中世纪生活和工业的生命力的那些东西，在中央集权国家的严重打击下早已消失了。&lt;/p&gt;
-
-&lt;p&gt;在最能说明现代国家工业政策的英国，我们看到早在十五世纪时议会就开始摧毁行会了；但是一直到十六世纪时才对它们采取了具有决定性的措施。亨利八世不仅摧毁了行会的组织，而且还没收了它们的财产，正如陶尔明·斯密土所写的那样，亨利八世所采用的借口和手段，比他在没收寺院时产时所采用的借口和手段还要不合情理。爱德华六世完成了他的事业，在十六世纪后半叶，我们看到议会已经是在处理手工业者和商人之间的一切争端了，而这些争端在从前是分别归各个城市解决的。议会和国王不仅制定了解决各种争端的法律，而且，考虑到国王在对外贸易上的利益，不久以后又规定了每一种行业中的学徒人数，同时还详细订定了每一种制成品的制造技术，如材料的重量、每码布的纱数等等。必须说明的是，所有这一切都并未获得什么成功；因为要想解决这些争端和技术上的困难完全是中央集权国家的能力所不及的，在接连的几个世纪以来，这些都是由彼此密切依赖的行会和联盟的城市用协议的办法来解决的。国家官吏的不断干预，使各个行业为之瘫痪，使它们大部分都陷于完全衰败的局面。当十八世纪的经济学家起来反对国家对工业的控制时，他们只不过是吐露了大众的不满心情而已。法国大革命取消了这种干涉，于是人们纷纷表示拥护，把它看作是一项解放的事业，而其他各地不久也随着仿效法国的榜样。&lt;/p&gt;
-
-&lt;p&gt;在规定工资方面，国家也没有取得更大的成就。在中世纪的城市里，当师傅和学徒或帮工之间的区别在十五世纪愈来愈明显时，学徒同盟（这一团体有时候带有国际性）便对师傅和商人的同盟采取了对立的态度。而在这时，是由国家来消除他们的痛菩了，根据伊丽莎白时代1563年颁布的法令，必须由治安法官确定工资，以保证帮工和学徒的“适当”生活。然而事实证明治安法官无法调和这种互相冲突的利益，更无法强使那些师傅服从自己的决定。于是这项法令渐渐变成了一纸空文，而在十八世起来也就被取消了。但是，国家虽然一方面这样放弃了规定工资的权力，另一方面却继续严禁帮工和工人为提高工资或为保持一定工资水平而结成的各种团体。在整个十八世纪，国家不断地制定了许多禁止工人结社的法令，而且在1799年竟以严惩为威胁，最后禁止了一切社团。事实上，英国议会在这个问题上只是仿效了法国革命议会的例子，法国革命议会颁布了一项严禁工人集会结社的法律——一定数目的公民结成团体，被认为是企图反对国家的主权，而国家本身是平等地保护它的一切人民的。破坏中世纪的各种团体的工作，就此完成。国家在城市和乡村中所统治着的，全是个人的散漫的结合体，并且准备采取最严厉的手段禁止它们重新建立任何一种独立的团体。互助的倾向要在十九世纪向前发展，就得在这种条件下进行。&lt;/p&gt;
-
-&lt;p&gt;任何这类手段也不能摧毁这种倾向，这难道还用得着说吗！在整个十八世纪里，工人的工会不断地重新建立了起来。根据1797年和1799年的法律所进行的残酷迫害，也不能阻止它们。只要监督上稍有漏洞，只要师傅们疏于告发，工人们的团体便趁机成立起来。在友谊会、丧事协会或秘密兄弟会的掩护下，在纺织工业中，在设菲尔德的刀匠和矿工中，到处都成立了工人的工会。而且还成立了有力的联合组织，以便在罢工和遭受控告时支援各个部门的工会。&lt;/p&gt;
-
-&lt;p&gt;禁止工人结社条例于1825年废除了，这刺激了运动的发展。在各个行业中都成立了工会和全国联盟；当罗伯特·欧文着手建立“全国职工大同盟”时，只在几个月内就集合了五十万成员。事实上，这个比较自由的时期并不长久。到十九世纪三十年代又开始了新的迫害，跟着便是著名的1832—1844年的狂暴迫害。“全国大同盟”被解散，在全国各地，雇主和政府在工厂中强迫工人和工会断绝一切联系，并签署说明这样作的“文书”。大批的工会会员受到“雇主和佣工条例”的严重迫害——只要雇主控告工人有不当行为，工人立刻就要被逮捕起来惩办。镇压罢工的方式非常横暴，只要宣布罢工，或者在罢工中充当代表，就要被处以骇人听闻的刑罚，至于对罢工骚动实行军事镇压，在时常爆发的激烈行动以后的判刑，那就更不用说了。要在这种情况下实行互助是很难的。然而，尽管有我们这一代人几乎难以想象的种种障碍，工会却在1841年重又开始活跃起来，工人们此后一直保持了他们的团结。经过了一百多年的长期斗争之后，他们终于获得了结合在一起的权利，到1902年，在长期雇用的工人中差不多有四分之一，即一百五十万人参加了工会。&lt;/p&gt;
-
-&lt;p&gt;至于说到欧洲的其他国家，只消谈一谈下列的情况就够了：在这些国家，直到最近以前，还在把各种工会当作不法团体来迫害；尽管工会往往不得不采取秘密组织的形式，但它们仍然在各地都存在；而工人的组织，特别是美国和比利时的劳工协会（Knights of Labour），其范围之广和力量之大，已为1890—1900年的罢工所充分说明了。然而，我们必须记往，除了遭受迫害以外，单单是属于工会这一事实本身，就意味着在金钱、时间和无偿的工作方面作了很大的牺牲，而且，仅仅由于是一个工会会员，便经常有失去工作的危险。并且，一个工会会员又必须经常面对罢工；而罢工的严酷现实是：使工人家庭在面包店和当铺里的有限的一点信用很快便完全丧失，而罢工期间所得的救济金甚至还不够购买食物之用，孩子们的脸上不久便显露出饥饿的痕迹。对一个和工人有密切接触的人来说，长期罢工是最个人痛心的情景；不难想象，在四十年前的英国和即使在现今欧洲最富裕的地区，罢工将意味着什么。甚至在目前，罢工的结局也将不断迫使整个地方的人口完全破产和被迫迁移国外告终，而罢工者为了一点儿小事或竟无缘无故地即被枪杀，这在欧洲大陆迄今历然是司空见惯的事情。&lt;/p&gt;
-
-&lt;p&gt;然而，在欧洲和美洲每年仍然有几千起罢工和闭厂停工的事情——一般地说，最激烈和最持久的斗争，是为了援助被闭厂解雇的同志或维护工会权利而进行的所谓“同情罢工”。有一部分报纸往往以“威胁”来解释罢工，但是在罢工者中间生活过的人别怀着钦佩的心情谈论罢工者经常实行的互助和互援。每一个人都听说过下述的事实：在伦敦码头工人罢工的时候，许多工人为了筹办救济事宜自动地作了许多工作；有些矿工自己也是好几个星期没有工作了，但一旦有了工作便捐出四个先合作为罢工的基金：一个矿工的寡妻在1894年约克郡矿工大罢工期间，所有的新闻记者都知道许多这样的事实，虽然他们并不是全都能够把这些“无关的”事情报道给自己的报纸。&lt;/p&gt;
-
-&lt;p&gt;然而工会并不是工人表现他们的互助需要的唯一形式。此外，还有政治组织，许多工人都认识到，由于现在工会对于工人的目标的贡献大受限制，所以不如政治组织的活动更能增进大众的福利。当然，单单是属于一个政治组织，还不能看作是互助倾向的一种表现。我们都知道，在政治这个领域中，社会中的纯粹自利因素和利他愿望是交织难分的。但是每一个有经验的政治家都知道，一切伟大的政治运动都是为了伟大的、时常是遥远的目标而奋斗的，而其中鼓起人们最无私的热情的，就是最有力量的运动。所有伟大的历史性运动都具有这一特点，对我们这一代人来说，社会主义就是这样的运动。那些丝毫不懂得社会主义的人们无疑最喜欢用的口头禅是什么“雇用的煽动者”。然而，仅就我个人所知道的来说，事实是这样：如果我在这二十四年来写有一本日记，其中纪录了我在社会主义运动中所见到的献身和自我牺牲的行为，那么，读这本日记的人将称道这些行为是“英雄的行为”。但是，我所谈的这些人，并不是什么英雄，他们都是被伟大理想所鼓舞的普通人。每一种社会主义的报纸（只在欧洲就有几百种这样的报纸），都有长年累月地甘心牺牲而不望任何报酬的历史，而且绝大多数都没有任何个人的野心。我曾见过许多家无隔宿之粮的家庭，丈夫因为替报纸工作在他的小城中到处受排挤，全赖妻子替人做针线活来维持家庭，这种情况继续了好多年，直到这一家人后来不得不告退，但他们毫无怨言，只是说：“继续干下去；我们已经不能坚持了！”我曾看见过许多即将死于肺病的人，他们自己也知道这种情况，却仍旧在下雪下雾的日子里忙着筹备会议，在会上发表演说，直到临死前几个星期才进医院，这时他们只说：“现在，朋友们，我已经不行了；医生说我只有几个星期可活了。告诉同志们，如果他们能来看一看我，我会感到很高兴。”我看到的一些事实，如果在这里讲起来的话，也许会有人说是被“理想化”了的；这些人的名字，除了很少几个亲密朋友之外，是没有人知道的，当他们的朋友也死去的时候，他们的名字很快也就被人遗忘了。事实上，我自己也不知道哪一个最受人钦佩：是这些少数人的无限的献身呢，还是大多数人的微小的献身行为的总和。每售出一辨士一份的报纸，每一次集会，在选举时社会主义者所赢得的每一百张选票，都包含着局外人再也想象不到的巨大精力和牺牲。社会主义者现在所作的工作，就是过去为群众所拥护的每一个进步党派（政治的和宗教的）所作的工作。所有一切过去的进步，都是这样的人和这样的献身行为所促成的。&lt;/p&gt;
-
-&lt;p&gt;合作，往往被看作是“合股的个人主义”，在英国更是如此。就它现在的情况来说，它无疑倾向于培养对整个社会、甚至对合作者彼此间的合作的利己主义精神。然而合作运动起初在本质上确实具有互助的特点。甚至现在，最热心于倡导合作运动的人还是认为它可以使人类在经济关系上达到更和谐的境地，只要到英国北部合作事业的根据地去呆上一些时候，就一定会发现大多数合作社的一般成员也抱有同样的看法。如果丧失了这个信念，他们大多数人便将失去他们对合作运动的兴趣；必须承认：最近几年来，对大众福利和生产者的团结一致这一宏伟的理想已开始在合作运动者中间流行起来。现在，在合作事业所有者和工人之间的确有了建立更好的关系的倾向。&lt;/p&gt;
-
-&lt;p&gt;合作的重要性，在英国、荷兰和丹麦是人人都知道的；而在德国，特别是在莱茵河一带，合作组织也已经成为工业生活中的一个重要因素。然而，在各方面都提供了研究有关合作问题的最好园地的，也许是俄国。合作运动在俄国是自然成长起来的，是从中世起继承下来的遗产；要成立一个正式的合作组织，必须克服许多法律上的困难和官厅的猜疑，因而非正式的合作组织——阿尔切尔——就构成了俄国农民生活的实质。“俄国形成”的历史和西伯利亚的殖民史，就是打猎和经商的阿尔切尔（或叫行会）的历史，而在它之后，就是村落公社，现在，我们发现到处都有阿尔切尔了。从同一个村子到一个工厂去工作的十个到五十个农民、建筑行业中的各种工人、渔民和猎户、流放到西伯利亚或已经在西伯利亚的罪犯、铁路搬运工人、电信局的信差、海关工人、在各地乡村工业中工作的七百万工人——总之，从高级到低极的劳动人民，从临时工到长期工人都以各种可能的形式进行生产和消费的合作。直到现在，在注入里海的各个河流上的许多渔场，依然是由庞大的阿尔切尔掌管的，乌拉尔河属于整个乌拉尔的哥萨克人，他们把那儿的渔场（也许是世界上最富饶的渔场）在各个村子之间加以分配和再分配，毫不受官方的任何干涉。在乌拉尔河、伏尔加河以及所有俄国北部湖泊上的捕鱼业，一直是由阿尔切尔经营的。除了这些永久的组织以外，还有无数为了各种特殊目的而组成的临时的阿尔切尔。当十个或二十个农民从某一个地方来到大城市中作织工、木工、泥水匠或造船匠的时候，他们总是组成一个阿尔切尔。他们租几间屋子，请一个厨子（往往是由他们当中的一个人的妻子来担任这个工作），选一个年岁大的作负责人，大家共同开办伙食，每一个人把他那份食宿费交给阿尔切尔。流放到西伯利亚的一队罪犯也常常是这样作的，他们选一个年长的人作为罪犯和该队的军事管理人之间的官方承认的中间人。在苦役监狱里，他们也有这样的组织。铁路搬运工人、电信局的信差、海关工人和会省城的信差，他们对自己的每一个成员都是集体负责的，他们享有那样好的信誉，以致商人们不管多大的款项或票款都可交托给阿尔切尔中的人。在建筑业中，有十至二百个成员的阿尔切尔；慎重的建筑商和铁路承包商总是愿意和阿尔切尔而不愿和单独受雇的工人打交道。陆军部最近直接和专营国内贸易的生产阿尔切尔进行交易，向它们订购皮靴、各种铜器和铁器，结果被认为极其令人满意。1890年左右，把一座皇家铁厂（Votkinsk）租给了一个工人的阿尔切尔，这件事也作得极其成功。&lt;/p&gt;
-
-&lt;p&gt;由此可见，在俄国，古老的中世纪制度在以非正式形式出现时，没有受到国家的干涉，所以一直完全地保留到现在，而且为满足现代工业和商业的需求采取了多种多样的方式。至于在巴尔干半岛、土耳其帝国和高加索，旧时的行会迄今还完全存在。塞尔维亚的艾斯纳福还充分保持了它们中世起的特点；行会的成员，既有师傅也有帮工，它们对各行各业作出规定，而且是劳动和疾病时的互助机构；而高加索的阿姆卡里，特别是梯弗里斯的阿姆卡里，除了这些职能以外，还对城市生活起着相当大的影响。&lt;/p&gt;
-
-&lt;p&gt;谈到合作时，还应该提一提各种友谊团体、秘密互济社团、乡村和城镇的医疗互助会、制衣和殡葬互助会、在工厂女工中十分普遍的小型俱乐部——她们每周交几个辨士给俱乐部，然后大家抽签，抽中的人可只得一个英镑（这笔钱至少可以买一些有真正用途的东西），还有其他各种团体。虽然每一个成员的“借款和贷款”都有严格的监督，但是在所有这样的团体和俱乐部中，都活跃着充分的友谊精神或愉快情绪以准备牺牲时间、健康甚至在必要时牺牲生命的精神为基础的团体是那么多，因而我们可以举出许许多多最好的互助形式的实例。&lt;/p&gt;
-
-&lt;p&gt;首先要谈到的是英国的“救生船会”和欧洲大陆上的类似组织。英国的救生船会现在有三百多条船分布于英伦三岛的沿岸，要不是由于渔夫们贫穷买不起救生船的话，这个会的船只会比现在多一倍。船员们都是志愿的，他们为了抢救素不相识的人而准备牺牲自己生命的这种精神，每年都要受到严格的考验；在纪录上；每年冬天都要损失几个最勇敢的船员。如果我们问这些人究竟由于什么动力促使甚至在没有一些成功之望的时候仍然要去冒生命危险，他们会作如下的回答。一阵可怕的暴风雪吹过英伦海峡，在肯德郡一个小村庄的浅平而多沙的海岸上狂啸，载着橘子的一条小帆船在近傍的沙滩上搁浅了。只有轻便的平底救生船才能在这些浅水中航行，而在这样的风暴中驶出去就是面对一场几乎肯定要发生的灾难。然而船员们还是出发了，他们和暴风搏斗了几个小时，他们的船被打翻了两次。有一个人被淹死了，其他的人被海水打上岸来。被打上岸来的人当中，有一个人——一个具有高尚行为的海岸警备队队员——在第二天早晨被人发现时，已经是浑身被碰伤，在冰雪中冻得半死了。我问他，为什么要去作这种徒劳的事呢？他回答说：“我自己也不知道。”“有船只遇难了；从村子里来的人站在海边，人人都说这时候出海是一件蠢事，我们决不可能冲过汹涌澎湃的海浪。我们看见五、六个人紧紧地抓住桅樯。在拚命地向人打信号。我们都觉得必须作些什么事，但是，我们能干什么呢？一个钟头过去了，两个钟头过去了，而我们大家都站在那里。我们心里都感到极为不安。这时候，我们突然在暴风中好像听到了他们的呼救声——他们当中还有一个孩子呢。我们再也忍不住了，我们一齐说：‘我们一定要去救人！’妇女们也是这样说，如果我们不去的话，她们将把我们看作是懦夫，虽然她们在第二天说我们出海的人是傻瓜。我们像一个人一样齐心协力，跑到救生船旁，上船出海了。船被打翻了，但是我们紧紧地抓住它。最使人难过的是，眼看着可怜的老人淹死在船边而我们没有办法救他。这时候来了一个可怕的巨浪，又把船打翻了，把我们打上岸来。那些人还是被驱逐舰上的小艇救起来了，而我们的船被大浪抛到好些英里以外。第二天早晨人们在雪地中找到了我。”&lt;/p&gt;
-
-&lt;p&gt;这样的情感也促使隆达谷的矿工去挽救他们被水淹没在矿坑中的伙伴。为了走到被埋陷着的伙伴那里去，他们已经凿穿了三十二码的煤坑，但是，当他们只剩下三码就要穿过的时候，矿坑中的沼气包围了他们。灯熄了，去救的人退了出来。在这种情况下工作，真是时时刻刻都有被炸死的危险。但是，依然可以听到被淹陷在里面的矿工的声音，他们还活着，还在乞援，于是有几个矿工自愿冒一切危险去干。当他们走进矿坑的时候，他们的妻子只是默默地含着眼泪看着他们走进去——没说一句阻拦他们的话。&lt;/p&gt;
-
-&lt;p&gt;这包含着人类心灵的精髓。除非是在战场上发了疯的人，否则任何人都“不忍”听着这样的呼声而不去救援。英雄们是一定要去救的，而英雄的行为使所有的人也会感到他们应孩像他们那样去作。心中的辩解抵抗不住互助的情感，因为这种情感是几千年的人类社会生活和几十万年来人类出生以前的社会生活所培养起来的。&lt;/p&gt;
-
-&lt;p&gt;“可是，有些人却在海德公园的蛇形水池里当着许多人的面就淹死了，那些人谁也不去救他们，这是怎么一回事呢？”也许有人会这样问的。“掉在摄政公园小河中的孩子——也是当着一大群假日游客的面掉下去的——只是依靠了一个镇定的女仆放一条纽芬兰狗下去才把他救上来，这又是怎么一回事呢？”答案是很明白的。人类是他先天的本能和教育这两者的产物。在矿工和海员中，由于他们的共同职业和每天的互相接触，有着一种休戚相关的情感，而危险的环境又使他们养成了勇敢大胆的精神。相反地，在城市中由于缺乏共同的利益，因而人们养成了一种漠不关心的态度，他们的勇敢精神也很少有机会发挥，所以便消失或转到其他方面去了。此外，矿山和海上的英雄传说被编成了歌谣，在矿工和渔夫的村落中到处流传。可是，乌七八糟的一群伦敦人又有什么传说呢？他们可能有的唯一传说，是应该由文学来创造的，但是，相当于乡村史诗般的文学可以说是没有的。牧师们只是热心于论证从人类天性中所产生的东西都是罪恶，论证人类的一切善良的东西都有一个超自然的来源，而他们大都无视那些能够当作上苍的更高灵感或恩赐的事实。至于世俗的作家们，他们的注意力则主要集中于一种英雄行为上，那就是促进国家观念的英雄行为。因此，他们赞扬罗马的英雄或战场的战士，而无视渔夫们的英雄行为，也很少注意它。当然，诗人和画家也可能为人类良知本身的美善所感动，但他们都很少知道贫民阶级的生活，所以，他们虽能歌唱和描绘传统环境中的罗马或军事上的英雄人物，但他们不能动人地歌唱和描绘处在他们所无视的极其平凡的环境中的英雄。如果他们鼓起勇气去描述的话，也只不过是作出一篇辞藻华丽的文章罢了。&lt;/p&gt;
-
-&lt;p&gt;以娱乐、研究和教育等等为目的的协会、俱乐部和团体，近年来是如此之多，单单要把它们全部调查列表也要花上许多年的工夫，它们是上述的永远活动不息的联合和互助的倾向的另一种表现。在这些组合当中，有些是和秋天聚集在一块儿的各种小鸟一样，完全是为了共同享受生活的乐趣的。在英国、瑞士和德国等等国家的每一个村子里，都有板球、足球、网球、九柱戏、养鸽、音乐或歌咏俱乐部。其他的组合在数目上还要多得多，而且有些组合（例如自行车协会）突然有了很大发展。虽然这个协会的成员除了爱好骑自行车以外，没有任何共同的利益，但在他们当中已经产生了一种互助的愿望，特别是在骑自行车的人不多的边远地区更是如此。他们把一个村子里的“自行车协会俱乐部”看作是一个家庭，在每年的自行车野营会上可以建立许多永恒的友谊。德国的九柱戏联谊会（Kegelbrüder）也是类似自行车协会的一种组织；类似这种组织的还有体育协会（在德国有三十万会员）、法国非正式的小艇兄弟会、游艇俱乐部等等。这样的团体当然不会改变社会的经济阶层情况，但它们有助于缓和社会的阶级差异，在小城镇中更是这样。由于它们都趋向于结成大规模的全国联盟和国际联盟，所以它们肯定有助于使散居世界不同地区的各种各样的人建立个人之间的友好往来。&lt;/p&gt;
-
-&lt;p&gt;登山俱乐部、德国的猎物保护协会（Jagdschutzverein）和国际鸟类学会也具有同样的性质，德国猎物保护协会的会员在十万人以上，其中包括猎人、有学问的森林家、动物学家和一般单纯的自然爱好者，国际鸟类学会的会员中，有动物学家、饲禽者和纯朴的德国农民。他们在几年间不仅做了许多只有大团体才能举办的非常有益的事业（如绘制地图、修筑避风雨的茅屋和山路、研究动物和害虫的生活与鸟类的迁移等等），而且还在人和人之间建立了新的联系。两个不同国籍的登山俱乐部会员在高加索山上一座避风雨的茅屋中相遇时，彼此都不当作是陌生人，同往在一个屋子里的大学教授和农民鸟类学家也是这样。纽卡斯尔的托比叔叔会（Uncle Toby’s Society）已经劝导了二十六万以上的男女小孩子永不去破坏鸟雀的窠，并且对一切动物要仁慈，这个组织在发展人类感情和对自然科学的爱好方面，肯定要比许多道德学家和我们大多数学校所作的工作还多。&lt;/p&gt;
-
-&lt;p&gt;我们虽然只是这样匆匆地概述，但也不能把数以千计的科学、文学、艺术和教育团体略而不敲。直到现在，为国家所严格控制的、而且常常接受国家津贴的科学机构，活动范围一般都很狭小，人们往往只把它们看作是获得国家任命的门径，而且，由于它们的范围十分狭小，所以无疑引起过无谓的妒忌。然而事实是：这些组织毕竟在一定程度上缓和了出身、政治党派和信仰的差异。而在边远的小城镇中，科学、地理和音乐的研究组织，特别是其中希望有广大爱好者参加的组织，已经成为小小的文化生活的中心，变成了一个小地方和广大世界之间的一种联系，变成了身分和职业大不相同的人彼此以平等地位见面的地方。人们一定要知道这些中心在例如西伯利亚这一类地方的作用，才能充分地认识到它们的巨大价值。至于那些不计其数的教育团体，虽然它们只是现在才开始打破国家和教会在教育方面的垄断，但它们一定会在不久以后就成为这方面的主导力量。我们所以能够有幼儿园制，应归功于“佛洛贝尔教育会”（Froebel Unions）；俄国的妇女所以能够有很高的教育程度，应归功于许多正式的和非正式的教育组织，虽然这些团体和组织是在随时都受到强有力的政府的巨大阻碍下工作的。至于谈到德国的各种教育组织，大家都知道，它们在制定民众学校教授科学的新方法中作过最出色的工作。教师们也从这样的团体中获得了极大的帮助。如果没有它们的帮助，工作过重而薪水过低的乡村教师将是多么可怜啊！&lt;/p&gt;
-
-&lt;p&gt;所有这些团体、协会、友谊会、联盟和组织等等，单单在欧洲现在就数以万计，其中每一个都说明了自愿的、没有任何企图的、没有报酬或报酬很低的极大量工作——它们以种种形式表现的，难道不是人类永恒的互助和互援的倾向吗？将近三个做起以来，即使是为了文学、艺术和教育事业而携手团结，也是被禁止的。只有在国家或教会的保护之下，才能集会结社，否则便只能像互济会（freemasonry）那样组成秘密的社团。但是现在，阻挡的力量被冲破了，结会在各方面都有了很大的发展，它们扩充到了人类活动的各个部门，它们具备了国际性，而且在一定程度（这种程度现在还不能充分估计）上无疑将打破各个国家不同民族之间的隔阂。尽管商业竞争养成了人们的妒忌，尽管行将消逝的过去的幽灵挑起了人类的怨恨，但是，国陈团结的意识在世界的领袖人物和广大的工人群众（因为他们们争得了国际来往的权利）中正在逐渐成长，而且在过去的二十五年间，这种精神在阻止欧洲战争方面无疑是有它的贡献的。&lt;/p&gt;
-
-&lt;p&gt;当然，我们在这里必须谈一下宗教的慈善团体，因为它们也代表着整整一个世界。它们的大部分成员也是为一切人类所共有的互助观念所感动，这一点是毫无疑问的。不幸的是，传教士们竟把这种观念的来源说成是超自然的。他们当中有许多人硬说人类如果不是受了他们所讲的特定的宗教教义的开导，是不会自觉地按照互助的灵感而行动的，他们大多数人都和圣奥古斯丁一样，不承认“邪教的野蛮人”有互助的观念。此外，虽然早期的基督教也像其他宗教一样，是追求广泛的人类的互助和同情观念的，但基督教教会后来却帮助国家毁灭一切先于它的或独立发展的互助和互援的长久制度。教会所宣讲的，是带有上天灵感这种性质的慈悲，而不是每一个野蛮人也认为对他的同胞理当进行的互助，因而这就含有赐与者高于收受者的意思。虽然有这种局限性，但我们无意触怒那些自认为是上帝特选的与众不同的团体，只要它们有着慈悲人道的行为，那么，我们可以把许多宗教慈善团体看作是上述互助倾向的一种产物。&lt;/p&gt;
-
-&lt;p&gt;所有这些事实表明，不顾他人需要而一味追求个人利益的行为不是现代生活的唯一特征。我们看到，同这个如此傲慢地自以为是领导人类事业的潮流相并行的，还有农民和工人为了重新建立互助和互援的长久制度而进行的艰苦斗争。我们发现，在社会的各个阶层中正进行着一场广泛的运动，以期建立各种各样的永久的互助组织。而且，当我们撇开公共生活，进而观察当代人的个人生活时，我们还发现另外一个极其广阔的互助和互援的世界，但是由于这个世界只限于家庭和个人友谊的狭小范围，所以为大多数社会学家忽视了。&lt;/p&gt;
-
-&lt;p&gt;在现今的社会制度下，同一条街上的居民或邻居之间的一切联系都已断绝。住在大城市中富人区的人连他们隔壁的邻居是谁也不知道。但是，往在拥塞的小街小巷中的人们彼此却是十分了解的，而且互相间有不断的联系。当然，像任何地方一样，在小街小巷中也时常发生小小的争执。但是，他们按照个人的爱好而结成许多组织，在他们中间实行互助，其范围之广是富人阶级所难以想象的。如果我们以在街上或敢堂庭院和草地上玩耍的贫穷地区的孩子们为例，我们立刻便会注意到，虽然他们有时候也互相争吵打架，但他们彼此之间亲密团结，以保护他们不受一切侵害。当一个孩子好奇地弯下腰去看一看阴沟洞的时候，另一个孩子便立刻喊道：“别呆在那儿，阴沟洞传染热病！”“别爬过那道墙去，如果摔下去，火车会压死你的！不要到阴沟旁边去！不要吃那些草莓——有毒！吃了要死的！”孩子们到户外和同伴玩耍时，首先就会得到这些教训。如果没有这样的互助，那么，在“模范工人住宅区”周围的马路上或者在码头和小河的桥上玩耍的孩子们，不知要有多少被车辆压死，或者掉在污浊的水中淹死！当可爱的杰克跌到乳牛场后面没有遮拦的阴沟里，或者脸儿红红的莉茜掉进小河里的时候，孩子们的喊声是那么响亮，使附近所有的人都能听见而跑来救护。&lt;/p&gt;
-
-&lt;p&gt;现在来谈一谈母亲们的联合。“你想象不到她们是多么互相帮助。”住在贫民区的一位女医生最近对我说，“如果一个妇女没有或无力为她快要生产的婴儿准备应用的东西（这种情况是常有的！），所有的邻居便都给新生的孩子带一点东西来。只要产妇还躺在床上，便常有一个邻居来照护她的孩子，另外几个邻居则时常来料理她的家务。”这种习俗是很普遍的，所有在贫民中间生活过的人都谈到这种习俗。母亲们尽一切可能地彼此互助，照顾别人的孩子。一个有钱的太太在大街上从一个又饥又冷的孩子身边走过而能无动于中，是需要一些锻炼的，至于这种锻炼是好是坏，让她们自己去判断罢。然而贫民阶级的母亲们是没有这种锻炼的，她们不会忍心看着一个孩子挨饿，她们一定要给他东西吃，她们就是这样作的。“小学生向她们要面包的时候，很少（或者说从来没有过）遭到拒绝的，”——在怀特卡泊尔一个工人俱乐部工作过几年的一位女友写信告诉我说。现在我不妨把她的来信再摘录几段：&lt;/p&gt;
+&lt;p&gt;我愿借这个机会表达我对《十九世纪》的编者詹姆斯·诺耳斯先生的最衷心感谢，感谢他一知道这些文章的大意后就慨然许诺在他的刊物上发表，并且允许我把它们出版刊行。&lt;/p&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;“不要丝毫报酬地照护生病的邻居，这在工人中间是十分普遍的事情。而有孩子的母亲出去工作的时候，总有另外一个母亲来照顾她的孩子们。”&lt;/p&gt;
+  &lt;h4 id=&quot;1902年于肯德郡的布隆里&quot;&gt;1902年于肯德郡的布隆里&lt;/h4&gt;
 &lt;/blockquote&gt;
 
-&lt;blockquote&gt;
-  &lt;p&gt;“在工人阶级中，如果他们不互相帮助，他们是不能生存的。我知道有几家人一直是互相帮助的——在抚养小孩，在有人生病或死亡时，便在金钱、食物和燃料上互相帮助。”&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;h3 id=&quot;结论&quot;&gt;结论&lt;/h3&gt;
 
-&lt;blockquote&gt;
-  &lt;p&gt;“在贫民当中，不像富人那样斤斤计较这个东西是‘我的’或是‘你的’。鞋子、衣服、帽子和当时需要的一切东西，都是经常互相借用的，各种家用器具也是如此。”&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;现在，如果我们把从现代社会分析中所能取得的教训同有关互助在动物世界和人类进化中的重要性的许多例证联系起来，我们就可以把我们的研究总结如下。&lt;/p&gt;
 
-&lt;blockquote&gt;
-  &lt;p&gt;“去年冬天，联合激进俱乐部的会邑筹集了很小的一笔钱，过了圣诞节以后便开始向上学的儿童免费供给菜汤和面包。他们要照护的儿童逐渐增加到了一千八百人。钱是向会外人士筹募来的，但是所有的工作完全是由会员来作的。他们当中有些失业的人，清晨四点钟便跑来洗剥蔬菜；五个妇女把她们自己的家务忙完以后，在九点或十点钟便来做饭，并且一直呆到下午六、七点钟，把盘碗洗干净。在吃饭的时候（从十二点到一点半）有二、三十个工人来帮着上菜汤，每个人能匀出多少吃饭的时间，便在那里帮忙多少时间。这种情况继续了两个月。没有一个人是拿了报酬的。”&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;我们已经知道，在动物界中绝大多数的种是过群居生活的，它们的联合就是它们在生存竞争中的最好武器，当然，我们所说的生存竞争，是按照达尔文的广义观念来理解的——不是为了取得单纯的生存手段，而是为了抵抗一切不利于物种的自然条件的竞争。凡是把个体间的竞争缩减到最小限度，使互助的实践得到最大发展的动物的种，必定是最昌盛、最能不断进步的。在这种情况下所取得的互相保护以及达到长寿和积累经验的可能性、高度的智力发达和合群习惯的进一步培养，保证了物种的保持，保证了它的扩展和逐步进化。反之，不合群的种是注定要衰退的。&lt;/p&gt;
 
-&lt;p&gt;我的朋友还谈了几件个人的事情，现在把其中典型的例子摘录如下：&lt;/p&gt;
+&lt;p&gt;其次谈到人类，我们知道，人类在石器时代的初期是结成氏族和部落生活的。我们发现，在较低级的蒙昧人阶段，在氏族和部落中就已经产生了一系列的社会组织：我们知道，最早的部落的风俗习惯是人类各种制度的胚胎，而这些制度在以后便成了不断进步的主导力量。从蒙昧人的部落中，成长了野蛮人的村落公社，而一系列新的、范围更广泛的社会风俗习惯和制度，按照在村民议会的管理下共同占有和保卫一定地区的原则，在属于或假定属于一个血统的村落联盟中发展起来，而且迄至今日，这些风俗习惯和制度有许多仍在我们当中存在着。当新的要求引导人类再向前发展时。他们便从城市——地域单位（村落公社）——和行会相结合的双重组织开始，而行会的产生，是由于共同从事一定的职业或技术，或者是为了达到互助和互卫的目的。&lt;/p&gt;
 
-&lt;blockquote&gt;
-  &lt;p&gt;“安妮·W的妈妈把她寄托在威尔莫街的一个老人家里。当她妈妈死了以后，那个老太太虽然本人也很贫苦，但还是带着这个孩子而没有要一文钱的报酬。后来那个老太太也病了，安妮（那时已有五岁）自然就没人照护了，她的衣服也破烂了。但是，当那个老太太一死，S太太（一个皮匠的妻子，她自己有六个孩子）立刻便把安妮接到了自己家里。近来她的丈夫在生病，她们大家都吃不到多少东西。M太太是一位六个孩子的母亲，前天她还去照护生病的M-g太太，并且把M-g太太的大孩子带到自己家里来照管。……你还需要这样的事例吗？这些事情是很普遍的。……D太太（住在哈克尼路椭圆广场）有一架缝纫机，虽然她自己要照护五个孩子和丈夫，但是我知道她经常还要替别人做衣服，从来没有接受过任何报酬。……还有其他种种情况。”&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;最后，七，八两章列举的事实表明：按照罗马帝国的形式建立起来的国家虽然猛烈地破坏了中世起的各种互助制度，但是，这种新的文明局面是不能持久的。以分散的个人结合为基础的、企图作为人们唯一联合的连锁的国家，没有达到它的目的。互助的倾向终于冲破了国家的无情统治，重又抬起头来，在无数的组合中显示了它的作用。现在，这些组合势将包括生活的各个方面，占有为人类生活和生活耗费物资的再生产所必需的一切。&lt;/p&gt;
 
-&lt;p&gt;每一个稍微了解劳动阶级生活的人都知道，如果他们之间不普遍地实行互助，显然他们就决不能度过他们的一切难关。一个工人家庭，在生活中不遭遇到像丝带工人约瑟夫·古脱利治在他的自传中所描述的那些苦难，那只是偶然的事情。他们在穷困中所以没有彻底破产，是多亏他们的互助。在古脱利治的家庭快要最后破产的时候，除了一些面包、煤和被褥来帮助他的，是一个年老的女仆，而她本人也是穷得不得了的。在其他的事例中，也有其他的人或邻居采取措施来救助那个破产的家庭。如果没有别的穷人进行帮助，那么，每年遭到彻底毁灭的家庭不知道还要增加多少呢！&lt;/p&gt;
+&lt;p&gt;也许会有人说，互助虽然是进化的因素之一，然而它所包括的只是人类关系的一个方面；和这个潮流（虽说它有很大的力量）同时存在的，在现在和过去都还有另外一个潮流——个人的自我维护。这种个人的自我维护，不仅表现为个人努力于取得他自己或他的阶级在经济、政治和精神方面的优越地位，而且还起了一个十分重要（虽然不太显著）的作用，那就是它粉碎了部落、村落公社、城市和国家强加于个人的束缚，而这种束缚往往是易于固定不变的。换句话说，个人的自我维护应被看作是一个进步的因素。&lt;/p&gt;
 
-&lt;p&gt;普林索尔先生在贫民中以每周七先令六辨士的费用生活了一段时期以后，不得不承认他开始这种生活时所怀抱的仁慈心情“变成了衷心的尊敬和赞扬”，因为他看到了穷人间的关系是多么充满了互助互援精神，并懂得了这种纯朴的帮助。经过许多年的体验，他所得出的结论是：“你把他们的生活拿来想一想，你就会知道所有劳动阶级的绝大多数人都和这些人一样。”至于抚养孤儿，甚至是由极穷苦的人家抚养，也是如此普遍的一种习惯，所以可以说它是一个普通规律。例如，在华伦谷和朗德山发生了两次爆炸事件以后，在矿工中间“各该委员会可以证实，在炸死的矿工中有近三分之一的人除了自己的妻子和孩子以外，还供养了其他亲友的妻子和儿女”。普林索尔先生写道：“你考虑过这是怎样一回事吗？我不怀疑有钱的人，甚至家道小康的人也会这样作，但是要考虑一下其间的区别。”请你想一想：每个工人捐一个先令来帮助一个同伴的寡妻，或者捐六个辨士帮助一个同伴支付丧事的额外费用，这笔钱对一个每周挣十六个先令、并且要养活妻子（有的还养活五、六个孩子）的人来说，具有多么大的意义。但是这样的捐助在全世界的工人中是常见的，甚至在比家里死了人更寻常的情况下也是这样作的；至于在工作中进行帮助，这在他们的生活中已经成为最平常的事了。&lt;/p&gt;
+&lt;p&gt;很明显，除非对这两个主要的潮流都加以分析，否则对进化的看法就不可能十分全面。个人的或者个人的集团的自我维护，他们为了夺取优越地位而进行的竞争，以及因此而产生的冲突，已经有人分析、评述过了，而且从远古的时代起就受到人们的颂扬。事实上，一直到现在，只有这一潮流受到叙事诗人、编年史家、历史学家和社会学家的注意。迄至今日所写的历史，几乎完全是记述神权政治、军事权力、专制政治以及以后的富人阶级政权的促进、建立和维持其统治所采用的方法和手段的。这些势力之间的斗争实际上成了历史的主要内容。因此，我们在人类的历史上自然只是看到个人的作用，虽然按照方才所说的论点对这个问题也有重新研究的余地。而在另一方面，互助这一因素迄今完全为人们所忽视了，当代的和过去的著作家竟干脆对它加以否定，甚至还加以嘲笑。因此，首先指出这个因素在动物界和人类社会进化中所起的巨大作用，是十分必要的。只有充分认识到这一点以后，才有可能在这两个因素之间进行比较。&lt;/p&gt;
 
-&lt;p&gt;在富人阶级中也不是不实行互助和互援的。当然，当我们想到有钱的老板们对他们雇用的工人常常表现的那种粗暴的时候，我们对人类天性是容易抱着悲观的看法的。许多人一定还记得，在1894年约克郡大罢工期间，当矿主们控告那些到废弃的矿坑中拾煤块的年老矿工时，人们是多么愤慨。即使我们暂且不提斗争和社会斗争期间的恐怖（例如巴黎公社失败后，成千被捕的工人遭到屠杀），但是当我们读到例如四十年代英国劳工调查所揭露的情况，或沙夫兹伯里伯爵所说的“在那些工厂中人类生命的惊人消耗，其中包括从贫民院中领来的或干脆是从全国各地买来做工厂奴隶的儿童”——当我们读到这些情况的时候，对人类在贪欲横流时可能产生的卑劣行为，谁又能不感慨万分呢？必须同时说明的是，决不能把这种待人的罪过完全归咎于人类犯罪的天性。科学家，甚至有很大一部分牧师，直到最近岂不是还在敌人对贫民阶级要不信任、要轻蔑，甚至要憎恨吗？科学不是在教导人们说，自从农奴制被废除以后，除非自己有恶习，是谁也不会贫穷的吗？在教堂中，有勇气谴责这些残害儿童者的人是多么少，相反地却有许许多多的人在教导人们说，穷人之遭受痛苦，甚至黑人之做奴隶，也是出自神的安排呢！非国教教派，其本身在很大程度上难道不就是人民大众对英国国教虐待贫民的一种抗议吗？&lt;/p&gt;
+&lt;p&gt;即使是用多少有些统计性方法来约略地估计一下它们的相对重要性，也显然是不可能的。我们都知道，单单是一次战争在当时和以后所造成的罪恶，就可能超过互助这个原则几百年无休止的活动所造成的善举。但是，当我们发现在动物界中进步的发展和互助是齐头并进的，而物种内部的竞争则是和倒退的发展相伴随的，当我们注意到，就人类来说，甚至在竞争和战争中所取得的胜利也是和每一个进行冲突的国家、城市、党派和部落中的互助的发展成比例的，而且，在进化的过程中战争本身（只要它这样进行）也是为国家、城市或氏族内部的互助达到进步的目的服务的，这时我们便可看出，作为进步的一个因素的互助具有压倒一切的影响力量。我们也知道，互助的实践和它的连续发展，创造了人类能在其中发扬其艺术、知识和智慧的社会生活条件。以互助倾向为基础的制度获得最大发展的时期，也就是艺术、工业和科学获得最大进步的时期。实际上，对中世纪城市和古希腊城市的内部生活加以研究，就可揭示出这样的事实：当行会和希腊氏族内部实行互助和联盟原则赋予个人和集体的巨大主动性结合起来的时候，便给人类带来了历史上的两个最伟大的时期——古希腊的城市和中世纪时期。而在此后历史上的国家时期中上述那些制度的衰退，也正是这两个时期的迅速衰退。&lt;/p&gt;
 
-&lt;p&gt;正如普林索尔先生所指出的，有了这样的精神领导，与其说是富人阶级的感情变得停滞了，还不如说是“阶级化了”。富有阶级很少把他们的感情用之于下层贫民，由于生活方式的不同，所以在他们和贫民阶级之间有着一道鸿沟，同时他们也不从最好的方面，不从日常生活中去了解贫民。但是，在他们自己当中——把财富本身使他们养成的贪财之心和无谓挥霍都考虑在内——在家庭和朋友的范国内，富人也像穷人一样实行互助和互援。艾赫林博士和达尔文说得完全正确，他们说，如果把朋友之间的直接借贷和帮助的金钱作一个统计，那么，其总数即使和全世界的商业交易款项相比，也可以说得上是一笔巨大的数字。如果我们把用之于招待、互相间的小帮助、对他人事务的照料、馈赠以及慈善事业上的金钱和上述的数字加起来（我们应该把它们加在一起），那么，我们将惊奇地发现这样的授受在国民经济中是十分重要的。即使在商业利己主义所统治的世界中，目前流行的“我们受了那个公司的亏待”这句话，也是表明同亏待（即照章依法的对待）相对立的还有一种友好的对待。每一个商业家都知道，一年之中不知道要有多少公司只是靠了其他公司的友好援助才免于破产的。&lt;/p&gt;
+&lt;p&gt;至于在我们这个世纪工业的突飞猛进，常常有人把它说成是个人主义和竞争的胜利，但是它肯定有一个比这更为深远的根源。一经有了十五世纪的伟大发现，特别是一有了依靠物理学的一系列成就而获得的大气压力的发现，——它们是在中世纪的城市组织之下获得的——蒸汽机的发明以及意味着取得新的动力的革命，必然会随之而来。如果中世纪的城市能够一直存在到把它们的发现用在这一点上，那么，由蒸汽完成的这场革命，其伦理的结果也许是不同的，而同样的革命在技术和科学中也是不可避免地会发生的。的确，现在还有一个没有定论的问题，那就是随着自由城市的崩溃而产生的、在十八世纪前半叶最为显著的工业的普遍衰退，是否曾大大地推迟了蒸汽机和由此而产生的工艺革命的出现。当我们考虑到十二至十五世纪工业在纺织、冶金、建筑和航海方面的惊人发展速度，当我们考虑到这种工业的发展在十五世纪末叶所带来的科学发现，这时我们就必须自问：在中世纪文明衰退以后，在欧洲所发生的艺术和工业的普遍低落，是否推迟了人类对这些成就的充分利用。当然，手艺工人的消灭、大城市的破坏和它们彼此之间关系的断绝，都是不利于工业革命的。我们知道，詹姆斯·瓦特为了使他的发明能够实际应用，花费了他一生中二十多年的工夫，因为他不能在十八世纪时找到在中世纪的佛罗伦萨或布鲁日轻易就能找到的手工业者——他们能够用金属来制造他的机器，并且能够作到蒸汽机所要求的精巧工艺和精确程度。&lt;/p&gt;
 
-&lt;p&gt;至于说到工人以外的许多经济宽裕的人，特别是自由职业界人士，为大众福利而自顾从事的慈善事业和巨大工作，我们都知道它们在现代生活中起了如何的作用。如果说由于有些人想沽名钓誉或者想获得政治权力或社会地位，因而时常捐害了这种慈善行为的真正性质，那么，就大多数情况来说，推动的力量是来自上述的互助感这一点仍然是无可置疑的。已经发财致富的人往往并不能从财富中得到他所预期的满足。另外有些人则感觉到，不管经济学家怎样论证财富是才能的报酬，但他们自己所得的报酬是多余的。人类休戚与共的意识于是开始发生作用了；虽然社会生活的安排是在使千百种人为的巧妙手段扼杀这种情感，但它仍然是经常占优势的。这时有些人便把他们的财产或他们的力量投到他们认为能促进大众福利的事业中，试图以这种方法来为人类的那种深刻需要找到一条出路。&lt;/p&gt;
+&lt;p&gt;因此，如果我们把这个世纪的工业的进步归功于现时所宣称的个人对整体的竞争，就如同不知道下雨原因的人把下雨归功于他所供献给泥偶像的牺牲一样。在工业发展方面，也和其他方面征服自然的行动一样，互助和紧密的联系肯定是、也一向是比互争更有利得多。&lt;/p&gt;
 
-&lt;p&gt;总之，不论是中央集权国家的压倒力量，还是“愿以良心相助”的哲学家和社会学家在科学的幌子下所教导的互相憎恨和无情斗争，都不能消灭深深树立在人类的理智和良心中的人类团结的情感，因为它是由我们过去的整个进化过程所培养起来的。从进化的最初阶段起就产生了的这种成果，是不可能被这种进化的许多方面中的一个方面所压服的。近年来隐藏在家庭、贫民窟邻里间、乡村或工人秘密社团这些狭小范围内的互助和互援的需要，甚至在我们现代社会中也显示出来了，并且要求像它在过去一样，取得指导人类继续走向进步的领导者的权利。这就是我们把最后两章扼要列举的事实加以仔细研究之后所必然得出的结论。&lt;/p&gt;</content><author><name>彼得·克鲁泡特金</name></author><summary type="html">在国家摧毁行会之后成长起来的工会 工会的斗争 罢工中的互助 合作</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://i.imgur.com/YHHIshI.png" /><media:content medium="image" url="https://i.imgur.com/YHHIshI.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
+&lt;p&gt;但是互助这一原则的最大重要性，还是在道德方面表现得最充分。互助是我们的道德观念的真正基础，这一点似乎是很清楚的。就互助感情或互助本能的最初根源来说，不论大家的见解如何（不论是把它归之于生物的原因或是超自然的原因），我们必须追溯到动物世界的最低级阶段，我们可以发现它从这一阶段起排除了许多反对的力量，经过人类发展的各个阶段，直到目前都是在不断进步的。甚至不时产生的新宗教——它们总是当互助这一原则在东方的神权国家或专制国家中陷于衰退的时代或者是在罗马帝国崩溃的时期产生的——也只是重申这个原则罢了。这些宗教在卑微的、最低贱的、最受压迫的社会阶层中找到了它们最主要的支持者，在这一阶层中，互助这一原则是日常生活的必要基础。在最初的佛教、基督教和摩拉维亚教派等宗教团体中所采取的新的联合形式，在性质上是回复了早期部落生活中最好的互助形式。&lt;/p&gt;
+
+&lt;p&gt;但是每进行一次恢复这一古老原则的努力，这一原则的基本思想便扩展一次。它从氏族扩展到种族、种族的联盟、民族，最后最低限度在思想上扩展到了整个人类。在扩展的同时，它也更加精深了。在原始的佛教和某督教中。在某些伊斯兰教的先知的著作中，在初期的宗教改革运动中，特别是在十八世纪和我们当代的道德和哲学运动中，人类愈来愈有力地完全抛弃了报复的观念，即“应得的报应”——以善报善、以恶报恶的观念。“勿冤冤相报”和对邻人要厚施薄取这种更崇高的观念，被看作是真正的道德原则，是比单纯的公正、平等或正义这些观念更为优越的原则，更能导致幸福。呼吁于人类的不仅是需要以爱（它永远是个人的，顶多也只是部落的），而且需要以他和每一个人都是一致的这种理解作为行为的指南。因此，我们追溯出我们的伦理观念确实起源于互助的实践（我们在进化的最初阶段就可找到这种实践的痕迹），并且，我们可以断言，在人类道德的进步中，起主导作用的是互助而不是互争。甚至在现今，我们仍可以说，扩展互助的范围，就是我们人类更高尚的进化的最好保证。&lt;/p&gt;</content><author><name>彼得·克鲁泡特金</name></author><summary type="html">不是以横蛮的暴力和诡诈，而是以互助合作来解释生物和社会的进步。</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://i.imgur.com/YHHIshI.png" /><media:content medium="image" url="https://i.imgur.com/YHHIshI.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
