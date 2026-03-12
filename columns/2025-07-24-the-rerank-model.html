@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="en">
+
+	<head>
+		<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+
+
+	<title>Rerank模型 · The Republic of Agora</title>
+
+
+<meta name="description" content="本文探討Rerank模型如何顯著提升RAG系統在LLM應用中的效能。">
+
+<link rel="stylesheet" href="https://agorahub.github.io/pen0/assets/dark.css">
+<link rel="icon" href="https://agorahub.github.io/pen0/assets/favicon.png">
+<link rel="apple-touch-icon" href="https://agorahub.github.io/pen0/assets/touch-icon.png">
+<link rel="stylesheet" href="https://agorahub.github.io/pen0/assets/common.css">
+
+	<link rel="stylesheet" href="https://agorahub.github.io/pen0/assets/post.css">
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.min.js" type="text/javascript"></script>
+
+
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+<link rel="canonical" href="https://agorahub.github.io/pen0/columns/2025-07-24-the-rerank-model.html">
+<link rel="alternate" type="application/atom+xml" title="The Republic of Agora" href="https://agorahub.github.io/pen0/feed.xml" />
+
+<!-- Google Font -->
+<link href="https://fonts.googleapis.com/css?family=UnifrakturMaguntia" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Libre+Baskerville|Mansalva&display=swap" rel="stylesheet">
+
+
+
+
+  <!-- change your GA id in _config.yml -->
+  <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-166928354-2', 'auto');
+  ga('send', 'pageview');
+  </script>
+
+
+		
+	</head>
+
+	<body>
+
+		<div class="head">
+  
+  <div id="masthead">
+    <h3><a href="https://agorahub.github.io/pen0/">The Republic of Agora</a></h3>
+  </div>
+
+  
+</div>
+
+
+		<div class="content">
+			<article>
+
+  <header>
+    <h1>Rerank模型</h1>
+    <br>
+    <div class="item">
+      <img  src="https://i.imgur.com/96BSuyQ.png">
+    </div>
+    <h3>優化RAG系統檢索精度的關鍵策略</h3>
+    <h4>為自己Coding | 2025.07.24</h4>
+  </header>
+  <div class="item">
+    <p>本文探討Rerank模型如何顯著提升RAG系統在LLM應用中的效能。</p>
+
+<!--more-->
+
+<p>各位在自然語言處理領域奮鬥的夥伴們，您是否也曾有過類似的經驗：在建構RAG系統時，僅僅依賴Embedding模型和向量資料庫進行資訊檢索，卻發現最終生成內容的品質總是不盡理想？儘管召回了大量文件，但其中真正與使用者查詢高度相關的資訊卻寥寥無幾，導致生成結果的精確性與流暢度受到影響。</p>
+
+<h3 id="rag系統的檢索挑戰召回與精度的權衡">RAG系統的檢索挑戰：召回與精度的權衡</h3>
+
+<p>RAG系統的核心機制是先從大規模文件庫中檢索相關資訊，再將這些資訊作為上下文輸入給大型語言模型（LLM）進行生成。傳統上，第一階段的檢索主要仰賴Embedding模型將查詢和文件轉換為向量表示，並透過向量相似度搜尋來召回潛在相關的文件。然而，這種基於向量相似度的「粗篩」策略，往往面臨一個挑戰：高召回率不必然等同於高精準度。</p>
+
+<p>在實際應用中，Embedding模型召回的文件集合中，可能包含大量語義上看似相關，但實際上對於回答特定查詢而言價值不高的「噪音」資訊。這些噪音不僅會增加LLM處理的負擔，更可能誤導LLM的生成方向，導致輸出結果偏離預期，甚至產生幻覺（hallucinations）。這種「召回有餘，精準不足」的現象，正是許多初期RAG系統面臨的瓶頸。</p>
+
+<h3 id="rerank模型登場精準排序品質升級">Rerank模型登場：精準排序，品質升級！</h3>
+
+<p>直到我遇到了Rerank模型！它簡直是RAG的「超強幫手」啊！Rerank模型就像一個超級嚴格的品質管制員，它會對Embedding模型召回的那些文件，再進行一次精準的排序。它會根據查詢語句和每份文件的相關性，重新給它們打分數，把最相關、最關鍵的資訊排到最前面。</p>
+
+<p>這讓我的RAG系統瞬間從「差強人意」升級到「驚豔不已」！原本可能被淹沒在資訊洪流中的「金子」，現在都能被Rerank模型精準地篩選出來。我的心得感受是：Rerank模型就像在RAG的資訊海洋裡，幫我架設了一個超強濾水器，把雜質都過濾掉，只留下最純淨的精華！再也不用擔心RAG說出那些語焉不詳、不知所云的內容了。現在的RAG每次生成都讓我感到安心又滿意，簡直是從「青銅」變「王者」！</p>
+
+<p>Rerank模型之所以能實現如此精準的排序，主要得益於其更深層次的語義理解能力。相較於Embedding模型主要側重於將文本映射到一個低維度的向量空間，捕捉宏觀的語義相似性，Rerank模型則會使用更為複雜的模型架構，例如：</p>
+
+<ul>
+  <li>
+    <p>Cross-encoder（交互編碼器）架構：這是Rerank模型中常見的一種強大架構。它將查詢和每一份召回的文件拼接在一起，作為單一輸入傳入一個大型的Transformer模型。透過這種方式，模型能夠在一個共同的上下文空間中，直接學習查詢與文件內容之間的交互關係和細緻的語義匹配。這種交互式的計算方式，讓模型能捕捉到更深層次、更精確的相關性信號，例如詞語搭配、語句結構甚至推理邏輯上的關聯。雖然計算成本較高，但其精確度通常也更優。</p>
+  </li>
+  <li>
+    <p>Pairwise Ranking（成對排序）：許多Rerank模型在訓練時採用成對排序的策略。它們會學習如何區分一對文件（一個高度相關，一個相關性較低）中，哪一個更符合給定查詢。這種訓練方式使得模型能夠學習到「比較」的能力，進一步優化排序結果。</p>
+  </li>
+</ul>
+
+<p>簡而言之，Rerank模型不僅僅是看查詢和文件的「大方向」是否相似，它更像是拿著放大鏡，仔細審視兩者之間的每一個細節，確保推薦給LLM的上下文資訊是經過「精挑細選」的。</p>
+
+<h3 id="導入rerank模型的策略考量">導入Rerank模型的策略考量</h3>
+
+<p>在實際部署Rerank模型時，有幾個關鍵點值得考慮：</p>
+
+<ol>
+  <li>
+    <p>模型選擇與效能權衡：市面上有許多開源和商業的Rerank模型可供選擇，例如基於BERT、Electra或更先進架構的模型。選擇時需考量模型的性能、資源消耗以及是否能針對特定領域進行微調。Cross-encoder模型雖然性能優異，但其計算成本也相對較高，尤其在需要對大量文件進行Rerank時，延遲可能會成為瓶頸。因此，在實際應用中，需要根據具體需求在精確度與運行效率之間做出權衡。</p>
+  </li>
+  <li>
+    <p>效率與延遲：Rerank階段會增加額外的計算開銷。對於對延遲敏感的應用，需要權衡Rerank模型的複雜度與運行效率。考慮採用優化過的模型、模型量化（quantization）或硬體加速等方式來降低推論延遲。</p>
+  </li>
+  <li>
+    <p>訓練資料與微調：為了獲得最佳效果，部分Rerank模型可能需要針對特定任務或領域的相關性數據進行微調。這通常涉及到標註查詢與文件之間的相關性分數，以幫助模型更好地理解領域術語和查詢意圖，進一步提升排序的精確性。</p>
+  </li>
+</ol>
+
+<p>總結而言，Rerank模型不僅是RAG系統的優化工具，更是提升生成式AI應用落地效果的關鍵策略。它彌補了單純基於Embedding向量檢索的不足，透過精細的二次排序，確保LLM能夠接收到最高品質的上下文資訊，從而輸出更精確、更具價值的內容。</p>
+
+<!--END-->
+
+  </div>
+
+</article>
+
+		</div>
+
+	</body>
+
+	
+	
+	<p class="love">
+		Made with <i class="fa fa-heart"></i> by <a href="https://github.com/agorahub">Agora</a>
+		<button class="hidden scheme"><i class="toggle d-adjust"></i></button>
+	</p>
+	
+	<script src="https://agorahub.github.io/pen0/assets/auto-dark.js"></script>
+
+</html>
