@@ -1,0 +1,65 @@
+---
+layout: post
+title : Wake-Up Research Security
+author: Neil Ashdown
+date  : 2025-12-03 12:00:00 +0800
+image : https://i.imgur.com/SaAlYmj.jpeg
+#image_caption: ""
+description: "The Government Needs to Send a Wake-Up Call on Research Security"
+excerpt_separator: <excerpt/>
+---
+
+_Without fundamental cultural change among academics, research security will become a box-ticking exercise for universities._
+
+<excerpt/>
+
+Three Chinese officials threatened employees of a UK university in April 2024, demanding that the university halt an ongoing research project. These physical visits were accompanied by interference with the university’s digital infrastructure and apparent attempts to access online meetings without permission.
+
+The case of Sheffield Hallam University, reported by the BBC and The Guardian on 3 November, highlights the threat Chinese state actors pose to the security of research in the UK.
+
+The details of this case are shocking but will not be surprising to observers of the threat posed by state actors to the UK’s universities. What is more surprising is that this case has become public at all. A combination of government and university sensitivities mean that public reporting on research security incidents and near-misses remains limited.
+
+This underlines a key problem with research security. Research at UK universities is under sustained and serious threat, and yet the government’s alarm bell is not cutting through. Warnings are issued, but without powerful, immediate examples of the threat these go unheeded.
+
+Reports such as State Threats and Universities by Coventry University’s Protective Security Lab are a valuable resource. However, anonymised case studies in specialist reporting are not going to cut through with the public or academia more widely.
+
+The result is a persistent gap in the perception of the threat between security practitioners and many academics. A recent RUSI report found that academics and the national security community remain divided on the security risks posed by research collaboration, with “little incentive for academia to consider national security concerns”.
+
+
+### The Perception Gap
+
+One recent analysis found that only a minority of academics see research as under threat. Security practitioners will be familiar with displacement activity, or attempts to paint the whole subject as specious. Variants on “I’d be happy if the North Koreans stole my research” or “Yes I take my work phone to China, but you take a risk travelling anywhere” remain common.
+
+The same dynamic can be seen in the revival of claims that export controls are unworkable because any technology can be dual-use. This observation may be correct but, as with the claims above, it serves to shut down discussion of proportionate, risk-based security controls.
+
+In this context, the creation of burgeoning research security bureaucracies within universities should be viewed with caution. Assessing security risks around cutting-edge academic research and collaboration is about as far from a box-ticking exercise as can be imagined, yet many research security teams are located within parts of the organisation that have traditionally focused on compliance.
+
+According to the study cited above, most academics are “largely satisfied with their own management of ethical and security-related challenges”. The authors of that analysis present this as evidence that the threat is exaggerated. If the UK government is right about the scale of the threat, then it clearly needs to do more to convince academics. It needs to send a serious wake-up call.
+
+
+### Research Security Requires a Cultural Shift Among Academics
+
+Stronger research security can only be achieved through broad cultural change among academics.
+
+Some parts of academia are already operating with something like this mindset. Nuclear scientists, for example, generally have a shared appreciation of the risks involved in the misuse of their work.
+
+This appreciation drives a proportionate security culture. Researchers working with nuclear materials and technology recognise that responsible research involves being careful about cyber, personnel, and physical security, considering what they share online, and assessing risk around collaborations.
+
+In a “more contested world”, where a growing range of scientific fields and technologies are relevant to defence and security, more academics must adopt this mindset. And all academics – regardless of their area of study – need to consider the potential for their actions to be exploited by adversaries targeting their colleagues working on more sensitive subjects.
+
+
+### A New Strategy Should Deliver a Wake-Up Call
+
+The government is working on the UK’s first Research Security Strategy. That strategy is likely to emphasise engagement between security practitioners and academics, including through an expanded Research Collaboration Advice Team (RCAT). This is a positive move, but the strategy needs to go further.
+
+Universities engaged in publicly funded research have a duty to protect that investment. For universities that want to specialise in sensitive areas of research, a strong, resourced commitment to security should be the price of entry.
+
+The strategy must convey to university leaders that research security is not a box that can be ticked through mid-level hires within the compliance teams. Shifting organisational culture requires strong strategic direction from senior leadership.
+
+To cut through the noise, that strategy must do more than repeat generalised statements about the threat landscape; it needs to send a wake-up call to the sector. The strategy must be explicit about the scale of the threat and it needs to provide high-profile examples – ideally non-anonymised – of instances where research security failed. If the threat perception gap is to be addressed, there is a need for credible, public touchpoints for discussion.
+
+Unless and until governments can find a way to convey the scale of the threat, research security will remain a compliance exercise rather than a core aspect of good research practice.
+
+---
+
+__Neil Ashdown__ is Head of Research for Tyburn St Raphael, where he works on secured-research.com - an initiative focused on research and innovation security. He completed his PhD at Royal Holloway University of London in 2024, where his thesis examined public-private collaboration on cyber intelligence. He is on the steering committee of the UK Offensive Cyber Working Group. From 2014-19, Neil was the deputy editor of Jane’s Intelligence Review.
