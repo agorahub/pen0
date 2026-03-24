@@ -1,3 +1,6 @@
+- name: VOL.61
+  repo: https://github.com/agora0/0x3d
+  site: https://agora0.github.io/0x3d
 - name: VOL.60
   repo: https://github.com/agora0/0x3c
   site: https://agora0.github.io/0x3c
