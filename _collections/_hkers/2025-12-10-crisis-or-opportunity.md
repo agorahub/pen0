@@ -1,0 +1,69 @@
+---
+layout: post
+title : Crisis Or Opportunity?
+author: Francisco Lobo
+date  : 2025-12-10 12:00:00 +0800
+image : https://i.imgur.com/fmh4Nce.jpeg
+#image_caption: ""
+description: "The Trump Corollary to the Monroe Doctrine"
+excerpt_separator: <excerpt/>
+---
+
+_President Trump’s new corollary to the Monroe doctrine will provide more triggers for forceful action in the Western Hemisphere, but the focus on Latin America could motivate the US toward more cooperation._
+
+<excerpt/>
+
+A little over a century ago, as the Old World was going up in flames during the Great War, Dr Alejandro Álvarez, a lawyer and diplomat who would later become the first and only Chilean to sit as a judge of the International Court of Justice, delivered a series of lectures at different American universities. The lectures, touching mainly on the teaching and practice of international law, were published in 1922 by the Division of International Law of the Carnegie Endowment for International Peace, featuring a preface by James Brown Scott (the American internationalist reportedly responsible for rehabilitating the Hispanic origins of international law).
+
+In a lecture titled The New Monroe Doctrine and American Public Law, Álvarez revisited this much debated ideology in order to shed some light into its original meaning. Although admittedly articulated for posterity in the form of a speech delivered by US President James Monroe in 1823, Álvarez’s contention was that “The Monroe Doctrine is not, as generally believed (especially in this country [the US]), a personal policy of the United States, but an American international rule, professed and accepted by all the states of the New World”. It is, indeed, “an American continental doctrine” and part of “American continental international law”, whose origins may be traced back to early Bolivarian Pan-Americanism.
+
+
+### Trump’s New Gambit
+
+But what does the Monroe Doctrine actually entail? In its original formulation, President Monroe famously remarked that the US would consider any attempt by European powers to extend their dominance to the Western Hemisphere, including efforts to regain control of those former colonies already recognized by the US as independent nations, as “dangerous to our peace and safety” and as “the manifestation of an unfriendly disposition toward the United States”.
+
+This original meaning would eventually evolve into what became known as the “Roosevelt Corollary” to the Monroe Doctrine, as it was President Theodore Roosevelt who in 1904 took it upon himself to enhance Monroe’s philosophy so as to include the possibility of exercising “international police power,” namely the use of force, in cases of flagrant wrongdoing by external powers meddling in America’s geopolitical neighbourhood. In the event, the Monroe Doctrine and its Corollary would branch out into FDR’s “Good Neighbour” and JFK’s “Alliance for Progress” policies, in an attempt to secure partnerships and regional hegemony, including in the security sector, within the Americas.
+
+More recently, the new National Security Strategy published by the US Government in December of 2025 explicitly introduces what it calls “The Trump Corollary to the Monroe Doctrine”:
+
+> “After years of neglect, the United States will reassert and enforce the Monroe Doctrine to restore American preeminence in the Western Hemisphere, and to protect our homeland and our access to key geographies throughout the region. We will deny non-Hemispheric competitors the ability to position forces or other threatening capabilities, or to own or control strategically vital assets, in our Hemisphere. This ‘Trump Corollary’ to the Monroe Doctrine is a common-sense and potent restoration of American power and priorities, consistent with American security interests” (p. 15).
+
+But how is the Trump administration implementing this new-found hemispheric spirit in practice?
+
+
+### Testing the Corollary
+
+In a baleful application of what Secretary of State Marco Rubio has dubbed “An Americas First Foreign Policy” in 2025, the US continues to escalate its threats of the use of force against the Maduro regime in Venezuela. A major development is the deployment of the aircraft carrier Gerald R. Ford to Latin America.
+
+The second Trump administration has been notorious in its efforts to challenge preconceptions and dismantle the structures of the rules-based international order that has been in place for the better part of a century. But before moving forward, the eager stonemasons might want to pause and assess what it is exactly that they are attempting to demolish. What does the security architecture that is being currently remodelled in the Western Hemisphere actually looks like?
+
+The ongoing crisis in Venezuela has been an endless source of political and legal developments that have pushed the boundaries of what is possible, and what is permissible. The former was tested with “Operation Gideon” in 2020, a failed unsanctioned military invasion so poorly planned and executed it was dubbed the “Bay of Piglets”.
+
+As for what is permissible under regional and international law, it is worth noting that already the first Trump administration pursued a multilateral strategy to put pressure on the Maduro regime. On 11 September 2019, the US alongside regional allies (including Argentina, Brazil, Chile, Colombia and El Salvador) activated an obscure regional treaty for collective self-defence: the 1947 Inter-American Treaty of Reciprocal Assistance, also known as the “Rio Treaty.” Later that same month, and pursuant to the Rio Treaty, the US and its allies would approve a series of smart sanctions against Maduro’s illegal activities which included money laundering, illegal drug trafficking, terrorism and its financing, corruption and human rights violations. However, the use of force, a legal possibility under the Rio Treaty as a regional arrangement for the maintenance of international peace and security in conformity with Article 52 of the UN Charter – effectively invoked by the US itself and its hemispheric partners after the 9/11 attacks on American soil over two decades ago – was not approved under the Rio Treaty on that occasion or since.
+
+This does not mean that the second Trump administration could not draw on the same legal instrument to try to justify its escalation against Maduro’s Venezuela. In early 2025, this author addressed some of the legal implications attached to what the then President Elect Trump said about annexing Canada, Greenland and the Panama Canal – all places falling under the territorial jurisdiction of the Rio Treaty.
+
+Before rushing to break new ground in state practice, it is important to remember that there is a regional security architecture in place that could be activated again. The use of international instruments for the justification of the use of force is not unprecedented in recent US practice. Indeed, both the first Trump administration and the Biden administration based their respective military strikes against Syria in 2017 and 2021, respectively, on international law – the former on the Chemical Weapons Convention, the latter on Article 51 of the UN Charter.
+
+Should the Rio Treaty be revisited by the second Trump administration, it is important to underscore that the use of force remains a possibility (under Article 8 therein) only if very specific legal rationales are satisfied – including the existence of either an armed attack (under Article 3), or “an aggression which is not an armed attack or by an extra-continental or intra-continental conflict, or by any other fact or situation that might endanger the peace of America” (Article 6). As Felipe Rodríguez Silvestre and I concluded when the Rio Treaty was activated during the first Trump administration, this strict test was not satisfied then – not for smart sanctions, and most certainly not for the use of armed force against Venezuela. Yet, the sole invocation of the Rio Treaty at the time was enough to save it from desuetude, however unwarranted its application.
+
+Conversely, could Venezuela invoke the Rio Treaty if it deems US escalation amounts to an armed attack, an act of aggression, or “any other fact or situation that might endanger the peace of America”? Since the Maduro regime denounced the Rio Treaty in 2013, it is by its own decision no longer a state party and therefore cannot avail itself of its benefits. This despite the fact that as far as the OAS is concerned, Venezuela is still a state party to the treaty as Juan Guaidó ratified it again in 2019. Yet, by activating it, Maduro’s Venezuela would contradict its own behaviour and would legitimize a decision by a political rival the former does not recognize as legitimate.
+
+
+### “Enlist”: An Opportunity for Regional Cooperation
+
+Are there alternatives for dialogue? Is there a regional forum where both the US and Venezuela, as well as other interested partis, could negotiate? The answer is yes. The Organization of American States, or OAS, sits in the same city from where all these decisions to escalate are being made, Washington, DC Under the OAS Charter, the right of (individual and collective) self-defence is guaranteed (Articles 3 and 22). Beyond self-defence, the Charter further recognizes “measures adopted for the maintenance of peace and security in accordance with existing treaties” (Article 23), such as the Rio Treaty.
+
+This is precisely the kind of institutional architecture the Trump Corollary could draw on in order to implement what the 2025 National Security Strategy itself declares the US is seeking in the Western Hemisphere:
+
+> “American policy should focus on enlisting regional champions that can help create tolerable stability in the region, even beyond those partners’ borders. These nations would help us stop illegal and destabilizing migration, neutralize cartels, nearshore manufacturing, and develop local private economies, among other things. We will reward and encourage the region’s governments, political parties, and movements broadly aligned with our principles and strategy” (p. 16).
+
+Furthermore, one particular episode of state practice within the framework provided by the OAS might prove fruitful for de-escalation purposes. As Felipe Rodríguez Silvestre and this author argued elsewhere, before there was a “Nicaragua v. United States” case at the International Court of Justice, an attempt was made to find a peaceful solution to the Nicaragua affair that required the political will of the entire hemisphere. Indeed, due to gross human rights violations by the Somoza regime and an active civil war, in 1979 the OAS convened a Meeting of Consultation with the Ministers of Foreign Affairs of all member states. The Meeting decided to withdraw recognition of Somoza and called for democratic elections. Almost a decade later and amidst ongoing hostilities in the country, the 1987 Esquipulas Agreement laid the groundwork for a joint UN-OAS peacekeeping mission. This was not the first time the UN and the OAS teamed up for peacekeeping efforts. Back in 1965, after the OAS established a US-led Inter-American Peace Force (alongside Brazil, Honduras, Paraguay, Nicaragua, El Salvador and Costa Rica) in the context of the civil war in the Dominican Republic, the UN likewise dispatched a peace mission, thus becoming the first time a regional organization and the UN conducted peace efforts in the same country.
+
+In the event, in 1991 OAS members signed the Santiago Commitment which resulted in the codification of the multilateral efforts surrounding the Nicaragua affair in OAS General Assembly Resolution No 1080. This resolution seeks to provide a multilateral platform at the OAS level to address “the sudden or irregular interruption of the democratic political institutional process or of the legitimate exercise of power by the democratically elected government in any of the Organization’s member states” in order to examine the situation and adopt decisions in accordance with international law (Articles 1–2).
+
+All these legal instruments – the Rio Treaty, the OAS Charter, Resolution No 1080 – remain available for the US to address the crisis in Venezuela by using legal means at a multilateral forum that, unlike the UN, few could say is hostile towards the United States. Within the framework provided by the OAS and the Rio Treaty, the newly minted Trump Corollary to the Monroe Doctrine might find institutional expression such that an international crisis can be turned into an opportunity for regional cooperation.
+
+---
+
+__Francisco Lobo__ is a Military Ethics advisor and International Law expert. His research focuses on international law, human rights, the laws and ethics of war, legal theory, moral philosophy, and post-colonial studies. He has worked as a legal practitioner in the private and public sectors, including at the Chilean Ministry of Foreign Affairs and the UN International Law Commission. He is also a lecturer and academic. He has trained military personnel in human rights and ethics standards in South America and at the Theresian Military Academy in Vienna, the Baltic Defence College in Tartu, and the Jonas Žemaitis Military Academy of Lithuania. He has also worked as an advisor for an international development project to train the Armed Forces of Ukraine in IHL and military ethics standards.
