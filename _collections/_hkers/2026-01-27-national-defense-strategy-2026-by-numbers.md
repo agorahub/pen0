@@ -1,0 +1,276 @@
+---
+layout: post
+title : NDS 2026 By Numbers
+author: Mark F. Cancian and Chris H. Park
+date  : 2026-01-27 12:00:00 +0800
+image : https://i.imgur.com/VqocfRt.jpeg
+#image_caption: ""
+description: "The 2026 National Defense Strategy by the Numbers: Radical Changes, Moderate Changes, and Some Continuities"
+excerpt_separator: <excerpt/>
+---
+
+_The Trump administration presents its new National Defense Strategy (NDS) as a break from previous strategies, including that of the first Trump administration. Out are Russia, Europe, and climate change. In are hemispheric security, “warrior ethos,” and burden shifting._ <excerpt/> _Many changes are indeed substantial, even radical, and reportedly received pushback from military leaders during the drafting process. Others, however, may not be as significant as they first appear, and there is some continuity with previous strategy documents. The document also constitutes a different reading experience, departing from the analytic tone of previous strategy documents and often adopting the tone of a political rally._
+
+
+### Summary of the 2026 NDS
+
+__Approach:__ The 2026 NDS covers the same topics as the 2025 National Security Strategy (NSS) and does so in a similar way. It is not an implementation document but, in effect, a second policy document. The Department of Defense (DOD; this white paper uses the name Department of Defense because that continues to be the agency’s legal name) was apparently reluctant to get ahead of the president in any realm. As evidence of this, the president’s name or a reference to him appears 47 times.
+
+__Tone:__ The tone is populist and partisan. The document rejects the national security approach of previous administrations, including, by implication, the first Trump administration. Indeed, the first Trump administration is mentioned only once—and in passing.
+
+__Radical changes:__ Homeland and hemispheric security are the top priorities, though the effect on forces is unclear. There is extensive discussion of counter-drug and counter-migration efforts but no discussion of military use in cities. Europe is turned over to the Europeans to defend, with the United States in support. The strategy does not see a conventional conflict with Russia or North Korea as major U.S. force drivers.
+
+__Moderate changes:__ Missile defense expands with the new concept of Golden Dome. North Korea is seen as a threat but mainly to South Korea and Japan, with the United States focused on missile capabilities that can strike the U.S. homeland.
+
+__Continuity:__ Strong support for Taiwan and countering China persists. Also continuing are backing for nuclear modernization and strengthening of the industrial base. Unlike the NSS, which saw the Middle East as a low-demand theater, Iran and terrorism will continue to demand attention. The 2026 NDS continues the two-conflict construct of recent decades but shifts the second conflict to allies.
+
+__Omissions:__ The absence of diversity, equity, and inclusion and climate are expected. Unexpected is the omission of any mention of the all-volunteer force or the Department of Government Efficiency (DOGE).
+
+
+### Why an NDS?
+
+The NDS fulfills a congressional mandate that the secretary of defense publish a “strategic framework” to address “priority missions of the Department of Defense” and the “assumed strategic environment.” Since 2018, the result of this comprehensive examination has been called the National Defense Strategy. This replaced the Quadrennial Defense Review (QDR). The custom of publishing strategy reviews every four years began with the Clinton administration’s 1993 Bottom-Up Review (BUR).
+
+Despite the limitations and problems with strategy documents, the 2026 NDS is significant because, along with the 2025 National Security Strategy (NSS), it sets out the second Trump administration’s worldview, policy goals, and theory of how to achieve them. Such a reference document is particularly helpful now because of the Trump administration’s sometimes shifting policies during its first year in office.
+
+
+### Promptness, Length, and Tone
+
+Before diving into the substance of the new NDS, it is worth stepping back and considering the NDS as a document. Three attributes are worth examining because they affect policy and perception: promptness (how quickly the document was published compared to earlier strategy documents), length (how long the document is compared to other strategy documents and, therefore, how much information it provides), and finally, the tone (analytical or partisan).
+
+__Promptness:__ The statutory language requires a new administration to publish the NDA “as soon as possible.” A draft document was reportedly circulating by late September, but the final version was not released until January 23—a month after the NSS dropped.
+
+The NDS statutorily should “support the most recent national security strategy report of the President.” The two documents were drafted simultaneously, which happens frequently. Release of both was reportedly delayed by internal debates about China as the Trump administration continued trade negotiations during the fall. Indeed, the NSS was dated November even though it came out in December.
+
+Still, compared to recent administrations, the 2026 NDS was published relatively quickly. The Biden administration took a year and a half to publish its NDS because the Russian invasion of Ukraine prompted a delay and rewrite. Rapid publication of an NDS allows an administration to provide more coherence to the sprawling defense establishment—at least in theory. For the second Trump administration, this provides structure for the FY 2027 budget, which the administration is currently developing and will submit in early February, and gives strategic context for its military operations at home and overseas.
+
+![image01](https://i.imgur.com/hUa35rK.png)
+_▲ Figure 1: Weeks from Inauguration to Publication of the National Defense Strategy_
+
+The publication’s relatively rapid release reflects how the second Trump administration has attributes of both a first and second term presidency. On the one hand, this is Trump’s second time as president, and the administration benefits from his previous experience. The Heritage Foundation’s Project 2025, organized by many first-term appointees, may have helped speed up the timeline. On the other hand, the small number of officials from Trump I who serve in Trump II makes this functionally a new administration rather than the second term of an incumbent president.
+
+__Length:__ The brevity of the 2026 NDS is consistent with recent history, as Figure 2 shows.
+
+![image02](https://i.imgur.com/Lw4SKXk.png)
+_▲ Figure 2: Length of Defense Strategy Documents_
+
+Strategy documents have become much shorter since the transition from QDRs (86 pages on average) to NDSs (18 pages on average). This occurred, in part, because the released NDS is an “unclassified summary” of a longer, classified NDS. That means that what is revealed to the public is much less extensive than what was in the earlier QDRs. Congress established the requirement for a classified document because it felt that the unclassified strategy documents had failed to articulate trade-offs clearly and believed that having a classified basic document would encourage more candor. It is unclear whether the Trump administration has published a classified version with more specifics and detail.
+
+The 2026 NDS also reflects the DOD’s policy of tightly restricting the release of defense information. To be fair, this restriction predates Trump II. In Trump I, Secretary of Defense James Mattis worried that DOD documents were revealing operational information and, in response, restricted what was released publicly. The Biden administration continued this policy of brevity and lack of detail. Indeed, except for dates, its unclassified NDS contained no numbers at all.
+
+The 2026 NDS likewise contains few numbers. It has one chart showing NATO’s greater economic capacity compared with Russia’s and several references to defense spending as a percentage of GDP—but that is all.
+
+__Tone:__ The document is notable for its partisan tone, continuous references to President Donald Trump, harsh criticism of previous national security efforts, and “ghosting” of the first Trump administration.
+
+The document’s partisan tone is not surprising. In part, this shift reflects the aggressive language the Trump II administration has imparted to all its statements. In part, it reflects the different backgrounds and personalities of the secretaries: Mattis (a retired Marine general) in Trump I and Pete Hegseth (a cable news commentator) in Trump II.
+
+Remarkable are the many references to President Trump. Indeed, the NDS features many pictures of the president, and all initiatives are attributed to the president. The first Trump administration is mentioned only in passing, underscoring that Trump II does not build on Trump I but is entirely separate. In fact, Trump I appears to be lumped in with the previous “failed” administrations. Table 1 shows some examples, contrasting the language and presentation of the Trump II 2026 NDS with that of the Trump I 2018 NDS.
+
+![image03](https://i.imgur.com/f9yfi62.png)
+_▲ __Table 1: Changes in NDS Tone from Trump I to Trump II.__ Source: Published NDS documents._
+
+
+### The Trump II Defense Strategy: “America First”
+
+Every administration presents an overall concept or strategy for addressing the security environment it faces and the priorities it seeks to establish. The first Trump administration focused on great power competition with the tagline “compete, deter, and win.” The Biden administration focused on strategic competition with China. The tagline was “integrated deterrence.” For the 2026 NDS, that concept is “America First,” which seeks to “evaluate, sort, and prioritize.” Table 2 puts this into historical context.
+
+![image04](https://i.imgur.com/JaCzsWM.png)
+_▲ __Table 2: Approaches and Priorities in Recent QDRs and NDSs.__ Source: Published QDR and NDS documents._
+
+The 2026 QDR—like all strategy documents—views the years ahead as particularly perilous, with “individual regions at war or descending toward it” and “an increased risk of America itself being drawn into simultaneous major wars across theaters—a third World War.”
+
+
+### Priorities: Homeland Defense, Then Deterring China
+
+Prioritization is a universal feature of defense strategy documents. Budgets are limited, and there is only so much the DOD can do. The 2026 NDS lists four priorities, in order: (1) defending the U.S. homeland; (2) deterring China through strength rather than force; (3) increasing burden sharing with U.S. allies and partners; and (4) “supercharging” America’s defense industrial base. Figure 3 illustrates the distribution of attention across major issues in this year’s NDS and its two predecessors. It provides a rough measure of shifting U.S. defense priorities over three administrations.
+
+![image05](https://i.imgur.com/zkIWFDt.png)
+_▲ Figure 3: Report Space Dedicated to Major Topics_
+
+The balance of text shows a major shift to homeland security and hemispheric defense. Iran and the Middle East also received greater attention, reflecting the administration’s assessment of Operation Midnight Hammer as a major military and political win. China and the Indo-Pacific continue to take up a significant portion of the document, as do allies and partners and Russia and Europe—albeit with a different focus than under the Biden administration. The sections below discuss these shifts in detail.
+
+#### Homeland Security: Major Emphasis Without Driving Force Structure
+
+Since the September 11 attacks, homeland security has been a bipartisan priority. However, the high level of rhetorical emphasis in the 2026 NDS is a change. The 2018 NDS under Trump I, for example, did not even have a separate homeland security section.
+
+Under Trump I, the military’s homeland security mission consisted of missile defense, counterterrorism, and cybersecurity. On top of these missions, Trump II adds countering drug smuggling (“narco-terrorism”) and securing the borders against illegal immigration. Since his first day in office, Trump has signed a flurry of executive orders to establish this expanded focus for the U.S. military, as detailed in Table 3. The 2026 NDS affirms these changes.
+
+![image06](https://i.imgur.com/KcZ9sGQ.png)
+_▲ __Table 3: Trump II Executive Orders Affecting Military Missions.__ Source: White House._
+
+These executive orders could have had immense force demands. Taken literally, the direction to “seal the borders,” for example, would require tens of thousands of troops, given the length of the southern border. The president has also deployed the National Guard to American cities, including Chicago, Memphis, and Portland, and to assist immigration enforcement across the country. Those deployments have received immense attention because of their political and policy implications.
+
+Yet, the personnel demands have been small compared to the total force available (active: 1,291,300; Reserve/Guard: 761,500)—less than 1 percent. Figure 4 estimates the number of troops, active and Reserve/Guard, deployed on homeland security missions in the second Trump administration.
+
+Surprisingly, the NDS does not discuss using the military in U.S. cities. It does say that the military will “deport illegal aliens in coordination with the Department of Homeland Security,” but without details as to where or how. It is unclear, therefore, whether this omission represents a change in policy, a recognition of the legal challenges, or the DOD’s reluctance to get ahead of the White House.
+
+![image07](https://i.imgur.com/pY80xsi.png)
+_▲ Figure 4: Military Personnel Demands for Homeland Security_
+
+Constrained by the courts, the reluctance of even supportive states to deploy many troops, and uncertain effectiveness, troop deployments for homeland security missions may have peaked. Troop strength on the southwest border, for example, appears to have stabilized at around 10,000, including active duty forces. Sending troops to the border makes a political point, but their usefulness there is limited because they lack law enforcement authority. There are only so many support roles they can undertake. The long-term solution is to increase the number of Border Patrol agents, which the administration is pursuing.
+
+The administration also ended National Guard deployments to Chicago, Los Angeles, and Portland entirely in December 2025—after initially scaling them back as court challenges limited operations. In Washington, D.C., Hegseth ordered 500 additional National Guard troops after two were shot on duty and has extended the mission through 2026. The D.C. police now accompany them for protection, weakening the stated purpose of the Guard’s presence.
+
+Homeland security does not appear to be a major driver of force structure or deployments despite its political salience and the administration’s rhetorical emphasis.
+
+#### Hemispheric Security: Permanent—Not Temporary—Military Footprint
+
+The focus on the Western Hemisphere is probably the greatest change in the document. The 2026 NDS proposes a “Trump corollary to the Monroe Doctrine” and offers a three-part definition: (1) “restore American military dominance in the Western Hemisphere”; (2) “protect our Homeland and our access to key terrain throughout the region”; and (3) “deny adversaries’ ability to position forces or other threatening capabilities in our hemisphere.”
+
+Western Hemisphere security received scant attention in the first Trump administration and on the campaign trail. Indeed, the issue has been a minor national security issue since the end of the Cold War and received only passing mentions in past strategy documents.
+
+![image08](https://i.imgur.com/k7tr6Pk.png)
+_▲ __Table 4: The Western Hemisphere in Recent Strategy Documents.__ Source: Published QDR and NDS documents._
+
+The ongoing Caribbean Campaign reflects this emphasis. Since summer 2025, the United States has massed naval assets in the Caribbean at a level not seen since the Cuban Missile Crisis. Whereas the Caribbean typically used to see one or two Navy combatants in a month, there are now around a dozen, including an aircraft carrier. This armada accounts for approximately 38 percent of the underway naval strength. Counterdrug operations in the Caribbean have been going on for decades; the extensive use of the military and lethal force is new.
+
+![image09](https://i.imgur.com/gPbvktu.png)
+_▲ Figure 5: U.S. Navy Ships Deployed in Past Campaigns and the Caribbean_
+
+![image10](https://i.imgur.com/uE8Ke3D.png)
+_▲ Figure 6: Breakdown of U.S. Battle Force Ships_
+
+As of December 2025, the United States has surged 11,000 troops to the region in its confrontation with Venezuela, around an eightfold increase from the baseline. Figure 6 shows the growth over the first year of the second Trump administration.
+
+![image11](https://i.imgur.com/mA4YjAR.png)
+_▲ Figure 7: Military Personnel in the Caribbean Campaign_
+
+The 2026 NDS states that “The U.S. military’s foremost priority is to defend the U.S. Homeland.” The implication is that the enhanced presence in the Caribbean is not a temporary surge but a permanent feature. However, the NDS is silent on this point. It is also silent about the opportunity costs of moving forces here and not having them available elsewhere, but the implication is that forces will come from lower-priority theaters like Europe and the Middle East.
+
+#### China: “Peace Through Strength”
+
+The second Trump administration maintains the position that China is a formidable military and economic power. The 2026 NDS says China is the “most powerful state relative to us since the 19th century” and warns of its growing power fueled by an effective and historic military buildup. Unlike the Biden administration’s explicit characterization of “competition” or “competitor,” the second Trump administration is less confrontational, focusing on deterrence and “peace through strength.” The NDS is clear about the need for U.S. military strength.
+
+![image12](https://i.imgur.com/kk0EjNZ.png)
+_▲ __Table 5: China and the Indo-Pacific in Recent Strategy Documents.__ Source: Published QDR and NDS documents and [speeches](https://obamawhitehouse.archives.gov/the-press-office/2014/05/28/remarks-president-united-states-military-academy-commencement-ceremony) from [Obama administration officials](https://www.war.gov/News/Transcripts/Transcript/Article/648901/remarks-by-secretary-carter-on-the-budget-at-the-economic-club-of-washington-dc/)._
+
+In calling for a “decent peace” or a “stable peace”—alongside “fair trade” and “respectful relations”—the 2026 NDS echoes themes from the Biden administration’s goal of “competition without catastrophe.” One difference is the added consideration of trade relations with China, discussed at length in the NSS. Trade policy has been a central component of Trump’s foreign policy agenda and attempts to strike a deal with China reportedly delayed the NSS.
+
+Deterring China is a goal, though the document does not specify from what. Taiwan notably is not mentioned, a surprising omission since the NSS is emphatic about defending Taiwan. Of note, however, the classified Interim National Defense Strategic Guidance, published in mid-March 2025, reportedly said, “China is the Department’s sole pacing threat, and denial of a Chinese fait accompli seizure of Taiwan — while simultaneously defending the U.S. homeland — is the Department’s sole pacing scenario.”
+
+The administration sets an ambitious goal to deter China by maintaining a “favorable balance of power” while securing trade deals and persuading China to “accept and live under” a peace “on terms favorable to Americans.” The past two administrations have struggled to resolve this very tension. During the first Trump term, trade war with China fed into deteriorating security relations, a dynamic exacerbated by the Covid-19 pandemic.
+
+This view on China is more than a decade in the making. The 2014 Obama QDR viewed Russia and China as both threats and potential security partners, while assessing that the al Qaeda threat in Iraq had diminished. The Russian occupation of Crimea, ISIS threats to Baghdad, and continued Chinese assertiveness soon shattered these assumptions. The Obama administration eventually adopted a new hierarchy of threats: Russia at the top of the list amid a “return to great power competition,” followed by China, North Korea, Iran, and, last, terrorism.
+
+In the first Trump administration, China and Russia had equal emphasis as “principal priorities,” with the 2018 NDS arguing that “interstate strategic competition, not terrorism, is now the primary national security concern.” The Biden administration’s 2022 NDS elevated China as the “most consequential strategic competitor” and a “pacing threat” that deserved more emphasis than the “acute threat” of Russia.
+
+#### Russia: A Problem to Be Managed by Europe
+
+The 2026 NDS offers a twofold assessment of Russia: a continuing but weakened threat to NATO’s eastern front and a country whose nuclear arsenal poses a threat to the U.S. homeland. Table 5 shows the progression of Russia from partner to threat to manageable threat.
+
+![image13](https://i.imgur.com/icCao4z.png)
+_▲ __Table 6: Russia and Europe in Recent Strategy Documents.__ Source: Published QDR and NDS documents and [speeches](https://obamawhitehouse.archives.gov/the-press-office/2014/05/28/remarks-president-united-states-military-academy-commencement-ceremony) from [Obama administration officials](https://www.war.gov/News/Transcripts/Transcript/Article/648901/remarks-by-secretary-carter-on-the-budget-at-the-economic-club-of-washington-dc/)._
+
+The 2026 NDS, as with its predecessors, notes the value of the U.S. system of alliances and partnerships. Yet, it also has sharp words for allies, describing them as “freeloading dependents” facing “shortfalls from their leaders’ own irresponsible choices.” It emphasizes the need for “burden-sharing and burden-shifting.” A chart purports to show that non-U.S. NATO members collectively have 13 times the GDP as Russia. Thus, “managing” Russia is seen as a European responsibility, with the United States as a backup.
+
+The Trump administration is not unique in calling on European allies to do more on defense. Every president and secretary of defense has done so since the beginning of the alliance. New is the rhetoric and the centrality of defense spending to alliance relations. Also new is the idea that the United States will reduce its forces (“calibrate”) as Europe increases its military effort.
+
+#### Iran, North Korea, and Global Terrorism
+
+The Biden and both Trump administrations grouped the threats posed by Iran, North Korea, and global terrorism together: They are not existential threats posed by great power competitors but rather regional and secondary threats that nevertheless demand attention from the United States.
+
+![image14](https://i.imgur.com/uhXdw1W.png)
+_▲ __Table 7: Threats from Iran, North Korea, and Global Terrorism in Recent Strategy Documents.__ Source: Published QDR and NDS documents._
+
+__Iran:__ The United States has viewed Iranian military ambitions with concern since the 1979 revolution. Preventing a nuclear weapons–armed Iran has been a foreign policy objective across multiple administrations. President Obama signed the Joint Comprehensive Plan of Action (JCPOA) to restrict Iran’s nuclear development, but the first Trump administration revoked this to launch a “maximum pressure” campaign instead. The Biden administration tried to revive an agreement with Iran but gave up in the face of Republican and Iranian intransigence.
+
+In this vein, Trump launched strikes on Iran that severely degraded its nuclear weapons industrial complex in June 2025. The NSS downplayed the Middle East as a region of focus because of U.S. energy sufficiency. It also downplayed Iran as a threat, stating that the country has been “greatly weakened” by Israeli and U.S. actions. The 2026 NDS backtracks slightly, noting that Iran is rebuilding its conventional forces and may try to reconstitute its nuclear program. In response, the United States will strengthen Israel (the “ideal ally”) and encourage regional partners to do more. Unlike the NSS, the NDS makes no statements about the United States reducing its force levels.
+
+__North Korea:__ Administrations have considered North Korea to be a threat since the Korean War began in 1950. In his first term, Trump reached out directly to North Korean leader Kim Jong-un, hoping that personal diplomacy could produce an agreement about North Korea’s nuclear weapons. The two leaders met in 2018 and 2019 but made no progress. The primary Biden-era policy related to North Korea was assuaging South Korea’s anxieties about the reliability of U.S. extended deterrence. Otherwise, North Korea took a backseat.
+
+The 2025 NSS did not even mention North Korea. This cannot have been an oversight. It reflects a desire to limit involvement in foreign military commitments and a message to the South Koreans to rely more on their own efforts. The 2026 NDS does discuss North Korea but frames it as a direct threat to South Korea and Japan, with the United States focusing on nuclear and missile threats.
+
+The implication is that U.S. force posture in South Korea will shift away from ground and air capabilities (there are currently 24,000 troops on the peninsula in one Army division and two Air Force fighter wings) and move more toward missile defense by strengthening existing Patriot and THAAD capabilities. However, the NDS lacks specifics, noting only a “shifting of responsibility” with the United States providing “critical but limited” support.
+
+__Global terrorism:__ The 2026 NDS expresses limited concerns about international terrorism. These concerns had faded as the September 11 attacks receded in memory, and terrorists have made no major attacks on the U.S. homeland since then. Further, the wars in Iraq and Afghanistan soured the American public on fighting terrorism abroad. This is a far cry from the Obama administration in 2014 calling for “continuing to grow capabilities” for counterterrorism and counterinsurgency.
+
+After 2014, administrations emphasized helping allies fight terrorism. After the 2021 U.S. withdrawal from Afghanistan, Jake Sullivan, the national security advisor, claimed that the Middle East was “quieter today than it has been in two decades.” Hamas’s October 7, 2023, attack on Israel upended this, leading to the wider Middle East War and requiring a continuing U.S. presence in the region.
+
+The 2026 NDS diagnoses a new reality, saying, “The Department will maintain a resource-sustainable approach to countering Islamic terrorists, focused on organizations that possess the capability and intent to strike the U.S. Homeland.” Attacks on the Houthis and Nigerian extremists muddy the message, since neither threatened the United States directly. Nevertheless, rhetoric and action imply an effort as least as robust as today, though there are no details.
+
+#### Industrial Base, Nuclear Modernization, and Missile Defense
+
+The industrial base, nuclear modernization, and missile defense represent areas of continuity with earlier administrations.
+
+![image15](https://i.imgur.com/necUzZd.png)
+_▲ __Table 8: The Industrial Base, Nuclear Modernization, and Missile Defense in Recent Strategy Documents.__ Source: Published QDR and NDS documents._
+
+__Defense industrial base:__ There is a strong bipartisan recognition that a strong defense industrial base is necessary to produce the kinds and numbers of weapons needed to support a long-term military competition. Strains caused by supplying weapons and munitions to Ukraine and by efforts to expand munitions inventories for a possible conflict in the Pacific have given urgency to efforts to strengthen the defense industrial base. The NDS states that the administration will “supercharge” the defense industrial base for a “once-in-a-century revival of American industry.” Although the NDS announces no new initiatives, President Trump had ordered a review of defense acquisition processes in an April executive order, and the DOD recently released the Acquisition Transformation Strategy to “put the entire acquisition system and the industrial base on a wartime footing.”
+
+__Nuclear modernization:__ The increasing obsolescence of systems procured in the 1980s during the Reagan buildup has driven nuclear modernization. Although that nuclear buildup was controversial, replacement of those systems has become bipartisan, with Republican and Democratic administrations supporting it, along with strong majorities in Congress. The baseline nuclear monetization program consists of a new ballistic missile submarine (Columbia class), a new ICBM (Sentinel), and a new bomber (the B-21). In addition, the National Nuclear Security Administration, part of the Department of Energy, receives funding to field low-yield weapons, extend the life of nuclear warheads, and develop modifications that allow reductions in the number of variants, as with the B61.
+
+In the first Trump administration, its NDS guidance led to the 2018 Nuclear Posture Review (NPR) calling for two “modest supplements” to the U.S. nuclear arsenal: a low-yield submarine-launched ballistic missile warhead and a nuclear-armed sea-launched cruise missile (SLCM-N). The former was deployed beginning in 2020. The Biden NPR—published as an addendum to the 2022 NDS—proposed canceling the SLCM-N, but Congress continued to fund the program.
+
+The 2026 NDS gives full-throated support for modernization, citing a “changing global nuclear landscape” marked by a large Russian arsenal, Chinese expansion, Iranian ambitions, and growing North Korean capabilities. It, however, offers no additional details despite Trump’s clear interest in the topic. The president notably called for nuclear testing on an “equal basis” with nuclear peers in late October ahead of a meeting with Chinese leader Xi Jinping. In the past, administrations have published a nuclear posture review that lays out nuclear policy and programs, but there is no similar document currently in sight for the Trump administration.
+
+__Missile defense:__ National missile defense has undergone a similar political evolution in the past four decades. Derided as “Star Wars” in the 1980s, all recent administrations have embraced the program. Although experts disagree on the effectiveness of such a system, there is a consensus that the country should do what it can and not be strategically naked. After exploring a variety of possible approaches to missile defense, the DOD settled on an interceptor system based in Alaska. The goal has been to defend against limited long-range missile attacks from rogue states—namely, Iran and North Korea—not nuclear peers and near-peers like Russia and China. This has formed the baseline for all subsequent strategy documents.
+
+The Trump administration has announced a major expansion of missile defense called the Golden Dome for America. The specifics are still being worked out for this “next-generation missile defense shield,” and the administration has provided few details. The 2026 NDS notes the program focuses on “cost-effectively defeat[ing] large missile barrages and other advanced aerial attacks,” alongside counter-drone technology. Outside analysts have assessed that the Golden Dome could cost anywhere between $252 billion and $3.6 trillion over the next two decades, depending on ambitions for the system. The One Big Beautiful Bill Act included $24.4 billion for integrated air and missile defense, a significant portion of which likely will go to begin implementing the Golden Dome program.
+
+#### All-Volunteer Force
+
+All previous QDRs and NDSs had sections on sustaining the all-volunteer force (AVF), often making it a central pillar of the strategy. Surprisingly, the 2026 NDS does not mention the AVF at all. It does talk about restoring a military ethos, a major priority for Hegseth. President Trump underscored this change by rebranding the Department of Defense as the Department of War. Unsurprisingly, all of the Biden administration’s language on diversity is gone.
+
+![image16](https://i.imgur.com/tzOapqd.png)
+_▲ __Table 9: All-Volunteer Force in Recent Strategy Documents.__ Source: Published QDR and NDS documents._
+
+
+### Force Size and Structure: One War Plus Burden Shifting
+
+The 2026 NDS continues the two-conflict construct of recent decades, but it shifts the second conflict to allies and does not see a conventional conflict with Russia or North Korea as major U.S. force drivers.
+
+Every QDR and NDS has described the military’s size and structure needed to execute its strategy, with specific numbers in the documents themselves or in the annual budget descriptions. The 1993 BUR introduced the “two-war” framework, sizing the armed forces to “fight and win two major regional conflicts . . . simultaneously.” Although much criticized at the time, this concept became a lasting reference for defense policymakers because it provides for fighting a conflict without being strategically naked elsewhere. The BUR also set the standard for connecting strategy, programs, and budgets. It put numbers to the forces needed for regional conflicts and explained how the numbers were derived.
+
+__Simultaneous conflicts:__ The 2026 NDS recognizes the “simultaneity problem” and the need “to be prepared for the possibility that one or more potential opponents might act together in a coordinated or opportunistic fashion across multiple theaters.” As Table 9 shows, this is not a major change from previous administrations.
+
+![image17](https://i.imgur.com/rg9cs46.png)
+_▲ __Table 10: Force Sizing Constructs in Recent Strategy Documents.__ Source: Published QDR and NDS documents._
+
+The 2026 NDS continues the “one plus” conflict approach but with a twist: Responsibility for the second conflict will be shifted to U.S. allies. Thus, if the United States is involved in a conflict with China, the defense of Europe against any Russian aggression will be NATO’s responsibility. The Biden and Trump I NDS implied this but did not state it.
+
+__Force structure and posture:__ The emphasis on homeland and hemispheric defense in the 2026 NDS suggests the need for changes to the location of U.S. military forces—for example, the establishment of a long-term presence in the Caribbean, the expansion of bases on Greenland, and possibly a permanent presence in Panama. It also suggests a restructuring of some Army units specifically for border security.
+
+Yet, the 2026 NDS contains no discussion about force size, structure, or posture. It leaves unanswered the question of how today’s force, undergoing changes optimized for an Indo-Pacific war, can take on homeland and hemispheric security missions that require a different mix of air and naval assets. Also unanswered is the broader question: Why are larger defense budgets needed for a strategy that shifts so many missions to allies? A classified version of the NDS might include such an explanation.
+
+A further challenge is that assuming the U.S. military will only need to fight one major war at a time does not make it so. The congressionally mandated commission reviewing the 2022 NDS indeed concluded that the one-war-plus model “does not sufficiently account for global competition or the very real threat of simultaneous conflict in more than one theater.” One of its commissioners has called for a “three-theater” defense strategy. As the military saying goes, the enemy gets a vote. Expect continuing debates about how much global capability to maintain.
+
+
+### Special Interest Topics
+
+![image18](https://i.imgur.com/dMBc20H.png)
+_▲ __Table 11: Special Interest Topics in Recent Strategy Documents.__ Source: Published QDR and NDS documents._
+
+Administrations have included discussions of specific topics aligned with their broader political priorities. The Trump I NDS, for example, dedicated a section to “performance and affordability,” believing it could identify large savings and use them to close the gap between the resources needed to execute the strategy and the budgets developed by the Office of Management and Budget. Large savings proved impossible to achieve without investing significant political capital, and little was accomplished. Such a discussion was absent in Biden’s NDS.
+
+The Biden administration believed that there were many violent extremists in the military, with the NDS stating, “The Department will seek to eradicate all forms of extremism in our ranks.” However, a comprehensive analysis published in December 2021 showed that the numbers were actually very small, and the issue faded away.
+
+Climate change was another prominent issue in the 2022 NDS, described as a “destabilizing and potentially catastrophic” challenge. The DOD’s FY 2022 budget overview went further, stating, “we elevate climate as a national security priority . . . DoD will integrate climate considerations in all policies, strategies, and partner engagement activities.” Despite the rhetorical emphasis, the DOD resources allocated were relatively modest, with budget requests of between $3 and $5 billion each year by the Biden administration’s count.
+
+The 2026 NDS has a lengthy critique of the foreign policies of post–Cold War presidencies. Criticism spans “neglecting the warrior ethos . . . [allowing] cunning adversaries to grow more powerful,” and “[fighting] war after rudderless war to topple regimes and nation-build.” The document also discusses hemispheric “key terrain” in several places. The repeated references to Greenland reflect the president’s focus on that island in the last few weeks.
+
+DOGE is a remarkable omission. The commission made aggressive cuts to federal government, including at the DOD, and its work became a headline-grabbing initiative. Yet, the 2026 NDS does not include a single mention of the DOGE agenda of cutting spending and reducing bureaucracy. The early DOGE momentum has faded, and the DOD political leadership may have realized that it needs a competent workforce to implement an effective defense policy.
+
+
+### Budget
+
+Strategies without resources are hallucinations. Indeed, the classic definition of strategy—connecting ends, ways, and means—explicitly includes resources. The 2026 NDS does not contain any numbers for outyear budgets, nor did the FY 2026 budget documents produced last summer. The 2026 NDS does talk about “growing the Joint Force and advocating defense spending toplines to support such growth.” The first Trump administration called for and executed a substantial defense buildup, but the second Trump administration appears headed toward an even greater buildup.
+
+At the 2025 Reagan Forum, Hegseth indicated that resources would match the rhetoric, but was uncertain: “I think [the budget] number is going up. I don’t want to get in front of the president and his desire to properly shape what the budget should look like. But just reading the tea leaves, just watching it, he understands the threat better than anybody I’ve ever seen . . . and that includes investment. He just needs to make sure.” Also at the Reagan Forum, Russell Vought, director of the Office of Management and Budget, said that defense resources would be available but did not disclose a level and equivocated on whether those resources would come in the base budget or in another reconciliation bill.
+
+The One Big Beautiful Bill Act provided an additional $150 billion to the DOD and $6 billion for other national security activities. The additions reflect Congress’s priorities: shipbuilding, munitions, Coast Guard expansion, Golden Dome, and new technologies. The president is now calling for a $1.5 trillion FY 2027 defense budget, though that has not appeared in any official documents.
+
+![image19](https://i.imgur.com/A3TI08Z.png)
+_▲ Figure 8: Defense Budget Trends and Forecast_
+
+
+### Looking Ahead
+
+The 2026 NDS lacks specifics about budget levels, personnel totals, force strength, and force posture. This makes it impossible to understand how the Department of Defense will implement the general policies laid out by the Trump administration. Those details may be provided in the FY 2027 budget, which should come out in early February but may be delayed until March.
+
+Nevertheless, the 2026 NDS does reinforce the policies of the 2025 NSS. Further, it may have a greater unifying effect on this administration than its predecessors—including Trump I—because Trump has chosen subordinates for their loyalty and has been ruthless in firing those who appeared to contradict his intentions.
+
+---
+
+__Mark F. Cancian__ (Colonel, U.S. Marine Corps Reserve, ret.) is a senior adviser with the Defense and Security Department at the Center for Strategic and International Studies (CSIS) in Washington, D.C.
+
+__Chris H. Park__ is a research associate for the Arleigh A. Burke Chair at CSIS.
