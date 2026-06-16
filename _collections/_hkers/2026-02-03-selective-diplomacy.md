@@ -1,0 +1,60 @@
+---
+layout: post
+title : Selective Diplomacy
+author: Hani Ibrahim
+date  : 2026-02-03 12:00:00 +0800
+image : https://i.imgur.com/By4Vmo4.jpeg
+#image_caption: ""
+description: "Israel’s Somaliland Move and Its Regional Implications"
+excerpt_separator: <excerpt/>
+---
+
+_On 26 December 2025, Israel became the first country to recognise Somaliland. However, the controversial move arguably undermines the very legitimacy of the state in the eyes of many Somalis._
+
+<excerpt/>
+
+Somaliland, a breakaway region in northern Somalia, unilaterally declared its independence in 1991. Since then, the territory has operated as a de facto autonomous polity, though it has remained diplomatically isolated and, until now, lacked any international recognition. Israel’s President Benjamin Netanyahu, Foreign Minister Gideon Sa’ar and Somaliland’s President Abdirahman Mohamed Abdullahi (“Cirro”) signed a joint declaration of mutual agreement, via Facetime, marking a novel moment in diplomatic practice. On 6 January, Sa’ar became the first Israeli official to visit Hargeisa, establishing full diplomatic relations.
+
+
+### What Drives Israel’s Interest in the Region?
+
+Despite considerable speculation regarding plans in Addis Ababa, Nairobi and Washington, DC, no state has yet followed Israel’s lead. The move has created a volatile tinderbox in the Horn of Africa, revealing an emergent geopolitical realignment in which the US defends Israel’s right while formally upholding Somalia’s territorial integrity. The decision has catalysed a counter-bloc led by Egypt, Saudi Arabia and Turkey, aligned with Mogadishu and shaped by growing rivalries with the UAE, which despite backing Somalia’s sovereignty, sustains strong ties with Somaliland and is widely reported to have facilitated Israel’s decision. Somalia formally severed ties with the UAE after a UAE-backed Yemeni separatist leader entered its territory via Somaliland, prompting Mogadishu to cancel all agreements with Abu Dhabi. Somali defence minister Ahmed Fiqi called on Saudi Arabia to take military action against Somaliland, reflecting a stronger shift in alignment toward Riyadh.
+
+Meanwhile, regional states such as Ethiopia and Kenya have responded cautiously, reaffirming Somalia’s sovereignty. While, Djibouti has taken a more defensive position, suspending all diplomatic and commercial ties with Somaliland.
+
+Israel’s recognition of Somaliland has already brought turmoil to the wider Horn, a region increasingly resembling a geopolitical playground for the Gulf and the Middle East. It is a hub for security interests, hosting military bases used for counterterrorism and anti-piracy operations. Somaliland in particular provides access to the Gulf of Aden and, critically, to the Strait of Bab El Mandeb, a key maritime chokepoint through which a significant amount of global trade flows. Israel’s move has drawn the attention of key actors in Egypt, Saudi Arabia, Yemen, the UAE and Turkey, while the US, China, the UK and the EU are all carefully monitoring developments.
+
+During his first official visit to Hargeisa, Sa’ar highlighted three key areas of collaboration with Somaliland: water and agriculture, health and education and defence and security. It is the third of these which has undoubtedly garnered the most attention. Reports have suggested the potential for an Israeli military base in Somaliland, despite previous denials. Former Israeli officials identified three primary strategic security interests driving Israel’s decision: maritime security cooperation, particularly along the Bab El Mandeb and the Gulf of Aden; the establishment of a military base to monitor Houthi activities across the Gulf and participation in an encirclement strategy against Iran’s so called “axis of resistance” which includes, Hamas, Hezbollah, the Houthis and the Islamic Revolutionary Guard Corps Qods force (IRGC QF).
+
+As early as 2024, multiple reports suggested that Israel was considering forcefully relocating resettling Palestinians from Gaza to the region. While Somaliland said the recognition decision was unrelated to the Palestinian issue, both Somalia and the Palestinian authority believe they are linked.
+
+
+### What are the Implications for Mogadishu and Hargeisa?
+
+Israel’s recognition has certainly not simplified Somaliland’s regional standing. Indeed, the move risks isolating it further, undermining historic diplomatic efforts. While some in Somaliland have celebrated Israel’s decision, it has gained limited external support. Somaliland, simultaneously a part of Somalia, Africa, the Arab world and the broader Muslim world, has received little support in recent weeks from stakeholders connected to any of these. Most regional governments have reaffirmed their support for Somalia’s territorial integrity and both the African Union and East African Community were quick to condemn Israel. African states in particular will be concerned that the Somaliland’s independence would serve to boost the hopes of other secessionist movements on the continent.
+
+For Hargeisa, Israel’s recognition constitutes an existential dilemma, a territory long courted for its strategic utility yet denied recognition, now confronted with recognition that does not resolve its political status and which risks deepening its isolation. For decades, foreign entities have engaged Somaliland economically and militarily while publicly reaffirming Somalia’s sovereignty, implicitly differentiating between Somalia as a state and Somalia as a territorial space. This is not unique to Somaliland; other de facto states have historically operated under such strategic ambiguity, where selective recognition provides short term security but risks entrenching dependence and prolonging political limbo.
+
+Mogadishu views Israel’s declaration as an “act of aggression”. The move is contentious, not only because it erodes Somalia’s claim to sovereignty and territorial integrity, but because it also undermines the country’s political identity and the broader moral framework on which that identity is based. Currently, Somalia and Djibouti are the only countries in the Horn of Africa region – and two of 29 globally – that do not have any diplomatic ties with Israel and do not recognise its statehood. In Somalia, the Palestinian cause is a deep-seated moral reference point that transcends nationalism, politics and popular sentiment.
+
+Somali realities are more complex than the oft proclaimed dichotomy of a “failed Somalia” and a “democratic Somaliland”. While Hargeisa has long established relative stability in most areas of the territory, it is important to note that Somaliland has itself never been fully unified. The recognition has heightened internal tensions and provoked debate over freedom of speech, as the government cracked down on dissenting voices. Several clerics and scholars have been arrested for opposing the Israel Somaliland agreement, declaring it morally and politically problematic. Arrests have also reportedly targeted individuals displaying Palestinian flags. The recognition has laid bare internal divisions within Somaliland, especially in the historically marginalised eastern and western regions. Some separatist voices contend that recognition under such terms is worse than non-recognition, a view rooted in Somalilanders’ historic support for the Palestinian cause.
+
+
+### The Al Shabaab/Houthi Factor
+
+Israel’s move drew sharp responses from both the Houthis and al Shabaab, highlighting the security and ideological stakes of this decision in both the Horn and the Red Sea arenas. Not only will the move provide the al Shabaab’s media arm, Al Kataib, with an arsenal of material to use in its recruitment efforts, it could also offer the group new targets for attacks. Following Sa’ar’s Hargeisa visit, al Shabaab issued a statement castigating Somaliland’s leadership as apostates and legitimising violence against them. The group called on its supporters to wage jihad, invoking the Palestinian cause and warning that any Israeli presence in Somaliland would be considered a target. While the group’s permanent presence in Somaliland is limited, the statement referenced its past attacks in Hargeisa in 2008, signalling both intent and operational capability. The group’s spokesperson Ali Dheere (“Ali Mohamed Rage”) has referred to the recognition as “the apex of humiliation and disgrace” and declared that the group would defend their lands against the “accursed Israelis”. Meanwhile, pro-al Shabaab news outlets have shown images of civilians protesting against Israel in areas under militant control.
+
+Across the Gulf of Aden, Yemen’s Houthis also warned that any Israeli presence in Somaliland would be treated as a legitimate “military target”. And, amid uncertainty surrounding the Gaza ceasefire in early 2026, the Houthis have signalled their willingness to increase attacks against Israeli targets. Besides increasingly intense strikes, the Houthis had, prior to Israel’s announcement, sustained a naval blockade in the Red Sea and the Gulf of Aden that caused shipping traffic through the Suez Canal to drop by 70%.
+
+Cooperation between the Houthis and al Shabaab has reportedly intensified over the last year, representing a growing threat to peace, security and stability in the Red Sea arena and the Horn. Beyond reported efforts to enhance al Shabaab’s drone capabilities, Somali fighters are said to have received military and ideological training from the Houthis. The groups have also been involved in a transnational weapons smuggling ring despite an active UN arms embargo. The relationship between the Houthis and al Shabaab is only strengthening and, if mobilised against a common target, could transform insecurity in the region.
+
+
+### Poor Outcomes for Both Parties?
+
+For Israel, continued efforts to cultivate ties with Somaliland, as with other parts of the Arab world (including Morocco, the UAE and Bahrain through the Abraham Accords), are complicated by its current disregard for the realities of the Palestinian question.
+
+As for Somaliland, Hargeisa’s quest for recognition, ironically, has deepened its isolation. A region that had been functioning autonomously without recognition for so long now finds itself diplomatically snubbed and facing an increased threat from extremist militants, raising questions about the wisdom of this chosen path.
+
+---
+
+__Hani Ibrahim__ is a researcher and analyst with extensive experience working across East Africa and the Horn, with a focus on peace, conflict, and development. She has a strong background in qualitative analysis and context monitoring, and her work draws on a nuanced understanding of the region’s political, social, and economic dynamics.
