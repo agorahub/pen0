@@ -1,0 +1,68 @@
+---
+layout: post
+title : Helicopters For Joint-Force
+author: Christoph Bergs
+date  : 2026-01-29 12:00:00 +0800
+image : https://i.imgur.com/tkquDmK.jpeg
+#image_caption: ""
+description: "Helicopters Remain a Vital Part of the Joint-Force"
+excerpt_separator: <excerpt/>
+---
+
+_The helicopter has been criticised following extraordinary Russian losses in Ukraine, however the benefits of vertical lift are still obvious within the force mix._
+
+<excerpt/>
+
+Footage of American CH-47 Chinooks and MH-60s Black Hawks flying over blacked-out Caracas provided the most visually striking images of the recent US operation in Venezuela, and quickly conjures comparison to the Russian 2022 full-scale invasion of Ukraine, where a Russian air assault flew into Kyiv-adjacent Hostomel airport.
+
+
+### The Comeback of the Helicopter?
+
+Neither event signifies the “death” or “comeback” of the helicopter. Rather, the contextual reasons for success and failure in each case offer insights into the utility of helicopters in modern combat operations. Nuanced analysis is required given ongoing consolidation of helicopter fleets, modernisation and reorganisation efforts, national and international procurement and development initiatives.
+
+As with any weapon system, the tactical and operational characteristics of helicopters must be understood to exploit their advantages. The helicopter’s speed, flexibility and terrain independence (not requiring runways) provide a unique mix for air manoeuvre, exploitable by nations for special forces, raids, air assault and airmobile operations. Equally, it permits airlift, humanitarian aid, maritime resupply, surveillance and more.
+
+The limitations of helicopters in contested environments are clearly documented. Despite the identification and absorption of lessons differing between nations, enthusiastic and extensive use in Korea, the Suez Crisis, Vietnam, Afghanistan, the Gulf War, the Battle of Mogadishu, the Global War on Terror and the capture of Osama Bin Laden have shaped the understanding and execution of helicopter operations in different environments.
+
+
+### Russian Air Assault on Hostomel Airport and Subsequent Losses
+
+From the earliest Soviet experiments to exploit air manoeuvre, to the development of dedicated air assault and attack helicopter forces, the Soviet Union had placed high hopes on the air domain to manoeuvre light infantry in the deep battle. Soviet Air Assault had planned to raid or establish footholds in critical positions in NATO’s rear. Deployed ahead of advancing armoured columns and targeting rear echelons, this was to pave the way for the advance of rapid breakthrough and follow-on forces. This concept of operations had not been put to the test in high-intensity conflicts, though the Soviet Union and Russia have previously used helicopters in a spectrum of military operations.
+
+The Hostomel air assault operation successfully inserted Russian light infantry at Hostomel following the suppression and dislodging of Ukraine’s large, Integrated Air Defence System with air and missile attacks. In parallel, cyber activities hit Ukrainian critical power infrastructure. As part of the air assault, 34 helicopters flew in at low altitude to avoid detection or engagement by any remaining radar-guided air defence. Russian helicopters landed at Hostomel in two waves to drop off 200-300 VDV and Spetsnaz troopers.
+
+This opening suppression of Ukrainian air defences and routing of helicopters suggests that risks to the insertion were understood and largely countered. Yet the Hostomel-bound helicopters force of attack and transport rotorcraft lost about 17% of its airframes. These losses were predominately to MANPADS, with the Lion’s share, approximately five of the six helicopter losses, being Russian attack and not transport helicopters. These attack helicopters remained on station and drew fire from Ukrainian resistance that Russia had neither expected or mitigated against. After gaining temporary control of Hostomel, Ukrainian artillery fire and counter-attacks made the use of the runway unfeasible for follow-on forces. Meanwhile, the unprepared ground offensive unravelled.
+
+Russia’s failure in intelligence, its critical misunderstanding of Ukrainian readiness and willingness to resist, poor coordination between branches, formations and units, and the failure of follow-on forces to reach Hostomel and Kyiv in fighting condition that determined the outcome of Russia’s opening campaign. Tactical losses to helicopters are therefore predominately symbolic of Russian strategic and operational failures.
+
+Subsequent losses amongst Russia’s helicopter force reinforced this image but must be considered separately from those at Hostomel. Principally, a re-postured Ukrainian air defence contested the air again. In parallel, Russian helicopter operated in an aggressive but unfocused and uncoordinated manner. Significant losses to Kamov Ka-52, Mil Mi-24, Mi-28 and Mi-35 fleets were the result. Transport helicopters were caught out in Ukrainian ambushes and specialist electronic warfare platforms were lost.
+
+As a result, the context of the operational environment has pushed helicopters further back from the frontline. Yet the permissiveness of the air domain is a defining principle across decades of helicopter operations. The helicopters occasional reappearance highlights the contextual nature of employment. Thus, the fighting in Ukraine confirms established operational principles for helicopters’, rather than suggesting new revelations.
+
+
+### Operation Absolute Resolve
+
+Specific details of the planning and execution of Operation Absolute Resolve are, for now, unknown. The overall scope of the operation suggests that the US military drew on every component in the joint force, overmatching Venezuela.
+
+After months of planning and the alignment of multiple “triggers”, over 150 aircraft of various types operated from over 20 land and maritime bases, synchronizing efforts over vast distances in a five-hour operation with a combat time of approximately 30 minutes. Beyond a brief firefight at Maduro’s complex, overall resistance appears to have been limited. The scale, precision, integration and synchronization of getting helicopters safely to the right location, at the right time, in a contestable environment, was critical for success.
+
+Based on statements by General Dan Caine, the Chairman of the Joint Chief of Staff, human, electronic, cyber and space assets were aligned to uncover the location, disposition and movements of Venezuelan defences before and during the operation. Knowledge of Maduro’s complex enabled the United States to conduct a surgical and precise operation. Despite the inherent risks of pop-up defenders (one helicopter was damaged, with a pilot injured), American helicopters could land within metres of their target, with operators rushing into the complex before Maduro even made it into his steel safe room. By comparison, beyond alleged “hit squads” in Kyiv, Russia’s intelligence on President Zelensky’s whereabouts was probably more modest.
+
+Before landing at Maduro’s complex, the helicopter insertion had to navigate Venezuelan air space. Despite the Bolivarian National Air Force of Venezuela’s (AMB) potential to muster a nominal challenge to air operations, Venezuela’s air defence was probably deemed a more significant threat. Suppression and destruction of air defence systems (SEAD/DEAD) was carried out to create a permissive environment for helicopters, paralyzing Venezuelan defenders.
+
+Notably, Venezuela operates sophisticated systems, including the long-range early warning Chinese JY-27V radar. This radar is advertised as jam resistant and able to detect and track Very Low Observable (VLO - “Stealth”) aircraft. Air defence systems included Russian S-300VM, Buk-2M and S-125 Pechora-2M. Additional air defence systems were allegedly delivered in November 2025, including Pantsir-S1. The connectivity, integration, readiness, experience and availability of Venezuela’s air defence are not exactly known. While deficiencies have been identified in the aftermath, these defences were theoretically capable of contesting an air operation and had to be mitigated.
+
+The night-time (rather than day as in the case of Russian air assault on Hostomel) helicopter insertion in mountainous terrain and questionable weather suggests systematic mapping, careful planning, monitoring and threat mitigation during ingress and egress. Electronic warfare may have hit communication networks, hindering Venezuela coordination. Blackouts of parts of Caracas hint at the use of additional capabilities, potentially impacting Venezuelan response times and options. In other words, the United States maintained the initiative, with free reign over the decision-making process. As a result, the characteristics of the helicopters could be exploited for decisive effect.
+
+
+### Helicopters Are an Asset in the Joint-Force
+
+Vertical lift can operate over large distances in the Indo-Pacific, or in more compact, dense and complex environments, as in Europe. The terrain independence brought forth by verticality, loadout flexibility for use over a wide spectrum of missions, firepower and lift capacity combine into a capability that military decision makers and planners can exploit for decisive results within a joint-force.
+
+Spatial and temporal permissiveness of the air is a prerequisite to domain exploitation. In contested environments, other platforms, systems and actors enable helicopters by opening a path and mitigating risks on the way to and from the target. This “reliance” on enablement could reinforce opinions that the helicopter is demonstrably ineffective as a system in modern combat operations. This interpretation misunderstands the point of the joint-force as a mutually supporting construct. It is not by punishing a single capability that one improves the Armed Forces.
+
+Within contested environments, the integration of helicopters into a larger, well-planned operation, enabled by suppression and/or destruction of enemy air defences (SEAD/DEAD), alongside additive layers of effects, does not suggest undue reliance. Rather, integration permits decision makers to offset disadvantages of individual systems and capitalize on advantages within the force mix. By integrating, coordinating and synchronizing systems and actions, an armed force can exploit and multiply effects by the sum of its parts – while managing risks – to achieve the intended outcome.
+
+---
+
+__Christoph Bergs__ is a Research Analyst for Airpower at RUSI. His research interests include combat air and rotorcraft capability development, crewed-uncrewed teaming and human-machine interfacing for battlespace management. As a military historian, Christoph previously published on the history of airpower, air doctrine and air capabilities.
