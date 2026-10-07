@@ -1,0 +1,465 @@
+---
+layout: post
+title : Golden Insights
+author: David Gauthier
+date  : 2026-03-25 12:00:00 +0800
+image : https://i.imgur.com/DWDTec7.jpeg
+#image_caption: ""
+description: "High-Quality Products Derived from Commercial Earth Observations"
+excerpt_separator: <excerpt/>
+---
+
+_Golden Insights can provide information advantage from commercial remote sensing; but how does anyone know which products will best meet their needs? This report educates both producers and consumers to improve market transparency and the value of geospatial analytics._
+
+<excerpt/>
+
+### Introduction
+
+As of late 2025, there were more than 1,300 commercial Earth observation satellites in orbit, mapping the environment and recording activities on our planet every day. These robotic eyes and ears in space are constantly scanning, listening, searching, and focusing their lenses on everything from the deforestation of the Amazon, to destruction from storms and wildfires in the United States, to threatening military movements in and around Ukraine. They are built and operated by more than 100 companies from all over the world. Gold Rush: The 2024 Commercial Remote Sensing Global Rankings, a report published by the Center for Strategic and International Studies (CSIS) in collaboration with the Taylor Geospatial Institute (TGI), Taylor Geospatial Engine (TGE), and United States Geospatial Intelligence Foundation (USGIF), highlighted how these sophisticated satellite imaging systems have proliferated widely thanks to the many private space companies involved in driving the recent small-satellite revolution. The very best of these satellite data collectors today are built mostly by companies located in the United States, China, Finland, France, South Korea, and a few other nations with burgeoning space economies, as the world slowly approaches technological equilibrium. The rest of the story, however, reveals that utility to decisionmakers is far from equal.
+
+So much Earth observation data is being collected that real power now lies with those who can make sense of remote sensing data quickly enough to drive decisive action through information advantage. Insights from Earth observation data have now become a new strategic differentiator. Whether these insights are used for energy exploration, insurance claims, climate studies, or military intelligence, the need for automated geospatial data processing, multisource analysis, and rapid product delivery is palpable, and the information war cannot be won otherwise.
+
+Private companies are engaged in transforming the business of geospatial data analysis using new information technologies such as cloud computing, digital twins, and agentic artificial intelligence (AI). The movement of data to the cloud has increased the power of multisource analysis at enormous scale. The current bottleneck for global insights is moving Earth observation data from space to the ground. Therefore, a new information superhighway is being built in space to funnel data to and from satellites and from satellites to the ground. That infrastructure is being deployed by the likes of SpaceX’s Starlink, Amazon Leo, and China’s Guowang and Qianfan communications satellite megaconstellations, and will increase the speed of information dramatically. Whereas human analysis of Earth observation data used to take years to produce value, AI automation at scale, coupled with real-time space-based broadband connecting the world’s cloud data centers, can now deliver deep insights about the world within seconds. Private companies that are now collecting ubiquitous remote sensing data, moving and processing information at light speed, and using AI to derive insights are leading the next intelligence revolution. Empowering more citizens, industry leaders, and governments with faster access to knowledge will help everyone hold bad actors accountable and promote rules-based democratic societies.
+
+Which companies are currently on the cutting edge of this Earth observation revolution? Whose analysis tools can deliver faster insights with greater value to customers? Which customers are vying for ever-better information to increase mission effectiveness and/or grow their businesses? Which geospatial products and services are the most highly prized, and why? A CSIS-led research team asked these questions while conducting in-person expert workshops and performing open-source research to uncover the hidden landscape of what may be the most valuable asset to come from Earth observation: information advantage.
+
+To fully convey the improvements in decision value that are now available from commercial information sources, this report introduces standard value metrics for accurately comparing derived products that may appear similar. These are intended to highlight differences in the value and fitness of specific products to end-user needs. This analysis provides a critical service for customers, as the future will be less about who has the best technology on-orbit to collect raw data and more about who can provide exactly the right information at exactly the right time—who can, in other words, provide “golden insights.”
+
+
+### Background and Motivation
+
+This paper is intended as a complement to Gold Rush: The 2024 Commerical Remote Sensing Global Rankings, and it once again brings together collaborators CSIS, TGE, and USGIF. It aims to identify recent trends in high-quality analytic products and services derived from commercial Earth observation data that are being offered and matured by private industry. Furthermore, this report treats products that are available for sale to the public from privately owned and operated companies as being “commercial.” Building on the Gold Rush report, this publication moves beyond assessing technical performance parameters centered on satellite collection capabilities and examines the derived data and value-added information products that can now be generated by that space-based collection.
+
+An evaluation of new commercial products and services derived from Earth observation data requires new standards to assess the quality and relevance of the mission insights that are being delivered. Defining these standards required input from established end users across various market sectors and from the emerging entrepreneurial content creators themselves. CSIS, USGIF, and TGE hosted several workshops and dedicated research efforts to elicit expert information and ideas from both consumers and producers to publish this report. Ultimately, the report provides the relevant performance criteria that define the salient features of information value, or “mission insights,” for high-quality products derived from commercial Earth observation.
+
+Many government offices write requirements for commercial products based on past government experiences and expectations of the products available. Demand for a new class of unclassified, time-sensitive commercial products, meanwhile, is steadily increasing. However, these requirements are typically not well informed by emerging product trends and technologies, or are crafted in a way that limits product potential. It is the goal of this report to help bridge the gap between end user information needs and future product possibilities by developing a common language to better describe the value of geospatial analytic products for delivering these “golden insights” derived from remote sensing and Earth observation. Such a language can improve market transparency, standardize expectations for quality, and increase customer satisfaction (and subsequent demand) for these important products. In essence, this report aims to help illuminate the shadowy landscape of product offerings to generate greater economic value and mission success for all participants.
+
+#### Research Method
+
+The multitude of product types and capabilities across the geospatial ecosystem has grown significantly in the past decade. Without a framework for mapping either the various market segments or the broad product ecosystem, it was difficult to find any appropriate starting point. Therefore, to initiate this project, the research team restricted the scope of its sample set to ensure that enough information was gathered to represent the general set of products available, without gathering so much information as to overwhelm the research process. Then, through open-source research of the companies within the sample set, the team recorded structured data about the customer buying centers these products can serve, the types of products the companies offer, and the product features that are most relevant to high-quality decisionmaking. A series of in-person expert workshops were conducted to interview company and customer representatives directly about geospatial analytic products and refine the team’s understanding of the market. Finally, a senior expert panel of long-term geospatial practitioners and leaders was convened to review the project findings and outcomes and offer their perspectives.
+
+__Sample Set of Producers:__ The sample set of geospatial analytics companies was seeded by two pools of product providers: the corporate members of USGIF and the companies listed on the 2025 Geoawesome Global Top 100 report. This gave the team a list of approximately 200 companies as a starting point. To reduce the sample set further, the team only researched companies that:
+
+1. operate a U.S. business interest selling products in the United States;
+
+2. use commercial remote sensing from space-based systems (as a connection to the Gold Rush report); and
+
+3. offer proprietary, original geospatial analytic products (i.e., no resellers or “body shops”).
+
+(Note: The full list of companies researched for this report is provided in Appendix A.)
+
+__Customer Buying Centers:__ The research effort for this report captured descriptions of the various market segments served by each company. The data was then clustered into logical categories which were given standard names to better organize the final rounds of research and analysis. These standard buying centers were described to workshop participants, who provided expert feedback from which the definitions were refined into those published in this report.
+
+__Product Features and Quality Metrics:__ To generate a standard lexicon for the various geospatial product types, features, and quality metrics described in this report, it was necessary to conduct an initial literature review, along with open-source research on current geospatial products, and to hold discussions during the structured workshops and interviews with many geospatial practitioners and experts. Through iterative efforts to refine definitions across these multidisciplinary methods, this report developed a standard set of product features and quality metrics.
+
+__End-User Interviews:__ It was important to speak to actual end-users of geospatial analytic products from several of the customer market segments, or “customer buying centers.” This proved difficult, however, because most companies that create geospatial products are reluctant to introduce their customers to a research team—either because they do not know their customers, or because they do not wish them to be known. This report’s team persevered, however, and conducted several first-person interviews with users who make decisions using geospatial products and services.
+
+#### Definitions
+
+__Commercial Geospatial Products:__ To be considered for this report, a private company must generate original and proprietary commercial geospatial products using commercial remote sensing data from space-based collection systems, either alone or in combination with other geospatial data sources. Therefore, it follows that:
+
+- A geospatial analytic product must represent information about the physical world and/or the activities within that world with spatial and temporal attribution.
+
+- Analytic outputs go beyond mere physical description, offering features such as specific object detection, object characterization, change detection, activity detection, activity characterization, and/or anomaly detections.
+
+- The ultimate product for “golden insights” enables the end user to make timely and/or important decisions. These “decision-ready” product types are further defined in this report.
+
+- Commercial geospatial products discussed in this report are also defined by what they are not. This report excludes from consideration any analytic software development, software tools and applications for geospatial analysis, and customized human analysis services. The intent is to describe information products ready to be delivered to end users who make decisions based upon that information. While many companies offer to develop algorithms, deliver software tools through licenses, and provide human analysts to solve custom problems, these are neither the companies nor the products that are focused on in this report. One of the findings from the research discussed later in this report is that these distinctions are not always clear in company marketing, so the report provides a geospatial product spectrum for clarity.
+
+__Customer Buying Centers:__ Customer buying centers are defined in this report as logical groupings of consumer types based upon the decisions they need to make and the industries in which they operate. The market segments were split broadly between government and commercial buying centers, with subsegments in each.
+
+![image01](https://i.imgur.com/mND4eF6.png)
+_▲ Table 1: Descriptions and Common Examples of Each Consumer Buying Center_
+
+__Mapping the Complexity of Analytic Products:__ This project also found value in mapping the way several companies use commercial remote sensing data to generate derived data layers and user products as intermediate results, enabling further refinement into decision-ready products. In defining what a product is, it is important to understand what the offered solution truly provides. Is it merely a data layer derived from remote sensing? Does it require special tools or applications to fuse with additional sources? Or is it truly a final product capable of delivering decision-ready insights on its own? This complexity is represented by a Sankey Diagram (see Figure 1) with layers/columns defined as:
+
+- commercial remote sensing data from one or more types of remote sensing systems;
+
+- derived data layers providing either static information or live streams of conditioned datasets (prepared for user analysis or display on a map);
+
+- user products such as dashboards, alerting services, and fused analytic products that can be provided directly to end users for their own interpretation/analysis; and/or
+
+- decision-ready insights in the form of tailored products applied to specific mission use cases that enable immediate decisions (e.g., location of illegal fishing activities or real-time active fire maps).
+
+The Sankey diagram below shows inherent relationships between these layers, as prepared data sources can build into user products that then build into decision-ready insights. This diagram is a subset of the larger research set that captures what companies use and generate to provide their geospatial analytic products and services for sale. The figure below shows the many-to-many relationships that exist within the geospatial analytics ecosystem and the complexity involved in customer discernment.
+
+The most advanced applications are drawn from several different user products and/or derived data layers. In general, the level of sophistication in a product refers to how far removed it is from raw remote sensing data—in other words, how far it has traveled through multiple levels of data refinement and fusion. This report will focus on decision-ready insights as the highest form of commercial analytic product available. One example, highlighted in Figure 1, is a sophisticated maritime domain awareness product that offers several fused data layers and products at once, perhaps to identify the locations of illegal fishing and other illegal, unreported, and unregulated (IUU) activities. This product appears as a unique “thread” in the Sankey diagram. It will be used later in the report to highlight the most salient product features and qualities needed to deliver decision-ready insights to maritime watch mission operators.
+
+![image02](https://i.imgur.com/bIhO3gt.png)
+_▲ Figure 1: The Transformation from Raw CRS Data Sources into User Products and Decision-Ready Insights_
+
+__Product Types:__ The list below, while not exhaustive, highlights the breadth and depth of the commercial geospatial products available today. Levels of sophistication range from detection of a single map feature (e.g., a road) or change (e.g., a pixel difference) all the way to long-term maritime domain awareness products that alert consumers to subtle changes in the behavior of maritime traffic across a given region. Simple products can be derived from a single source, while more complex products may require dozens of underlying sources and layers of analysis to provide their unique insights. Examples of product types include:
+
+- Physical maps and cartographic features
+
+- Geography/3D features (e.g., topography, vertical obstructions, and buildings)
+
+- Land use or land cover/type (e.g., forest, farmland, dense canopy, and swamp)
+
+- Land change or environmental monitoring (e.g., deforestation and drought)
+
+- Human geography (e.g., religions, ethnicities, languages, income levels, and food insecurity)
+
+- Object detection (e.g., vehicles and buildings)
+
+- Change detection or activity detection (e.g., disturbed soil and arrivals/departures)
+
+- Moving target indication (e.g., ground, air, and maritime)
+
+- Pattern detection and anomaly detection
+
+- Agricultural stress/management (e.g., normalized difference vegetation index, soil moisture, and crop yield)
+
+- Greenhouse gas emissions (e.g., methane leaks and hydrocarbon plumes)
+
+- Site monitoring (e.g., ports, airfields, rail yards, factories, and military bases)
+
+- Area monitoring (e.g., exclusive economic zones, borders, ranges, and countries)
+
+- Asset monitoring (e.g., construction sites and infrastructure security)
+
+- Domain awareness (e.g., ground, air, maritime, and space)
+
+- Earth weather and space weather (e.g., detection, analysis, and prediction)
+
+- Disaster assessments (e.g., hurricane, flood, earthquake, wildfire, and landslide)
+
+- Energy flows (e.g., pipelines, storage pattern-of-life, pile measurement, and containers)
+
+__Product Features and Metrics:__ There are currently no comprehensive standard representations of the features and metrics of geospatial products. At the same time, customers seem either unaware or uncommunicative as to the feature sets and metrics that matter most to them, and they often resign themselves to accepting whatever industry providers have to offer. The lack of product transparency gives rise to a need for a standard set of product features and metrics to help create a basis of comparison across multiple providers.
+
+Product features offered today are rudimentary, with only a few options for insights, data formats, and delivery mechanisms. For example, a maritime domain awareness service may offer two sources and a daily PDF as product (or may require the user to log in to a web portal to view a dashboard). These solutions often lack unique analytic layers that show customers specific types of changes, anomalies, and behaviors. It is possible that many producers would rather wait until they have a paying customer who will customize a solution, rather than offering standard solutions out of the box.
+
+This report therefore introduces new product features and metrics, defined as the specific product features and key performance measures that differentiate geospatial products by their ability to engender confident consumer choices. While some features speak to the viability of using a product (e.g., security or price), the true focus of this report is to define those features that represent the ability of a product in delivering insights (see Figure 2). This set of product feasibility features includes metrics for quality, utility, and complexity that serve as the basis for defining a product’s value in driving a customer’s decision. Full definitions of these metrics can be found in the Key Findings section below.
+
+![image03](https://i.imgur.com/Rf5kUPo.png)
+_▲ Figure 2: Product Features and Key Performance Measures That Can Be Used to Differentiate Geospatial Products_
+
+
+### Key Findings
+
+#### The Geospatial Product Spectrum
+
+In the research debates and workshops conducted for this report, a product spectrum for categorizing geospatial products emerged. Looking at marketing materials alone, companies tend to offer geospatial products and/or services without further definition. Some companies create original standard products, some maintain a team of analysts and experts to build new products on demand, and others offer geospatial tools and services for customers to create their own products. To properly differentiate between these offerings, this report presents a geospatial product spectrum (see Figure 3). Such a spectrum is critical because many customers are starting to expect geospatial analytics companies to offer fully developed and ready-for-market standard products. However, many geospatial companies have failed to fully “productize” any geospatial product in hopes of providing customer-specific development and/or product tailoring.
+
+To highlight how different these product offerings truly are, consider the analogy of buying a wool suit. As a customer, what type of clothing shop should be sought out? First, it is important to understand if one wants to buy a wool suit off the rack, or if one expects an organic farm and custom tailoring company to first raise the sheep that will provide the wool. The geospatial market offers both these types of products, as well as everything in between. Some companies excel at product development on behalf of a new customer, and these companies maintain software developers, vibe coders, analysts, data scientists, and product designers who can build to specification whatever type of geospatial product the customer needs. (This is “raising the sheep” in the analogy). The U.S. Department of Defense (DOD) has a history of acquisition via this model; it is exactly how new weapons systems have been solicited and acquired, and it allows the DOD to maintain provenance over the system and process. Requirements are specified, bids are received, companies are chosen, and bespoke products are developed for the customer to spec. Other companies are now attempting to offer a standard specialized product line that is available for purchase at a moment’s notice. Such an off-the-rack style of product, as posited in the analogy, would enable greater scalability. Then there is the “hiring of the tailor,” in which companies offer high-end analytic services by providing analysts to sit in the customer footprint and use their software tools to provide the required products.
+
+![image04](https://i.imgur.com/clsutax.png)
+_▲ Figure 3: The Geospatial Product Spectrum_
+
+#### Industry Versus Government Perspectives on Product Quality
+
+Perhaps not surprisingly, perspectives gathered for this report on geospatial analytic products differed greatly between industry producers/consumers and traditional government consumers. The U.S. government represents an established system of satellite remote sensing, human analysis, and intelligence reporting that has enjoyed technological superiority for decades. Its technological dominance in space has provided it with ample time to create an effective castle of security classification, along with a moat using detailed sensor calibration, strict data format standards, and rigorous analytic training to scale remote sensing across thousands of analysts inside dozens of organizations, all of whom contribute to a few central databases and product types. While truly a marvel of centralized organization, this structure has now become fragile, as new information technologies are proliferating at breakneck pace. New private space data evangelists are using technological shortcuts for similar effectiveness: They drive satellite proliferation instead of exquisite calibration, open standards instead of closed ones, and AI tools for analytic discovery instead of hierarchies of trained human analysts.
+
+![image05](https://i.imgur.com/UwsRbW6.png)
+_▲ Table 2: Comparing Industry and Government Perspectives on Product Quality_
+
+It was no surprise, therefore, that several outside experts with U.S. government experience who were consulted for this report elaborated on the dangers of using commercial analytic products for certain missions because commercial sensors are not as well calibrated as government ones, and private industry lacks universal training standards for workers and analysts. In a reverse argument, industry experts reasoned that AI tools with access to thousands of proliferated data sources (no matter how poorly calibrated) use a “wisdom of the crowd” approach to achieve faster answers that are good enough for rapid decisionmaking. Clearly, there is a miscommunication about remote sensing product needs (speed versus quality) and a general lack of transparency behind rapidly developed private industry offerings has created a government-commercial trust deficit that will be difficult to overcome. In today’s Information Age, however, can any time-sensitive decisionmaker still afford to wait days or weeks for better information when a reasonably good answer can be made available in seconds?
+
+Thankfully, a cultural shift is already underway to forge a balance between the highest-quality intelligence information available from government-controlled sources and the fastest possible insights available from commercial sources. In 2024, the DOD published a Commercial Space Integration Strategy that emphasized the need to “capitalize on the commercial sector’s technological innovation and speed.” A May 2024 Defense Science Board report concluded that commercial “technologies can be leveraged to create truly hybrid architectures that include elements of orbital diversity, supply chain diversity, and mission options that can be complementary” to DOD missions. Moreover, the Defense Innovation Unit has been funding the ongoing development of several key components of a “hybrid space architecture” to enable this information advantage. Furthermore, in 2025, the DOD produced an Acquisition Transformation Strategy requiring its workforce to “accelerate commercial preference” by “maximizing the purchase of products, services, and parts available in the commercial marketplace” to increase speed, stabilize demand signals, and accelerate private capital investments. The bottom line is that end users should be able to trade accuracy for timeliness when buying and using geospatial analytic products to suit their needs. It should be as simple as adjusting a rheostat.
+
+#### The Hidden Consumer Problem
+
+An unexpected finding of this research effort was the difficulty in locating and speaking with actual end users (outside of the government) that consume geospatial information to make business decisions. The research team started with the companies who produce these products, and it found that these companies were reluctant to divulge any contact information for their customers. This behavior likely stems from the fact that knowledgeable commercial customers who purchase geospatial products are somewhat rare. It may also be true that a commercial customer is difficult to maintain as a stream of reliable revenue. Therefore, when a geospatial company has worked diligently to secure such a customer on a contract, they fear customer knowledge of competing (and perhaps better) products above all else, and it is in their best interest to shield their customers from outside perspectives or choices. This behavior speaks to the level of maturity and transparency (or lack thereof) on the part of the providers and highlights the value behind this report’s attempt to improve clarity in their communication with customers.
+
+Increasing transparency will benefit both producers and consumers over time. Giving consumers clearer choices will improve their business outcomes and raise the global value of all geospatial products. At the same time, this increase in product transparency will highlight the difference between low-quality and high-quality products—which should, in turn, drive companies who continue to offer low-quality products out of business. For the commercial geospatial market to thrive, some form of capitalistic natural selection must exist. This is how the commercial geospatial industry will learn to generate more “golden insights” and fewer “pyrrhic products” for their customers.
+
+#### Standard Product Features and Metrics for True Comparisons
+
+To improve communication between customers and producers, this report offers standard product metrics for specific missions and product types. These metrics are by no means an exhaustive set and are defined here primarily for illustrating the product examples found later in this report and, if helpful, may be used more widely. The relevant metric values for quality, utility, and complexity will differ from product to product. However, most general categories of metrics can be standardized and the values within each determined for each type of product. This enables an apples-to-apples comparison of different company products offered for the same purpose. Increasing transparency around product quality and fit-for-purpose is intended to elevate customer experience, drive better products to higher value, improve customer satisfaction, and increase consumer adoption.
+
+__Quality Metrics:__ These metrics represent the degree of excellence provided with the information or insights delivered by a product.
+
+___1. Accuracy:___ a measure of how well the information, locations, and times in the product conform to their true values. Information accuracy can be for detection, identification, and/or characterization of features/objects, activities, changes, insights, or predictions.
+
+___2. Timeliness:___ a measure of the speed with which information is delivered to the consumer. This can be broken down in several ways:
+
+a. Latency: the difference in time between actual information change in the real world to the time of product delivery.
+
+b. Product Latency: the difference in time between newly collected information about the real world and the time of product delivery.
+
+c. Product Currency: the difference in time between previous and current product updates.
+
+___3. Completeness or Data Sufficiency:___ defined as the extent to which a product meets all of the customers’ needs for information confidence in the face of uncertainty. Depending on the product type, this could encompass aspects such as:
+
+a. Persistence: a quality of collection defined as the temporal rate of information collection being greater than the rate of significant information change. Persistence is always in the eye of the beholder, and the rate of significant information change is unique for each user and mission.
+
+b. Precision: a quality of information defined as the degree to which a set of measurements are consistent with each other.
+
+c. Source Diversity: a quality of collection defined as having sufficient variety of information sources to overcome uncertainty through independent confirmation.
+
+__Utility Metrics:__ These metrics represent the ease with which a customer can use or access their information products to make decisions.
+
+___4. Accessibility:___ the ease with which a user can interact with the product. This can refer to the usability of a UI/UX, web portal, dashboard, or other specific product format.
+
+___5. Interoperability:___ the extent to which a product seamlessly integrates into the customer information technology system. This can refer to formatting standards, open documentation, and/or the publishing of an Application Programming Interface (API) to enable increased programmatic utility.
+
+___6. Quantifiability:___ the extent to which information is derived from numerical data, as opposed to analytic or qualitative interpretation. This can be expressed as a percentage of information reported that is based on quantitative sources.
+
+___7. Uncertainty:___ the expected amount of inaccuracy or error that could reasonably be attributed to the reported data.14 Standard mathematical formulations used to quantify and report uncertainty can be applied.
+
+__Complexity Metrics:__ These metrics represent how additional processing, analysis, AI treatment/sophistication, and/or multisource fusion has been applied to raw sensing data to generate the information or insights provided in the product. Depending upon the type of product and user need, the following types of metrics could be used:
+
+___8. Processing Levels:___ The Earth science and remote sensing communities have defined standard levels of data processing as applied to geospatial data. Because this is a common standard, it is included here for completeness. Levels of data processing are defined in simple terms below, with more detailed explanations available on the Copernicus and NASA websites.
+
+a. Level 0: unprocessed raw data from the sensor.
+
+b. Level 1: data processed to the sensor level; data includes radiometric and geometric calibration plus platform ephemeris (the location of the sensor in space and time during collection).
+
+c. Level 2: derived geophysical variables; after the location of the sensor is used to accurately place calibrated and derived data (such as surface reflectance or energy radiance) in space and time.
+
+d. Level 3: georeferenced data variables are mapped to uniform space-time grid squares (e.g., latitude, longitude, and elevation).
+
+e. Level 4: data with additional processing applied, possibly including modeled output and measurements from several satellites and days. Alphabetically, the first Level 4 dataset found in the NASA online catalog is “ABoVE: Landsat-derived Annual Aboveground Biomass Density and Uncertainty, 1984-2022,” which maps annual biomass density on cartesian coordinates for researchers.
+
+___9. Depth of Analysis:___ the degree to which the product is a result of various levels of analysis, in a hierarchy from data-driven to concept-driven thought processes. This hierarchy is adapted from Critical Thinking for Strategic Intelligence by Katherine and Randolph Pherson. The hierarchy of analysis is as follows:
+
+a. Descriptive Analysis: reporting what is known from facts alone (who, what, when, where, and how).
+
+b. Explanatory Analysis: using logic and argumentation to give context (the “why”) for facts, judgments, and observations about patterns in data or changes in behavior.
+
+c. Evaluative Analysis: examining the significance of the event, problem, or topic; using logic to interpret and make judgments about the meanings behind the data and offering expert assessments.
+
+d. Estimative Analysis: looking to the future to make forecasts; anticipating courses of action for decisionmakers in response to new information, and modeling future scenarios.
+
+___10. Treatment/Level of AI:___ In 2024, Princeton University’s Warren Powell published a description of the seven levels of AI that serves as a useful construct to understand what type of AI is being used to generate a product.
+
+a. Level 1: rule-based logic (expert systems)
+
+b. Level 2: basic machine learning (neural networks)
+
+c. Level 3: pattern recognition (deep neural networks)
+
+d. Level 4: large language models, GPTs
+
+e. Level 5: deterministic optimization (model-based AI)
+
+f. Level 6: sequential decision problems (agentic AI)
+
+g. Level 7: creativity, judgment, reasoning (“strong AI”)
+
+___11. Product Value:___ the overall fitness-for-use of a given product to the stated mission need; a subjective evaluation of whether the value-added products offer appropriate insights for the consumer.
+
+___12. Analytic Complexity:___ defined as the degree to which the geospatial product is a result of many connected (or interconnected) underlying products, services, and datasets/types of data. One example of high complexity is a storm track prediction, which is often the result of thousands of independent data sources reporting individual measurements that have been processed over long periods of time into standard features that are then developed into a model that continuously predicts future states based on new information. An example of a low complexity product is a weather report of the current temperature over a range of geographic locations.
+
+This set of 12 primary metric types forms the basis of comparison between similar commercial geospatial products. The next section in this report breaks down some of the products–both real and hypothetical–that offer golden insights, comparing measurements of these features. This illustrates how a consumer may better evaluate related products when attempting to determine their fitness for use in a given mission scenario.
+
+In addition to the 12 primary metrics above, there are other factors that may decide whether certain products are even viable for usage.
+
+__Viability Factors:__ These metrics may also be of interest to consumers, as these tend to reference a decision gate through which only certain product offerings are even permissible for use. These factors are sketched in simple terms below, but they are not treated in more detail in this report.
+
+___13. Pricing:___ While pricing is unique to each product type and delivery service, generating standard pricing systems to ease comparison is important. In general, this means generating a price per unit of information delivered. For geospatial products, examples include a price per square kilometer of a monitoring service; a price per feature identified; or a price per finished product delivered.
+
+___14. Licensing:___ Data rights and product licensing can be overly complex. A standard set of licensing terms has been identified as a consumer need. When choosing products, customers will need to understand the licensing terms that meet their needs.
+
+___15. Credibility:___ the extent to which a company is trusted to deliver the products requested. This could include company viability, past performance, and overall reputation.
+
+___16. Security:___ the extent to which a product meets the security needs of the customer. This can refer to the provision of adequate sourcing documentation, as well as compliance with National Institute of Standards and Technology information standards; Cybersecurity Maturity Model Certification standards; and foreign ownership, control, or influence considerations. Even company reputation (e.g., has this company been recently hacked?) is relevant here.
+
+
+### Examples of Product Comparisons
+
+To highlight the utility of the commercial geospatial product features and metrics outlined in the previous section, this report offers as exemplars a few direct comparisons of some of the best products available today.
+
+Fire maps are commercial geospatial products derived from multiple sources of remote sensing combined with physical modeling, for the purpose of saving lives and property. The value of this product is highly dependent on several of the metrics outlined above. On the simple side, a fire map could be the outline of a burned area several days after the fact, used to aid insurance companies by helping them decide where to send human assessors to evaluate levels of damage. A more tactical product might be available as a fire perimeter map that is only a few minutes old and is delivered directly to the mobile devices of firefighters in the field. Finally, an even more sophisticated product might be a map of fire risk over several future days given historical fire data, weather patterns, physical terrain models, current air and soil moisture readings, predicted winds, and the amount of available fuel (dead vegetation). A comparison can be made between the fire map products offered by companies, juxtaposing some or all of the metrics defined in this report with a customer’s mission need. Clearly defining the appropriate values for each metric used is critical. For example, the appropriate values may be those shown in Table 3.
+
+![image06](https://i.imgur.com/xlnNdqg.png)
+_▲ Table 3: Potential Product Requirements for Fire Maps_
+
+With the defined set of product needs across metrics for quality, utility, and complexity shown in Table 3, an example of a direct product comparison can be constructed as shown in Table 4. With this visual comparison tool, it is easy to draw conclusions about different products. In this case, the existing FireGuard service made possible by the manual efforts of the California National Guard is the current standard of practice. It is immediately apparent from Table 4 that using existing global weather data products derived once per day from civil satellites is not a sufficient solution for this customer need. Hypothetically, though, high-quality and high-utility fire maps could be generated by combining several existing commercial remote sensing imaging constellations in a way that satisfies the requirements but is prohibitively expensive today (see estimated 10x cost in the price row in Table 4). Finally Table 4 highlights that a purpose-built, wide-area infrared collection constellation with 15-minute latency on global data delivery would offer the desired level of quality, utility, and complexity necessary to fully address consumer needs for fire maps.
+
+![image07](https://i.imgur.com/B66K1AU.png)
+_▲ Table 4: Product Comparison of Fire Maps_
+
+__Maritime domain awareness__ is another commercial geospatial product offered by several companies today. However, this product type is highly variable in terms of what information and insights are purportedly provided. Different products might offer only the locations of ships once per day, port monitoring with ship departure alerts, detection of illegal fishing activities, vessel-of-interest tracking over multiple days, or even vessel risk scores and dark vessel detection (defined as the detection of vessels that are not broadcasting true automatic identification system signal beacons for maritime safety, often because they are engaged in illicit or nefarious activities). Because of this variability, it is incredibly difficult to compare products across companies, making the process outlined in this report even more critical. For certain customers’ needs, appropriate metrics values may be seen in Table 5.
+
+![image08](https://i.imgur.com/BcqTt6E.png)
+_▲ Table 5: Potential Product Requirements for Maritime Domain Awareness Services_
+
+Using the metrics described in Table 5, an apples-to-apples comparison of product features and/or services could look like the table shown in Table 6. To help the customer make an informed value-based decision, the relative pricing for each product is shown in the first row (as a proxy for true pricing data, which may or may not be available). Some maritime domain awareness services, like the website Marinetraffic.org, are free; while other products with advanced offerings may be two times the basic subscription cost.
+
+![image09](https://i.imgur.com/U8DovLA.png)
+_▲ Table 6: Product Comparison of Maritime Domain Awareness Services_
+
+
+### Conclusion
+
+The goal of this Golden Insights report is to drive greater customer satisfaction and trust by improving communication between the producers and consumers of commercial geospatial analytic products. Educated consumers who are more satisfied with their purchases will increase the economic value of commercial remote sensing and derived information products at a faster clip. The standard definitions, product lexicon, and defined product metrics offered in this report can be used to better educate consumers and make the commercial geospatial product market more transparent. Transparency will lead to trust, and in today’s chaotic information environment, the ability to discern truth using accurate and reliable remote sensing information—and to increase trust in that information—has never been more important.
+
+For greater consumer satisfaction in product choice, it is important to overcome the many barriers that exist today. First is the desire to revert to custom products built to specifications. This practice is useful for keeping individual customers satisfied but does not scale easily for widespread adoption and growth across a society. Second is the dichotomy between government customer culture and commercial innovation culture, which ensures that these two communities continue to miscommunicate and find dissatisfaction in working together in the same market. Recent directives from the U.S. government to change its acquisition policies and practices should bend its culture toward the innovation economy over time. Third is the practice of hiding customers as a “moat” for protecting future business. At best, this is a temporary strategy for maintaining revenues, and it artificially limits the opportunities for better product-mission fitness. Finally, the lack of standard metrics by which to generate fair and accurate product comparisons restricts transparency for customers and makes buying decisions more difficult.
+
+An important note about product standardization for increased adoption is the interaction between analytic outputs and customer AI systems and tools. An analytics provider can better scale business by developing a standard set of products, features, and services, driving customers to adopt a best-in-class standard product. This is especially helpful for customer-side AI tools that will likely consume a standard product and refactor outputs as needed to better integrate results with other custom end-user services and tools. Whatever company creates the standard geospatial “killer app” first for a given customer segment may enjoy widespread adoption from end-user AI agents that easily consume the service without the need for extensive customization. With better product transparency, standardized consumer products can scale adoption at a faster rate and increase customer satisfaction.
+
+Of all the results mentioned in this report, the standard metrics for product comparison may finally unleash a wave of product innovation that improves fitness-for-use across the various customer buying centers to generate the scaled growth that has been long expected from commercial remote sensing in today’s space economy. A common lexicon plus a framework for measuring information value creates the basis of a “buyer’s guide” for commercial analytic products, which informs not only future government acquisition decisions but also helps private consumers in established industries find the best products for their needs. With a steady stream of “golden insights” from more advanced commercial geospatial products, more customers can make better decisions across their value chain and greatly improve both societal and personal outcomes from commercial remote sensing data.
+
+
+### Appendix A
+
+The following companies were researched via their official websites, news articles, press releases, etc. for this report.
+
+- 3Gimbals
+- AiDASH
+- Airbus U.S.
+- Asterra
+- Blackshark.ai
+- BlackSky
+- Capella Space
+- Carto
+- Cesium
+- Danti
+- Development Seed
+- DroneDeploy
+- Ecopia AI
+- Esri
+- Google
+- GRVTY
+- HawkEye 360
+- Hexagon US Federal
+- Hydrosat
+- ICEYE US
+- Janes
+- MapLarge
+- MDA Space
+- Microsoft
+- Muon Space
+- Nearmap
+- NV5
+- Nvidia
+- Orbital Insight (Privateer)
+- Orbital Sidekick
+- Pixxel
+- Planet
+- PlanetiQ
+- RGi
+- Safran
+- Satellogic USA
+- SkyFi
+- Spire
+- Striveworks
+- SynMax
+- Synspective
+- Topcon
+- Tomorrow.io
+- TomTom
+- Ursa Space
+- Whitespace
+- PlanetScape AI
+- Privateer
+- Windward
+- Vantor
+
+The following workshops were hosted by CSIS and USGIF in support of this project:
+
+- Workshop 1: held in person on September 25, 2025, and focused on companies that produce analytic products from remote sensing data.
+
+- Workshop 2: held in person on September 26, 2025, and focused on companies that produce analytic products from remote sensing data.
+
+- Workshop 3: held in person on October 9, 2025, and focused on customer organizations that use analytic products from remote sensing data. Also included several current and former national security experts.
+
+- Workshop 4: held virtually on November 7, 2025, and focused on customer organizations that use analytic products from remote sensing data. Also included several current and former civil agency experts.
+
+- Workshop 5: held in person on January 16, 2026, and focused on reviewing the research methods, findings, and recommendations from the project. Included several senior national security and policy experts.
+
+- One-on-one interviews were also conducted to reach key companies or organizations unable to attend a workshop.
+
+The following are CSIS workshop attendees by company, institutions, or organization:
+
+- 3Gimbals
+- Airbus US
+- Astroscale
+- Blackshark.ai
+- Center for Strategic and International Studies
+- Danti
+- Earth Fire Alliance
+- Escape Velocity
+- George Washington University
+- GXO, Inc.
+- HawkEye 360
+- Huddle Up Consulting
+- ICEYE US
+- Janes
+- John Deere
+- Los Angeles County
+- MapLarge
+- Novaspace
+- NV5
+- Orbital Sidekick
+- Partners in Air and Space
+- Pixxel
+- Planet
+- Orbital Insight (Privateer)
+- Riverside Research
+- Safran Federal Systems
+- Satellite Industry Association
+- SkyFi
+- Space Economy Rising
+- Synspective USA
+- Tanagra Enterprises
+- Triton Space Technologies
+- Ursa Space
+- U.S. Geospatial Intelligence Foundation
+- Vantor
+- World Resources Institute
+
+Several current and former U.S. Government “customers” also participated and provided keen insights.
+
+
+### Appendix B
+
+The following acronyms are used in Figure 1:
+
+- CRS - Commercial remote sensing
+
+The following acronyms are used in Table 3:
+
+- COP - Common operating picture
+
+- IR - Infrared
+
+- LWIR - Long-wave infrared
+
+- MHT - Multi-hypothesis testing
+
+- MWIR - Mid-wave infrared
+
+- NEDT - Noise equivalent delta temperature
+
+- SWIR - Short-wave infrared
+
+- VNIR - Visible near infrared
+
+The following acronyms are used in Table 4:
+
+- CRS - Commercial remote sensing
+
+- VIS - Visible
+
+The following acronyms are used in Table 5:
+
+- AIS - Automatic identification system
+
+- API - Application programming interface
+
+- COP - Common operating picture
+
+- EO/IR - Electro-optical/Infrared
+
+- IoT - Internet of Things
+
+- IUU - Illegal, unreported, and unregulated
+
+- MMTI - Maritime moving target indication
+
+- RF - Radio frequency
+
+- SAR - Synthetic aperture radar
+
+- S3 - Simple storage service
+
+The following acronym is used in Table 6:
+
+- CRS - Commercial remote sensing
+
+---
+
+__David Gauthier__ is currently the chief strategy officer of GXO, Inc., a space technology consultancy, where he helps space industry leaders deliver national security solutions. He is also a senior associate (non-resident) with the Center for Strategic and International Studies’ Aerospace Security Project and a fellow with the National Security Institute at George Mason University. Mr. Gauthier has over 28 years of experience in U.S. national security as an intelligence officer, technology innovator, and executive leader. Prior to his current role, Mr. Gauthier served as the National Geospatial-Intelligence Agency’s (NGA’s) director of commercial operations, responsible for procuring over $500 million in commercial capabilities each year. Mr. Gauthier also chaired the Intelligence Community’s Commercial Space Council and served as NGA’s director of strategic operations, helping to define the agency’s digital and AI transformation.
