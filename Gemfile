@@ -3,10 +3,10 @@ source "https://rubygems.org"
 #     bundle exec jekyll serve
 
 # This will help ensure the proper Jekyll version is running.
-gem "jekyll", "~> 4.4.1"
+gem "jekyll", "~> 4.0.0"
 
 # This is the default theme for new Jekyll sites. You may change.
-gem "minima", "~> 2.5.2"
+gem "minima", "~> 2.5"
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
