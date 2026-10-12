@@ -1,5 +1,4 @@
 _posts/
 _site/
-.*/
 /vendor
-.DS_Store
+.*
