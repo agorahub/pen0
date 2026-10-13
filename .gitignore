@@ -1,3 +1,5 @@
-_archive/
+Gemfile.lock
+_posts/
 _site/
+/vendor
 .*
