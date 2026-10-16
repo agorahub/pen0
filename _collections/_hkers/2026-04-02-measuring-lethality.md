@@ -1,0 +1,352 @@
+---
+layout: post
+title : Measuring Lethality
+author: Nick Reynolds and Jack Watling
+date  : 2026-04-02 12:00:00 +0800
+image : https://i.imgur.com/RwisywS.jpeg
+#image_caption: ""
+description: "Army Combat Power and Force Design"
+excerpt_separator: <excerpt/>
+---
+
+_This Research Paper addresses the utility of measuring lethality as a focal point in force design._
+
+<excerpt/>
+
+Anxiety over the prospect of fighting outnumbered has driven an emphasis in the UK and the US on the lethality of their forces. Indeed, the 2025 UK Strategic Defence Review argued for a “tenfold increase” in the British Army’s “lethality”. Lethality, which may be defined as the rate at which a force inflicts damage on an opponent relative to the rate at which it incurs casualties, is easy to measure after an engagement, but difficult to predict. Yet if the force is to increase its lethality, then lethality must be useable as a metric in force design.
+
+There is utility in lethality as a focal point in force design. The ability to deliver lethal or destructive effect on behalf of the state is the defining characteristic of the armed forces. Lethality is a critical modifier to a force’s size that avoids the evaluation of the correlation of forces becoming a pure numerical comparison. As a characteristic, lethality is also a key variable for determining what equipment needs operational mobility and within what timeframe. In relation to combat power, which is ultimately an evaluation of military inputs, lethality is a projection of what a force’s combat power will do to the enemy as an output.
+
+There are nevertheless risks to emphasising lethality. First, if it is pursued as a weaponeering exercise to be addressed technologically, then it risks building an exquisitely equipped military that lacks magazine depth or resilience. Similarly, pursuing lethality to maximise the efficiency of applying available means and resources can multiply what exists, but cannot compensate for an absolute shortage of weapons.
+
+Measurements of lethality as a driver of force design must avoid:
+
+1. Oversimplification to the point of becoming inaccurate, or overcomplication to the point of becoming unusable.
+
+2. Expressing lethality as a single metric, because this risks aggregating, and thus obscuring, critical dependencies in underlying variables.
+
+3. Being misapplied beyond the context for which it was intended.
+
+4. Presenting lethality as uniform across echelons.
+
+Ultimately, this paper concludes that lethality can most usefully be measured to help guide force design in four ways: overmatch, potential, endurance and efficiency.
+
+1. Overmatch: By tracking the proportion of British platforms that overmatch, or “hold at risk”, their intended targets, it is possible to assess the competitiveness of the force’s primary fighting platforms.
+
+2. Potential: By evaluating the probability of kill, magazine and effective rate of fire – modified by the speed of target acquisition – it is possible to determine the maximum potential lethality of a unit. The extent to which that potential is realised can provide an aiming mark in training and war development.
+
+3. Endurance: By determining the time over which a force can fight before it reaches its culmination point, it is possible to assess how long it can sustain lethal output. Increasing the duration over which a force can deliver damage necessarily increases lethality.
+
+4. Efficiency: By assessing the damage inflicted relative to cost per munition, it is possible to assess the replaceability of arms and thus the capacity for reconstitution and the sustainability of the war effort. Progress in force design can be achieved by improving the damage for cost of arms.
+
+Collectively, these four measurements are relevant at different echelons of the force. Overmatch sets benchmarks for platform requirements, while potential is about the sub-unit’s/unit’s ability to employ its weapons systems, and endurance is a metric most relevant to the unit and formation. Efficiency of targeting and weapons matching becomes a question relevant for higher tactical formations, while industrial efficiency is primarily a question for the UK Ministry of Defence and the Defence Industrial Base.
+
+
+### Introduction
+
+_`During his first public speech upon being appointed Chief of the General Staff (CGS), General Roly Walker set out his ambition to “double” and thereafter “triple” the lethality of the British Army.`_
+
+Walker’s ambition – against the backdrop of stalling Army modernisation – was met with some scepticism over its feasibility. Few, however, questioned the premise that if the British Army were to fight Russian forces in the foreseeable future, British troops would be outnumbered within their allocated boundaries in NATO plans. They would therefore need to be disproportionately lethal to prevail. CGS suggested that a British Brigade in defence would need to be capable of defeating a Russian Combined Arms Army. Within a year, Britain’s Strategic Defence Review (SDR) recommended increasing the Army’s lethality tenfold. The 2025 SDR was derided at the time, as the document also recommended that how “lethality” is measured needed to be determined, thereby raising the question of how its authors had calculated that a tenfold increase was necessary or achievable. In his 2025 speech at RUSI’s Land Warfare Conference, one year into his tenure as CGS, Walker in turn focused on the “how” of increasing lethality: building a tactical kill web and creating a 20/40/40 mix between survivable, expendable and attritable systems, but expressed caution about overly precise measurement.
+
+A lack of identifiable metrics has similarly failed to inhibit a growing prevalence of “lethality” as a term of measurement in the US military. There, the term is, to some extent, supplanting older concepts of “combat power”, encompassing readiness, morale, clarity of institutional purpose, fitness, integration of systems and firepower. While lacking a clear conceptual or doctrinal basis, the institutional emphasis on lethality within the Pentagon signals the growing anxiety over the prospects of a US war with China, where – like the UK fighting Russia – the presumption of significant numerical inferiority would require US forces to overcome multiple echelons, both simultaneously and in sequence, to maintain parity.
+
+“Lethality” may be defined as the rate at which a force inflicts damage on an opponent relative to the rate at which it incurs casualties. This is easy to measure in hindsight. But CGS, the SDR and US discourse on the subject advocate using lethality as a target in force design and development. This requires projection as to the anticipated output of the force and is methodologically much more complex. Given that the requirement to be disproportionately lethal is coherent with both UK and US defence planning assumptions, this paper seeks to inform the ongoing discussion about lethality. In particular, it derives ways of thinking about it as a driver of force design. The paper sets out several characteristics of lethality that could be applied to military problems and how these can inform judgements about resource prioritisation in force planning. By providing structured metrics, this paper can help to clarify ongoing debates about British Army capability.
+
+The paper is divided into three chapters. The first discusses the relevance of lethality as an attribute to be pursued in force design, as compared with alternative measures of a force’s suitability to execute tactical tasks. The second chapter explores the methodological challenges in measuring lethality, the pitfalls of metrics applied to military operations and the institutional risks of adopting heuristics. The third chapter proposes four measures of lethality that can be applied to UK forces to assist in holistic force design and against which progress can be tracked. The paper does not carry out the numerical computation of these metrics because the data necessary for such a computation to be valid and therefore useful is not available in open sources.
+
+#### Methodology
+
+This paper is part of an ongoing RUSI project on concepts development and force design in support of the British Army. It is based on three bodies of evidence. First, there is extensive doctrinal and military sciences literature on measuring the combat effectiveness of a force, referred to throughout this paper. This is largely derived from operational planning rather than force development, but much of it has applicability. Second, the paper uses a range of Ukrainian military data sets from the ongoing Russo-Ukrainian War – reviewed by the authors during extended fieldwork in Ukraine throughout the conflict – and previous conflicts on the expenditure, effect and range of engagement of different weapons systems and structures. Third, the paper draws on extensive author engagements with British Army personnel on the service’s modernisation and force development.
+
+
+### The Utility of Lethality in Force Design
+
+_`Before outlining how lethality might be measured, it is first necessary to explore what lethality as a characteristic adds to the understanding of a force that is not already covered through extant measures used in force design. Planners consider a range of variables; beyond operations, size, resilience and survivability, operational mobility and readiness are all important tools to measure the utility of a military capability. In an operational context, the most mature doctrinal construct for assessing a force’s likely performance is combat power. This chapter examines each of these, to identify what lethality adds to the understanding of a force to justify it as a driver of force design. It then considers some of the risks in focusing on lethality.`_
+
+#### Lethality Relative to Extant Characteristics in Force Planning
+
+Armies can perform a wide range of functions. As an organised mass of malleable and compliant people, the state can use them to support disaster relief, staff border posts and even boost tourism through artistic performances. What makes the military a distinct instrument of state power, however, is its function of delivering directed violence against an enemy. Lethality may be understood as the capacity and capabilities a military uses to inflict violence, and as such it is both the foundational attribute that makes an army distinct and is the attribute around which its and the enemy’s size, mobility, survivability and readiness are orientated.
+
+Size is the most basic method of comparing forces relative to tasks and opponents. Considerable resource is put into assessing the relative size of equipment tables for global militaries and their orders of battle. There are necessary minimums of combat and support elements needed to conduct certain kinds of military operations, and, therefore, the absolute number of military assets provides realistic maximums for the number of concurrent lines of operational activity that a state can execute. In conflict, meanwhile, the greater size of a force relative to an opponent does confer advantages, since it allows a force to retain combat power even if the opponent is tactically successful. Size indicates how a force might manage multiple commitments, and the rotation and reconstitution inherent in fighting a protracted conflict. Within the NATO Defence Planning Process, size is the starting point for assessing whether a military can meet its commitments to the Alliance. But simply having a large force does not mean that these forces can be brought to bear. There is also a very limited historical relationship between a force’s size and battlefield outcomes. In many respects, relative lethality is a critical modifier to any comparison of a force’s size in projecting how it will fare in combat.
+
+For force planners, strategic and operational mobility are traits of primary relevance where a force’s mission is broad and unpredictable. In a context where the foremost task is definable and can be bounded, the requirement for these traits becomes binary: can the force reach the identified area of operations within the specified period? For the UK, there is a primary defence planning assumption that is bounded – defeating Russian aggression against NATO – but also a range of commitments further afield. The choice between forward deployment of heavy forces and flexible deployment of light ones has always involved trade-offs. For the UK, this has been a question of how quickly the UK can concentrate lethality at the point of need. Therefore, insofar as the relative lethality of the force can be determined, it offers critical data determining the necessary speed of strategic and operational mobility.
+
+Survivability and resilience are important elements of force design, especially in the opening phases of a conflict. If it can be assumed that the enemy will choose the time and place of escalation, then it is important to ensure that the enemy’s first strike is not decisive. The British Army of the Rhine, for instance, put considerable effort into planning how to weather initial Soviet artillery overmatch. But defence can only buy time. The threat is only diminished if it can be attrited. The aim of survivability, therefore, is to preserve combat power – and the speed at which the threat can be degraded is a function of a force’s lethality in response. There is thus a dyadic interdependence between survivability and lethality.
+
+Although NATO and UK definitions of readiness are narrowly interpreted as to how quickly a unit could be deployed, the US Department of Defense’s (DoD) Readiness Ratings measure resourcing, training and mission capability. They are intended as a measure of a force’s capacity to execute a mission. But while this approach is important for command and control (C2), readiness is less useful when discussing force design and development. By definition, force design and development are concerned with identifying the ideal force of the future, and so must be done first before readiness can be applied or tested.
+
+#### Lethality as the Output of Combat Power
+
+The established approach to appraising a force’s likely performance in battle, as compared with its suitability to operationally respond to defence planning assumptions, is to assess its combat power. Debates over how to measure combat power have been extensive. “Combat power” in US Army doctrine, as of 2017, comprises eight components – leadership, information, mission command, movement and manoeuvre, intelligence, fires, sustainment and protection – with mission command as the core unifying factor, and leadership and information as cross-cutting attributes (see Figure 1). This supersedes earlier US doctrine, which modelled combat power as a triangle comprising firepower, manoeuvre and leadership.
+
+![image01](https://i.imgur.com/E9HIKV0.png)
+_▲ __Figure 1: The 2017 US Model of Combat Power.__ Source: Department of the Army, [“FM 6-0: Command and Control”](https://armypubs.army.mil/epubs/DR_pubs/DR_a/ARN35404-FM_6-0-000-WEB-1.pdf), 16 May 2022, p. 1-4, accessed 8 March 2026._
+
+As the language indicates, the emphasis in assessing combat power has evolved from explaining the characteristics of individual systems and units to a broader explanation of the combined arms force. Both the old and current US models are widely used around the world. These have spread through military sciences literature and the US system of international alliances that link numerous militaries together. The traditional triangular model is useful for understanding how characteristics might have to be traded against one another. A force with more firepower, for example, will have a higher logistics burden and be less manoeuvrable; whereas a force that is highly manoeuvrable may find it harder to maintain coherence and therefore its leaders may struggle to exercise leadership to bring firepower to bear. The 2017 US model highlights broader integration to achieve a net effect and is a more comprehensive overview of the contributing factors to overall military performance.
+
+The official British use of the term “combat power” is unusual in that it is neither lifted from US concepts and doctrine nor clearly defined, except that it is the physical component of the wider concept of fighting power – a close match for the US concept. The British use includes the tactical functions of a combined arms force: command, intelligence, outreach, information activities, fires, manoeuvre, protection and sustainment. Regardless, using either US combat power or the analogous British concept as a driver of force design is problematic; due to their comprehensiveness as frameworks for assessing the force, increasing combat power is simply to aspire that the force becomes generally better, but provides no direction as to prioritisation or institutional focus, and, when misapplied, confuses the interrelations between factors and conflates effects and desired outcomes with their own dependencies. If CGS’s vision to triple lethality were interpreted as simply a desire to increase combat power, it would be a fairly amorphous goal.
+
+It could instead be argued that lethality is analogous to firepower or fires in the more recent US combat power models. But this would miss another important aspect of lethality. It is the friendly force that applies the firepower, but the enemy that suffers the lethal consequences. Huba Wass de Czege, founder of the School of Advanced Military Studies at Fort Leavenworth – one of the main architects of AirLand Battle and much of modern US military doctrine – was clear in his individual work that combat power is relative, and modelled it accordingly. However, this has been effectively diluted in current doctrine, which implicitly sidelines enemy forces. Lethality, therefore, can be considered the output of combat power, or what is done to the enemy.
+
+Tools for assessing the interaction between forces and thus deriving metrics as to the probable result exist but are increasingly antiquated and therefore inadequate for the current task. First, there is the Correlation of Forces and Means model (COFM), which was last updated in 2000 and is based on old data for both friendly and enemy forces doctrine and capabilities. It therefore requires updating to be relevant. Furthermore, it is an aggregate model (the weaknesses of which is discussed in the next chapter). Second, there is Relative Combat Power Analysis (RCPA), which is similar to COFM and assesses relative strengths and weaknesses. Third, there is the Troops-to-Task model, which is related to troop densities and is largely irrelevant to the debate at hand. Critically, both COFM and RCPA are underpinned by technical weapons data and thus heuristic judgements about how this translates into lethality at the formation level, rather than providing definitive answers about its nature. While they address the inherent requirement for a relative assessment, the simplified methodology loses clarity when applied – a facet of attempting to encompass friendly and enemy systems, both of which are underpinned by (according to US Army doctrine, eight) complex functional components. The prospect of simulation today is likely to allow force planners to be more precise in modelling lethality.
+
+Returning to Wass de Czege’s work, his Firepower Effect Model from 1984 provides the most useful interpretation of applied combat power, and gives a logical breakdown of the relevant considerations, including how to amplify effects and likewise degrade the enemy’s ability to do the same. Its most useful considerations for the task of assessing lethality are the inclusion of:
+
+- “Number of Delivery Means” as a facet of volume of fire.
+
+- “Supply Capability”, particularly the awareness that “Production and Stockage Rates” influence the ability to sustain firepower in the long term.
+
+- “Flexibility of employment” to include weapon ranges, mobility and “Fire-displace-fire time”.
+
+However, this model serves a different purpose – force employment. Therefore, many of its answers are to improve training in specific areas and it gives little detail on the areas of technological improvements that it recommends, at least for the purposes now required.
+
+In some respects, the emphasis on lethality is distinct from other combat power frameworks insofar as, whereas most existing models describe attributes of the force, lethality should arguably emphasise what the force does to the enemy – and this, too, provides additional clarity for force design. The force must not just generate three times as many munitions in the air but also ensure that the enemy suffers three times the damage.
+
+#### The Danger of Lethality as Weaponeering
+
+There is a risk in the pursuit of modelling lethality in force design that it becomes an exercise in weaponeering – allocating task-specific weapons to targets – without the necessary reference to tactics, sustainment or other combat power functions. Weaponeering is supposed to be a component of targeting but has also had an indirect, yet significant, effect on weapons development and thus the force that employs those weapons. The risk is that by setting requirements for weapons optimised by target, such an approach could drive the archetypal exquisite, expensive NATO force structures lacking mass and depth that developed in the post-Cold War era.
+
+The opposite approach, of simply pursuing magazine depth without consideration of target characteristics, can be equally problematic. In Ukraine, for instance, there are many classes of targets that cannot be damaged by slow-flying, low-payload UAVs, irrespective of the number that are fired.
+
+Here it is worth examining the relationship between cost and effectiveness – with lethality as the relevant facet of effectiveness in this instance.
+
+![image02](https://i.imgur.com/FQ1mtj9.png)
+_▲ Figure 2: Lethal Capability Effectiveness: Basic Model_
+
+At a basic level, spending more on designing and manufacturing weapons systems and munitions may result in more effective and lethal systems being procured. This depends on all factors being equal, particularly in the event of procurement failure or perverse contracting incentives.
+
+![image03](https://i.imgur.com/SQdypNF.png)
+_▲ Figure 3: Lethal Capability Effectiveness: Testing and Experience_
+
+However, experimentation, testing and experience may reveal that the relationship between cost and the lethality or effectiveness of a system is not linear.
+
+![image04](https://i.imgur.com/iaZM4Ax.png)
+_▲ Figure 4: Lethal Capability Effectiveness: Requirements for Bespoke and Expensive Weapons_
+
+Sometimes experimentation, testing and experience may reveal that the requirement is for bespoke and expensive weapons and munitions for certain mission-sets and roles.
+
+If more expensive weapons can be more effective, the relationship between cost and performance will often see an efficient frontier or may demonstrate a viable minimum performance envelope before tactical effectiveness is achievable. Experimentation, testing and operational experience may all provide indicators of which dynamic is at play with a given weapon, against a given class of intended target. In practical terms, exquisite weapons often offer wider utility than the limited purpose for which they were designed, due to a combination of at least some of the following positive characteristics: tactical flexibility, robust integrated target acquisition capabilities, comparative proof against countermeasures, range, and a mix of high kinetic and chemical energy. But these weapons will be limited in number, such that their prioritised use is critical.
+
+![image05](https://i.imgur.com/aFyc8BE.png)
+_▲ Figure 5: Lethal Capability Effectiveness: Investing in Integrating a More Expensive Component_
+
+Experimentation, testing and experience may also reveal cases where a weapon can be enhanced to increase its effectiveness. This imposes economic dynamics that can suggest either a minimum sensible cost for a system or that there should be two classes of system: one cheaper and one more expensive, that are distinct from each other. Cost differences between weapons may look starker than when the whole cost of the system is considered. Supply chain issues are often influential in determining both overall costs and availability of different options.
+
+The tendency of NATO forces to err towards the bespoke has left them with fewer, more effective weapons, and assurance in edge-case scenarios. During the Cold War, there was a roughly appropriate weapons mix between the bespoke and cheaper mass. However, the expense, combined with the lack of perceived threat in the post-Cold War period, incentivised cutting stockpiles. The risk of a force design driven by weaponeering is that what begins as a highly lethal force rapidly exhausts its lethality over time.
+
+![image06](https://i.imgur.com/Q9XIXTq.png)
+_▲ __Figure 6: Lethality Over a Prolonged Conflict (Simplified).__ Note: Diagram not to scale. Insurgency and Russian invasion included for comparative purposes, to illustrate steady growth and bursts of centralised mobilisation respectively._
+
+#### Lethality as Efficiency and Institutional Risk
+
+The emphasis in British Army thinking is to pursue force design through the measure of the force’s outputs rather than inputs, or rounds on target rather than rounds fired. This line of thinking is perhaps best demonstrated by the fact that the steps taken to implement CGS’s direction have not focused on the firepower or fires aspects of combat power. Instead, they have started with improving the efficiency of existing weaponry by improving other parts of the combat power model.
+
+The SDR directed that lethality should be improved through pervasive technical surveillance, integrated kill chains, crewed–uncrewed teaming, machine-speed AI support to decision-making, the mass use of autonomous systems, and replenished stockpiles through industrial investment. With Project ASGARD, the British Army has started to implement a “Recce-Strike” complex at all echelons, and provide the lower-echelon framework for what will become Defence’s “Digital Targeting Web”. A basic underlying assumption for the British Army’s increase in lethality is that it is to be delivered by the ability to move information through the military’s networks and the consequent speed and precision of targeting; in other words, achieving increased lethality through hyper-efficiency rather than having more firepower in absolute terms. Information and intelligence can enhance and amplify the impact of existing kinetic capabilities but is dependent on, and cannot overcome, the limitations of the underlying attributes of those kinetic capabilities. Enhancing C2 and ISTAR is a force multiplier, but one that can only serve as a complement to what already exists.
+
+Up to a certain point, the intention and the technology are in alignment and what they offer is clear – better targeting can enable munitions of various types (if not all types) to be delivered faster, more accurately, in instances that require lower latency, and with increased resistance to hard and soft countermeasures. Therefore, the four elements of sensors, network, weapons/launchers and munitions can be individually improved and then integrated. Even an increase in one area alone should, in theory, expedite the effectiveness and efficiency of the other elements.
+
+CGS’s 20/40/40 mix is arguably an attempt to address the approach to increasing firepower as a complementary development to improving efficiency through intelligence and C2. At the same time, it also addresses the deficit in mass and depth through consumables. But the exact ratios CGS outlined are arguably a hypothesis that still needs refinement during force design and testing.
+
+With a limited budget, there is a risk that the investment in C2 is not matched by following through on CGS’s 20/40/40 mix. This could deliver an increase in lethality in the short term, as the firepower of existing systems is multiplied, only for lethality to then decline as existing systems wear out and leave service. Alternatively, there is the risk that investment delivers an insufficient magazine depth such that a theoretical lethality in the early phases of a conflict cannot be industrially sustained. This speaks to a larger institutional tension in the Ministry of Defence (MoD), between the need to increase the effectiveness of the force while also building towards fielding military formations that can fight at scale in NATO Divisions and Corps against the Armed Forces of the Russian Federation. In the first campaign season, this would involve facing successive Combined Arms Armies, with the prospect of the Russian Ground Forces continually reconstituting themselves and fighting on over subsequent campaign seasons in response to attrition, set-backs, lost battles and even operational defeat, as has been observed in Ukraine. Thus, force structures may need to balance the prospect of optimising to win a rapid decisive victory with the less attractive prospect of having to fight a prolonged conflict.
+
+Here it is worth examining battlefield attrition and its effects in further detail.
+
+![image07](https://i.imgur.com/827LA82.png)
+_▲ Figure 7: Linear Attrition_
+
+![image08](https://i.imgur.com/kwIjY8X.png)
+_▲ Figure 8: The Value of Endurance_
+
+Attrition will slowly degrade the combat effectiveness of a force over time. However, resupply and replenishment can counteract this effect.
+
+![image09](https://i.imgur.com/3ZsvvJR.png)
+_▲ Figure 9: Non-Linear Attrition_
+
+It is important to note that attrition is not linear. Military forces will generally hit irreducible minimums or tipping points, after which further attrition causes their effectiveness to degrade at a faster rate – essentially, the force suffers further negative consequences from attritional damage accumulating and compounding. Note that, although the mechanisms for physical damage and the expenditure of munitions and supplies are different, this dynamic is also valid for expenditure followed by a lack of replenishment. Either way, replenishment can avoid a force reaching these thresholds.
+
+![image10](https://i.imgur.com/hOZYefe.png)
+_▲ Figure 10: Combat Experience Leading to Adaptation_
+
+![image11](https://i.imgur.com/RWKmJDL.png)
+_▲ Figure 11: The Effect of Replenishment, Resupply, Rotation of Units, or Replacing Expended Systems with Equivalents_
+
+All warfare is inevitably attritional, although the rate may vary and can be mitigated against through resupply and replenishment. In a related manner, overall combat effectiveness is reliant on lethal capabilities remaining lethal, despite the depletion of either munitions or the loss of delivery systems due to either wear-and-tear or enemy action.
+
+In the face of attrition, combat experience can also lead to adaptation, whether through passive avoidance and mitigation or active countermeasures. These provide mechanisms to avoid hitting tipping points and suffering compounding effects by preventing or lessening further attrition. Since all forces will face the imperative to adapt and have some level of survival instinct, combat experience and adaptation should be assumed – what is key is whether adaptations occur at sufficient speed to be effective.
+
+In short, therefore, while lethality should provide a focusing point for UK force design, it must not devolve into either designing exquisite weapons for each class of target or the pursuit of efficiency through C2 in the absence of adequate magazine depth.
+
+
+### The Challenges of Modelling Lethality
+
+_`Having discussed why lethality is conceptually important as a focusing output of force design for the British Army, it is necessary to discuss the challenges associated with measuring it. As this chapter demonstrates, distilling lethality into a single metric is dangerous; doing so obscures critical considerations. A useful set of metrics for lethality in force design must, as this chapter details, account for the complexity of warfare, be cognisant of the risks of aggregation in models, avoid a reversion to heuristics, and appreciate time as a factor in determining a force’s momentum and culmination point.`_
+
+#### The Complexity of Warfare
+
+The ultimate challenge in producing a robust set of metrics for lethality, as the effect anticipated from the application of a force’s combat power, is that war is wickedly complex and studying it is therefore as much an art as a science. Explaining complex systems with simple metrics is fraught; there is a balance to be struck. On the one hand, there must be an acceptance that all models are inaccurate due to simplification, but “the practical question is how wrong do they have to be to not be useful”. On the other hand, there is the pitfall of the Bonini Paradox. Here, if a model is too detailed (through accurately reflecting the complexity of the subject), it ceases to be useful – as an abstraction aiding understanding and planning, it becomes something simply of academic interest. A perfectly detailed map is, after all, a replica of its subject. Ultimately, a successful model should be simple and provide competitive advantage when applied by planners, without either proving fallacious under the wrong conditions – thus potentially setting the conditions for failure or defeat – or creating unacceptable second-order effects or externalities and thus rendering success irrelevant. The argument that a ground force equipped with tactical nuclear weapons would be more lethal, for instance, is true, but not necessarily compatible with the political purposes for which that force is anticipated to be employed.
+
+#### The Risk of Aggregation
+
+Another trap to avoid with military metrics is that a gross or aggregated estimate expressed as a simple output, such as a numerical measurement, can be unhelpful or misused, for such a metric also aggregates a series of different tasks and components. A tenfold increase in lethality, for example, works as an effective pitch to non-specialist policymakers and budget-holders in that it concisely identifies where investment, modernisation and reform should be focused in broad, conceptual terms – however, by aggregating the output, there is the risk that the criticality of some inputs is lost on budget-holders such that investment is not prioritised where it is required to bring about the desired result.
+
+If an aggregated model is used for procurement and spending, fractions or percentages of that aggregate estimate might be eliminated to save financial costs, while actually rendering the force catastrophically ineffective by imposing irrational constraints. For example, it might be determined that costs can be saved by not buying an improved power plant for a tank during an upgrade process that has become heavier due to increases in protection and firepower, rendering it more “lethal” and tactically unusable. Aggregation can create the illusion of a linear and correlated reduction in capability. In other cases, subjective judgements will inherently be necessary when constructing the underlying model and deciding how data is used. There is always an inherent risk of creating compounding inaccuracies through initial judgement errors. A disaggregated model, although appearing more complicated, will allow working to be checked, errors identified and the model adjusted. An aggregated model may obscure these issues or be more difficult to update to reflect better data.
+
+#### Heuristics
+
+Occasionally, a degree of aggregation yields “good enough” tools. Although these will not necessarily provide adequate explanation from a military sciences perspective, and may therefore be prone to misapplication, they are useful for heuristic planning and can yield comparative advantage. However, if the metrics and tools are simply wrong or are misapplied, they are not useful.
+
+A common example of the “good enough” tool is the 3:1 combat power ratio, considered a key heuristic guideline for whether an attacking force can or should be able to defeat a defender, and arguably highly relevant to the British Army’s SDR proposition. Although it is, in theory, underpinned by COFM and RCPA, very little operational data supports this tool, especially when it is simplified into a 3:1 numerical ratio due to the subjectivity of accurately determining combat power. Data from conflicts since the Second World War suggests much lower ratios are required for offensive combat operations to be effective. Furthermore, sometimes higher numerical force ratios that should grant further advantage have been found to be counterproductive. Comparison between different military forces is difficult and may be exacerbated when dissimilar force types meet – for example, armour versus infantry are each trained and equipped according to different national doctrines – and this yields unscientific value judgements (“guesstimates”) of whether and how these should be interpreted as force multipliers. Nevertheless, as war is as much an art as a science and subjective judgements by experienced commanders can yield good results, or even valuable insights that standardised metrics would not, the model enjoys continued success as an on-the-spot heuristic aid.
+
+Some of this has fed into more nuanced ratios for planners. For example, the historical minimum planning ratios, as used in US Army doctrine for force ratio calculations, is often forgotten at the tactical level but used in deliberate planning at higher echelon (see Table 1).
+
+![image12](https://i.imgur.com/hIEeIhV.png)
+_▲ __Table 1: Recommended Planning Ratios.__ Source: Department of the Army, “Field Manual 5-0: The Operations Process”, March 2010, p. B-16._
+
+Other issues arise when moving from the operational issues around force requirements, to the way in which equipment programmes and force structures can be assessed, based on their lethality. A particularly relevant issue is how to model the way in which a non-homogenous mix of different weapons systems enables a formation to be lethal. The evolution of the theory of combat power highlights the difficulties of creating a model that can be applied across different levels of war. Lethality can, in theory, be applied to individual weapons systems, vehicles, small units and larger formations. However, despite much underlying consistency in the principle of lethality as an attribute, how this manifests and is expressed differs at each level.
+
+Capabilities and enablement that are closely associated with lethality – for example, those parts of the logistics system that directly handle munitions at the tactical level, or targeting of kinetic effectors in a headquarters setting – also become increasingly relevant when moving up to a higher echelon or when certain capabilities requiring synchronisation with others are assessed. Thus, the question of which metrics to factor into lethality calculations, and which to exclude, arises. This is not helped by the limitations of the data available, even if there is a large amount of data in absolute terms. The evidence on how to model the increase in lethality achieved through increases in networking between sensors and effectors, all other factors remaining equal, is mostly empirical. The current Russian full-scale invasion of Ukraine represents a major case study for how important this is while nevertheless exhibiting obvious peculiarities and specific circumstances unlikely to be replicated in a future conflict directly involving NATO.
+
+#### Momentum and Culmination
+
+The concept of culmination is also relevant to lethality. When a force can no longer sustain operations because objectives are no longer achievable, and to attempt to continue would incur increased risk or losses for reduced or negligible benefit, the force has reached culmination. Diminishing effectiveness can be expressed as a non-linear gradient. Tactical culmination is relatively easy to identify, whereas operational culmination is changeable, as different sides adapt and gain or are forced to relinquish relative advantage. Strategic-level culmination is shaped by a complex mix of factors, including the prospects and perception of leaders. At the tactical and operational levels, culmination triggers some combination of required changes and actions: from reorientation and conducting deliberate planning; rest; resupply; the echeloning through of, or relief in place with, fresh replacement forces; reconstitution; or even regeneration. Culmination and the reaching of a culmination point have long been thought of in terms of attrition, human endurance, logistics and the limitations of combat power.
+
+An echelon endeavours to avoid culmination by maximising lethality and rotating its subordinate elements. If the force cannot rotate – and thus resupply – or if battles protract, then the force is liable to disperse combat power and lose momentum. General Rupert Smith wrote of his approach while commanding the UK 1st Armoured Division during the First Gulf War:
+
+> On the basis that over time small fights won quickly incur the least logistic penalty, my intention was to fight quick small battles concentrating all available firepower on each objective in turn to destroy or, if necessary and temporarily, delay the enemy. These small objectives were to be attacked serially at a high tempo by each brigade or battle group in turn. Thus if one got into trouble the other could come to its help, and the one not engaged would be the focus of logistic support.
+
+The ability to concentrate lethality in small engagement can preserve the endurance and extend the culmination point of a much larger formation. The challenge that arises in modelling is that when modelling a divisional engagement, how much of the division’s firepower can be assumed to be available for each engagement by part of the force? Very often in wargaming, the mere presence in the simulation of a higher echelon can risk bringing to bear an unsustainable level of firepower in the tactical action, which would not make sense if the engagement was modelled one echelon up.
+
+But when a model is run at a higher echelon, smaller tactical engagements that are critical to the outcome of the overall fight are rapidly abstracted. The concept of the Lanchester Equation, modelling the relative accumulation of advantage of an aggregate force as attrition is suffered in engagements, is perhaps the perfect demonstration of a very sound theory when it is mathematically represented – with remarkably little utility in assessing any real-world military outcomes.
+
+In summary, therefore, this chapter has outlined four methodological challenges that any model of lethality must avoid:
+
+1. The model must avoid oversimplification to the point of becoming inaccurate, or overcomplication to the point of becoming unusable.
+
+2. The model must avoid expressing lethality as a single metric because this risks aggregating, and thus obscuring, critical dependencies in underlying variables.
+
+3. The model must avoid being misapplied beyond the context for which it was intended.
+
+4. The model must avoid presenting lethality as uniform across echelons.
+
+
+### Four Measures of Lethality
+
+_`The previous chapters have established several propositions. Lethality, as a metric of a force’s output, rather than its input, has value as a clarifying objective for force design. However, it is hard to measure because it is relative, must account for dynamic asymmetric interactions of larger formations, and the output of the force is a product of many dissimilar components, the attrition of which may have a non-linear impact on a force’s outputs. Furthermore, a single aggregate metric for lethality risks obscuring more about the force than it illuminates, driving perverse incentives in force planning and budget allocation.`_
+
+Determining and measuring the lethality of equipment and structures can help to determine how training requirements and performance benchmarks can be adjusted. This is a dynamic relationship; a force’s human capabilities, existing doctrine and culture also influence which weapons and equipment can be appropriately adopted and integrated, and which feasible options might nevertheless prove problematic.
+
+This paper therefore proposes that lethality, for the British Army, be measured against four metrics: overmatch, potential, endurance and efficiency. Each of these is discussed in turn; collectively, they provide different measures that apply to different aspects of the force.
+
+#### Overmatch
+
+To have overmatch is to have overwhelming military superiority in a given engagement. A capability that overmatches an adversary system should defeat it in almost any situation where the two interact. Consider, for example, a Challenger 3 (CR3) main battle tank encountering a Tigr-M infantry mobility vehicle. It is reasonable to state that the outcome is predictable and the CR3 overmatches the Tigr-M.
+
+Imagine that the Tigr-M is carrying infantry armed with an anti-tank guided missile (ATGM) complex. It is conceivable that the CR3 could be mission-killed or destroyed by the ATGM, although the CR3 maintains most of the advantages. The most likely impact of the ATGM is that it would slow down and shape the CR3’s behaviour because it is held at risk, rather than making the loss of the CR3 likely.
+
+Conversely, imagine the CR3 being engaged by a Ka-52 attack helicopter. It is clear that the CR3 is overmatched. The Ka-52 will have better situational awareness, much longer range, has weapons that can defeat the CR3 and magazine depth to re-engage, while the CR3 has very few means of effectively engaging the helicopter, even if it is in range.
+
+What, it may be asked, is the relevance of these somewhat unsurprising observations regarding lethality, given that on a battlefield these interactions would not happen in isolation? If a list of systems is produced of UK and Russian forces, what each system is designed to engage can be modelled. What it is most likely to confront, determined by the tasks it is assigned within the fighting system, can also be modelled. It is unrealistic that UK capabilities should overmatch all Russian capabilities; however, having an overmatch matrix of systems would allow the design of British platforms to focus on overmatching, or holding at risk, their intended counterparts. Where Russian capabilities hold UK systems at risk, war development can focus on mitigating the threat.
+
+To give an example of the utility of the tool, it could be argued that UK armoured infantry overmatch their Russian counterparts as a result of superior training and equipment. However, UK armoured infantry is overmatched by Russian artillery and UAVs. If, however, UK artillery overmatch Russian artillery because of greater range and accuracy and are supported by a kill chain that holds Russian UAV operators at risk (thereby shaping their behaviour), then the artillery may create the conditions for the UK armoured infantry to directly confront their Russian counterparts and prevail.
+
+This example is simplified; nevertheless, the mapping of an overmatch matrix creates specific capability targets by system and can leverage existing weaponeering models. UK artillery, for instance, should outrange and have the accuracy to win the counter-fires battle, and be supported by the kill chain to assure success. But this could come at the expense of delivering general support fire missions, for which a cheap solution, such as 120-mm mortars, might be allocated to the infantry. If too few systems overmatch or hold at risk critical enemy systems, then UK tactical options become disproportionately constrained as friendly forces are shaped to mitigate the threat posed by the enemy. The lethality of the force and its improvement may therefore be measured by the proportion of the overmatch matrix which is favourable.
+
+#### Potential
+
+Overmatch may create a matrix for prioritising capability requirements and missions but does not assess improvement in implementation. Potential, by contrast, is a metric that can be measured as a unit trains, albeit within mission-bounded limitations. Imagine an Apache attack helicopter carrying eight joint air-to-ground missiles (JAGM). If, for the sake of argument, a completely arbitrary probability of kill (PK) of 0.75 against a BMP-3 is assigned, then the potential lethality of the Apache in a sortie may be six targets. Therefore, it could be argued that the Apache has a potential lethality of six. Whether it engages six targets successfully is thereafter a question of crew performance and tactical proficiency.
+
+One reason why performance relative to potential is an important metric to assess when considering a force’s lethality is that it tracks technical capability into tactical capability. Suppose, for example, the British Army invests in a new standard rifle through Project Grayburn that has significantly improved handling, a better optic and a round with greater ballistic energy than the L85 rifle. The capability is assessed to be a 20% increase in the potential lethality of the weapon. However, suppose that British soldiers’ accuracy in combat does not improve. This could be because stress continues to hinder optimal weapons employment, as the doctrinal ranges at which the force engages have not changed, even if the weapon could do more. Alternatively, this could be due to troops not practising shooting enough to be capable of fully exploiting the weapon. The potential effect of the weapon has increased but the actual lethality of the force has not.
+
+Assessing potential can also create priorities for capability development. For example, suppose that UK first-person-view UAV operators should have a PK against infantry of 0.2, but actual data shows that against a potential lethality of 0.2, the force achieves a 0.08 PK. The reasons for this underperformance can be investigated, as follows:
+
+- Is it a problem with latency between detection and engagement?
+
+- Is it a problem with airframe performance in climatic conditions?
+
+- Is it a consequence of enemy electronic warfare?
+
+- Is it a consequence of poor employment too close to the frontline, where the operators are easily located and struck?
+
+- Is it a consequence of flying too far from the frontline, such that the system lacks the range or time on station to reliably engage targets?
+
+Depending on the reason for the underperformance, this can be used to prioritise resources into the technical and tactical improvement of the capability. If the lethality overmatch matrix determines the mission-critical targets for a given capability in the force, the assessment of lethal potential then sets the training and capability development marker for a unit.
+
+In simplified terms, potential can be defined as:
+
+![image13](https://i.imgur.com/CqY3ZHi.png)
+
+#### Endurance
+
+For potential to be measurable, it can only be applied to the execution of a specific tactical action. That potential cannot be indefinitely repeated, however. An Apache, for example, can only maintain a certain tempo of sorties before the airframe needs maintenance, the crew are exhausted, or the platform is lost to enemy action. Degradation in combat effectiveness at the individual level is often binary: a vehicle either does, or does not, lose a tyre; the helicopter is, or is not, shot down. As such, the duration that a weapons system or team can perform a combat task is not a useful metric to track. At the formation level, however, rates of breakdown, the consumption of stores, and losses often trend more closely to standard rates – depending on the activity being undertaken.
+
+If it is assessed that a unit or capability has a level of lethal or destructive effect that it can deliver with each mission – its potential lethality – then the duration that it can deliver this effect can also be evaluated, along with at what tempo, before the unit must be replaced and reconstituted or regenerated. This is a critical assessment for evaluating the force’s capacity to defeat a larger force, as the rate at which its units are expended relative to the adversary will determine whether it can overcome the enemy or will eventually be overwhelmed, despite tactical and capability superiority.
+
+Measuring the endurance of a formation in delivering lethal output also has the advantage of forcing the modelling of, and investment in, survivability and stockpiles. If the assessment, for example, is that a British brigade in Estonia must be able to blunt the attack of a Russian division, over a period in which the rest of the force is mobilised and prepared to enter theatre, then there is a required level of lethality for the force’s constituent elements to ensure they can defeat the regiments that attack it. But, there is also a need for the force to preserve its own combat power, so that it can repeat this against the whole division and remain a blocking force during the subsequent rotation. Extending the endurance of the force and thus the duration over which the force can keep fighting necessarily increases the damage it can do to successive enemy echelons. If, for example, it is assessed that the use of uncrewed ground vehicles reduces the rate at which the force accumulates casualties during resupply and medical evacuation, then this necessarily extends the period over which it can be expected to maintain sufficient combat effectiveness to keep delivering lethal or destructive effects. Similarly, increasing the stocks held organic to the unit and the logistical elements to move them extend the force’s range and endurance before requiring resupply. This, therefore, encourages force planners to assess the force’s endurance against the mission’s requirements, but also factors in investment into the tail of the force as a contributor to lethality.
+
+#### Efficiency
+
+The prospect of fighting multiple enemy echelons requires that the British Army’s lethality can be sustained operationally. If the British Army blunts the first Russian echelon, only to have the lethality of its formations decline as stockpiles run out, then the outcome of the conflict may still be highly unfavourable. Increasing the efficiency of lethality is usually framed around weapons employment against the right target, and therefore an intelligence and targeting problem. This is a mistake. It may be that to achieve the level of integration to meet latency and accuracy requirements, the cost of a munition is so high that the force cannot be sustained to fight in this way. It may also be the case that a cheap area effect munition could deliver the same impact for a significantly lower cost.
+
+Russian force planners have often framed industrial priorities around what will deliver the greatest damage at the lowest cost per effect. This has often led to weapons that are good enough to deliver the required military effect at a much-reduced cost. Ukraine has also pursued the accumulation of data on which weapons damage or destroy enemy equipment, and at what price-point these weapons can be acquired, to prioritise orders given the country’s limited budget.
+
+Efficiency is not always an exercise in cost minimisation per munition. The cost per munition can be multiplied by PK per munition, and the cost of the delivery system as a whole to come to a more complete determination of actual cost. This could be expressed as:
+
+![image14](https://i.imgur.com/NufAURq.png)
+
+These calculations are essential for capability planning and must take into account practical application and battlefield dynamics. For example, Ukraine has found that there are numerous classes of target that either cannot be destroyed by small UAVs, or require so many small shaped charges to damage or destroy the target, that to destroy it, a whole company’s capabilities may be fixed for hours trying to destroy or neutralise one platform. A first-person-view drone might cost $1,500, for instance; if it takes 45 to 60 drones to knock out a tank and each FPV team comprises three to four people, with the whole operation taking hours, then the cost is not efficient relative to a single anti-tank guided weapon which would deliver the same effect, requiring one infanteer about 30 seconds to eliminate a tank. And yet, if an ATGM optimised to defeat main battle tanks is also being used to knock out a wide range of vehicle types, and even hardened fighting positions, then we can assess that a force will likely run out of munitions faster than industry can resupply them. Efficiency requires appropriate weapons to be assigned to the right target, but also for a system to be simplified to the greatest degree possible to defeat the required target.
+
+Systems are also often most efficient in combination. For example, a Ukrainian operation to strike three hardened point targets each required six guided multiple launch rockets (GMLRs) to destroy. These targets, however, were defended by significant Russian air defences. If the GMLR had been launched by itself, at a price point of around $80,000–$150,000 each, around 30% would have got through, suggesting that it would have taken 60 GMLRs to be assured to destroy the targets. Instead, however, by using 118 drones (costing $2,500 each) to suppress the air defences, all 18 GMLRs hit their targets without interception. Without the GMLRs or a similarly expensive munition, however, the payload and velocity of the drones would have been unlikely to do any damage to the target. There was, thus, an efficient combination and optimal ratio of systems.
+
+Cost is also a relevant metric for determining efficiency, but not the most useful. Industrial efficiency – that is, the ease of construction – does not always align with cost but is in many ways more important. The priority is to be able to translate money into industrial output at a rate that matches the necessary rate of consumption, to deliver the threshold of lethality to overcome the specified target. This kind of calculation is often lacking from systems of NATO procurement, but would, if instituted, provide a framework for forcing the simplification of requirements so that weapons are designed that are suitable for scaled production in conflict. If combined with industrial replaceability that can sustain that production in the face of disruption, then a desirable result might be the resilience of that output in the face of prolonged conflict.
+
+#### Implications and Application
+
+It may reasonably be asked how, having emphasised the need for metrics, this paper can conclude without having provided the relevant mathematical formula or even numerical deductions to calculate the “lethality” of the force. The reason for avoiding this final step is simply that accurately modelling weapons engagements requires data on munitions performance and adversary protection that is inherently classified or commercially sensitive. While the mathematical model might be interesting, the numbers that could be generated in this paper would be purely nominal.
+
+Furthermore, adversaries and enemies who retain the will and means to fight will adapt over time, which may cause the effectiveness of weapons mixes and force structures pitted against them to fluctuate over time. Even if the sensing, networking and information processing functions within the future British Army initially provide the desired force multiplier effect to the revised mix of hard capabilities, the effect will fluctuate due to enemy adaptation. At what stages of a campaign different capabilities’ effectiveness can be maintained, and how this will change, is difficult to predict and impossible to precisely quantify in advance – all that this indicates is that thorough preparation at all levels, and for the undesirable or difficult implications of prolonged conflict, is prudent.
+
+Despite the lack of a formula, by defining what is worth measuring with regard to lethality, this paper aims to provide a framework that the British Army can apply to its force design – to inform investment decisions, and evaluate both the required level of lethal and destructive effect (for the force to be assured that it can execute its assigned mission), and to measure progress against it. Applying the measures above with the relevant classified data should provide:
+
+1. An “overmatch” matrix, overlaying how a British Army, as a formation, can break down target sets between its elements – so that specific UK capabilities can be benchmarked against the right target that they must either overmatch or hold at risk.
+
+2. Having determined, using the overmatch matrix, what the kill contracts should be between different parts of a UK formation, it becomes possible to determine the potential lethality of the force – how much it can be expected to destroy – and thus the training headmark for which the commanders need to aim.
+
+3. If modelling the force performing to its potential, the duration for which this level of lethal output can be sustained before the force must be resupplied or rotated can also be evaluated, resulting in the force’s endurance. This determines the time available, and time can become a measure of increasing lethality. A force that can continue to deliver at its potential for longer is necessarily going to deliver more damage.
+
+4. If the efficiency of the force’s weapons employment and the efficiency of production can be harmonised, then it follows that the lethality of the force can be sustained through multiple echelons. If this cannot be achieved, then the force’s lethality risks diminishing echelon by echelon.
+
+![image15](https://i.imgur.com/JqyDFq8.png)
+_▲ __Figure 12: Mapping Enemy Systems by Value and Volume.__ Note: Diagram not to scale. Volume indicates the approximate number of systems or mass._
+
+![image16](https://i.imgur.com/Bd4AMSc.png)
+_▲ __Figure 13: Mapping Layers of Weapons Against Enemy Systems.__ Note: Diagram not to scale._
+
+The four metrics outlined in this chapter also provide different metrics relevant at different echelons of the force. Overmatch sets benchmarks for platform requirements; potential is about the sub-unit’s, and unit’s, ability to employ its weapons systems; and endurance is a metric most relevant to the unit and formation. Efficiency of targeting and weapons matching becomes a question relevant for higher tactical formations, while industrial efficiency is primarily a question for the MoD and the Defence Industrial Base.
+
+![image17](https://i.imgur.com/Xd4ZJMN.png)
+_▲ __Figure 14: Lethality Over a Prolonged Conflict (Simplified).__ Note: Diagram not to scale. Insurgency and Russian invasion included for comparative purposes, to illustrate steady growth and bursts of centralised mobilisation respectively._
+
+There are limitations to the model shown in Figure 14. The proposed metrics of potential and efficiency are dependent on other elements of combat power and therefore should be approached as setting the stage for effective employment, rather than guaranteeing it. Likewise, as with all models, solutions and answers will have to contend with the uncertainties of the battlefield and, in particular, enemy adaptation. Getting lethality right can disproportionately set the conditions for success, but cannot deliver it. The friendly force will need to continue reappraising its own ways and means of operating and continue adapting to maintain effectiveness. These force employment questions are beyond the scope of this paper to answer; rather, the aim is that this question is made easier by having laid the groundwork for future research, through developing the relevant and appropriate tools.
+
+
+### Conclusion
+
+_`In both the US and the UK, concern over the prospect of fighting at a significant numerical disadvantage has driven an interest in the lethality of ground forces. While the abstract concept of lethality is simple enough to grasp – a unit’s capacity to inflict damage for a given level of damage incurred – it is complicated to concretely project prior to an engagement. The value of measuring lethality as a focal point of force design is that it measures a force’s outputs, rather than inputs, and therefore offers the prospect of assessing the ability of a proposed force structure to successfully deliver policy outcomes by defeating a defined threat. A limitation of lethality is that because it is a measure of what one force can do to another, it is necessarily only measurable against a defined enemy. A force’s lethality is contextual, not absolute.`_
+
+Tracking changes in a force’s lethality can help with force design, and although this does not eliminate the subsequent requirement to build a rational model for combat employment, it sets the stage for success. Measurements add value by ensuring that effective combat employment is possible, without requiring either commanders or personnel to overperform. Measurements account for gaps between ways, ends and means – thus mitigating risk with determination and, in all probability, sacrifice.
+
+The pursuit of a single, all-encompassing lethality metric, however, risks aggregating simplifications of numerous subordinate calculations. In doing so, representing lethality as a single metric is exceedingly dangerous, as it risks obscuring weaknesses in the force – creating perverse incentives for policymakers – and ultimately failing to represent the actual capabilities of the force. This paper has concluded that multiple metrics are necessary to properly represent a force’s lethality.
+
+The proposed framework of four metrics is believed by the authors to collectively capture both the force’s lethality across echelons and over the duration of a conflict. It would also create clear indicators for force planners as to where lethality must be improved, and to some extent, whether the issue is technological, tactical or a limitation of training.
+
+This paper also inevitably leads to the conclusion that the CGS’s proposed tripling, or the SDR’s tenfold increase, in lethality can be taken as pointing towards a valid general aspiration. The logic of the CGS’s pitch to triple lethality – by modernising tactics and thereafter integrating new equipment so that the British Army could be significantly more lethal – is sound, and the force has made progress implementing this guidance. Nevertheless, what the British Army must be able to do is definable as a function of British policy to fulfil agreed functions within NATO’s regional plans. The relevant next question, therefore, is whether British deployable forces are sufficiently lethal to defeat the Russian forces anticipated to face them in those plans. This is the specific headmark, rather than a tripling lethality in abstract.
+
+The changes in force design and capability, and in war development, relevant to meeting this headmark can begin by mapping out the threat and using an associate overmatch matrix. The lethal potential of units, their endurance, denoting the duration over which they can sustain that effort, and the industrial efficiency of the weapons being used, can all be modelled. If the British Army’s Project Velocity provided a good definition of the threat and its capabilities, the ongoing Land Battle Metrics programme should provide robust answers as to how the force needs to develop.
+
+The biggest challenge with measuring lethality, however, is probably not methodological but political. The creation of clear metrics would invariably put into stark, measurable terms the gulf that separates the policy ambition of UK ministers from the resources they are prepared to make available. It is not generally acceptable for the British Army or any of the other services to come up with a document that, essentially, points out the contradictory character and thus fundamentally flawed nature of governmental policy. The result is that it is highly likely that what may begin within the British Army as a rigorous and good faith effort to measure what is required will be unpicked, distorted or diluted as it goes through the process of negotiation and iteration across commands and the MoD – so that, ultimately, the representation of reality better conforms to what is deemed politically and financially achievable rather than militarily necessary to make policy realistic. Creating a measurable headmark for force design, precisely because it would leave no ambiguity to enable ministers and senior officials to avoid hard decisions, risks suffering from this intellectual dishonesty. Nevertheless, if the analysis cannot survive contact with politics, then the risk is magnified that British forces will not survive contact with the enemy. In that sense, the CGS’s ambition to triple the British Army’s lethality should not only be read as an ambition, but an imperative.
+
+---
+
+__Nick Reynolds__ is the Research Fellow for Land Warfare at RUSI. His research interests include land power, wargaming and simulation. Prior to joining RUSI, he worked for Constellis.
+
+__Jack Watling__ is the Senior Research Fellow for Land Warfare at RUSI. Jack works closely with the British military on the development of concepts of operation and assessments of the future operating environment, and conducts operational analysis of contemporary conflicts. He has worked extensively with the Ukrainian Armed Forces during Russia’s full-scale invasion, across NATO, and in Iraq, Mali and Rwanda, on Yemen and further afield.
