@@ -1,0 +1,64 @@
+---
+layout: post
+title : Europe’s AML Package
+author: Kinga Redlowska
+date  : 2026-04-09 12:00:00 +0800
+image : https://i.imgur.com/U5176Hb.jpeg
+#image_caption: ""
+description: "A Strong Framework at the Wrong Time?"
+excerpt_separator: <excerpt/>
+---
+
+_The EU’s new super-supervisor is coming to life, but will it enable or restrict the future of the EU’s financial services industry?_
+
+<excerpt/>
+
+While the new European financial crime watchdog, the Anti-Money Laundering Authority (AMLA), is slowly settling in Frankfurt, the EU faces rising internal and external security threats, all of which have a financial dimension. From Russian sabotage and sanctions circumvention to terrorism and organised crime, our security increasingly depends on our ability to tackle illicit finance. But is the EU’s response to money moved outside the law, or within it but with harmful intent, fit for purpose? Or are its structures and responses still rooted in the challenges of the past?
+
+In the 2010s, Europe was rocked by a series of financial crime scandals, with Danske Bank the most prominent example of the impact of weaknesses in anti-money laundering responses across the EU. Back then, the existing anti-money laundering directive covering the European and national level anti-financial crime frameworks – or its implementation – appeared to fail to secure the integrity of the European financial system. In response, Brussels bureaucrats undertook a lengthy exercise to design a response that would strengthen defences. Fast forward a couple of years to July 2021, and the European Commission introduced its proposed Anti-Money Laundering Package (AMLP) to improve, modernise and advance the bloc’s response to illicit finance. At that time, the suite of measures was framed as “ambitious” by policymakers and commentators alike, promising to “improve the detection of suspicious transactions and activities and to close loopholes used by criminals to launder illicit proceeds or finance terrorist activities through the financial system”.
+
+
+### Adopting the Package
+
+After extensive debates, consultations and trilogue meetings, the package was adopted in May 2024. The timing presented this new arrival with immediate challenges. Russia’s full-scale invasion of Ukraine was into its third year, which had led to an unprecedented expansion of EU sanctions, and Donald Trump’s second term was shortly to begin. Both events significantly impacted the global and European financial system, creating seismic geopolitical and economic shifts (including an acceleration in the development of alternative financial systems), something that the raft of new EU legislation failed to anticipate or capture. Nevertheless, this legislation is now being rolled out at the EU and national levels. The machinery is already in motion and gathering its own momentum, but given all that has happened in the years since the AMLP first entered consideration, does the past ambition remain relevant against this dramatically changing backdrop?
+
+The EU’s approach includes three main pillars: an EU regulation (AMLR), which introduces a single rulebook for combatting money laundering and terrorist financing and establishing uniform rules that are directly applicable across all member states; a directive, which is the EU’s sixth iteration of the effort to regulate supervision and enforcement; and the establishment of a new institution, the AMLA, mandated to act as a direct supervisor to forty still-to-be-selected highest-risk cross-border financial institutions and as the coordinator of national supervisors. Additionally, the package implements the crypto travel rule (requiring sender and recipient details to accompany each crypto transaction), so now the rule applies also to crypto-asset service providers (CASPs).
+
+The theory is clear, but how has the plan been rolled out in practice?
+
+Before the work could begin, a home needed to be founded for AMLA. The path to finding the host city for a new EU institution that will reach the planned capacity of almost 400 staff members was a true saga. A fierce and unyielding competition singled out the winner – Frankfurt. Behind-the-scenes tensions over the host city continued over the past year as the winner struggled to secure a school for the children of incoming EU officials. Furthermore, a migration of financial crime experts, though still in its early stages, is already draining the resources of national supervisors, undermining the already stretched resources of member states. The issue (not the shrinking resources at the national level but the school) has been resolved thanks to ECB President Christine Lagarde’s intervention. But this is hardly the kind of achievement that makes for a strong headline on the eve of the authority’s first anniversary.
+
+
+### Progress So Far
+
+Where does AMLA stand almost a year after its launch? It has established its management board (with a notable and unexpected change, a swap from a German to a Dutch representative) that comprises solid geographical representation and a breadth of necessary experience. The core team, composed of new hires as well as former employees of the European Banking Authority (EBA), is continuing consultations in line with the EBA’s mandate to support the rollout of the AMLP. Awareness of what is to come has been raised across the EU as senior AMLA representatives attend conferences and workshops, and consulting companies have established representative offices in Frankfurt in the hope of securing lucrative contracts on the back of the increased regulatory burden supervised firms expect to face. But is this effort leading to a European financial system that is more secure, resilient, transparent and well-suited to the changing economic and geopolitical landscape it confronts today? To seek an answer, one needs to look at both national and supranational levels, consider the perspectives of member states and look beyond Europe to see what is happening, for example, on the other side of the Atlantic or in the UK.
+
+In June last year, the Centre for Finance and Security (CFS) at RUSI team visited Vilnius to gather insights from a small European economy with no major native financial institutions but a vibrant FinTech ecosystem. The subsequent report highlights a persistent “Brussels-national level” gap (a truly daunting gap, difficult to bridge regardless of the subject of the regulation), with national operators lacking clarity and confidence on how the new system, which will inevitably affect their operations, work in practice. Market participants expressed uncertainty about how supervision will change under AMLA and whether the new model will be implemented top-down, or, as an unfulfilled dream for many, in an interactive, collaborative manner.
+
+In Vilnius, there was particular nervousness among FinTech representatives. Lithuania has one of the largest FinTech sectors in the EU, with over 280 fintech companies licensed. It ranks among Europe’s leading fintech hubs, and the sector contributes significantly to the country’s economic growth and EU financial innovation. But while the AMLR seeks to establish a harmonised regulatory environment, its real-world impact may diverge significantly from this objective – particularly for digitally native financial service providers operating across borders.
+
+
+### The Case in the Netherlands
+
+To complement the insights from Lithuania, the RUSI team also travelled to gather on-the-ground experience in another EU jurisdiction, the Netherlands, widely seen as primus inter pares in European AML efforts and a standard-setter within the EU. A workshop hosted by KPMG in Amsterdam highlighted numerous sensitivities. Firstly, a “one-size-fits-all” AML approach does not reflect Dutch system characteristics – a loss of the feedback loop and data richness (rooted in a unique “unusual transactions” (UTR) model, where the FIU analyses and designates reports as suspicious, that will now be replaced by a suspicious transaction (STR) approach under the AMLR), creates uncertainty about AMLA’s commitment to effectiveness and fears of a slip back to a focus on a technical, rules-based approach.
+
+Large Dutch FinTechs and payment firms (in other words, those operating globally across multiple jurisdictions) are concerned that some AMLR provisions (for example, Article 17, which covers branches and subsidiaries in third countries) may apply outside the EU, posing a risk of conflicting with third-country regimes and undermining the competitiveness of EU-based global firms. Others voiced concerns that implementation will require a major investment (IT, staffing, training), but the introduced changes may lead to nothing but more bureaucracy and a focus on technical compliance. And without clear improvements in outcomes, the reforms risk being seen as costly but not more effective.
+
+Consistent with this feedback, a recent report from the Netherlands Court of Audit (Algemene Rekenkamer) underlines these concerns, suggesting that this new EU AML framework addresses structural weaknesses in supervision rather than resolving the more fundamental EU-wide problem that there is a lack of a clearly evidenced, risk-based link between AML controls and meaningful disruption of illicit finance.
+
+At the same time, there was clear enthusiasm for the potential of increased information sharing offered by the AMLP. Data sharing between financial institutions (Article 75) provides opportunities for more coordinated, and thus effective, action across the AML chain. Participants hoped that AMLA would seize this opportunity and avoid regulatory “overshoot” where they fail to unlock this opportunity. There was also a cautious optimism that AMLA could reduce fragmentation by aligning supervisory practices across Member States. Undoubtedly, an opportunity to create a more level playing field is very much welcomed in a sophisticated jurisdiction such as the Netherlands.
+
+But, echoing the core message from participants in the Netherlands, it is a substantial increase in the effectiveness of the anti-financial crime framework that Europe badly needs in turbulent and economically challenging times, marked by geopolitical shifts and realignment of the global system. Early indications are that the new round of Financial Action Task Force (FATF) evaluations is likely to reveal that effectiveness remains a challenge for some EU member states.
+
+
+### A US Reversal
+
+In the meantime, the US is quietly moving in the opposite direction, signalling to market participants that the authorities are embracing a more relaxed approach by, for example, delaying the introduction of new measures on corporate transparency and relaxing application of the longstanding Foreign Corrupt Practices Act (FCPA). Trump’s Generating Innovation in the US (GENIUS) Act offers a clear, favourable framework for virtual assets, encouraging stablecoins to be pegged to the US dollar. This approach both modernises the American financial system and strengthens global demand for the dollar, effectively killing two birds with one stone. In the UK, the CEO of the Financial Conduct Authority has also made clear that he sees a future with fewer rules.
+
+Thus, at a time when there is a sense of deregulation in advanced competing economies, the European financial supervisory regime is moving in the opposite direction. This situation risks leaving European financial institutions at a competitive disadvantage, without necessarily making the system more effective or societies more resilient to hostile activity. Regulations and directives designed just a few years ago – a short time by Brussels standards but a long time in today’s rapidly evolving global landscape – are already struggling to keep pace. They fail to address key structural vulnerabilities in the EU’s response to financial crime, including fragmentation, a widening speed gap and still insufficient information sharing.
+
+Ultimately, the EU AML Package may prove to be a well-intentioned reform that arrives at the wrong moment, risking slowing innovation when Europe can least afford it, at a time when the EU is seeking to cut red tape and simplify the business environment and is failing to address the rising significance of finance as an increasingly important dimension of current security threats.
+
+---
+
+__Kinga Redlowska__ is the Head of CFS Europe at RUSI. She leads the Centre for Finance and Security’s Brussels-based work at the intersection of illicit finance, economic security and geopolitical risk, focusing on the EU and its neighbourhood. Her expertise covers the use of financial tools to address security threats, alongside broader challenges related to financial integrity, public-private cooperation and emerging risks linked to state and non-state actors.
