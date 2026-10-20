@@ -1,0 +1,292 @@
+---
+layout: post
+title : New Rhythms In GEO
+author: Madeleine Chang and Kari A. Bingen
+date  : 2026-04-06 12:00:00 +0800
+image : https://i.imgur.com/8MX7u6b.jpeg
+#image_caption: ""
+description: "A Quantitative Analysis of Unusual Behavior in Geosynchronous Orbit by Chinese Satellites, 2016–2025"
+excerpt_separator: <excerpt/>
+---
+
+_Geostationary orbit used to be a parking lot. Some Chinese satellites are circling the lot, tailgating other cars, and pulling into spots that aren’t theirs. This report explores nine years of data on what these satellites have been doing._
+
+<excerpt/>
+
+This open-source analysis reveals a wealth of information regarding China’s dynamic satellites in geosynchronous orbit (GEO). Eight satellites selected through algorithmic methods, as well as one unusual newcomer, exhibit distinct long-term behavior patterns that both raise questions about and provide insight into their missions.
+
+The analysis yields three key insights:
+
+1. Chinese satellite movement in GEO has historically been uncommon. The majority (86 percent) of Chinese satellites in the dataset did not shift longitude during the study duration. Fewer than 10 percent executed three or more longitudinal shift maneuvers during the nine-year period examined in the study.
+
+2. The frequent movers can be batched into four categories based on the nature and timing of their movements: the Larks, the Skyliners, the Drifters, and the Ink Spots. These satellites exhibit distinct, categorizable behavior types that are unprecedented in GEO, and each pattern raises different questions about intent.
+
+3. All the frequent mover satellites were manufactured by one of two subsidiaries of the China Aerospace Science and Technology Corporation (CASC), one of China’s largest state-owned enterprises. China Academy of Space Technology (CAST) and Shanghai Academy of Spaceflight Technology (SAST) frequent movers are distributed almost evenly among the categories above, but notably, all SAST satellites (but only one CAST satellite) have demonstrated rendezvous and proximity operations.
+
+
+### Introduction
+
+Geosynchronous orbit (GEO) is the circular orbit around the equator where a satellite’s orbital period can match the Earth’s rotational period while expending minimal energy. This orbit, approximately 36,000 kilometers from Earth, is an ideal location to place communications and missile warning satellites that cover large swaths of the globe. To an observer on the ground, most satellites in GEO appear to be stationary. But the stationary use of this orbit is changing. Some satellites stalk the GEO belt, slipping between certain inhabitants and creeping up toward others. The U.S. Space Force has criticized Chinese GEO satellite operators for making “norm-shattering” movements in orbit.
+
+This report seeks to provide an open-source assessment of unusual activity in GEO by Chinese satellites. Understanding unusual operator behavior in GEO is important for setting norms of behavior, as well as for understanding how maneuver behavior might evolve over time. This data-driven assessment will provide a quantitative foundation for further discussion of this issue.
+
+Since 2016, Western analysts have warned of Chinese satellites in the GEO belt exhibiting potentially threatening capabilities and movements. Reports from the Pentagon and the U.S. intelligence community, as recently as 2025, cautioned that “China has counterspace-weapons capabilities intended to target U.S. and allied satellites.” They point to technology demonstrations in GEO such as satellite Shijian-21 (SJ-21) grabbing another satellite and Shijian-17 (SJ-17) fielding a robotic arm, which “could be used in a future system for grappling other satellites.” CSIS’s annual Space Threat Assessment has covered China’s dual-use on-orbit activities since 2018, including more frequent rendezvous and proximity maneuvers—satellites maneuvering around other space objects—over time.
+
+However, existing descriptions of these satellites’ behavior have been primarily case specific. Through a numerical analysis on open-source satellite positional data, this report will provide a quantitative basis for further discussion of unusual activity by Chinese satellites in GEO.
+
+This report seeks to answer three questions:
+
+1. How can unusual activity in GEO be quantitatively defined?
+
+2. What do official Chinese Communist Party (CCP) sources and outside analysts say about the missions and capabilities of satellites exhibiting unusual behavior?
+
+3. How can the satellites’ patterns of unusual behavior be empirically characterized and potentially categorized?
+
+
+### Unusual Behavior
+
+The goal of this section is to identify the set of Chinese satellites that exhibit unusual behavior in GEO using quantitative methods. Subsequent sections will look further into the missions and capabilities of these satellites, as well as sort these satellites into categories based on their unusual behavior patterns.
+
+First, the author identified an appropriate methodology to determine what makes a satellite’s behavior unusual. In their 2022 academic paper, “A Survey of Longitudinal-Shift Maneuvers Performed by Geosynchronous Satellites from 2010 to 2021,” U.S. astrodynamicists Thomas González Roberts and Richard Linares provide a method to extract satellite maneuvers from open-source satellite position data. Roberts and Linares note that most satellites in GEO do not move—“approximately 60 percent” of satellites in GEO stay at one longitudinal position for their entire lifetime (see Figure 1). This suggests that the majority of GEO satellites serve their missions by remaining over the same place on the equator.
+
+![image01](https://i.imgur.com/3RYkOJ1.png)
+_▲ __Figure 1: Numbers of GEO Satellites that Performed Different Counts of Longitudinal-Shift Maneuvers, 2010–2021.__ Source: Thomas González Roberts and Richard Linares, [“A Survey of Longitudinal-Shift Maneuvers Performed by Geosynchronous Satellites from 2010 to 2021”](https://www.researchgate.net/publication/363670397_A_Survey_of_Longitudinal-Shift_Maneuvers_Performed_by_Geosynchronous_Satellites_from_2010_to_2021) (paper presented at the 73rd International Astronautical Congress, Paris, France, September 18–22, 2022)._
+
+However, as Roberts and Linares posit, satellites that maneuver in GEO are characterized by frequent longitudinal shift behaviors which can be quantified. The more longitudinal shifts beyond one position that a satellite makes over its lifetime, the greater its movement. This count serves as a proxy for unusual behavior, with the highest count, or top-mover, satellites identified for closer analysis in subsequent sections.
+
+#### Methodology
+
+Focusing on top-moving Chinese satellites in GEO, this report conducts a longitudinal shift analysis on those satellites and identifies outliers by total longitudinal shift maneuvers over the last nine years for each satellite.
+
+The satellite dataset for this study was selected from Space-Track.org, the space object catalog maintained by the U.S. Space Command’s 18th Space Defense Squadron. This dataset has 109 GEO satellites registered to the People’s Republic of China (PRC). The positional time-series data for each satellite cover the time period from January 1, 2016, to July 14, 2025.
+
+Through a series of linear regressions and sine fits, the algorithm identifies time periods when the longitudinal time series for each satellite resembles a stair-step maneuver, which refers to those longitudinal shifts that begin and end with station-keeping at two different longitudinal positions. During this process, the number of maneuvers during this nine-year period for each satellite was recorded.
+
+The Chinese satellites were then categorized by quantity of longitudinal shift maneuvers identified by the algorithm for each satellite. Figure 2 shows the number of PRC GEO satellites performing longitudinal-shift maneuvers over the covered time period.
+
+![image02](https://i.imgur.com/nseHD6F.png)
+_▲ __Figure 2: Numbers of Chinese GEO Satellites that Performed Different Counts of Longitudinal-Shift Maneuvers.__ Source: Author analysis of Space-Track.org data._
+
+Out of 109 Chinese satellites in GEO, 94 satellites (86 percent) generally did not move (i.e., they did not execute any longitudinal-shift maneuvers as defined by the algorithm). Only eight satellites performed three or more maneuvers to different longitudinal positions during the nine-year study period, putting them in the most active 10 percent of Chinese GEO satellites. These satellites are thus unusual because of the frequency of their longitudinal maneuvers.
+
+A closer examination of the aforementioned top-mover satellites results in the following shortlist of active satellites:
+
+![image03](https://i.imgur.com/yx8gjH8.png)
+_▲ __Table 1: Active Chinese GEO Satellites.__ Source: Author analysis of Space-Track.org data._
+
+#### Limitations
+
+There are a few limitations associated with using Space-Track.org as a primary data source. Positional data is recorded for each satellite, at most, every eight hours, but oftentimes less frequently, which introduces error and limits precision as satellite maneuvers within those intervals may not be captured. Additionally, when a satellite moves, there is often a delay before it can be tracked again. Cross-tagging, or the accidental mislabeling of space objects that are near each other, is another source of error that is difficult to systematically rectify.
+
+There are also limitations of the algorithm used to identify maneuvers. It is designed to detect only stair-step maneuvers. A satellite continually shifting position or adjusting its drift rate during a maneuver will introduce error into the maneuver identification algorithm. This results in the maneuver counts in Table 1 representing lower bounds for unusually maneuvering satellites.
+
+
+### Overview of Chinese Top-Mover Satellites
+
+This section provides an overview of the eight satellites identified in the previous section as unusual movers, listed by launch date. Shijian (SJ)-25, an additional ninth satellite, is also listed based on observed unusual behavior. The first part of each subsection includes PRC statements on the missions and developer of each satellite. Sources are primarily CCP state-run media and direct company statements from state-owned enterprises (SOEs). The latter part of each subsection features external analysis on the missions of the top-mover satellites, including from the U.S. Space Force, academia, and industry. These perspectives can provide insight into the missions that inform satellite maneuver behavior, which the following section will examine and attempt to categorize.
+
+#### ChinaSat-20A
+
+ChinaSat-20A (中星-20A, Zhongxing-20A) was launched on November 25, 2010, from Xichang Satellite Launch Center. It was developed by CAST, the Fifth Academy under the state-owned enterprise CASC. Xinhua News Agency reported that “the ChinaSat-20A satellite is a communications and broadcasting satellite of China Satellite Communications Group Co., Ltd., mainly used for transmitting voice, data, radio and television, etc.” The press report indicates the satellite is used for civil purposes, stating that it “will provide better services for [China’s] satellite communications and broadcast television.” A corroborating state news segment also describes ChinaSat-20A as a “communication satellite for general service.”
+
+On the other hand, analysts outside China have suggested that ChinaSat-20A is a military communications satellite. Its entry in the NASA Space Science Data Coordinated Archive states this directly, while Space.com and Via Satellite reported shortly after the satellite’s launch that it “likely provides secure communications coverage for Chinese military ground forces.” A 2012 report on China’s space capabilities published by Indian think tank Centre for Air Power Studies explains that “there have been speculations about [ChinaSat-]20, 20A, 22A and 1A satellites as being dedicated military communication satellites. . . . This appears to be actually so as there is very little information officially declared on these satellites,” adding that “these satellites are not mentioned in the list of satellites operated by the state-owned China Satellite Communications Co. Ltd. which operates all the other [ChinaSat] satellites.”
+
+#### SJ-17
+
+SJ-17 (实践十七号, Shijian-17) was launched on November 3, 2016, from Wenchang Space Launch Center. Like ChinaSat-20A, SJ-17 was developed by CAST. According to state media, the satellite will be used for “geosynchronous orbit communication and broadcasting services, and select opportunities to carry out verification of new technologies.” Two technologies on board SJ-17 include electric propulsion, developed by the Lanzhou Institute of Space Technology and Physics, and a robotic arm, as then–Commander of U.S. Space Command General James Dickinson testified to Congress in 2021.
+
+SJ-17 has been heavily scrutinized by analysts outside of China. In addition to General Dickinson’s testimony, CSIS’s Aerospace Security Project has reported on SJ-17’s behavior in its annual Space Threat Assessment, releasing a data repository tracking SJ-17’s movements through 2020 which emphasized the satellite’s unusual proximity to neighbors. A 2023 Secure World Foundation report states that SJ-17 has conducted “robotic [rendezvous and proximity operations] demonstrations in GEO,” highlighting a rapid approach to inspect ChinaSat-1C that “suggests the SJ-17 has significant delta-v capability.”
+
+#### TJS-3
+
+TJS-3 (通信技术试验卫星三号, Tongxin Jishu Shiyan-3) was launched on December 25, 2018, from Xichang Satellite Launch Center. It was developed by SAST, the Eighth Academy of CASC, which cryptically describes the satellite’s mission as “carry[ing] out relevant technology verification.”
+
+Like SJ-17, TJS-3 has been scrutinized by Western analysts for its close-approach behavior. Reporter Andrew Jones wrote in March 2023 for Space.com that “orbital data reveals that TJS-3 has been making close approaches to American satellites in recent months . . . pausing to take a closer look at satellites USA 233 and USA 298, both thought to be military communications satellites operated by the U.S. Space Force,” also noting that “TJS-3 approached as close as 3.8 miles (6.2 km) to USA 233 on Oct. 31, 2022.” The 2023 Secure World Foundation report added that TJS-3 released a subsatellite which was able to maneuver independently—unusual compared to the apogee kick motors (AKMs) typically released by satellites to get a final boost to orbit. Jim Cooper of COMSPOC, a U.S. space situational awareness (SSA) company, provided further context, explaining that in May 2019 both objects “maneuvered to change their orbits, and they did so at the exact same time, and then the exact same way,” resulting in “the apogee kick motor — which is basically a rocket body… flying where the TJS 3 counterspace platform used to be.” He suggests that this behavior could be “the development and experimentation and validation of what we call a tactic, technique and procedure, a TTP, to spoof an enemy’s network for SSA.” Ground-based SSA networks can be confused by objects in space that are very close together.
+
+#### SJ-20
+
+SJ-20 (实践二十号, Shijian-20) was launched on December 27, 2019, from Wenchang Space Launch Center. It reached its orbit in GEO on January 5, 2020, after a nine-day journey involving “a series of on-orbit tests and verifications of new technologies.” It was developed by the Communication Satellite Division of CAST and pioneered CAST’s new Dongfanghong (DFH)-5 heavy GEO satellite platform, which CASC, CAST’s parent company, hopes to use for “high-orbit communication, microwave remote sensing, optical remote sensing, space science exploration, scientific experiments, and on-orbit services.” CASC announced that SJ-20’s in-orbit tests included the “deployment of China’s largest and most complex solar array” and employing an electric propulsion system for station-keeping at 36,000 km (22,369 mi).
+
+Western analysts have been relatively quiet on SJ-20’s activities since it has not been recorded to have engaged in rendezvous and proximity operations (RPOs). However, reports have noted a maneuver SJ-20 executed in 2021 to avoid U.S. Space Force satellite Geosynchronous Space Situational Awareness Program (GSSAP)-4. As GSSAP-4 approached, SJ-20 “increased distance to hinder any attempt by GSSAP to gain information about its capabilities.” Beyond CASC’s statement, SJ-20’s mission capabilities remain unclear.
+
+#### SJ-21
+
+SJ-21 (实践二十一号, Shijian-21) was launched on October 24, 2021, from Xichang Satellite Launch Center. It was developed by SAST to be “mainly used for space debris mitigation technology test and verification.” The satellite did just that in January 2022, when, after a month of slowly approaching defunct Chinese navigation satellite Compass G2, SJ-21 grabbed the other satellite and pulled it into a graveyard orbit outside GEO. This raised alarms in the U.S. national security community; a 2022 Defense Intelligence Agency report on space security cited SJ-21 and SJ-17’s actions while warning that “space-based robotic arm technology could be used in a future system for grappling other satellites.”
+
+Before the Compass G2 RPO, the U.S. Air Force–affiliated China Aerospace Studies Institute (CASI) published a report on SJ-21 based on Chinese academic publications. The CASI authors state that “SJ-21 is probably going to be China’s second On-Orbit Servicing, Assembly, and Manufacturing (OSAM) practice-series satellite (Shijian) in GEO” after SJ-17, suggesting that “one could also reasonably expect SJ-21 to advance work China has already done in lower orbits to practice [RPOs] and the use of a robotic arm. This time, China might practice using multiple arms, a different type of debris mitigation technology such as that needed for refueling or deorbiting, or a combination of those.” At the time of CASI’s report, it had not yet been confirmed that SJ-17 had a robotic arm; SJ-21 is still not confirmed at time of writing to have used a robotic arm with Compass G2. Space-track.org also recorded an AKM for SJ-21, but it does not appear to be an independently maneuvering subsatellite or to have conducted RPOs with SJ-21.
+
+#### SY-12-01, SY-12-02
+
+SY-12-01 and SY-12-02 (试验十二号卫星01星、02星, Shiyan-12-01, -02) are a pair of satellites that were launched together on December 23, 2021, from Wenchang Space Launch Center. They were developed by CAST and, according to CASC, are “mainly used for space environment detection and related technical tests.”
+
+Accordingly, the SY-series of Chinese satellites has historically had a role “as a platform for piloting new technologies.” While the SY-12s have not conducted RPOs, Western analysts have noted their coordinated movements. SpaceNews described the SY-12s as “Chinese inspection satellites” in a June 2022 article. The article reported that in early 2022, SY-12-01 and SY-12-02 “took off in opposite directions” to avoid a U.S. “space surveillance satellite,” with “Shiyan 12 02 moving into position to get a sunlit view of the U.S. surveillance satellite.” The CSIS Space Threat Assessment 2024 describes an analogous incident where “in late 2023 . . . Shiyan (SY) 12-01 and 12-02 appeared to move in synchronized yet opposite directions, apparently similar to maneuvers they did in 2022.”
+
+#### SJ-23
+
+SJ-23 (实践二十三号, Shijian-23) was launched on January 9, 2023, from Wenchang Space Launch Center. SJ-23 was developed by SAST and is reported by state media to be “mainly used for scientific experiments and technology verification.” U.S. media outlet NASASpaceflight.com reported that, like other SJ-series satellites, SJ-23’s “exact purpose and use have been kept a secret” but notes that “this payload was the heaviest that has ever been launched on a Chinese medium-lift launch vehicle.”
+
+SJ-23 has an associated AKM which it has conducted RPOs with; Space.com reported weeks after SJ-23’s launch that “Shijian 23 and its apparent subsatellite could be conducting technology verification tests.” Since then, news on SJ-23 has been scarce. The CSIS Space Threat Assessment 2024 mentioned that “over several weeks in February 2023, SJ-23 and a U.S. GSSAP satellite appeared to move westward in GEO coincident with each other, covering about 100 degrees in longitude,” but it is still unclear what this may mean for either satellite.
+
+#### SJ-25
+
+SJ-25 (实践二十五号, Shijian-25) was launched on January 7, 2025, from Xichang Satellite Launch Center. According to state media, SJ-25 was developed by SAST and is “mainly used for satellite fuel replenishment and life extension service technology verification.”
+
+SJ-25 may be the first satellite to refuel another spacecraft in orbit. In June 2025, Western media reported that SJ-25 steadily drifted toward SJ-21, with the two satellites making “at least a test-run close approach” and possibly even “perform[ing] a docking and undocking test.” Commercial SSA providers also observed another prolonged RPO between SJ-25 and SJ-21 the following month. At time of publication, neither the Chinese government nor the U.S. government had confirmed details of the close-approach behavior. The capability to refuel satellites could allow an operator to extend lifetimes, increase maneuverability, and enable further adaptivity of its on-orbit assets. The U.S. Space Force plans to demonstrate refueling in GEO in 2026.
+
+Unlike the other satellites listed, the algorithm described earlier to identify moving satellites did not detect any maneuvers for SJ-25. As discussed in the limitations section, satellites that move irregularly may not have maneuvers logged accurately. SJ-25, despite reports of longitudinal shifts, was not flagged, likely because it has not displayed a consistent pattern of behavior in the six months of positional data analyzed by this report. However, it is included in the set of satellites considered in this report for its unusual behavior.
+
+#### Developers and Behavior
+
+The following section explores potential relationships between the key satellites’ developers and missions. Table 2 lists each satellite, its launch date, the organization that developed it, whether or not it employed an apogee kick motor, and whether or not it has engaged in a rendezvous and proximity maneuver. AKMs are single-use rockets used to boost satellites into their final orbit; both Chinese and U.S. satellites have used AKMs to enter GEO. For the purpose of this analysis, subsatellites are considered within the AKM category since they are not distinguished by Space-track.org.
+
+![image04](https://i.imgur.com/TfKi1x7.png)
+_▲ __Table 2: AKM and RPOs of Key Chinese GEO Satellites.__ Source: Author analysis._
+
+All of these satellites were developed by one of two subsidiaries of CASC, the large SOE that produces the Long March series of launch vehicles, the majority of the BeiDou constellation (China’s GPS equivalent), manned spaceflight vehicles, and lunar orbiters and landers. The Fifth Academy of CASC, CAST, is located in Beijing and is well known for the DFH satellite platform. The Eighth Academy of CASC, SAST, is located in Shanghai and manufactures several of the Long March series of rockets, as well as satellites. Both sell commercial products in addition to working directly with the People’s Liberation Army (PLA).
+
+Three of these satellites have AKMs recognized by Space-Track.org. All the key satellites that separated from an AKM—TJS-3, SJ-21, and SJ-23—are developed by the Eighth Academy. Both TJS-3 and SJ-23 were observed to practice RPO maneuvers with their respective AKMs. Notably, all four Eighth Academy satellites on the list have conducted RPOs, while SJ-17 is the Fifth Academy’s only RPO satellite.
+
+Why are two subsidiaries of the same corporation working on satellites with similar missions and similarly odd maneuver behavior? Of the five SJ-series satellites on the list, two are produced by the Fifth Academy and three by the Eighth Academy. Like the U.S. federal government, CCP policymakers recognize the value of cultivating a diverse set of suppliers. While the Chinese SOE structure precludes free market competition, the subsidiaries of SOEs are pitted against each other to motivate innovation. Princeton sociologist Kyle Chan coined the term “managed competition” in 2022, writing that “competition among SOEs is managed through the reallocation of personnel and resources across firms to ensure a core set of competing firms with relatively similar capabilities.” In this case, the Fifth Academy and the Eighth Academy may have been set up by CASC to compete on maneuverable GEO satellite development.
+
+
+### Movement Patterns
+
+The quantitative methodology used to identify the top-mover satellites uses the sum of lifetime maneuvers as a proxy for unusual behavior. In addition to the number of maneuvers, the shape and pattern of maneuvers can also be unusual. This section examines the patterns of maneuvers by the top-mover satellites over their lifetimes and attempts to categorize the satellites based on their movement patterns.
+
+#### The Larks: Moving Communication Satellites
+
+Figure 3 shows the longitudinal position of ChinaSat-20A from the beginning of 2016 until mid-2024. The sawtooth pattern starting from around the second quarter of 2023 suggests that the satellite has lost control and is drifting outward toward a graveyard orbit. During its operational lifetime, it made one stair-step maneuver in mid-2019 and two stair-step maneuvers in the year before its death. These are the three maneuvers counted by the algorithm.
+
+ChinaSat-20A displayed a pattern that is not unusual compared to other communications satellites. In “A Survey of Longitudinal-Shift Maneuvers,” Roberts and Linares found that “satellites operated by Intelsat, SES, and Eutelsat—the three largest commercial operators in GEO . . . each performed a larger portion of all recorded maneuvers than the size of their fleets might suggest.” These communications satellites may shift longitude to adjust to user demand, change type of service, or meet International Telecommunications Union (ITU) “bring in to use” requirements. Since countries and companies may have access to a range of orbital slots, these shifts are often in compliance with ITU rules. Note that while this category only describes one satellite in this sample, many other GEO satellites display this behavior, and one can expect future Chinese communications satellites to exhibit this movement pattern.
+
+![image05](https://i.imgur.com/rE7v7Ug.png)
+_▲ __Figure 3: ChinaSat-20A Longitudinal Position, 2016–2024.__ Source: Author analysis of Space-Track.org data._
+
+#### The Skyliners: Hide and Seek
+
+Figure 4 shows the longitudinal positions over time of SJ-17, SJ-20, and TJS-3 in green, teal, and blue, respectively.
+
+![image06](https://i.imgur.com/l8kVFJp.png)
+_▲ __Figure 4: Skyliner Satellites Longitudinal Positions, 2016–2025.__ Source: Author analysis of Space-Track.org data._
+
+These three Chinese GEO satellites exhibit a history of frequent stair-step maneuvers throughout their lifetimes. They could be moving to park next to foreign communications satellites for signals intelligence purposes, but it is difficult to verify.
+
+Some communications satellites (the Larks, as described above) appear to execute stair-step maneuvers to service different regions, but those satellites do not move as much as any of these three Chinese satellites. The Larks demonstrate the fewest average maneuvers out of any movement pattern category.
+
+The movements of the three Skyliner satellites can be compared to Luch, a Russian satellite that Intelsat (now SES), France, and Germany have asserted is conducting maneuvers for the purpose of espionage. A senior European intelligence official has said that Russia’s Luch vehicles are “almost certainly intended to position themselves within the narrow cone of data beams transmitted from Earth-based stations to the satellites,” from which they could record unencrypted command data. This information could be exploited to hack the satellite’s command system or target ground stations.
+
+The longitudinal time series of Luch can be seen in Figure 5, overlaid in red over the SJ-17 longitudinal time series. During this time, both satellites were among the most frequently moving satellites in GEO, demonstrating significant delta-v capabilities through rapid longitudinal shifts.
+
+![image07](https://i.imgur.com/IZYtHNN.png)
+_▲ __Figure 5: SJ-17 and Luch Longitudinal Positions, 2016–2025.__ Source: Author analysis of Space-Track.org data._
+
+Although SJ-17, TJS-3, SJ-20, and Luch conduct longitudinal shift maneuvers frequently over their lifetimes, unlike Luch, the Chinese satellites frequently exhibit long periods of station-keeping behavior in between shifts in orbital position. In addition, while Luch was observed to loiter near European and U.S. satellites, early analysis of SJ-17 showed its closest neighbors as primarily other Chinese satellites. Further analysis is necessary to determine the purpose of SJ-17’s behavior pattern, and more broadly, if and how the Chinese Skyliner satellites’ missions are similar to those of Russia’s Luch series.
+
+#### The Drifters: Dark Forest Rangers
+
+Drifter patterns are characterized by slow, constant sweeps across a set longitudinal band. SY-12-01’s longitudinal series, shown in Figure 6, displays an archetypal Drifter pattern. It wanders across the Eastern hemisphere, starting at 94.25 degrees east longitude above western China and drifting further west to Eastern Europe, before flitting back eastward past Siberia and then switching directions to repeat the pattern.
+
+![image08](https://i.imgur.com/fXYo9RP.png)
+_▲ __Figure 6: SY-12-01 Longitudinal Position, 2021–2024.__ Source: Author analysis of Space-Track.org data._
+
+Figure 7 below shows the longitudinal time series for SY-12-01, SY-12-02, and SJ-23.
+
+![image09](https://i.imgur.com/Inbj9DO.png)
+_▲ __Figure 7: Drifter Satellites Longitudinal Positions, 2021–2025.__ Source: Author analysis of Space-Track.org data._
+
+These satellites all exhibit an alternating drift pattern, starting out moving eastward or westward and then drifting the opposite direction over a period of months. There is no obvious mission justification for this behavior, which is unprecedented for satellites in GEO. Unlike other GEO satellites, including those in the above categories, these satellites never station-keep at any longitude. Some experts consulted for this report suggested that they could be surveying all of the GEO satellites over Asia, possibly for intelligence or space situational awareness purposes. The latter is implied by CASC’s official statement of SY-12-01 and SY-12-02’s mission as “space environment detection.”
+
+There are also less-likely hypotheses for the purposes of the Drifters, including for signal triangulation and Earth observation. Both are possible, but could be done more easily by more diverse orbits in the first case or without continuous maneuvers in the second case. A signals intelligence mission is also possible.
+
+Notably, the following analysis suggests that these satellites are drifting rather than moving under electric propulsion. Figure 8 shows an excerpt of the time series of the semi-major axis of SY-12-02. The sharp adjustments of the satellite’s altitude (indicated by the black line) suggest its longitudinal shift maneuvers are a result of chemical propulsion to raise or lower the satellite’s orbit, since chemical propulsion can achieve greater acceleration than electric propulsion.
+
+The type of propulsion is significant because experts have noted that electric propulsion can be used to avoid detection by SSA networks. For example, in June 2024, Russian satellite Luch 2 was “flagged by Slingshot’s automated tracking system” for a “large maneuver.” While Luch 2’s propulsion mechanisms are not publicly known, the large delta-v involved in Luch 2’s rapid acceleration westward implies a chemical burn. Long, slow maneuvers, which could result from constant electric propulsion instead of bursts of chemical propulsion, could be used by adversaries to transit large portions of the sky without being flagged by SSA systems. While Drifter movement is comparatively slow and continuous, it can be explained by changes in altitude caused by chemical burns. Thus, the Drifters’ maneuvers are likely not an example of Chinese satellites specifically using electric propulsion to execute longitudinal shift maneuvers without being detected. Notably, of the eight PRC satellites highlighted in this report, only SJ-17 and SJ-20 have been specifically noted to be capable of electric propulsion.
+
+![image10](https://i.imgur.com/CAIBupR.png)
+_▲ __Figure 8: Longitude and Semi-Major Axis of SY-12-02, 2021–2024.__ Source: CelesTrak, [“Longitude of the Ascending Node & Semi-Major Axis [GP] 50322 / SHIYAN-12 02 *Sy-12 02”](https://celestrak.org/NORAD/elements/graph-geo.php?CATNR=50322)._
+
+SJ-21 presents an interesting case; while it displayed a classic Drifter pattern from early 2022 to mid-2024, prior to and since then it has moved in an unusual and unique way (see Figure 9).
+
+![image11](https://i.imgur.com/Q4UyWYX.png)
+_▲ __Figure 9: SJ-21 Longitudinal Position, 2021–2025.__ Source: Author analysis of Space-Track.org data._
+
+SJ-21’s January 2022 RPO with Compass G2 is visible in Figure 9 as a short, wobbly, eastward walk bookended by westward sprints. After about two years of Drifter-like movements, it displayed variable acceleration without any station-keeping from mid-2024 to July 2025. From July 2025 to January 2026, SJ-21 hovered unevenly between 125 and 129 degrees east. Further observation is necessary to fully understand SJ-21’s movement patterns.
+
+#### The Ink Spots: An Overture
+
+This category describes satellites whose behavior does not yet fit neatly into any of the above categories. Since its launch in January 2025, SJ-25 has not displayed any station-keeping or periodic drifting behavior. From January to June, it hovered unevenly between 118 and 122 degrees east longitude. From June 10 to 14, SJ-25 rapidly shifted to 127.4 degrees east (over eastern China), reportedly to rendezvous with and refuel SJ-21, which arrived at 127.6 degrees east on June 5 (see Figure 11).
+
+![image12](https://i.imgur.com/LfjZHkJ.png)
+_▲ __Figure 10: SJ-25 Longitudinal Position, January–July 2025.__ Source: Author analysis of Space-Track.org data._
+
+![image13](https://i.imgur.com/lb4WvkR.png)
+_▲ __Figure 11: SJ-25 and SJ-21 Longitudinal Positions, January–July 2025.__ Source: Author analysis of Space-Track.org data._
+
+As of January 2026, SJ-25 and SJ-21 are both between 127 and 128 degrees east, having stuck close since the conjunction. Their behavior continues to be watched by Western analysts.
+
+#### Behavior Patterns and Missions
+
+The table below lists the same data as Table 2 with the addition of the satellites’ patterns and stated missions, per their developers.
+
+![image14](https://i.imgur.com/8YzTptx.png)
+_▲ __Table 3: Key Chinese GEO Satellite Behavior Patterns and Missions.__ Source: Author analysis._
+
+Again, there does not appear to be a clear relationship between a satellite’s developer, movement pattern, RPO history, and officially stated mission. It does appear that ChinaSat-20A fulfilled its mission as a communications satellite, but this analysis cannot determine if it was purely civilian or if it had a military mission as well. Four satellites have “technology verification” in their stated missions, including all three Skyliners, which, though vague, appears to accurately describe their behavior. All of the stated missions appear to be truthful, at least in part, based on this analysis of their patterns of movement.
+
+
+### Conclusion
+
+While this report is not exhaustive, it provides a foundation for further exploration of the unusual behaviors exhibited by Chinese satellites in GEO. The author encourages close monitoring of emerging trends in GEO activity and identifies several avenues for potential follow-up research.
+
+#### What to Watch
+
+As on-orbit activity increases, several key developments will help analysts further understand how GEO activity is evolving.
+
+The Chinese government typically releases white papers on their space goals every five years; the most recent paper is “China’s Space Program: A 2021 Perspective.” The CCP has been effective at fulfilling these goals, which include space debris removal in the most recent edition. The CCP’s other technology test goals include “smart self-management of spacecraft,” mission extension, new forms of propulsion, in-orbit servicing, and maintenance. Thus, readers should closely examine open-source longitudinal position data for unusual movements that may indicate electric propulsion or on-orbit servicing behavior. Readers should also watch for the next edition of China’s space goals in early 2027.
+
+Additionally, reporting from SSA companies and amateur astronomers may catch unusual satellite movements too small to be captured by this report’s algorithm or Space-Track.org. For example, in August 2024, ExoAnalytic reported maneuvers by Chinese GEO satellites TJS-2 and TJS-4; neither of these objects were described in this report and their maneuvers were anomalous not for their size but rather for their acceleration and timing, respectively. In March 2025, LeoLabs captured five Chinese LEO satellites practicing RPOs together, which U.S. Space Force General Michael Guetlein described as “dogfighting in space.”
+
+Lastly, some analysts have suggested that the PLA is interested in developing smaller, stealthier RPO satellites. Current Chinese GEO satellites are very large—school bus-sized. Reducing the cross-sectional area would make future satellites harder to detect for radar and optical systems alike. In a conflict, both speed and stealth will be necessary for offensive satellites to quickly disable adversary satellites.
+
+#### Opportunities for Further Research
+
+This report aims to serve as a foundation for further open-source discussion and investigation into unusual satellite behavior in GEO. The author encourages future research to challenge and refine the analysis introduced in this paper.
+
+For example, the methodology section notes that the algorithm used to select satellites only reliably counts one type of longitudinal-shift maneuver, the stair-step maneuver. The movement patterns show there are multiple relevant types of maneuvers, so future studies should use alternate algorithms that can detect any type of shift maneuver. It would also be informative to calculate delta-v, a proxy for energy expenditure, for each maneuver. High delta-v maneuvers mean a satellite can change its trajectory quickly, which could be used to hide from or confuse space situational awareness systems. Additionally, a satellite’s ratio of wet mass to dry mass, if known, could suggest the frequency at which an operator intends to maneuver.
+
+It would also be informative to examine if there are correlations between the movements of Chinese satellites and other PLA activity. For example, would Skyliners move to follow Western communications satellites during a military exercise?
+
+Finally, the author believes that looking at the neighborhoods in which Chinese maneuvering GEO satellites pass through, maneuver, and linger will help ascertain the missions of these satellites. In GEO, there are neighborhoods where satellites cluster, some of which the CCP may want to monitor.
+
+
+### Appendix A
+
+___Technical Methodology___
+
+The satellite dataset includes all payloads registered to the PRC on Space-Track.org with an inclination of less than 0.15 degrees north or south and with an apogee and perigee within 200 km (124 mi) of 35,786 km (22,236 mi) (typical GEO). This dataset has 109 PRC GEO satellites. The dataset contains 130 satellites total, including 21 non-PRC active GEO satellites identified in Roberts and Linares’s 2022 study for comparison. These 21 satellites, as well as PRC satellites identified by the same paper (i.e., Chinese GEO satellites launched in 2021 or earlier), served as points of reference to (1) validate the results of this paper’s analysis and (2) provide more data for the eventual crafting of categories of behavior for active satellites.
+
+The positional data for each satellite cover the time period from January 1, 2016, to July 14, 2025. The data is then converted from raw two-line elements to longitude, latitude, altitude, and drift rate for each day.
+
+The algorithm begins by performing linear regressions at each time step of a GEO satellite’s longitudinal time series using longitudinal positions ranging from three days before the time step to three days after it. The slope and coefficient of determination (R²) are calculated for each regression. Next, the algorithm performs a sine fit at each time step using longitudinal positions ranging from one week before the time step to one week after it. The sine fit helps distinguish satellites’ natural oscillation from significant maneuvers; mean squared error (MSE) is used to quantify the quality of the fit.
+
+Then, using the slope, R², and sine fit MSE, the algorithm identifies time periods where the longitudinal time series for each series resembles a stair-step longitudinal shift maneuver.
+
+Generally, during a maneuver these values should all be nonzero (with the latter two between zero and one), while during station-keeping before and after a stair-step maneuver these values should all be very close to zero. During this process, the number of maneuvers during this nine-year period for each satellite was recorded.
+
+
+### Appendix B
+
+___Stair-Step Maneuver___
+
+These longitudinal shift maneuvers begin and end with station-keeping. In a chart showing a satellite’s longitude on the Y-axis and time on the X-axis, stair-step maneuvers appear as flat lines, followed by a linear slope, followed by another flat line. Figure B1 shows a two-year segment of Chinese GEO satellite TJS-3’s longitudinal time series in which it made three stair-step maneuvers, boxed in red.
+
+![image15](https://i.imgur.com/xYv7vRh.png)
+_▲ __Figure B1: TJS-3 Longitudinal Position, 2018–2020.__ Source: Author analysis of Space-Track.org data._
+
+The first stair-step maneuver began when the satellite, after station-keeping at about 60 degrees east longitude (over central Asia), initiated a chemical burn in May 2019. The satellite then moved east until early July 2019, when it initiated another chemical burn to stop its eastward momentum. It then station-kept at around 173 degrees east longitude (over Polynesia).
+
+---
+
+__Madeleine Chang__ serves as director of policy at the Satellite Industry Association (SIA), where she facilitates collaboration between the commercial space industry and the U.S. government to advance American space innovation for the public benefit. Her policy portfolio encompasses spectrum management, broadband connectivity, export controls, cybersecurity, and other critical domains. Prior to joining SIA, Madeleine conducted research on Chinese counterspace capabilities, orbital modeling, and global remote sensing markets as a Horizon Fellow with the Aerospace Security Project at the Center for Strategic and International Studies. Earlier, she worked as a software engineer with Lockheed Martin, developing satellite software for national security programs.
+
+__Kari A. Bingen__ is the director of the Aerospace Security Project and a senior fellow in the Defense and Security Department at the Center for Strategic and International Studies (CSIS). Her interests lie at the intersection of technology and policy, national and economic security, and the collaborative roles of the public and private sectors in advancing both. She previously served as the U.S. Senate-confirmed deputy under secretary of defense for intelligence and security. Prior to CSIS, Kari was the chief strategy officer at HawkEye 360, policy director on the House Armed Services Committee, and a space systems analyst supporting U.S. defense and intelligence agencies. In addition to her work at CSIS, Kari is passionate about “paying it forward” as an Adjunct Associate Professor at Georgetown University. She is a member of the U.S. National Intelligence University Board of Visitors and serves on a number of corporate and non-profit advisory boards.
