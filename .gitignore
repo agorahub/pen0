@@ -1,5 +1,5 @@
+Gemfile.lock
 _posts/
 _site/
-.*/
 /vendor
-.DS_Store
+.*

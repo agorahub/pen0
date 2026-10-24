@@ -1,0 +1,75 @@
+---
+layout: post
+title : Where Are We Now?
+author: Robert Midgley
+date  : 2026-04-10 12:00:00 +0800
+image : https://i.imgur.com/DfaUfNR.jpeg
+#image_caption: ""
+description: "The UK’s Chagos Islands “Deal”"
+excerpt_separator: <excerpt/>
+---
+
+_The next three weeks could change western security and the geo-political world forever if the Chagos “deal” passes through UK Parliament._
+
+<excerpt/>
+
+The battle for the Chagos Islands has been going on for decades. It is one of the biggest geo-strategic gambles of our age, which will set the course on Western foreign policy in the Indo-Pacific for centuries to come.
+
+Mauritius has waged a decades-long legal battle against Britain over the sovereignty of the Chagos Archipelago, a territory that was never constitutionally part of Mauritius but was administered by the British colonial authorities from Mauritius as a matter of administrative convenience – much like the Seychelles. Three years before Mauritian independence, in 1965, the UK reorganised these arrangements by placing the Chagos Islands within the newly created British Indian Ocean Territory (BIOT) and removing its inhabitants for a US base. Following a 2019 International Court of Justice (ICJ) advisory opinion asserting that this reorganisation was unlawful, the UK agreed in 2024 to hand the islands to Mauritius, notwithstanding the fact that the ICJ ruling was not binding on the UK.
+
+For decades, the battle has been sought in international courts, which the UK had held firm against, until recently. Behind the scenes, there has been intense lobbying from countries, entities, and individuals that have invested interests in the islands.
+
+Now that everything is to play for, the battlefield to save the Chagos Islands has opened to three key fronts: the UK Parliament, the US, and the Chagossians who have descended on the islands. There are many contributing factors to all three, but it is important to remember that the sovereign UK Parliament is where the battle will be won.
+
+
+### Still in Play
+
+The UK Government repeatedly says “but the deal has already been agreed”. But this is incorrect; the deal means nothing in the eyes of the law until the ratification process has taken place. Right now, the Bill sits in the House of Lords in the first “consideration of amendments” (ping pong) Stage. The House of Commons, due to its current huge Labour majority, previously rejected all the Lords’ amendments, and now it is awaiting for the text to come back from the Lords.
+
+A big question is when this may take place. With three weeks until the prorogation of the current Parliament, it is highly possible the Government may attempt one last time to push it through and take the public relations hit. However, there are many factors which stack against bringing it back at all.
+
+Since the last time the Bill was seen in Parliament, the political landscape has changed significantly. Baroness Chapman, the Minister of State for the Foreign, Commonwealth and Development Office, responded to House of Lords questions about the delay recently, saying “We continue to work closely with the US to ensure that the necessary arrangements are in place” – she refers to the 1966 Agreement, concerning the archipelago, with the US. Under this Agreement, the US recognises British sovereignty over the islands and secondly, it states that the US requires two years’ notice before any changes can be made to the existing Agreement.
+
+So far, the US has said “no” to any change on both accounts; the FCDO has been lobbying hard against the State Department and US entities to get this change made. So far, the US has held its ground and will unlikely agree given the current climate in the Indo-Pacific region as well as the wars in the Middle East, where Diego Garcia is proving to be essential despite the British delay in granting them permission to use it.
+
+In the US Congress, a Bill has been initiated by Senator John Kennedy, the Senator from Louisiana, which, if passed, would require full Senate approval before there are any changes to existing Agreements over the Chagos Islands. It will be worth keeping an eye on this development over the next few weeks.
+
+President Trump is also solidly against the deal after he was told Mauritius was informed of an imminent operation from Diego Garcia to strike Iran; thus blowing operational security. This was either the British side showing goodwill or sheer incompetence in informing Mauritius of operations as per the Treaty, which did not need to take effect until ratification. President Trump’s reaction is also mixed in with the soured personal relationship between him and Prime Minister Keir Starmer.
+
+If Prime Minister Starmer brings the Bill back to Parliament, the amendments which previously passed through the Lords, around the self-determination for Chagossians to have a say on the deal, would be re-raised; this time they would be significantly strengthened by the Chagossians who have landed on the islands and the BIOT Supreme Court Judgement which overturned Section 9 of the 2004 BIOT Constitution Order (which prevented resettlement). This gave a very clear signal that Chagossians exist as a unique culture and community and they are entitled to return to the islands. What this means in practice is that Peers would now find it more difficult to vote against the self-determination amendments. There is full support from the Conservative benches; they smell victory and have enforced a three-line whip. The Liberal Democrats, led by Lord Purvis, who himself put forward a measured referendum amendment, could be the King-makers in this battle, and the Labour Peers who do not like the deal, will struggle to justify any vote against the self-determination amendments. This is on top of the existing Labour manifesto which promises to protect the Overseas Territories and their right to self-determination.
+
+
+### The Cost
+
+Another aspect is the money the UK would pay Mauritius. When Starmer first announced the deal, he said it would cost £3.4bn over 99 years, but this was the lowest figure, based on clever accounting tricks, that the Treasury could issue for PR purposes – it did not take into account inflation and many other aspects. It left journalists in the room at Northwood scratching their heads over the numbers.
+
+The Conservative Party figured out with inflation it would cost around £37bn, and then the Taxpayers’ Alliance did another breakdown, taking into account some hidden costs which came to £47bn. Up until a week ago, there was no formal or legal writing on the cost, only government PR stipulation and calculations from NGOs. The groundbreaking moment was hidden in the court judgement about the Chagossians, by the British Indian Ocean Supreme Court. It did not need to release the figures, but it did, and the costings put the deal at over £50bn based on relatively simple maths – astronomically more than what had ever been discussed in Parliament. This in itself deserves an Urgent Question in the Commons.
+
+The last time there was an Urgent Question in the Commons, several MPs, including the Shadow Defence Secretary, accused the government of potentially misleading Parliament – with a formal letter going into the Commons Speaker from the Father of the House. The accusations were based around the initial reasoning for giving away the islands, because of an imminent ruling supposedly from UNCLOS, which the Defence Secretary, John Healey, said on 20 May 2025. However, after a series of written questions, it turned out that the UK abides by UNCLOS and has the power to veto any sovereignty rulings under Article 298 – which is a military exemption. To add, UNCLOS cannot make any sovereignty rulings, which was tested in 2015 when Mauritius tried to lay claim through them.
+
+
+### Governance in the Chagos Islands
+
+All these new additions make for uneasy reading in Mauritius, who were meant to have received the islands on 1 February 2026 – the money used to pull 80% of their population out of income tax. They had deals lined up with India to access mineral wealth. Their government is now on the brink of collapse after making all these promises which have fallen through. The Chagossian, Oliver Bancoult, who has been promised leadership of the islands in the future by Mauritius, is in fury after Misley Mandarin and five others landed on the island and refuse to leave. That they achieved more in a matter of weeks than what Oliver could do in the past decade, after the “Right to Abode” court ruling, must be making his clan regret the side they chose. The judge also did not invoke prerogative powers to remove Misley either, quashing the removal orders. In response, the BIOT Administration has ceased accepting permits to enter the Chagos Islands from vessels and Chagossians wishing to visit their ancestral home whilst they work out their legal position. There have been over 300 applications.
+
+Of course, most Chagossians have fled Mauritius after being intimidated and effectively discriminated against by the government there. Up until a few months ago, it was illegal, with ten years in prison to acknowledge the existence of British Indian Ocean Territory or “misrepresent Mauritian sovereignty”. Chagossians have been imprisoned, allegedly poisoned, and died through mysterious circumstances whilst in Mauritius – leading to a huge influx taking up British citizenship and fleeing to the UK.
+
+Mauritius has been steeped in corruption allegations, phones were hacked during negotiations, and the former Prime Minister’s home was raided by police – inside it, suitcases of cash, Rolex watches, and blank British visas. It has not found itself to be an ally of the West when it came out against the US striking the Islamic Republic of Iran, and was slow to respond when Iran fired missiles towards Diego Garcia.
+
+In 2015, the UK Government published a report by KPMG offering a solution to the Chagos Islands resettlement. It meant resettling Chagossians on the outer islands, correcting a historic injustice – building infrastructure to support them as well as keeping the base operational under British sovereignty. This would enable self-determination through a settled population which, through the eyes of the UN, could not be questioned. The Friends of the British Overseas Territories have now released a new version of this report saying how, in practice, resettlement would work and be economically viable, and the Chagossians who have landed on the islands lay the first steps in protecting the Chagos Islands. The price of this is a fraction of what is compared to the £50bn cost of giving the islands away and renting Diego Garcia back.
+
+Prime Minister Keir Starmer accused those who were against the deal of being allies of Russia and China. However, China and Russia are both gleefully watching this handover take place as the UK/US lose a foothold in the Indian Ocean, and their role in the lawfare in the UK in the last few decades has been significant. China is already steeped all over the Indian Ocean, with a funded port in Mauritius, a Chinese Smart City, and a flotilla of “fishing ships” waiting to pounce on the Chagos Islands.
+
+Be in no doubt, China, India, Mauritius and Russia all have invested interests in this incredibly precious British territory. Even our supposed allies in the EU have invested interests, as it emerged in the Telegraph that they have a fishing deal with Mauritius and are ready to send mega-trawlers into the world’s largest Marine Protection Area.
+
+There are three weeks remaining before the Bill to give away the Chagos Islands will fall by default and cannot be carried over. It could also fall during Double Insistence, if the Lords continue to “ping” it back to the Commons. It would be embarrassing if, in the King’s Speech, the words are uttered from the King’s mouth about ceding British territory to a third country – which has never held sovereignty over the Chagos Islands.
+
+There is intense lobbying on Peers from campaigners on both sides. The Mauritian side seems to be well-funded and, surprisingly, has some well-known figures behind it, most recently noted was Amal Clooney. There is without a doubt a lot more going on behind the scenes than the press lets on.
+
+With all these factors: the Chagossians, China, India, Iran, the US – it is hard to see how the UK Parliament with a moral conscience can bring back this Bill.
+
+My urge to Labour and the British government would be to allow the Bill to fall – engage with the Chagossians meaningfully and in their majority, who have spoken out in favour of remaining British. Take a step back and initiate the KPMG findings – by doing this, it corrects a historic injustice, ensures self-determination, protects Diego Garcia and the security of the West, all under British sovereignty.
+
+---
+
+__Robert Midgley__ is the Spokesperson and Head of Communications for the Friends of the British Overseas Territories and has been one of the campaign leaders against the Chagos Islands deal. He was a former Adviser in the FCDO and No.10 Downing Street, and also served in the Army Reserves.

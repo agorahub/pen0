@@ -1,0 +1,152 @@
+---
+layout: post
+title : WTO Ministerial Conference 14
+author: Angela Paolini Ellard and William Alan Reinsch
+date  : 2026-03-24 12:00:00 +0800
+image : https://i.imgur.com/leL22AI.jpeg
+#image_caption: ""
+description: "MC14: The “Turning Point Ministerial” to Strengthen the WTO and Advance U.S. Interests"
+excerpt_separator: <excerpt/>
+---
+
+_The 14<sup>th</sup> WTO Ministerial Conference (MC14) is scheduled for March 26–29 in Yaoundé, Cameroon. This paper summarizes the issues, suggests likely outcomes, and proposes some paths to the success._
+
+<excerpt/>
+
+The conference takes place at a moment when the organization and the rules-based trading system it upholds are under attack by many of its members and outside commentators. At the same time, no WTO member, including the United States, has seriously threatened withdrawal. Members still rely on WTO rules to govern most global trade. But each member, regardless of size, scale of economic power, level of development, or economic structure, is competing to shape the WTO’s future in its own image. Compromise is rare; rhetoric is high.
+
+The challenge at every ministerial conference is to move beyond prepared speeches and engage in genuine dialogue that produces substantive outcomes. It is always tempting to procrastinate and push actual decisions into the future, but sometimes groundwork must be laid by setting a clear path for future work. In those cases, a meaningful work plan may be the best attainable result given the divisions among the 166 members, turning the tide and leading ultimately to real reform.
+
+At the very least, ministers at MC14 must clearly articulate their differences and construct a consequential, measurable path for reconciling them. Experience shows that such outcomes require considerable political will—and inspired leadership—to produce such substantive outcomes. It remains to be seen whether that will and leadership will be present at MC14. This paper discusses the issues ministers will face—both those on the table and under the table—and suggests a strategy for a possible way forward.
+
+
+### What Are the Challenges Facing the WTO?
+
+The WTO has been under considerable stress for some time. While its members have successfully entered two multilateral agreements into force over the past decade—the Trade Facilitation Agreement and the Fisheries Subsidies Agreement—negotiators have so far been unable to meet other goals. These include concluding additional multilateral agreements as well as docking two important plurilateral agreements into the multilateral system: the Investment Facilitation for Development Agreement (IFDA) and the E-Commerce Agreement (ECA). Members rely on the dispute resolution mechanism to resolve disputes, but the absence of a functioning Appellate Body has caused a lack of finality for disputes appealed into the void. The most-favored-nation (MFN) rule still covers 72 percent of global trade, but discipline is eroding with respect to requirements to notify trade developments as well as unilateral non-MFN actions (many of them coming from U.S. tariffs and bilateral trade deals negotiated by the United States and other countries). As more members neglect their reporting obligations and take actions inconsistent with the fundamental WTO principles of MFN and national treatment, the rules-based system erodes, and the world faces a return to the law of the jungle that prevailed prior to the Great Depression.
+
+MC14 is taking place against a backdrop of that uncertainty, and many commentators question the WTO’s basic relevance. Reform of the organization is universally seen as essential, even existential. Accordingly, as described below, achieving a credible work plan on reform (particularly relating to the treatment of plurilateral agreements), plus a continuation of the e-commerce moratorium, should be how the WTO membership defines success at MC14.
+
+
+### What Role Is the United States Playing?
+
+The United States, which was a leader in creating the organization and its postwar predecessor, the General Agreement on Tariffs and Trade, has criticized the WTO on a bipartisan basis for many years, even while acknowledging its benefits. Actions that ultimately halted the functioning of the Appellate Body began in the Obama administration and continued into the first Trump administration. The Biden administration expressed support for the WTO, but it often disagreed with dispute resolution panel decisions that were adverse to U.S. interests and either appealed them into the void or ignored them.
+
+The second Trump administration took the positive step of nominating Ambassador Joseph Barloon to the WTO early in 2025, who is now in place in Geneva, but it paid only one year of membership dues, leaving 2025 and 2026 unpaid and thus unilaterally shrinking the WTO budget by over 11 percent. In addition, the Trump administration has loudly questioned the role and relevance of the WTO, particularly with regard to the emergence of trade issues related to economic security and technology competition, such as supply chains, critical minerals, semiconductors, overcapacity, distortions caused by nonmarket economies, and the rise of technology competition. At the same time, however, the Office of the U.S. Trade Representative’s most recent annual report describes its steady work at the WTO as well as the benefits it has achieved. And it has used its leverage in negotiating bilateral trade agreements to push trading partners to make certain meaningful concessions at the WTO, for example, winning a commitment from Indonesia to support the so-called e-commerce moratorium, which is the moratorium on the collection of electronic transmissions.
+
+
+### What Is the Biggest Issue Facing the WTO?
+
+The biggest issue facing the WTO is institutional reform. MC14 will mark the first time trade ministers have discussed reform of the WTO, a recognition that the time is ripe, even overdue. WTO members are working on what is hoped to be the centerpiece outcome for MC14: a WTO Reform Workplan for ministers to approve to provide guidance for trade negotiators for the period after MC14 up to MC15 in roughly two years. The draft work plan recently sent to trade ministers by the reform facilitator, Ambassador Petter Olberg of Norway, sets out the scope of work on three areas of focus: decisionmaking, development, special and differential treatment (S&DT), and level playing field issues. These topics encompass themes including the following:
+
+1. __Decisionmaking:__ rebuilding trust, improving efficiency and flexibility in decisionmaking, and integrating plurilateral agreements
+
+2. __Development:__ examining how to enable integration into global supply chains while ensuring appropriate “policy space,” making S&DT commensurate with the needs of developing countries, and improving technical assistance and capacity building for developing countries
+
+3. __Level Playing Field:__ identifying areas for work, improving transparency, and addressing concerns such as distortions from state intervention in the industrial sector
+
+The facilitator’s draft establishes timelines and checkpoints for the work to follow, with modalities to ensure transparency and the participation of all. At the same time, the United States is cautious about the draft, noting that reform must stem from a member-driven and bottom-up approach rather than a facilitator-led and top-down approach.
+
+It is important to note that MC14 was never intended to reform the WTO itself, but if the conference is to be deemed successful, it must create a credible, transparent, and accountable path beginning in April 2026 for members to achieve meaningful and substantive reform within a defined period.
+
+The Trump administration recently presented a paper outlining its goals for reform of the organization, including more transparency and accountability, reforming the concept of development, and rethinking the MFN principle. The United States also stated that certain issues are not appropriate for the WTO to address, relating to economic security topics such as overcapacity and supply chains. It recently submitted another paper, which details the systemic problems caused by the failure of WTO members to comply with their obligations to submit required notifications of their trade measures, which undermines transparency. That paper also expands on U.S. concerns about the link between MFN and reciprocity, calls for the use of objective criteria to determine eligibility for S&DT, supports finding a flexible pathway to incorporate plurilateral agreements into the WTO architecture, and demands an authoritative interpretation of WTO rules on the “essential security” exception.
+
+Those papers, as well as a later one submitted by the European Union, are being discussed in the context of the reform work plan. In addition, developing country members are weighing in. For example, the Africa, Caribbean, and Pacific (ACP) countries group seeks to ensure reform efforts do not replicate existing inequalities. “Reform that increases obligations without matching flexibilities and resources will risk widening the participation gaps for developing countries,” the coordinator for ACP countries, Barbados Ambassador to the WTO Matthew Wilson, recently warned. In addition, China, Paraguay, the Least Developed Country Group, the African Group, and the United Kingdom have submitted papers as well.
+
+
+### Key Elements of a Reform Agenda
+
+The overall reform agenda centers on a broad set of interrelated issues—from the future of the MFN principle and the role of plurilateral agreements to decisionmaking processes, S&DT, and dispute settlement—that will shape how the WTO adapts to a changing global economy.
+
+#### MFN Principle
+
+The MFN principle, which essentially establishes that a concession given to one must be given to all, was intended to prevent trade fragmentation and promote trade liberalization, both of which are considered important in preventing future wars. WTO rules provide exceptions to the principle, albeit with limitations, including preference programs for developing countries, S&DT for developing countries, and the essential security exception.
+
+Another exception is that bilateral, regional, and plurilateral trade agreements outside the WTO are permitted under WTO rules if they include “substantially all trade” among the participating parties. For decades, many members have sought to conclude such agreements to advance their economic interests, often because they are more ambitious than multilateral agreements, which require consensus among the membership. While there has been a concern that the “substantially all trade” condition is not always honored, WTO members have rarely objected to agreements that may not meet that standard.
+
+The Trump administration has taken such agreements a step further by imposing differential tariffs on a country-by-country basis and concluding bilateral negotiations to resolve outstanding bilateral issues, increase purchases of U.S. products, reach investment commitments, and address concerns over distortions created by nonmarket economies, particularly China.
+
+Other countries continue to conclude their own agreements, such as the India–European Union Free Trade Agreement, the European Union–Mercosur Partnership Agreement, and the expansion of the Comprehensive and Progressive Agreement for Trans-Pacific Partnership to include the United Kingdom.
+
+One reason for the trend in negotiating outside the WTO is the growing realization that the WTO rulebook has not kept up with changes in the global economy, with the main challenge being policies that create comparative advantage through a combination of nonmarket economy practices, subsidies, protection, and some degree of other government direction. In addition, the emergence of economic security challenges and new issues in connection with the governance of technology, including AI, are also drivers. The United States describes China as the chief culprit in creating distortions, arguing that China’s policies have led to enormous overcapacity in numerous sectors, threatening the viability of manufacturing in an increasing number of countries. WTO rules permit measures to counteract some such tactics, but as presently configured, they provide relief too little too late and do little to persuade offending countries to change policies.
+
+While 72 percent of global trade is still covered by MFN rules, questions are being raised about its relevance. Both the U.S. and EU reform papers argue for moving away from the concept of MFN as it now exists, with the United States arguing that it should be able to treat different members differently and that a one-size-fits-all approach is inappropriate. The U.S. approach would emphasize reciprocity over MFN. Even the European Union, until recently an unequivocal defender of MFN, raises questions about MFN in its recent paper. It notes that the WTO was initially negotiated to provide liberalization and to encourage development, but as many countries developed, they did not continue liberalization. The European Union further notes that while Article XXVIII of the WTO rules permits a renegotiation of tariffs, the process is too cumbersome and slow, and thus, discussion in the context of WTO reform is needed.
+
+At the same time, many WTO members, including China and the smaller or less-developed economies, state their unwavering commitment to MFN. And even in the United States, the future of MFN is debated, with Senator Ron Wyden (D-OR) and other leaders in Congress supportive of maintaining MFN, noting as well that the concept is incorporated in U.S. law.
+
+While MFN may not be formally on the agenda, these differences of view make its future the elephant in the room, coloring the discussions even if remaining unresolved.
+
+#### Treatment of Plurilateral Agreements
+
+A second issue is the treatment of plurilateral agreements within the WTO, which include some, but not all, WTO members. Plurilateral agreements can be “open,” in which the benefits—usually lower tariffs—are available on an MFN basis (i.e., to all), or “closed,” where the benefits accrue only to those participating in the agreement. The Information Technology Agreement is an example of the former, and the Government Procurement Agreement is an example of the latter.
+
+Other plurilateral agreements that have been recently concluded are the IFDA (over 75 percent of WTO members, including 90 developing members) and the ECA (72 members). The participating parties want them incorporated into the body of the WTO rulebook, which requires consensus by the membership, even though the obligations of these agreements would not be imposed on non-signatories. The United States, the European Union, and most members (including developing members) support the notion that plurilaterals—essentially coalitions of the willing—are permitted under WTO rules.
+
+However, India has objected to the incorporation of plurilaterals, arguing that the WTO mandate permits only multilateral agreements agreed to by the full membership. In a positive development, South Africa recently lifted its objection, leaving India as the sole ideological objector, with Türkiye raising substantive questions about the definition of covered investment in the agreement. While India, in opposing the negotiation of plurilaterals on principle, is under intense pressure to reconsider, it shows no signs of relenting.
+
+What makes this stalemate particularly frustrating is that the difficulty in concluding new multilateral agreements means that a plurilateral approach may, for the moment, be the only way to continue the process of mutual trade liberalization and opening markets. Of course, for trade purists, it is decidedly Plan B because not all WTO members are covered, but the demonstrated inability to implement Plan A thus far leaves it the best choice.
+
+Expect the future of plurilaterals to be a key focus of ministers at MC14, both concerning the IFDA and ECA, as well as a matter for decisionmaking reform.
+
+#### Decisionmaking by Consensus
+
+The dilemma of incorporating plurilaterals illustrates the next issue—the WTO’s decisionmaking process. Although WTO rules permit voting, the organization has always operated by consensus, meaning no objections. Unanimous support is not required, only no opposition. As the WTO has grown to 166 members, achieving consensus has become increasingly difficult. While most members would agree that the current system makes reaching agreements increasingly challenging, the membership does not support abandoning consensus decisionmaking, as the reform facilitator recently noted. Indeed, most members see voting as disadvantageous. Other approaches, like “responsible consensus,” opt-outs, and consensus minus one (or two), are circulating, particularly relating to the adoption of plurilaterals, but of course, implementing them would require consensus, or at least lack of objection. The draft MC14 reform workplan includes discussion on this topic to explore how to build trust among members and whether there should be ways to make the concept less rigid and more flexible, while addressing concerns of developing members.
+
+#### S&DT
+
+The fourth issue is how to deal with the concept of “special and differential” treatment for developing countries, which either excuses them from obligations or gives them more time to implement them. Many developing members see S&DT as a “treaty-embedded right.” Complicating the matter is that each member is allowed to self-define whether it is a developing country, which means that some members have claimed the status even though they are not objectively entitled to it. China stated in late 2025 that it will continue to consider itself a developing country but will not avail itself of S&DT for any ongoing or future negotiation, but it is not clear how that promise would be enforced. While there may be some sympathy for an objectively determined definition, other members strongly oppose that position, making agreement challenging. The dilemma is that drawing a line, regardless of where it is, inevitably leaves some members on the wrong side, in their point of view. Self-definition has been a convenient way to avoid the dilemma, but the willingness of some members to take advantage of it makes the case for reform.
+
+Many members focus instead on the need for “targeted” and “needs-based” S&DT. However, here too, some developing members are concerned about losing benefits, particularly in a world in which supply chain uncertainty, the race for technological dominance, and critical mineral vulnerabilities create both challenges and opportunities for development.
+
+WTO reform must address this fundamental issue, which colors all aspects of the WTO’s work.
+
+#### Future of the Appellate Body
+
+There has been much discussion about the future, if any, of the Appellate Body. While U.S. action to block appointments of Appellate Body members was the proximate cause of its demise, many other members were unhappy with its performance, although not always for the same reasons. Debate has featured a diversity of views, ranging from permanently abolishing it to reconstituting it with some modest tweaks, with numerous variations between the extremes.
+
+The question of dispute settlement reform is on a separate track from the overall reform effort, and the membership is looking to the United States to take the lead on next steps, if and when it is ready. This topic is not expected to be directly addressed at MC14, though there will certainly be sidebar conversations about it among the ministers. The draft workplan establishes dispute settlement reform on a separate track, under the auspices of the Dispute Settlement Body, instead of the General Council.
+
+#### The Essential Security Exception
+
+In its most recent paper, the United States reaffirms its belief that members should agree to an authoritative interpretation of WTO rules to clarify the understanding of the “essential security” exception to WTO obligations. This authoritative interpretation, in the U.S. view, should state that each member determines for itself whether an action it takes is necessary to protect its essential security interests, and that invocation would not be reviewed by dispute settlement adjudicators.
+
+Many other members view the U.S. demand as fundamentally undermining WTO rules because it would make it easier for members to simply step aside from their obligations. While the United States is isolated in its position as of now, it is unlikely to back down from what it considers to be a fundamental right of sovereigns. It remains to be seen when and how this discussion will be folded into the reform debate, including dispute settlement reform.
+
+
+### What Other Issues Will Be on the Table?
+
+Alongside core reform debates, members are also grappling with a set of pressing, issue-specific negotiations, which will test the WTO’s ability to deliver concrete outcomes at MC14.
+
+#### E-Commerce and the Moratorium
+
+Many members, including the United States, support permanently (or indefinitely) extending the moratorium on customs duties on electronic transmissions, which now expires at MC14. Others support a temporary, time-bound moratorium, either until MC15 or MC16. And some developing members, notably India, have been reticent about agreeing to any further extension.
+
+Traditionally, this debate burns considerable oxygen at every ministerial because that is when the moratorium expires. Obtaining an extension has long been fraught with drama, as reluctant members hold out until the last moment, often surrendering only after obtaining concessions on other matters.
+
+After MC13 in 2024, the extension of the moratorium at MC14 was widely seen as unlikely because of perceived U.S. reluctance to fight for it again. But there is newfound momentum now as the Trump administration seeks to renew it indefinitely. In addition, the United States used its recent bilateral trade agreement with Indonesia to obtain the commitment of that long-time skeptic to a permanent moratorium. Given that the United States is pursuing such an indefinite extension instead of just two years, with some others responding with a four-year extension, the dynamics in favor of extension, perhaps even beyond the usual two years, have improved.
+
+Failing to obtain at least a two-year extension would be a significant failure for the WTO and for the United States as well. More than a few observers have noted the irony that the Trump administration, which has pulled out of many multilateral institutions and attacked others, now recognizes that the moratorium cannot be imposed or maintained unilaterally and that it must work within the WTO to continue it. One useful outcome of MC14 might be that it demonstrates the relevance of the WTO to the skeptics.
+
+Linked to the moratorium is the parallel expiration of the Work Programme on E-Commerce (WPEC), a key priority for developing countries in obtaining assistance to bridge the digital divide and to build policies allowing them to benefit from digital trade. Switzerland and several other members have proposed converting the WPEC to a permanent standing Committee. The resolution of this issue is likely to match the outcome of the moratorium.
+
+#### Other Issues
+
+The other substantive issues faced by the members include fierce debate over a work program on agriculture, where negotiations have long been stalled. Members are also working on outcomes with respect to least developed country members. In addition, members have been slow to establish important disciplines on fisheries subsidies in addition to what was included in the Agreement on Fisheries Subsidies (AFS). Adding to the urgency is that the AFS will expire in September 2029 if there is no agreement on those additional disciplines.
+
+
+### What Might a Successful MC14 Look Like
+
+The issues ministers will deal with are complicated and controversial, and they will not be easily resolved, and perhaps ultimately cannot be resolved at all, despite a growing feeling that they need to be if the WTO is to thrive.
+
+Accordingly, MC14 is a watershed moment for the WTO to lay the foundation for reform. To be successful, members must dispense of the notion of supporting change only as long as it happens to someone else. Now is the time for leadership—to build coalitions not just with like-minded members, but to compromise with those who disagree. Many members have looked to the United States to provide that leadership. But it can be difficult for large economies to lead at the WTO because there is always the risk of stirring resentment among the smaller economies who feel pushed around—in a system that relies on consensus, that can be fatal. Over time, the U.S. has developed the art of “leading from behind”—letting other, usually smaller, countries take the public lead while remaining in the background, although still engaged. MC14 presents a good time to resurrect that practice.
+
+At the same time, members usually look to the large economies for leadership, even though they may resent doing so. The United States and the European Union can seize on that opportunity by building on the elements of the U.S. and EU papers that are similar. They can challenge China together as the country that presents itself as the most supportive of a rules-based system, insisting that China translate its rhetoric into action by identifying areas where it can join the United States and the European Union. In addition, the middle power members are demonstrating the will and ability to think constructively and provide leadership. And addressing the specific needs of developing members facing significant challenges in navigating the economic landscape would go a long way to building essential trust, as long as they also take responsibility.
+
+MC14 has long been seen by WTO members as the opportunity for ministers to lay the foundation for future reform discussions rather than to arrive at major agreements to settle outstanding issues. While some critics might be frustrated by the slow pace, that is the reality of a member-driven organization of sovereign governments. What is new at this moment is the palpable acknowledgment by most WTO members that the WTO is at a critical turning point.
+
+Success at the ministerial will be defined by whether ministers are able to set a trajectory for reform (including the future of plurilaterals) and also extend the e-commerce moratorium. If they cannot do that, they would unquestionably be seen as having failed, undermining the structure of the rules-based economic order and leading to a fragmentation that benefits no one. Success is in the hands of the WTO members and their ministers. Failure is simply too great a cost to bear.
+
+---
+
+__Angela Paolini Ellard__ is a senior adviser (non-resident) with the Economic Security and Technology Department at the Center for Strategic and International Studies (CSIS) in Washington, D.C. She served as deputy director–general of the WTO from 2021 until 2025.
+
+__William A. Reinsch__ is senior adviser and Scholl Chair emeritus with the Economics Program and Scholl Chair at CSIS.

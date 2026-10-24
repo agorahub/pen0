@@ -1,0 +1,113 @@
+---
+layout: post
+title : China Risks In UK Universities
+author: Masashi Umehara
+date  : 2026-03-27 12:00:00 +0800
+image : https://i.imgur.com/nSmInMY.jpeg
+#image_caption: ""
+description: "Who Pays the Price for Managing China-Related Risks in UK Universities?"
+excerpt_separator: <excerpt/>
+---
+
+_The UK should reduce universities’ operational cost and compensate them balancing national security interests against foreign interference._
+
+<excerpt/>
+
+Since the autumn of 2025, the UK has seen heightened attention on Chinese espionage cases with potential direct implications for national security. There was the dropped prosecution of a former parliamentary researcher over the provision of information to China. Chinese recruitment activities targeting staff within the legislature and government agencies also came to light. As a result, MI5 has issued formal warnings to the UK Parliament and these risks have become widely recognized.
+
+As highlighted in a statement by the Director-General of MI5 in October 2025, similar vigilance is required in the academic sphere, where Chinese espionage cases and other influence operations must also be carefully monitored.
+
+In November 2025, the UK announced a policy to promote scientific and technological cooperation with China, targeting four areas – climate and environment, planetary science and astronomy, health and agriculture – as fields from which both countries could benefit. Then in early February 2026, MI5 reportedly called over 70 vice-chancellors together to put them on guard against “hostile states” attempts at intimidation and censorship. Taken together, this is representative of the common challenge faced by Western countries: how to balance the risk/reward implications of cooperation with China?
+
+Because the national security of Western countries requires both the capabilities provided by advances in science and technology and the values and norms provided by the humanities and social sciences, governments must manage “orderly cooperation” with China in both fields. Currently, the burdens associated with this challenge fall disproportionately on the universities. As the actors responsible for implementing risk management in this area, universities not only have to deal with ambiguous guidance on how to deal with this challenge; they also end up shouldering the operational and financial costs arising from the management of national security requirements.
+
+
+### Chinese-Related Risks Faced by Universities in Western Countries
+
+When universities in Western countries seek to advance cooperation with China, they need to focus primarily on managing the following risks.
+
+Many of these risks have already moved beyond hypothetical concerns and have been manifested as concrete incidents.
+
+Pressure on research that is inconvenient for the Chinese government. This risk can be seen in a case where research on Chinese ethnic minorities came under pressure. According to a statement by an Associate Professor at UCL (University College London), published by the UK Parliament in February 2025, a Chinese student submitted a complaint to the university’s EDI (Equality, Diversity and Inclusion) officer, claiming to have suffered “mental distress” because the professor described the situation in the Xinjiang Uyghur Autonomous Region as “modern slavery”. Although the student’s behaviour did not exhibit any sign of “mental distress”, the university instructed the professor to change the curriculum, considering the university’s reputation among Chinese students and its commercial interests.
+
+In another case in November 2025, it was revealed that a professor at Sheffield Hallam University who was conducting research on the relationship between forced labour in Xinjiang and global supply chains, had been ordered by the university to halt their research following pressure from Chinese authorities. Such pressure on the university reportedly began around 2022. It included blocking access to the university’s website from within China, an act which had a “clear negative impact” on the recruitment of Chinese students. It was also reported that staff from China’s MSS (Ministry of State Security) visited the university’s Shanghai office and applied “direct pressure”.
+
+This risk can lead researchers in Western countries to avoid research that is inconvenient for the Chinese government, resulting in “self-censorship”.
+
+However, in each of these cases, it must be emphasised that universities are primarily responsible for upholding the principle of academic independence. Complaints from students who may be discomforted by ideas different to their own do not justify narrowing the scope of academic enquiry, and no university should accept money that comes with such conditions on teaching and research.
+
+
+### Influence on Neutrality through Exclusive Funding
+
+This risk arises when Western universities are influenced to produce information in line with Chinese government positions through funding that is provided exclusively by individuals or organizations close to Chinese authorities.
+
+According to a report published by UK China Transparency in July 2024, the Lau China Institute at KCL (King’s College London) is the largest China-related research institute in the UK receiving “substantial donations” from individual connected to the Chinese United Front Work Department.
+
+In response to media inquiries from the United States regarding this report, KCL stated in August of the same year that “all institutes operate independently of donors and that the donations do not influence the focus of the research conducted by the institutes”.
+
+Although it is impossible to identify a direct cause-effect relationship between exclusive funding and academic objectivity, controversy arising from a lack of transparency over the relationship between funding and research output can constitute a reputational risk for universities and may also affect the legitimacy of the knowledge base underpinning policy making, including areas related to national security.
+
+
+### Unintended Transfer of Dual-Use Technologies
+
+This risk arises when researchers affiliated with Western universities are recruited by Chinese research institutions through state‑led talent recruitment schemes – such as the “Thousand Talents Plan” and its successor programs – and technologies with potential military applications are transferred.
+
+Around 2019, when this issue began to receive extensive media coverage, particularly in Japan and the United States, the Chinese government largely stopped using the label “Thousand Talents Plan”. Nevertheless, it has continued to promote multiple similar talent recruitment schemes, including the “Qiming Plan”, and is reportedly still recruiting Western researchers working on sensitive technologies such as semiconductors.
+
+Among Western countries, some, like Japan, constitutionally guarantee freedom of career choice, making such recruitment and participation legal. In other regions, such as Taiwan, recruiting high-tech personnel without government permission is illegal. Therefore, there is no single view on recruitment even among liberal democracies.
+
+Ultimately, the transfer of dual-use technologies developed at a university to competing universities through recruitment can undermine competitiveness and the transfer of dual-use technologies to Chinese universities could contribute to national security risks in the future.
+
+
+### Measures to Address China‑Related Risks Faced by Western Universities
+
+The China‑related risks confronting universities in Western countries are structurally complex, arising from the interplay of diverse actors, intentions and channels both inside and outside the institutions.
+
+As a result, it is difficult for a university alone to accurately grasp the full picture and implement effective measures. When a university strengthens its risk management in response to national security requirements, the operational and financial costs tend to fall disproportionately on the universities themselves.
+
+“Governments of Western countries should play a role in helping universities manage China‑related risks by reducing operational costs and compensating financial costs.”
+
+
+### Reducing Operational Costs
+
+First, taking the UK case in November 2025 introduced above as a reference, governments of other Western countries should designate fields in which the “pursuit of practical benefits” in technological cooperation with China is permitted, considering each country’s circumstances.
+
+By explicitly distinguishing between “permissible fields” and “restricted fields” for technological cooperation with China from a national security perspective, universities can secure the legitimacy of international collaboration in permissible fields and plan long-term research projects, while focusing their due diligence and technical guidance efforts on researchers in restricted fields.
+
+Moreover, to enable universities to conduct effective due diligence, the expertise of intelligence and security services should be fed back to universities in addition to guidance from the ministries overseeing them.
+
+Currently, the UK operates a system called the ATAS (Academic Technology Approval Scheme), which requires certain foreign nationals to apply when studying specific sensitive technology related fields that are relevant to national security.
+
+Meanwhile, Japan has regulations requiring the submission of an Application for Certificate of Eligibility when obtaining a visa. Based on this document, relevant government ministries conduct a review as part of the basic process.
+
+However, it is difficult to say that this system is functioning adequately. In fact, in April 2025, Japan’s House of Councillors’ Committee on Foreign Affairs and Defence expressed concerns over deficiencies in due diligence on Chinese students and researchers in Japanese universities. The committee pointed out that 15 national and public universities had vice presidents of foreign nationality, some of whom had backgrounds including attendance at China’s “The 7 Sons of National Defence”, joint research with the People’s Liberation Army, or concurrent positions at Chinese local governments or universities. It was also pointed out that in 18 national and at least 5 private universities, there were recipients of the CSC (China Scholarship Council) scholarships who were obliged to report their research to the Chinese government.
+
+Based on this example, intelligence collected and analysed by security services should be provided to universities for information that would otherwise be difficult for them to obtain, such as identifying CSC recipients obligated to report their research to the Chinese government.
+
+Combining measures such as “clear delineation of technical fields” and “provision of intelligence as decision-making support” is crucial to allow governments to assume in advance the operational costs that universities currently bear alone.
+
+
+### Compensating Financial Costs
+
+A number of universities in Western countries are financially dependent on China. For example, according to an analysis by the Financial Times based on data from the UK’s HESA (Higher Education Statistics Agency), the Russell Group – a coalition of 24 research-intensive public universities in the UK – relied on tuition fees from Chinese students for approximately 10% of its revenue in 2023–2024. For universities with limited discretionary income, such as tuition fees, 10% represents a significant portion – equivalent to approximately $3.3 billion. Moreover, the Russell Group universities excel in research, education, employment outcomes and international reputation, making them high-value targets for pressure from China, with vulnerabilities that allow China to exert political leverage over sensitive research topics.
+
+A similar situation can be observed in New South Wales, which hosts some of the Group of Eight – the universities leading research and development in Australia. According to a 2024 report by the NSW audit office, tuition fees from Chinese international students accounted for 16% of total revenue across the state’s 10 universities – equivalent to approximately $2.3 billion.
+
+To offset such vulnerabilities, governments should establish systems to compensate universities for financial costs arising from reductions in Chinese students or interruptions to joint research caused by political measures from China linked to diplomatic issues.
+
+Such government compensation should not be unconditional; it should be contingent on universities being required to take specific risk-management measures in line with national security requirements. These measures include constructing a diversified portfolio of external funding and conducting due diligence on Chinese students and researchers, both to certain extent, including assessments of potential involvement in military-related research.
+
+With such systems in place, universities gain incentives to actively manage national security-related risks while being able to pursue academic freedom fairly and openly, without fear of financial loss due to politically motivated Chinese intervention.
+
+Of course, in the long term, China’s declining birth-rate, India’s rise as a source of international students and stricter immigration controls could reduce dependence on China.
+
+However, such structural adjustments are gradual and uncertain. In the meantime, universities remain exposed to financial risk arising from sudden political or diplomatic tensions. Therefore, compensation measures for financial costs as an immediate risk hedge warrant full consideration.
+
+
+### Conclusion
+
+Regarding the management of China-related risks in universities, despite being a matter of national security, individual universities have been shouldering practical and financial costs unilaterally. To address this, it is essential for governments to take the lead in assuming operational costs in advance while providing a system to compensate financial costs as a safety net – a combination that is not only more fair, but also likely to be more effective.
+
+---
+
+__Masashi Umehara__ is a Visiting Fellow at RUSI.
