@@ -3,7 +3,7 @@ layout: post
 title : "《邊緣主權：澳門與中國性問題》"
 author: "【明報文章】"
 date  : 2026-01-14 12:00:00 +0800
-image : https://i.imgur.com/NZ9aUo8.jpeg #https://i.imgur.com/EaE5tOw.jpeg #https://i.imgur.com/MfYlbd1.png
+image : https://i.imgur.com/NZ9aUo8.jpeg
 #image_caption: ""
 description: "澳門的「中葡交匯」敘事，值得深思——訪《邊緣主權：澳門與中國性問題》作者及譯者"
 ---
@@ -16,11 +16,11 @@ description: "澳門的「中葡交匯」敘事，值得深思——訪《邊緣
 
 《邊緣主權：澳門與中國性問題》（Sovereignty at the Edge: Macau and the Question of Chineseness）一書正好討論了這些問題。在中文版譯本（香港大學出版社出版）問世之際，我與本書作者雷凱思教授和譯者關俊雄一起，討論這段對今天澳門而言不可或缺的歷史。
 
-■答————雷凱思（Cathryn H. Clayton）（《邊緣主權：澳門與中國性問題》作者，現任美國夏威夷大學馬諾阿分校亞洲研究系副教授）
+- 答——雷凱思（Cathryn H. Clayton）（《邊緣主權：澳門與中國性問題》作者，現任美國夏威夷大學馬諾阿分校亞洲研究系副教授）
 
-■答————關俊雄（《邊緣主權：澳門與中國性問題》譯者，南京大學歷史學學士、碩士，長期從事澳門歷史文化研究）
+- 答——關俊雄（《邊緣主權：澳門與中國性問題》譯者，南京大學歷史學學士、碩士，長期從事澳門歷史文化研究）
 
-■問————吳明軒（加拿大麥基爾大學社會學系博士生）
+- 問——吳明軒（加拿大麥基爾大學社會學系博士生）
 
 
 ### 從澳門視角去理解澳門

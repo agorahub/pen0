@@ -3,7 +3,7 @@ layout: post
 title : "嘴上不老實，身體超誠實"
 author: "東加豆"
 date  : 2026-01-15 12:00:00 +0800
-image : https://i.imgur.com/xrR9IYf.jpeg #https://i.imgur.com/r6fsjRt.jpeg #https://i.imgur.com/8D207pF.png #https://i.imgur.com/bsKTfEM.png
+image : https://i.imgur.com/xrR9IYf.jpeg
 #image_caption: ""
 description: ""
 ---
